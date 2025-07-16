@@ -1,0 +1,1824 @@
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+
+
+
+
+
+        <title>Aberdeen Standard Asia Focus PLC</title>
+            <meta name="description" content="Aiming to maximise total return  over the long term from a portfolio of predominantly smaller quoted companies in Asia and Australasia, excluding Japan." />
+
+
+
+
+
+<link rel="shortcut icon" sizes="32x32" href="/-/media/abrdn/Favicon/favicon-32x32">
+
+
+
+
+
+    <script>
+        dataLayer = [];
+    </script>
+    <!-- Google Tag Manager -->
+    <script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+				new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+			'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-NNJ2T2');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Latest compiled and minified JavaScript -->
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Material+Icons&ts=637715441962500000" rel="stylesheet" />
+<link href="/styles/app.bundle.css?ts=637715441962500000" rel="stylesheet" />
+<link href="/styles/investment-trust.bundle.css?ts=637715441962500000" rel="stylesheet" />
+
+    
+<meta name="VIcurrentDateTime" content="637716159278539012" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.0.0.js"></script>
+    <script src="/Scripts/jquery.bemhelpers.js"></script>
+        <script type="text/javascript">
+    </script>
+<script src="https://aberdeen-asset.kulu.net/widgets/application.js"></script><script>
+        </script>
+        <style>
+    #keyPeople1 .tabs a.active{
+border-width:5px 5px 0px 5px;
+border-style:solid solid none solid; 
+border-color: #555;
+padding-bottom:27px;
+
+background-color:#952d98;
+color:white;
+}
+
+#keyPeople1 .tabs a:not(.active){
+border-width:5px 0px 5px 0px; 
+border-style:none solid solid solid; 
+border-color: #555;
+padding-top: 27px;
+background-color:rgb(238, 238, 238);
+color: rgb(51, 51, 51);
+}
+
+#keyPeople1 .row:nth-child(3) > div > div{
+border-width:0px 5px 5px 5px; 
+border-style:solid; 
+border-color: #555;
+}
+
+#keyPeople1 .bg-white{
+background-color:#952d98;
+}
+
+
+#keyPeople1 #box-grid-1{
+background-color:rgb(255,255,255);
+}
+
+
+#keyPeople1 #box-grid-2{
+background-color:rgb(255,255,255);
+}
+
+
+#keyPeople1 #box-grid-3{
+background-color:rgb(255,255,255);
+}
+
+
+#keyPeople1 #box-grid-4{
+background-color:rgb(255,255,255);
+}
+
+
+
+        </style>
+        <style>
+    /*KR Import font styles*/
+@import url("https://prd-cdn.aberdeenstandard.net/-/media/files/styles/abrdninvestmentsstylingmin");
+@import url("https://prd-cdn.aberdeenstandard.net/-/media/files/styles/inv-trusts");
+
+
+@font-face {
+  font-family: SharpSansMedium;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/styles/fonts/sharpsansdispno1-medium.woff2) format("woff2"),
+    url(/styles/fonts/sharpsansdispno1-medium.woff) format("woff");
+}
+
+@font-face {
+  font-family: SharpSansSemibold;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/styles/fonts/sharpsansdispno1-semibold.woff2) format("woff2"),
+    url(/styles/fonts/sharpsansdispno1-semibold.woff) format("woff");
+}
+
+
+/* with old nav */
+<!-- Add font awesome for the My Account navbar item -->
+</style>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<style>
+<!--  -->
+
+@media screen and (max-width: 991px) {
+  body {
+    padding-top: 65px;
+  }
+}
+
+.divider--purple {
+    background: #000;
+}
+
+.hero .rating {
+  display: none;
+}
+
+.highlight, .search-suggestions__highlight, .table>thead>tr>th {
+  color: #00205b;
+}
+
+.menu__line {
+    background: #000;
+    background-image: linear-gradient(270deg,#000,#000);
+}
+
+.icon-chevron-previous {
+    background-size: 412px 460px;
+}
+
+.nav-wrapper:before {
+    background-image: linear-gradient(270deg,#000,#000);
+}
+
+.menu, .navigation-primary__link.navigation-primary__link--active, .navigation-primary__link.navigation-primary__link--overview, .navigation-primary i, .navigation-search, .navigation-settings__link {
+  color: #000;
+}
+
+.menu:focus, .menu:hover {
+  color: #000;
+}
+
+.btn.btn--white {
+  color: #000;
+}
+
+a, strong {
+  font-family: 'SharpSansSemibold', Arial, sans-serif;
+}
+
+.box-grid-style-3 a.trigger:after, .box-grid-style-3 a.trigger:before {
+  background: #000;
+}
+
+.bg-secondary {
+  background: #00205b;
+}
+
+        </style>
+</head>
+<body class="body--has-headerv2 " data-numbers-locale=""
+      data-date-localised-code="">
+		<!-- Google Tag Manager (noscript) -->
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNJ2T2"
+			height="0" width="0" style="display: none; visibility: hidden"></iframe>
+</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+    <script type="text/javascript">
+        var bemSettings = [];
+    </script>
+
+
+
+    
+
+
+<script>
+    var aamDisclaimers = [];
+    var aamExitDisclaimers = [{"modalHtml":"\r\n\r\n<div class=\"modal fade\" tabindex=\"-1\" role=\"dialog\" id=\"disclaimerId-exit50\">\r\n    <div class=\"modal-dialog modal-lg\" role=\"document\">\r\n        <div class=\"modal-content\">\r\n            <div class=\"modal-header\">\r\n                    <a href=\"#\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\" title=\"Close\">\r\n                        <i class=\"material-icons\">&#xE14C;</i>\r\n                    </a>\r\n                <h4 class=\"modal-title\">Important information</h4>\r\n            </div>\r\n            <div class=\"modal-body modal-body--mh\">\r\n                <p>You are now leaving the website of abrdn Asia Focus PLC and entering a website containing information created and maintained by Panmure Gordon & Co, an organisation that is not affiliated with abrdn plc. Please note that abrdn plc does not control, cannot guarantee, and is not responsible for the accuracy, timeliness, privacy or even the continued availability or existence of this outside information.</p>\n\r\n            </div>\r\n            <div class=\"modal-footer\">\r\n<a class=\"btn btn--bordered btn--bordered-grey\" href=\"/en/\" data-dismiss=\"modal\">Decline</a>\r\n<a class=\"btn btn-accept\" target=\"_blank\">Accept</a>            </div>\r\n        </div>\r\n    </div>\r\n</div>","modalId":"disclaimerId-exit50"},{"modalHtml":"\r\n\r\n<div class=\"modal fade\" tabindex=\"-1\" role=\"dialog\" id=\"disclaimerId-exit1\">\r\n    <div class=\"modal-dialog modal-lg\" role=\"document\">\r\n        <div class=\"modal-content\">\r\n            <div class=\"modal-header\">\r\n                    <a href=\"#\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\" title=\"Close\">\r\n                        <i class=\"material-icons\">&#xE14C;</i>\r\n                    </a>\r\n                <h4 class=\"modal-title\">Important information</h4>\r\n            </div>\r\n            <div class=\"modal-body modal-body--mh\">\r\n                <p>You are now leaving the website of abrdn plc group of companies (“abrdn plc”) and entering a website containing information created and maintained by Morningstar, an organisation that is not affiliated with abrdn. Please note that abrdn plc does not control, cannot guarantee, and is not responsible for the accuracy, timeliness, privacy or even the continued availability or existence of this outside information.</p>\n\r\n            </div>\r\n            <div class=\"modal-footer\">\r\n<a class=\"btn btn--bordered btn--bordered-grey\" href=\"https://www.invtrusts.co.uk/en/\" data-dismiss=\"modal\">Decline</a>\r\n<a class=\"btn btn-accept\" target=\"_blank\">Accept</a>            </div>\r\n        </div>\r\n    </div>\r\n</div>","modalId":"disclaimerId-exit1"},{"modalHtml":"\r\n\r\n<div class=\"modal fade\" tabindex=\"-1\" role=\"dialog\" id=\"disclaimerId-exit4\">\r\n    <div class=\"modal-dialog modal-lg\" role=\"document\">\r\n        <div class=\"modal-content\">\r\n            <div class=\"modal-header\">\r\n                    <a href=\"#\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\" title=\"Close\">\r\n                        <i class=\"material-icons\">&#xE14C;</i>\r\n                    </a>\r\n                <h4 class=\"modal-title\">Important information</h4>\r\n            </div>\r\n            <div class=\"modal-body modal-body--mh\">\r\n                <p>You are now leaving the website of abrdn plc group of companies (“abrdn plc”) and entering a website containing information created and maintained by Citywire, an organisation that is not affiliated with abrdn plc. Please note that abrdn plc does not control, cannot guarantee, and is not responsible for the accuracy, timeliness, privacy or even the continued availability or existence of this outside information.</p>\n\r\n            </div>\r\n            <div class=\"modal-footer\">\r\n<a class=\"btn btn--bordered btn--bordered-grey\" href=\"https://www.invtrusts.co.uk/en/\" data-dismiss=\"modal\">Decline</a>\r\n<a class=\"btn btn-accept\" target=\"_blank\">Accept</a>            </div>\r\n        </div>\r\n    </div>\r\n</div>","modalId":"disclaimerId-exit4"}];
+</script>
+
+
+    <!--Location Detection static binding-->
+    
+
+    <!--GoogleTagManager InvestorType static binding-->
+    
+
+
+
+    <!--GoogleTagManager Page Title binding-->
+    
+
+
+<div data-gtm-value=cGFnZVRpdGxlfEhvbWU=></div>
+
+    <!--GoogleTagManager Page Type binding-->
+    
+
+
+
+
+    <!--GoogleTagManager Asset Class binding-->
+    
+
+
+
+
+    <!--Top page navigation controls. Ex: logo, navigation, language selector-->
+    
+<nav id="app-header"
+     class="app-header">
+    <!-- TODO: Add skip links-->
+    <!-- Navbar -->
+    <div class="app-header__top">
+        <!-- Navbar - Inside -->
+        <div class="app-header__top-first-row">
+
+            <!-- Logo -->
+<div class="app-header__logo-container">
+    <a v-on:click="handleLogoClick"
+		href="/en/" 
+		class="app-header__link logo-v2">
+        <img class="logo-image p15"
+             srcset="https://prd-cdn.aberdeenstandard.net/-/media/abrdn/logo/abrdn-logo-horiz-black-svg.ashx?h=66&amp;w=304&amp;modified=20210610133718&amp;hash=AE55AF080F1FAAF801F76BCDD60426BA,
+                     https://prd-cdn.aberdeenstandard.net/-/media/abrdn/logo/abrdn-logo-horiz-black-svg.ashx?h=66&amp;w=304&amp;modified=20210610133718&amp;hash=AE55AF080F1FAAF801F76BCDD60426BA 2x"
+             src="https://prd-cdn.aberdeenstandard.net/-/media/abrdn/logo/abrdn-logo-horiz-black-svg.ashx?h=66&amp;w=304&amp;modified=20210610133718&amp;hash=AE55AF080F1FAAF801F76BCDD60426BA"
+             alt="Logo">
+    </a>
+</div>
+            <!-- Navbar Toggles -->
+            <div class="app-header__toggles"
+                 v-show="!isMenuHidden"
+                 v-cloak>
+
+                <!-- Navbar Additional Links -->
+                        <a href="https://www.manageyouraccount.co.uk/aberdeen-standard/app/login?wicket:pageMapName=wicket-1"
+                           target=""
+                           class="external-link pl15 pr15 hidden-xs hidden-sm ">
+                                <i class="material-icons text-primary mr10 ">person</i>
+                            <span class="text-primary">My account</span>
+                        </a>
+                        <a href="https://www.invtrusts.co.uk"
+                           target=""
+                           class="external-link pl15 pr15 hidden-xs hidden-sm ">
+                                <i class="material-icons text-primary mr10 ">home</i>
+                            <span class="text-primary">Investment Trust Centre</span>
+                        </a>
+
+                <!-- Investor Selector -->
+
+                <!-- Search Toggle -->
+                    <button type="button"
+                            class="search-toggle btn--naked"
+                            v-on:click="toggleSearch">
+                        <!-- <span class="mr10 xs-mr0 text-primary hidden-xs"></span> -->
+                        <i v-if="!isSearchOpen"
+                           class="material-icons text-primary">search</i>
+                        <i v-else
+                           class="material-icons text-primary"
+                           v-cloak>close</i>
+                    </button>
+
+                <!-- Menu Toggle -->
+                    <button type="button"
+                            class="menu-toggle menu-header btn--naked btn-close pr30 pl20 xs-pr20 pb0"
+                            v-on:click="toggleMenu">
+                        <span class="mr10 xs-mr0 text-primary hidden-xs">Menu</span>
+                        <!-- Icons -->
+                        <i v-if="!isMenuOpen"
+                           class="material-icons text-primary">menu</i>
+                        <i v-else
+                           class="material-icons text-primary"
+                           v-cloak>close</i>
+                    </button>
+            </div>
+        </div>
+
+
+        <!--Mobile - investor label and flag to be outsite the menu-->
+
+            <!-- Search Input Overlay-->
+            
+
+
+<div v-cloak class="menu-search-v2 header-autosuggest" v-bind:class="{'isSearchOpen': isSearchOpen}" data-url="/en/searchapi/search/suggest" data-url-base="/en/search-results">
+
+    <div class="search-v2 bg-white p20 xs-p10 bt bb">
+        <form v-on:submit="handleSearchSubmit" class="search-v2__form" action="/en/search-results" method="get">
+
+            <input ref="searchInput" type="text" class="form-control search__input-v2 b0" placeholder="Search" name="query" autocomplete="off" autofocus>
+            <label for="search-submit" class="search__submit-v2 bg-primary m0">
+                <input type="submit" class="form-control" id="search-submit">
+            </label>
+
+        </form>
+    </div>
+
+    <div class="search-suggestions"></div>
+
+</div>
+
+
+
+
+
+            <!-- Breadcrumbs-->
+        </div>
+
+    <!-- Navigation Menu Overlay -->
+        <div class="app-header__menu"
+             v-bind:aria-expanded="isMenuOpen ? 'true' : 'false'"
+             v-cloak>
+
+            <!-- Mobile Menu: Toggles-->
+            <transition name="fade-menu">
+                <div class="bg-white app-header-mobile"
+                     v-show="isMenuOpen">
+
+                    <!-- Investor Selector Mobile Toggle-->
+
+                    <!-- Additional links Mobile Buttons-->
+                            <a v-if="!isInvestorSelectorOpen" href="https://www.manageyouraccount.co.uk/aberdeen-standard/app/login?wicket:pageMapName=wicket-1"
+                               target=""
+                               class="external-link pr20 pl20 pt10 pb10 bt visible-xs visible-sm ">
+                                    <i class="material-icons text-primary mr15 ">person</i>
+                                <span class="text-primary">My account</span>
+                            </a>
+                            <a v-if="!isInvestorSelectorOpen" href="https://www.invtrusts.co.uk"
+                               target=""
+                               class="external-link pr20 pl20 pt10 pb10 bt visible-xs visible-sm ">
+                                    <i class="material-icons text-primary mr15 ">home</i>
+                                <span class="text-primary">Investment Trust Centre</span>
+                            </a>
+
+                </div>
+            </transition>
+
+            <!-- Investor Selector Overlay -->
+
+            <!-- Navigation Overlay -->
+                <transition name="fade-menu"
+                            mode="out-in">
+                    <div v-show="isMenuOpen"
+                         class="app-header__menu nav-menu bg-primary"
+                         v-bind:aria-expanded="isMenuOpen ? 'true' : 'false'"
+                         v-cloak>
+                        <div class="nav-menu__content">
+
+
+
+
+<div class="nav-menu__wrapper row mr0 ml0 pr20 pl20 pt30 pb30 xs-pt0 sm-pt0 md-pt0">
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt first-group">
+                <!-- Desktop parent link -->
+                    <a href="/en/performance-and-company-information#?id=F0GBR06XED&amp;idCurrencyId=%20&amp;idType=MSID&amp;marketCode=%20"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  mb10"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        Performance and company information
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+
+                <!-- Menu Group list of links -->
+            </div>
+        </section>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href="/en/latest-article"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  mb10"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        Latest article
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+
+                <!-- Menu Group list of links -->
+            </div>
+        </section>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href="/en/news"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  mb10"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        News
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+
+                <!-- Menu Group list of links -->
+            </div>
+        </section>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href="/en/investment-approach"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  mb10"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        Investment approach
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+
+                <!-- Menu Group list of links -->
+            </div>
+        </section>
+            <div class="clearfix visible-lg-block"></div>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href="/en/literature-library"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  mb10"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        Literature library
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+
+                <!-- Menu Group list of links -->
+            </div>
+        </section>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href="/en/how-to-invest"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  visible-lg"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        How to invest
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+                    <button type="button"
+                            v-on:click="toggleExpandMenuItem"
+                            class="menu-accordion-trigger btn--naked text-weight-bold text-left mb10 pt0 ww text-white hidden-lg">
+                        How to invest
+                    </button>
+
+                <!-- Menu Group list of links -->
+                    <ul class="nav-menu__list mb0 pl0">
+
+                        <!-- Link-less nav items: No duplicate parent in list and we need to compensate for the missing margin -->
+
+                            <li class="mb0 mt10 hidden-lg">
+                                <a href="/en/how-to-invest"
+                                   target=""
+                                   class="text-white text-weight-bold "
+                                   v-on:click="toggleMenu">
+                                    How to invest
+                                </a>
+                            </li>
+
+                        <!-- Menu children -->
+                            <li class="mb0 pl0  ">
+                                <a href="/en/how-to-invest/isa"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    abrdn Investment Trusts ISA
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  ">
+                                <a href="/en/how-to-invest/share-plan"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    abrdn Share Plan
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  ">
+                                <a href="/en/how-to-invest/investment-plan-for-children"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    abrdn Investment Trusts Plan for Children
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  ">
+                                <a href="/en/how-to-invest/invest-online"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Invest online
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  ">
+                                <a href="/en/how-to-invest/other-online-investing"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Other online investing
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  mb30 xs-mb10 sm-mb20 md-mb20">
+                                <a href="/en/how-to-invest/mifid-ii-costs-and-charges"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    MIFID II: costs &amp; charges
+                                </a>
+                            </li>
+                    </ul>
+            </div>
+        </section>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href="/en/education"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  visible-lg"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        Education and resources
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+                    <button type="button"
+                            v-on:click="toggleExpandMenuItem"
+                            class="menu-accordion-trigger btn--naked text-weight-bold text-left mb10 pt0 ww text-white hidden-lg">
+                        Education and resources
+                    </button>
+
+                <!-- Menu Group list of links -->
+                    <ul class="nav-menu__list mb0 pl0">
+
+                        <!-- Link-less nav items: No duplicate parent in list and we need to compensate for the missing margin -->
+
+                            <li class="mb0 mt10 hidden-lg">
+                                <a href="/en/education"
+                                   target=""
+                                   class="text-white text-weight-bold "
+                                   v-on:click="toggleMenu">
+                                    Education and resources
+                                </a>
+                            </li>
+
+                        <!-- Menu children -->
+                            <li class="mb0 pl0  ">
+                                <a href="/en/education/awards"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Awards
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  mb30 xs-mb10 sm-mb20 md-mb20">
+                                <a href="/en/education/glossary"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Jargon buster
+                                </a>
+                            </li>
+                    </ul>
+            </div>
+        </section>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href="/en/company-profiles"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  visible-lg"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        Company profiles
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+                    <button type="button"
+                            v-on:click="toggleExpandMenuItem"
+                            class="menu-accordion-trigger btn--naked text-weight-bold text-left mb10 pt0 ww text-white hidden-lg">
+                        Company profiles
+                    </button>
+
+                <!-- Menu Group list of links -->
+                    <ul class="nav-menu__list mb0 pl0">
+
+                        <!-- Link-less nav items: No duplicate parent in list and we need to compensate for the missing margin -->
+
+                            <li class="mb0 mt10 hidden-lg">
+                                <a href="/en/company-profiles"
+                                   target=""
+                                   class="text-white text-weight-bold "
+                                   v-on:click="toggleMenu">
+                                    Company profiles
+                                </a>
+                            </li>
+
+                        <!-- Menu children -->
+                            <li class="mb0 pl0  ">
+                                <a href="/en/company-profiles/aeon-thana"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Aeon Thana
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  ">
+                                <a href="/en/company-profiles/bank-ocbc-nisp"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Bank OCBC Nisp
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  ">
+                                <a href="/en/company-profiles/cebu-holdings"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    CEBU Holdings
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  ">
+                                <a href="/en/company-profiles/hana-microelectronics"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Hana Microelectronics
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  ">
+                                <a href="/en/company-profiles/john-keells"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    John Keells
+                                </a>
+                            </li>
+                            <li class="mb0 pl0  mb30 xs-mb10 sm-mb20 md-mb20">
+                                <a href="/en/company-profiles/nam-long"
+                                   target=""
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Nam Long
+                                </a>
+                            </li>
+                    </ul>
+            </div>
+        </section>
+            <div class="clearfix visible-lg-block"></div>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href="/en/contact-us"
+                       target=""
+                       class="nav-menu__group-parent-link text-weight-bold text-white  visible-lg"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        Contact us
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+                    <button type="button"
+                            v-on:click="toggleExpandMenuItem"
+                            class="menu-accordion-trigger btn--naked text-weight-bold text-left mb10 pt0 ww text-white hidden-lg">
+                        Contact us
+                    </button>
+
+                <!-- Menu Group list of links -->
+                    <ul class="nav-menu__list mb0 pl0">
+
+                        <!-- Link-less nav items: No duplicate parent in list and we need to compensate for the missing margin -->
+
+                            <li class="mb0 mt10 hidden-lg">
+                                <a href="/en/contact-us"
+                                   target=""
+                                   class="text-white text-weight-bold "
+                                   v-on:click="toggleMenu">
+                                    Contact us
+                                </a>
+                            </li>
+
+                        <!-- Menu children -->
+                            <li class="mb0 pl0  mb30 xs-mb10 sm-mb20 md-mb20">
+                                <a href="https://www.invtrusts.co.uk/en/#signup"
+                                   target="_blank"
+                                   class="text-white "
+                                   v-on:click="toggleMenu">
+                                    Register for updates
+                                </a>
+                            </li>
+                    </ul>
+            </div>
+        </section>
+        <section class="col-xs-12 col-lg-3 pl0 pr0">
+            <!-- Menu Group -->
+            <div class="nav-menu__group pt10 ml20 mr20 bt ">
+                <!-- Desktop parent link -->
+                    <a href=" https://www.manageyouraccount.co.uk/aberdeen-standard/app/login?wicket:pageMapName=wicket-0"
+                       target="_blank"
+                       class="nav-menu__group-parent-link text-weight-bold text-white  mb10"
+                       v-on:click="toggleMenu">
+                        <!-- Link title -->
+                        My account
+                    </a>
+
+
+                <!-- Mobile toggle button without link -->
+
+                <!-- Menu Group list of links -->
+            </div>
+        </section>
+</div>                        </div>
+                    </div>
+                </transition>
+        </div>
+</nav>
+
+    <div class="">
+        
+        <div class="cookie-bar cookie-bar--type-implicit" data-cookie-name="asiansmaller#PolicyCookieBar2" data-cookie-days="1">
+            <div class="container-fluid container-fluid--mw cookie-bar__content">
+                <div class="row">
+                    <div class="col-sm-12 relative">
+                        <div class="relative">
+                            <i class="material-icons cookie-bar-icon">&#xE88F;</i>
+                            <div class="cookie-bar-copy">
+                                <p>We use cookies to help improve your online experience. By using this site, you agree that we may store and access cookies on your device. You can change your <a href="/en/cookie-policy">cookie settings</a> at any time.</p>
+                            </div>
+                            <a href="#" class="cookie-bar__close" title="close the cookie bar">
+                                <i class="material-icons">&#xE5CD;</i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content">
+            <a name="content" id="content"></a>
+            
+
+
+
+
+<div id="hero1" class="hero   "
+     data-url-base="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/investment-trusts/trust-heros/"
+     data-url-file="asia_focus_1440x770px.ashx?modified=20191209105050"
+     data-image-sources=""
+     data-gradient-color-rgba=""
+     data-gradient-break-lg=""
+     data-optional-gradient-stop-lg=""
+     data-gradient-break-md=""
+     data-optional-gradient-stop-md=""
+     data-gradient-break-xs=""
+     data-optional-gradient-stop-xs="">
+    
+    <div class="hero__image "></div>
+    <div class="icon-loading hero__loading"></div>
+
+
+
+
+    <div class="container-fluid container-fluid--mw hero__content   ">
+
+        <div class="row">
+
+            <div class=" bg-dark-grey--transparent-70 col-xs-12 col-sm-12 col-lg-9 col-xs-offset-1 col-sm-offset-0 p20 pt15 pb15 ml15">
+
+                    <div class="hero-title-wrapper">
+                        <h1 class="hero__title">
+Aberdeen Standard Asia Focus PLC
+</h1>
+                    </div>
+
+                    <div class="hero-subtitle-wrapper">
+                        <div class="row col-sm-12">
+<h3 class="mb10">A fundamental, high conviction portfolio of well-researched Asian small caps.</h3>
+
+ <div class="hero-links-wrapper focus-within">
+<a class="btn btn--icon-right mt10 pt10" href="https://www.asia-focus.co.uk/en/how-to-invest" target="_blank">Invest now<i class="material-icons btn__icon"></i>
+</a></div>
+ </div>
+                    </div>
+                                
+                <div class="match-height--type-btn">
+                    
+                </div>
+                
+            </div>
+
+        </div>
+    </div>
+
+    <div class="hero__asset-container mr20">
+        
+    </div>
+
+</div>
+
+<script type="text/javascript">var currentSyntax = $.BEMsyntax();var newSyntax = $.BEMsyntax({elem: '__', modBefore: '--', modKeyVal: '-'});$('#hero1').setMod('hero', 'style-pblg', true);</script>
+<!-- empty wrapper is required for sticky to set height -->
+<div>
+	<div id="inPageNavigation" class="sticky sticky-top bg-dark-grey text-white ">
+
+		<div class="container-fluid container-fluid--mw">
+
+			<div class="row">
+
+				<div class="col-sm-12 xs-p0">
+
+					<div class="tabs  tabs--style-reversed tabs--style-justified tabs--behavior-scrollspy">
+
+						<button class="tabs__next" aria-hidden="true">
+							<i class="material-icons">&#xE5CC;</i>
+
+						</button>
+						<button class="tabs__previous" aria-hidden="true">
+							<i class="material-icons">&#xE5CB;</i>
+						</button>
+
+						<nav class="nav">
+							<ul>
+
+							</ul>
+						</nav>
+					</div><!-- /tabs-wrapper -->
+
+
+				</div><!-- /col -->
+
+			</div><!-- /row -->
+
+		</div><!-- /container -->
+
+	</div>
+</div>
+
+<div id="richtexteditor" class="bg-aberdeen-dark-purple text-white">
+    <div class="container-fluid--mw text-white  pt30 pb50 xs-pt15 xs-pb15">
+    <a id="nav_it-key-prices" data-subnavigation="Key Prices">
+    </a>
+	<h2 class="text-weight-300">Daily prices<span class="text-opacity-80 text-18"> as of 03 Nov 2021</span></h2>
+	<div class="row flex-wrap">
+		<p class="col-sm-4 col-xs-6"> <span class="text-opacity-80">Share Price</span> <span class="text-25 block">1439.10<span class="text-18">p</span> </span>
+		</p>
+		<p class="col-sm-4 col-xs-6">
+			<span class="text-opacity-80">Estimated NAV cum income</span> 
+			<span class="text-25 block ">1645.39<span class="text-18 ">p</span></span>
+		</p>
+		<p class="col-sm-4 col-xs-6 ">
+			<span class="text-opacity-80 ">Estimated NAV ex income</span> 
+			<span class="text-25 block ">1619.13<span class="text-18 ">p</span></span>
+		</p>
+		<p class="col-sm-4 col-xs-6 ">
+			<span class="text-opacity-80 ">Dividend Yield</span> 
+			<span class="text-25 block ">1.3<span class="text-18 ">%</span></span>
+		</p>
+		<p class="col-sm-4 col-xs-6 ">
+			<span class="text-opacity-80 ">Premium / (Discount) to NAV cum income</span> 
+			<span class="text-25 block ">-12.9<span class="text-18 ">%</span></span>
+		</p>
+		<p class="col-sm-4 col-xs-6 ">
+			<span class="text-opacity-80 ">Premium / (Discount) to NAV ex income</span> 
+			<span class="text-25 block ">-11.5<span class="text-18 ">%</span></span>
+		</p>
+	</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="bg-light-grey pt30">
+
+    <div class="container-fluid container-fluid--mw twocolumn">
+
+        <div class="row relative twocolumn__body">
+
+            <div class=""></div>
+
+            <div class="col-sm-12">
+
+                <div class="two-col-description">
+                     <h2 class="text-weight-300">Celebrating 25 years of Aberdeen Standard Asia Focus PLC</h2>
+<p>On our 25th anniversary, with the help of a distinguished panel of contributors, we thought it would be interesting
+to pose the question of Asia: the next 25 years. </p>
+
+<p>2020 saw the world beset by the greatest economic crisis since the Second World War. It started in Asia but through the incredible discipline for which the peoples of Asia are such an exemplar, it has also been the first region to emerge towards recovery. </p>
+
+<p>The articles within the booklet below explore both the broad global question of whether the 21st century will be the Asian Century and the economic impact of this on the broader market and also smaller companies. Our contributors also consider an array of issues that are shaping business, consumption trends and policy in Asia, including technology, supply chains, tariffs and disease control. </p>
+
+<p>I would like to thank all our contributors for their time and thought-provoking comment and we hope you enjoy reading the articles below.</p>
+
+                </div>
+
+
+
+
+
+
+            </div>
+
+            <div class="">
+
+                <div class="two-col-description">
+                    
+                </div>
+
+
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script type="text/javascript">var currentSyntax = $.BEMsyntax();var newSyntax = $.BEMsyntax({elem: '__', modBefore: '--', modKeyVal: '-'});$('#tabs1').setMod('tabs', 'style-reversed', true);$('#tabs1').setMod('tabs', 'style-ta', true);$('#tabs1').setMod('tabs', 'style-anchored', true);$('#tabs1').setMod('tabs', 'behavior-scrollspy', true);</script>
+
+<div class="block-description-with-links bg-light-grey pb40">
+    <div class="container-fluid container-fluid--mw">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h3 class="text-weight-300"> </h3>
+                </div>
+            </div>
+        <div class="row mb20">
+            
+        </div>
+<div class="row">                <div class="col-sm-4 ">
+                    <a class="btn btn--naked btn--icon-left col-xs-12 btn--naked-purple" href="https://www.aberdeenstandard.com/docs?editionId=b9fad27d-cb62-4b07-9353-845339edfd32" target="_blank">Building tomorrow: capturing Asia's future potential today<div class="btn__icon btn__icon icon-pdf-purple"></div></a>
+                </div>
+</div>
+
+    </div>
+</div>
+
+<script type="text/javascript">var currentSyntax = $.BEMsyntax();var newSyntax = $.BEMsyntax({elem: '__', modBefore: '--', modKeyVal: '-'});$('#tabs1').setMod('tabs', 'style-reversed', true);$('#tabs1').setMod('tabs', 'style-ta', true);$('#tabs1').setMod('tabs', 'style-anchored', true);$('#tabs1').setMod('tabs', 'behavior-scrollspy', true);</script>
+
+
+
+
+
+<div class="bg-white ">
+
+    <div class="container-fluid container-fluid--mw twocolumn">
+            <div class="row twocolumn__header">
+                <div class="col-sm-5">
+                    <div class="two-col-title">
+                        <h2 class="text-weight-300 mb30 xs-mb15 xs-h3"> <h2 class="text-weight-300">Latest news</h2></h2>
+                    </div>
+                </div>
+            </div>
+
+        <div class="row relative twocolumn__body">
+
+            <div class=""></div>
+
+            <div class="col-sm-12">
+
+                <div class="two-col-description">
+                    <a id="nav_latestnews" style="float: left; position: relative; top: -150px;" name="page1" data-subnavigation="Latest news"></a>
+<p><strong>An update from our investment manager, Hugh Young - 21 September 2021</strong></p>
+<p>The resurgence of coronavirus infections in some parts of Asia has given rise to caution and is likely to delay economic recovery. That said, optimism around a wider economic recovery remains firm, largely due to the prospect of greater US federal spending. Also, we believe China remains pro-innovation despite tougher domestic regulatory oversight, and this will continue to support regional export growth.<br />
+<br />
+More broadly, Asia remains the powerhouse of global growth, with huge potential for wealth creation over the coming decades. The portfolio offers exposure to sectors supplying hardware, software and platforms for the latest consumer electronics, artificial intelligence and the Internet of Things. Moreover, it is also positioned in more traditional sectors, addressing the region&rsquo;s increasing urbanisation and infrastructure needs, as well as rising demand for healthcare and more aspirational consumer goods. Our focus remains on quality businesses that are well-placed to benefit from these trends and the overall growth in the region.</p>
+                </div>
+
+
+
+
+
+
+            </div>
+
+            <div class="">
+
+                <div class="two-col-description">
+                    
+                </div>
+
+
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script type="text/javascript">var currentSyntax = $.BEMsyntax();var newSyntax = $.BEMsyntax({elem: '__', modBefore: '--', modKeyVal: '-'});$('#tabs1').setMod('tabs', 'style-reversed', true);$('#tabs1').setMod('tabs', 'style-ta', true);$('#tabs1').setMod('tabs', 'style-anchored', true);$('#tabs1').setMod('tabs', 'behavior-scrollspy', true);</script>
+
+<div class="block-description-with-links bg-white pb40">
+    <div class="container-fluid container-fluid--mw">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h3 class="text-weight-300"> </h3>
+                </div>
+            </div>
+        <div class="row mb20">
+            
+        </div>
+<div class="row">                <div class="col-sm-4 xs-mb20">
+                    <a class="btn btn--naked btn--icon-left btn--naked-purple" href="/en/latest-article">Read the latest article from manager Hugh Young<i class="material-icons btn__icon">&#xE5CC;</i></a>
+                </div>
+                <div class="col-sm-4 xs-mb20">
+                    <a class="btn btn--naked btn--icon-left col-xs-12 btn--naked-purple" href="https://www.aberdeenstandard.com/docs?documentId=GB-260421-147877-6" target="_blank">Read our latest interim report<div class="btn__icon btn__icon icon-pdf-purple"></div></a>
+                </div>
+                <div class="col-sm-4 ">
+                    <a class="btn btn--naked btn--icon-left btn--naked-purple" href="/en/news">Access the Company's latest Regulatory News Service (RNS) announcements<i class="material-icons btn__icon">&#xE5CC;</i></a>
+                </div>
+</div>
+
+    </div>
+</div>
+
+<script type="text/javascript">var currentSyntax = $.BEMsyntax();var newSyntax = $.BEMsyntax({elem: '__', modBefore: '--', modKeyVal: '-'});$('#tabs1').setMod('tabs', 'style-reversed', true);$('#tabs1').setMod('tabs', 'style-ta', true);$('#tabs1').setMod('tabs', 'style-anchored', true);$('#tabs1').setMod('tabs', 'behavior-scrollspy', true);</script>
+
+
+
+
+
+<div class="bg-light-grey pt40 pb40">
+
+    <div class="container-fluid container-fluid--mw twocolumn">
+
+        <div class="row relative twocolumn__body">
+
+            <div class=""></div>
+
+            <div class="col-sm-12">
+
+                <div class="two-col-description">
+                    <a id="nav_AboutUs" style="top: -150px; float: left; position: relative;" data-subnavigation="About Us"></a>
+<h2>About us</h2>
+<p><strong>A fundamental, high conviction portfolio of well-researched Asian small caps.</strong></p>
+<p>Aberdeen Standard Asia Focus is an Investment Company listed on the London Stock Exchange aiming to find the best managed Asian smaller companies that are setting the new standard.</p>
+<p>The Company strives to maximise total return to shareholders over the long term from&nbsp;a concentrated, high-conviction portfolio focusing predominantly on&nbsp;exciting, smaller, listed&nbsp;companies&nbsp;in Asia and Australasia (excluding Japan).</p>
+<p>Managers&nbsp;Hugh Young and Gabriel Sacks are both based in the region and&nbsp;are supported by a&nbsp;team of over fifty investment managers.</p>
+<p>The portfolio is finely tuned to give shareholders the potential to&nbsp;benefit from Asia's expanding middle class. Stocks are highly diversified by market and sector with a strong focus on manufacturing and consumer products.</p>
+<p>
+<br />
+<a class="btn btn--purple btn--icon-left focus-within" href="/en/company-profiles">Learn more about the portfolio<em class="material-icons btn__icon"></em></a>
+</p>
+                </div>
+
+
+
+
+
+
+            </div>
+
+            <div class="">
+
+                <div class="two-col-description">
+                    
+                </div>
+
+
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script type="text/javascript">var currentSyntax = $.BEMsyntax();var newSyntax = $.BEMsyntax({elem: '__', modBefore: '--', modKeyVal: '-'});$('#tabs1').setMod('tabs', 'style-reversed', true);$('#tabs1').setMod('tabs', 'style-ta', true);$('#tabs1').setMod('tabs', 'style-anchored', true);$('#tabs1').setMod('tabs', 'behavior-scrollspy', true);</script>
+
+
+<a id="nav_it-key-literature" data-subnavigation="Key Literature"></a>    <div id="it-key-literature" class=" pt30 pb30 xs-pt15 xs-pb15">
+        <div class="container-fluid container-fluid--mw">
+            <h2 class="text-weight-300">Key literature</h2>
+            <div class="row flex-wrap">
+            </div>
+
+            <div>
+
+<a class="btn btn--naked btn--icon-left col-sm-4 col-xs-12 mb30 xs-mb15 btn--naked-purple" href="https://www.aberdeenstandard.com/docs?editionid=645f8043-3d6b-4007-aaaf-85c988927d68" target="blank">Latest Factsheet<div class="btn__icon btn__icon icon-pdf-purple"></div></a><a class="btn btn--naked btn--icon-left col-sm-4 col-xs-12 mb30 xs-mb15 btn--naked-purple" href="https://www.aberdeenstandard.com/docs?editionid=f1d38b76-70e7-477b-9bba-745866dd1ad7" target="blank">Annual Report<div class="btn__icon btn__icon icon-pdf-purple"></div></a><a class="btn btn--naked btn--icon-left col-sm-4 col-xs-12 mb30 xs-mb15 btn--naked-purple" href="https://www.aberdeenstandard.com/docs?editionId=8fa1ff42-96f9-4f83-8a17-86e7fb54d1ee" target="blank">Interim Report<div class="btn__icon btn__icon icon-pdf-purple"></div></a><a class="btn btn--naked btn--icon-left col-sm-4 col-xs-12 mb30 xs-mb15 btn--naked-purple" href="https://www.aberdeenstandard.com/docs?editionId=865fd4c8-8ff9-4efe-b2d0-43c6e5949225" target="_blank">EY Resignation Letter<div class="btn__icon btn__icon icon-pdf-purple"></div></a><a class="btn btn--naked btn--icon-left col-sm-4 col-xs-12 mb30 xs-mb15 btn--naked-purple" href="https://www.aberdeenstandard.com/docs?editionid=38c03d44-a274-4d8a-b5d0-17caceecbf25" target="blank">Savings Plan/ISA Brochure<div class="btn__icon btn__icon icon-pdf-purple"></div></a><a class="btn btn--naked btn--icon-left col-sm-4 col-xs-12 mb30 xs-mb15 btn--naked-purple" href=" https://www.aberdeenstandard.com/docs?editionid=e9269cb9-b48c-4f60-b4a1-be1ff4c27c77" target="blank">Latest Kepler Research Note<div class="btn__icon btn__icon icon-pdf-purple"></div></a><a class="btn btn--naked btn--icon-left col-sm-4 col-xs-12 mb30 xs-mb15 btn--naked-purple" href="/en/literature-library">Read all literature<i class="material-icons btn__icon">&#xE5CC;</i></a>            </div>
+        </div>
+    </div>
+
+
+
+
+
+<a id="nav_keyPeople1" data-subnavigation="Key People"></a>
+<div id="keyPeople1" class="box-grid bg-light-grey pt30 pb30 xs-pt0 xs-pb0">
+    <div class="container-fluid container-fluid--mw xs-bg-white xs-pt15 xs-pb0">
+
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="icon-left text-weight-300">
+                    <i class="material-icons material-icons--key-people"></i>
+                    Key people
+                </h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 xs-p0">
+                <div class="tabs  tabs--style-justified tabs--bg-white">
+
+                    <a href="#" class="tabs__next" style="display: none;">
+                        <i class="material-icons"></i>
+                    </a>
+                    <a href="#" class="tabs__previous" style="display: none;">
+                        <i class="material-icons"></i>
+                    </a>
+
+                    <nav class="loaded">
+                        <ul>
+
+                                <li><a href="#key-people-1" data-type="tab" class="active">Investment Management team</a></li>
+                                <li><a href="#key-people-2" data-type="tab" class="">Board of directors</a></li>
+                        </ul>
+                    </nav>
+
+                </div><!-- /tabs-wrapper -->
+
+            </div>
+
+        </div>
+        <div class="row">
+
+            <div class="col-sm-12 xs-p0">
+
+                <div class="p30 xs-p10 pb0 bg-white">
+
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+
+                            <div role="tabpanel" class="tab-pane active" id="key-people-1" data-action="matchHeight.refresh">
+                                <div id="box-grid-1" class="shadow bg-white p30 xs-p15 mb50 xs-mb20 relative box-grid__hero-container">
+
+                                    <div class="icon-loading box-grid__loading"></div>
+
+                                    <div class="box-grid__heroes">
+
+                                        <div class="box-grid__html">
+
+<div class="box-grid__hero" id="box-grid__hero-1-10">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/hugh-young-250x350.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20210925014112" class="img-responsive mb20" alt="Hugh Young" width="250" height="350" disablewebedit="False">
+            <ul class="bod-member">
+            </ul>
+        </div>
+        <div class="col-sm-9">
+            <a href="#" class="box-grid__close" title="close"><div class="icon-close"></div></a>
+                <h2 class="box-grid__title">Hugh Young</h2>
+                            <h3 class="box-grid__subtitle">Chairman of Asia Pacific</h3>
+            <div class="box-grid__body">
+                <p>Hugh Young is the Chairman for the abrdn business in Asia. He was previously the Head of Asia Pacific for Aberdeen Standard Investments, a main board director and Head of Investments for Aberdeen Asset Management (before its merger with Standard Life plc). Hugh joined the company in 1985 to manage Asian equities from London, having started his investment career in 1980. He founded the company's regional headquarters in Singapore in 1992. Hugh is a director of a number of group subsidiary companies and group-managed investment trusts and funds. Hugh graduated with a BA (Hons) in Politics from Exeter University.</p>
+            </div>
+        </div>
+    </div>
+</div><div class="box-grid__hero" id="box-grid__hero-1-11">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/gabriel-sacks-250x350.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20210925014110" class="img-responsive mb20" alt="Gabriel Sacks" width="250" height="350" disablewebedit="False">
+            <ul class="bod-member">
+            </ul>
+        </div>
+        <div class="col-sm-9">
+            <a href="#" class="box-grid__close" title="close"><div class="icon-close"></div></a>
+                <h2 class="box-grid__title">Gabriel Sacks</h2>
+                            <h3 class="box-grid__subtitle">Investment Director</h3>
+            <div class="box-grid__body">
+                <p>Chartered Financial Analyst, MA in Land Economy from Cambridge University. Joined the company in 2008 as part of the London-based Global Emerging Markets Equities team and transferred to Asian Equities in 2018.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                        </div><!-- /box-grid__html -->
+
+                                    </div><!-- /box-grid__heroes -->
+
+                                </div><!-- /shadow -->
+
+                                <div class="box-grid-style-4 match-height--type-summary" data-index="1">
+                                    <ul class="filter-grid">
+
+
+
+
+
+<li class="">
+
+<a href="#" class="trigger" data-id="10">
+    <div class="icon-triangle-down"></div>
+    <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/hugh-young-250x350.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20210925014112" class="box-grid__bg-img" alt="Hugh Young" width="250" height="350" disablewebedit="False">
+    <div class="summary">
+        <h4 class="box-grid__title">Hugh Young</h4>
+        <p class="box-grid__subtitle">Chairman of Asia Pacific</p>
+    </div>
+</a>
+<div class="text">
+    <ul class="bod-member">
+
+    </ul>
+    <p>Hugh Young is the Chairman for the abrdn business in Asia. He was previously the Head of Asia Pacific for Aberdeen Standard Investments, a main board director and Head of Investments for Aberdeen Asset Management (before its merger with Standard Life plc). Hugh joined the company in 1985 to manage Asian equities from London, having started his investment career in 1980. He founded the company's regional headquarters in Singapore in 1992. Hugh is a director of a number of group subsidiary companies and group-managed investment trusts and funds. Hugh graduated with a BA (Hons) in Politics from Exeter University.</p>
+</div>
+    </li>
+
+
+
+
+
+
+<li class="">
+
+<a href="#" class="trigger" data-id="11">
+    <div class="icon-triangle-down"></div>
+    <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/gabriel-sacks-250x350.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20210925014110" class="box-grid__bg-img" alt="Gabriel Sacks" width="250" height="350" disablewebedit="False">
+    <div class="summary">
+        <h4 class="box-grid__title">Gabriel Sacks</h4>
+        <p class="box-grid__subtitle">Investment Director</p>
+    </div>
+</a>
+<div class="text">
+    <ul class="bod-member">
+
+    </ul>
+    <p>Chartered Financial Analyst, MA in Land Economy from Cambridge University. Joined the company in 2008 as part of the London-based Global Emerging Markets Equities team and transferred to Asian Equities in 2018.</p>
+</div>
+    </li>
+
+
+                                    </ul>
+                                </div>
+
+                            </div>
+                            <!-- / panel -->
+                            <div role="tabpanel" class="tab-pane" id="key-people-2" data-action="matchHeight.refresh">
+                                <div id="box-grid-2" class="shadow bg-white p30 xs-p15 mb50 xs-mb20 relative box-grid__hero-container">
+
+                                    <div class="icon-loading box-grid__loading"></div>
+
+                                    <div class="box-grid__heroes">
+
+                                        <div class="box-grid__html">
+
+<div class="box-grid__hero" id="box-grid__hero-2-20">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/nigel-cayzer.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20200717151228" class="img-responsive mb20" alt="Nigel Cayzer" width="250" height="350" disablewebedit="False">
+            <ul class="bod-member">
+            </ul>
+        </div>
+        <div class="col-sm-9">
+            <a href="#" class="box-grid__close" title="close"><div class="icon-close"></div></a>
+                <h2 class="box-grid__title">Nigel Cayzer</h2>
+                            <h3 class="box-grid__subtitle">Chairman</h3>
+            <div class="box-grid__body">
+                Chairman of Oryx International Growth Fund Limited and a director of a number of other investment companies.
+            </div>
+        </div>
+    </div>
+</div><div class="box-grid__hero" id="box-grid__hero-2-21">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/charlotte-black.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20200717151439" class="img-responsive mb20" alt="Charlotte Black" width="250" height="350" disablewebedit="False">
+            <ul class="bod-member">
+            </ul>
+        </div>
+        <div class="col-sm-9">
+            <a href="#" class="box-grid__close" title="close"><div class="icon-close"></div></a>
+                <h2 class="box-grid__title">Charlotte Black</h2>
+                            <h3 class="box-grid__subtitle">Independent Non-Executive Director</h3>
+            <div class="box-grid__body">
+                <p>Ms Black is a Fellow of the Chartered Institute for Securities & Investment and an independent public affairs consultant. She was until 2015 director, Corporate Affairs at Brewin Dolphin Holdings PLC, having previously served within that company as Marketing Director and in investment management roles.  Charlotte has served on the boards of a number of industry related entities including The Wealth Management Association, The Chartered Institute for Securities & Investment and Euroclear PLC.</p>
+
+            </div>
+        </div>
+    </div>
+</div><div class="box-grid__hero" id="box-grid__hero-2-22">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/randal-dunluce.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20200717151141" class="img-responsive mb20" alt="Randal Dunluce" width="250" height="350" disablewebedit="False">
+            <ul class="bod-member">
+            </ul>
+        </div>
+        <div class="col-sm-9">
+            <a href="#" class="box-grid__close" title="close"><div class="icon-close"></div></a>
+                <h2 class="box-grid__title">Randal Dunluce</h2>
+                            <h3 class="box-grid__subtitle">Independent Non-Executive Director</h3>
+            <div class="box-grid__body">
+                A Partner of Sarasin & Partners LLP responsible for the management of private client and charity portfolios as well as selfinvested personal pension schemes. He is chairman of Sarasin’s London partnership. He is also a non–executive director of a number of other private companies.
+            </div>
+        </div>
+    </div>
+</div><div class="box-grid__hero" id="box-grid__hero-2-23">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/debby-guthrie.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20201202111153" class="img-responsive mb20" alt="Debby Guthrie" width="250" height="350" disablewebedit="False">
+            <ul class="bod-member">
+            </ul>
+        </div>
+        <div class="col-sm-9">
+            <a href="#" class="box-grid__close" title="close"><div class="icon-close"></div></a>
+                <h2 class="box-grid__title">Debby Guthrie</h2>
+                            <h3 class="box-grid__subtitle">Independent Non-Executive Director</h3>
+            <div class="box-grid__body">
+                <p>Ms Guthrie is an experienced Japanese equity research salesman at Pelham Smithers Associates, having formerly been director, Yen Equity Sales at Bank of America Merrill Lynch and prior to that director, Japan Equity Sales at Smith New Court. As a first career, Debby worked in the Finance and Environment branches of the Hong Kong Government, as an Administrative Officer.  Ms Guthrie is also a director of JP Morgan Japan Smaller Companies Investment Trust PLC.&nbsp;With effect from 1 December 2020 Ms Guthrie was appointed Chair of the Audit Committee.</p>
+            </div>
+        </div>
+    </div>
+</div><div class="box-grid__hero" id="box-grid__hero-2-24">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/krishna-shanmuganathan.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20201022102800" class="img-responsive mb20" alt="Image of Krishna Shanmuganathan" width="250" height="350" disablewebedit="False">
+            <ul class="bod-member">
+            </ul>
+        </div>
+        <div class="col-sm-9">
+            <a href="#" class="box-grid__close" title="close"><div class="icon-close"></div></a>
+                <h2 class="box-grid__title">Krishna Shanmuganathan</h2>
+                            <h3 class="box-grid__subtitle">Independent Non-Executive Director</h3>
+            <div class="box-grid__body">
+                <p>A partner in Scylax Partners in 2016 and prior to that was managing partner at Hakluyt &amp; Company (Asia), a risk advisory company, having established and led the Asia Pacific offices of the firm, based in Singapore. Before that Krishna held research and analyst roles at Fidelity International and Cambridge Associates after a successful and varied career in the Foreign &amp; Commonwealth Office. He holds a number of other non-executive appointments including being on the advisory board of Serendipity Capital, chairman of the trustees of St Jude India Child Care Centres UK and a trustee of Solefield School Educational Trust.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                        </div><!-- /box-grid__html -->
+
+                                    </div><!-- /box-grid__heroes -->
+
+                                </div><!-- /shadow -->
+
+                                <div class="box-grid-style-4 match-height--type-summary" data-index="2">
+                                    <ul class="filter-grid">
+
+
+
+
+
+<li class="">
+
+<a href="#" class="trigger" data-id="20">
+    <div class="icon-triangle-down"></div>
+    <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/nigel-cayzer.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20200717151228" class="box-grid__bg-img" alt="Nigel Cayzer" width="250" height="350" disablewebedit="False">
+    <div class="summary">
+        <h4 class="box-grid__title">Nigel Cayzer</h4>
+        <p class="box-grid__subtitle">Chairman</p>
+    </div>
+</a>
+<div class="text">
+    <ul class="bod-member">
+
+    </ul>
+    Chairman of Oryx International Growth Fund Limited and a director of a number of other investment companies.
+</div>
+    </li>
+
+
+
+
+
+
+<li class="">
+
+<a href="#" class="trigger" data-id="21">
+    <div class="icon-triangle-down"></div>
+    <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/charlotte-black.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20200717151439" class="box-grid__bg-img" alt="Charlotte Black" width="250" height="350" disablewebedit="False">
+    <div class="summary">
+        <h4 class="box-grid__title">Charlotte Black</h4>
+        <p class="box-grid__subtitle">Independent Non-Executive Director</p>
+    </div>
+</a>
+<div class="text">
+    <ul class="bod-member">
+
+    </ul>
+    <p>Ms Black is a Fellow of the Chartered Institute for Securities & Investment and an independent public affairs consultant. She was until 2015 director, Corporate Affairs at Brewin Dolphin Holdings PLC, having previously served within that company as Marketing Director and in investment management roles.  Charlotte has served on the boards of a number of industry related entities including The Wealth Management Association, The Chartered Institute for Securities & Investment and Euroclear PLC.</p>
+
+</div>
+    </li>
+
+
+
+
+
+
+<li class="">
+
+<a href="#" class="trigger" data-id="22">
+    <div class="icon-triangle-down"></div>
+    <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/randal-dunluce.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20200717151141" class="box-grid__bg-img" alt="Randal Dunluce" width="250" height="350" disablewebedit="False">
+    <div class="summary">
+        <h4 class="box-grid__title">Randal Dunluce</h4>
+        <p class="box-grid__subtitle">Independent Non-Executive Director</p>
+    </div>
+</a>
+<div class="text">
+    <ul class="bod-member">
+
+    </ul>
+    A Partner of Sarasin & Partners LLP responsible for the management of private client and charity portfolios as well as selfinvested personal pension schemes. He is chairman of Sarasin’s London partnership. He is also a non–executive director of a number of other private companies.
+</div>
+    </li>
+
+
+
+
+
+
+<li class="">
+
+<a href="#" class="trigger" data-id="23">
+    <div class="icon-triangle-down"></div>
+    <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/debby-guthrie.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20201202111153" class="box-grid__bg-img" alt="Debby Guthrie" width="250" height="350" disablewebedit="False">
+    <div class="summary">
+        <h4 class="box-grid__title">Debby Guthrie</h4>
+        <p class="box-grid__subtitle">Independent Non-Executive Director</p>
+    </div>
+</a>
+<div class="text">
+    <ul class="bod-member">
+
+    </ul>
+    <p>Ms Guthrie is an experienced Japanese equity research salesman at Pelham Smithers Associates, having formerly been director, Yen Equity Sales at Bank of America Merrill Lynch and prior to that director, Japan Equity Sales at Smith New Court. As a first career, Debby worked in the Finance and Environment branches of the Hong Kong Government, as an Administrative Officer.  Ms Guthrie is also a director of JP Morgan Japan Smaller Companies Investment Trust PLC.&nbsp;With effect from 1 December 2020 Ms Guthrie was appointed Chair of the Audit Committee.</p>
+</div>
+    </li>
+
+
+
+
+
+
+<li class="">
+
+<a href="#" class="trigger" data-id="24">
+    <div class="icon-triangle-down"></div>
+    <img src="https://prd-cdn.aberdeenstandard.net/-/media/aam-web/images/person/krishna-shanmuganathan.ashx?h=350&amp;iar=0&amp;sc=1&amp;w=250&modified=20201022102800" class="box-grid__bg-img" alt="Image of Krishna Shanmuganathan" width="250" height="350" disablewebedit="False">
+    <div class="summary">
+        <h4 class="box-grid__title">Krishna Shanmuganathan</h4>
+        <p class="box-grid__subtitle">Independent Non-Executive Director</p>
+    </div>
+</a>
+<div class="text">
+    <ul class="bod-member">
+
+    </ul>
+    <p>A partner in Scylax Partners in 2016 and prior to that was managing partner at Hakluyt &amp; Company (Asia), a risk advisory company, having established and led the Asia Pacific offices of the firm, based in Singapore. Before that Krishna held research and analyst roles at Fidelity International and Cambridge Associates after a successful and varied career in the Foreign &amp; Commonwealth Office. He holds a number of other non-executive appointments including being on the advisory board of Serendipity Capital, chairman of the trustees of St Jude India Child Care Centres UK and a trustee of Solefield School Educational Trust.</p>
+</div>
+    </li>
+
+
+                                    </ul>
+                                </div>
+
+                            </div>
+                            <!-- / panel -->
+
+
+                    </div>
+
+                </div><!-- /bg -->
+
+
+
+            </div><!-- /col -->
+
+        </div><!-- /row -->
+
+    </div>
+</div>
+
+<div id="richtexteditor" class="bg-aberdeen-white text-black pt50 pb50 ">
+    <a id="nav_FinancialCal" style="float: left; position: relative; top: -150px;" name="page1" data-subnavigation="Financial Calendar"></a>
+<p>&nbsp;</p>
+<div class="container-fluid container-fluid--mw">
+<div class="col-sm-12" style="padding: 0px;">
+<h2>Financial calendar</h2>
+<section class="article-content">
+<table class="main" width="100%" style="width: 395px; height: 94px;">
+    <tbody>
+        <tr>
+            <td>Year End</td>
+            <td>31 July</td>
+        </tr>
+        <tr>
+            <td>Accounts Published</td>
+            <td>October</td>
+        </tr>
+        <tr class="dark">
+            <td>Annual General Meeting</td>
+            <td>December</td>
+        </tr>
+        <tr>
+            <td>Dividend Paid</td>
+            <td>December</td>
+        </tr>
+    </tbody>
+</table>
+</section>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="bg-light-grey pt50 pb50">
+
+    <div class="container-fluid container-fluid--mw twocolumn">
+
+        <div class="row relative twocolumn__body">
+
+            <div class=""></div>
+
+            <div class="col-sm-8">
+
+                <div class="two-col-description">
+                    <a style="float: left; position:relative; top: -150px;" id="nav_TrustDetails" data-subnavigation="Trust Details"></a>
+<h2>Trust details</h2>
+<p>Aberdeen Standard Asia Focus PLC</p>
+Registered Office:<br>
+Bow Bells House<br>
+One Bread Street</br>
+London<br>
+EC4M 9HH</br>
+</br>
+<p>Registered in England and Wales as an Investment Company Number 3106339</p>
+<p>Launch Date: October 1995</p>
+                </div>
+
+
+
+
+
+
+            </div>
+
+            <div class="">
+
+                <div class="two-col-description">
+                    
+                </div>
+
+
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script type="text/javascript">var currentSyntax = $.BEMsyntax();var newSyntax = $.BEMsyntax({elem: '__', modBefore: '--', modKeyVal: '-'});$('#tabs1').setMod('tabs', 'style-reversed', true);$('#tabs1').setMod('tabs', 'style-ta', true);$('#tabs1').setMod('tabs', 'style-anchored', true);$('#tabs1').setMod('tabs', 'behavior-scrollspy', true);</script>
+        <div class="risk-warning  " data-cookie-name="asiansmaller#RiskWarningCookie" data-cookie-days="90">
+            <a href="#" class="risk-warning__open" title="">
+                <div class="icon-information-white inline-block mr5"></div>
+                Risk Warning
+            </a>
+            <div class="container-fluid container-fluid--mw">
+                <div class="row">
+                    <div class="col-sm-12 pr50">
+                        <a href="#" class="risk-warning__close" title="close the cookie bar">
+                            <i class="material-icons">&#xE5CD;</i>
+                        </a>
+                        <div class="risk-warning__less-text">
+                            <span><strong>Risk warning</strong><br />
+The value of investments and the income from them can go down as well as up and you may get back less than the amount invested. Please refer to the relevant Key Information Document (KID) prior to making an investment decision. Please be aware of <a rel="noopener noreferrer" href="Https://www.asia-focus.co.uk/en/investor-risk-warning" target="_blank">scams</a>&nbsp;that can affect investors.<br />
+</span>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+<div id="richtexteditor" class="hidden">
+    <div class="">
+	<div class="container-fluid container-fluid--mw ">	
+	
+		<div class="row text-white">
+ 
+          			<div class="col-xs-12 col-md-4 col-lg-4">
+				<div class="qumu-video" data-settings="{&quot;guid&quot;:&quot;6wDrhxovw89 &quot;,&quot;type&quot;:&quot;thumbnail&quot;,&quot;showInfoPanel&quot;:false}">
+				<div class="icon-loading"></div>
+				</div>
+			</div>
+          
+                    			<div class="col-xs-12 col-md-4 col-lg-4">
+				<div class="qumu-video" data-settings="{&quot;guid&quot;:&quot;sxWie6eez1w&quot;,&quot;type&quot;:&quot;thumbnail&quot;,&quot;showInfoPanel&quot;:false}">
+				<div class="icon-loading"></div>
+				</div>
+			</div>
+
+		</div>	
+	
+	</div>
+</div>
+</div>
+
+            <script src="/scripts/change-iframe-to-script.js?ts=637715441962500000"></script>
+
+        </div>
+        <!--Placeholder for adding the footer container-->
+        
+
+
+<footer id="footer1" class="bg-dark-grey text-white pt40 pb40 xs-pt15 xs-pb15">
+    <div class="container-fluid container-fluid--mw">
+        <div class="row">
+            <div class="col-sm-12">
+                    <h4 class="footer__title">&copy; abrdn</h4>
+
+                Read the <a rel="noopener noreferrer" href="https://www.asia-focus.co.uk/en/investor-risk-warning" target="_blank">detailed risk warning</a>
+<p>
+</p>
+<div class="row">
+<div class="col-xs-12 col-sm-12 mb30">
+<ul class="col-xs-12 col-sm-6 pills__list">
+    <li></li>
+    <li><a href="/en/legal-notice">Legal notice</a></li>
+    <li><a href="/en/cookie-policy">Cookie policy</a></li>
+    <li><a href="/en/privacy">Privacy</a></li>
+    <li><a href="/en/security">Security</a></li>
+</ul>
+<ul class="col-xs-12 col-sm-6 pills__list">
+    <li><a href="/en/legal-and-regulatory">Legal and regulatory information</a></li>
+    <li><a href="/en/accessibility">Accessibility</a></li>
+    <li><a href="/en/contact-us">Contact us</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-lg-6 col-sm-pull-6 col-lg-pull-6">
+<!--<p>Aberdeen Standard Investments is a brand of the investment businesses of Aberdeen Asset Management and Standard Life Investments.&nbsp;&nbsp;</p>-->
+</div>
+<div class="col-xs-12 ">
+<h4>Legal Notice </h4>
+<h4>NMPI Status</h4>
+<p>The Company currently conducts its affairs so that securities issued by Aberdeen Standard Asia Focus can be recommended by financial advisers to ordinary retail investors in accordance with the FCA&rsquo;s rules in relation to non-mainstream pooled investment products (NMPIs) and intends to continue to do so for the foreseeable future.</p>
+<p>The Company&rsquo;s securities are excluded from the FCA&rsquo;s restrictions which apply to non-mainstream investment products because they are securities in an investment trust.</p>
+<h4>Pre-investment Disclosure Document (PIDD)</h4>
+<p>The Alternative Investment Fund Manager Directive (&ldquo;AIFMD&rdquo;) requires Aberdeen Standard Fund Managers Limited, as the alternative investment fund manager of Aberdeen Standard Asia Focus, to make available to investors certain information prior to such investors&rsquo; investment in the Company.
+</p>
+<p>The AIFMD is intended to offer increased protection to investors in investment products that do not fall under the existing European Union regime for regulation of investment products known as &ldquo;UCITS&rdquo;.</p>
+<p><a rel="noopener noreferrer" href="https://www.aberdeenstandard.com/docs?editionId=11002f17-9ee4-474e-8e52-5d181a75fa62" target="_blank">Read the PIDD for Aberdeen Standard Asia Focus.</a></p>
+  
+  <h4>Compliance with US Executive Order 13959</h4>
+  <p>In connection with the US's Executive Order 13959,  which prohibits US Persons from purchasing "publicly traded securities" of certain Chinese companies identified as Communist Chinese Military Companies ("CCMCs"), the Company can confirm that, as of 8 January 2021, it held none of these companies and that it intends to comply with the Order going forward.  Should that cease to be the case it will make the appropriate announcement at that time.</p>
+  
+<p>Aberdeen Asset Managers Limited is authorised and regulated by the <a href="https://www.fca.org.uk">Financial Conduct Authority</a> in the United Kingdom. The information contained in this website does not constitute an offer of, or an invitation to apply for securities in any jurisdiction where such an offer or invitation is unlawful, or in which the person making such an offer is not qualified to do so. Aberdeen Asset Managers accepts no responsibility for the content of any external web sites.</p>
+<p>ABERDEEN ASSET MANAGERS LIMITED: 10 Queens Terrace, Aberdeen, Aberdeenshire, AB10 1XL Company No. SC108419</p>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+    </div>
+    <script>
+        var aamSiteName = "asiansmaller";
+    </script>
+    <script src="/scripts/app.bundle.js?ts=637715441962500000"></script>
+
+        <script type="text/javascript">
+    $( window ).load(function() {
+if($("span>span:contains('GBX')").length>0)
+{
+$("span>span:contains('GBX')").replaceWith('<span class="key-price-unit text-18">p</span>');
+ }
+else {
+$('[data-labelled-by="Share Price"]').append('<span class="key-price-unit text-18">p</span>');
+}
+$('[data-labelled-by|="Estimated NAV cum income"]').append('<span class="key-price-unit text-18">p</span>');
+$('[data-labelled-by|="Estimated NAV ex income"]').append('<span class="key-price-unit text-18">p</span>');
+});
+
+
+
+        </script>
+        <script type="text/javascript">
+    $(".hero__content .row:nth-child(2) .col-md-8").removeClass("col-lg-8").addClass("col-lg-6")
+$(".hero__video-player").removeClass("col-lg-3").addClass("col-lg-5")
+
+// FontAwesome icon for the My Account navbar item
+$("a.static-navigation__link:contains('My account')").prepend( "<i class='fa fa-sign-in-alt'></i>&nbsp;" );
+
+window.onload = function () {
+           
+       
+        const urlParams = new URLSearchParams(window.location.search);
+        const guid = urlParams.get('guid');
+        const cookieName = "asiansmaller#lang";  
+
+
+			//Is there a guid
+			if (guid) {
+				//Has the disclaimer been accepted.  If not - put in a loop till it is
+				var cookieVal = getCookie(cookieName);
+				if (cookieVal == "") {
+
+					var interval = setInterval(function () {
+						var cookieVal = getCookie(cookieName);
+						if (cookieVal != "") {
+							clearInterval(interval);
+							PlayKuluVideo(guid);
+						}
+					}, 100);
+				}
+				else {
+					PlayKuluVideo(guid);
+				}
+			}
+        };
+        function PlayKuluVideo(guid) {
+            KV.widget.widgets.forEach(function (item) {
+                if (item.contents().html().indexOf(guid) > -1) {
+                    item.api.command("playKulu");
+                }
+            });
+        }
+
+        function getCookie(cname) {
+            var name = cname + "=";
+            var decodedCookie = decodeURIComponent(document.cookie);
+            var ca = decodedCookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+
+
+        </script>
+</body>
+</html>

@@ -1,0 +1,687 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+	<base href="http://www.gdc.com/not-found.html" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Steve Breitborde" />
+	<meta name="description" content="General Datacomm Corporate Web Site" />
+	<title>General DataComm - Not Found</title>
+	<link href="/plugins/system/jce/css/content.css?083c4ddcac845ef6bc95dc2313fe4482" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_vertical_menu/cache/96/741c0422d55a18b1734ce817ac199d35.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+#scrollToTop {
+	cursor: pointer;
+	font-size: 0.9em;
+	position: fixed;
+	text-align: center;
+	z-index: 9999;
+	-webkit-transition: background-color 0.2s ease-in-out;
+	-moz-transition: background-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out;
+
+	background: #787878;
+	color: #ffffff;
+	border-radius: 3px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	right: 20px; bottom: 20px;
+}
+
+#scrollToTop:hover {
+	background: #e30000;
+	color: #ffffff;
+}
+
+#scrollToTop > img {
+	display: block;
+	margin: 0 auto;
+}
+.noscript div#off-menu_96 dl.level1 dl{
+	position: static;
+}
+.noscript div#off-menu_96 dl.level1 dd.parent{
+	height: auto !important;
+	display: block;
+	visibility: visible;
+}
+
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"3758e5f1e4f19d287a41d6666fc6fed2","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/system/js/mootools-core.js?083c4ddcac845ef6bc95dc2313fe4482" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?083c4ddcac845ef6bc95dc2313fe4482" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?083c4ddcac845ef6bc95dc2313fe4482" type="text/javascript"></script>
+	<script src="/media/plg_system_sl_scrolltotop/js/scrolltotop_mt.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?083c4ddcac845ef6bc95dc2313fe4482" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?083c4ddcac845ef6bc95dc2313fe4482" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?083c4ddcac845ef6bc95dc2313fe4482" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?083c4ddcac845ef6bc95dc2313fe4482" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?083c4ddcac845ef6bc95dc2313fe4482" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_vertical_menu/js/perfect-scrollbar.js" type="text/javascript"></script>
+	<script src="/modules/mod_vertical_menu/js/mod_vertical_menu.js" type="text/javascript"></script>
+	<script type="text/javascript">
+document.addEvent('domready', function() {
+	new Skyline_ScrollToTop({
+		'image':		'',
+		'text':			'Top',
+		'title':		'',
+		'className':	'scrollToTop',
+		'duration':		500,
+		'transition':	Fx.Transitions.linear
+	});
+});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+	<script>
+document[(_el=document.addEventListener)?'addEventListener':'attachEvent'](_el?'DOMContentLoaded':'onreadystatechange',function(){
+	if (!_el && document.readyState != 'complete') return;
+	(window.jq183||jQuery)('.noscript').removeClass('noscript');
+	window.sm96 = new VerticalSlideMenu({
+		id: 96,
+		visibility: ["1","1","0","0","0",["0","px"],["10000","px"]],
+		parentHref: 1,
+		theme: 'flat',
+		result: 'Search Results',
+		noResult: 'No Results Found',
+		backItem: 'Back',
+		filterDelay: 500,
+		filterMinChar: 3,
+		navtype: 'accordion',
+		sidebar: -1,
+		popup: 0,
+		overlay: 0,
+		sidebarUnder: 768,
+		width: 300,
+		menuIconCorner: 1,
+		menuIconX: 0,
+		menuIconY: 128,
+		hidePopupUnder: 1750,
+		siteBg: '#444444',
+		effect: 1,
+    dur: 400/1000,
+		perspective: 0,
+		inEase: 'Quad.easeOut'.split('.').reverse().join(''),
+		inOrigin: '50% 50% 0',
+		inX: 100,
+		inUnitX: '%',
+    logoUrl: '',
+		inCSS: {
+			y: 0,
+			opacity: 100/100,
+			rotationX: 0,
+			rotationY: 0,
+			rotationZ: 0,
+			skewX: 0,
+			skewY: 0,
+			scaleX: 100/100,
+			scaleY: 100/100
+		},
+		outEase: 'Quad.easeOut'.split('.').reverse().join(''),
+		outOrigin: '50% 50% 0',
+		outX: -100,
+		outUnitX: '%',
+		outCSS: {
+			y: 0,
+			opacity: 100/100,
+			rotationX: 0,
+			rotationY: 0,
+			rotationZ: 0,
+			skewX: 0,
+			skewY: 0,
+			scaleX: 100/100,
+			scaleY: 100/100
+		},
+		anim: {
+			perspective: 1000,
+			inDur: 300/1000,
+			inEase: 'Quad.easeOut'.split('.').reverse().join(''),
+			inOrigin: '50% 50% 0',
+			inX: -30,
+			inUnitX: 'px',
+			inCSS: {
+				y: 0,
+				opacity: 0/100,
+				rotationX: 0,
+				rotationY: 0,
+				rotationZ: 0,
+				skewX: 0,
+				skewY: 0,
+				scaleX: 100/100,
+				scaleY: 100/100
+			},
+			outDur: 300/1000,
+			outEase: 'Quad.easeOut'.split('.').reverse().join(''),
+			outOrigin: '50% 50% 0',
+			outX: 20,
+			outUnitX: 'px',
+			outCSS: {
+				y: 0,
+				opacity: 0/100,
+				rotationX: 0,
+				rotationY: 0,
+				rotationZ: 0,
+				skewX: 0,
+				skewY: 0,
+				scaleX: 100/100,
+				scaleY: 100/100
+			}
+		},
+		miAnim: 0,
+		miDur: 500/1000,
+		miShift: 40/1000,
+		miEase: 'Quad.easeOut'.split('.').reverse().join(''),
+		miX: 40,
+		miUnitX: '%',
+		miCSS: {
+			transformPerspective: 600,
+			transformOrigin: '50% 50% 0',
+			y: 0,
+			opacity: 0/100,
+			rotationX: 0,
+			rotationY: 0,
+			rotationZ: 0,
+			skewX: 0,
+			skewY: 0,
+			scaleX: 100/100,
+			scaleY: 100/100
+		},
+		iconAnim: 0 && 0,
+		bgX: 0,
+		dropwidth: 250,
+		dropspace: 0,
+		dropFullHeight: 0,
+		dropEvent: 'mouseenter',
+		opened: 1,
+		autoOpen: 0,
+		autoOpenAnim: 1,
+		hideBurger: 0
+	});
+});
+</script>
+
+				<link rel="stylesheet" href="/templates/gdc/css/bootstrap.css" type="text/css" />
+				<link rel="stylesheet" href="/templates/gdc/css/template.css" type="text/css" />
+			<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="/templates/gdc/css/mobile.css" type="text/css" />
+		<link rel="stylesheet" href="/templates/gdc/css/font-awesome.min.css" type="text/css" />
+	<script src="/templates/gdc/js/topfixedwrapper.js" type="text/javascript" ></script>
+	<script type="text/javascript">
+	jQuery(document).ready(function(){ jQuery('.topfixedwrapper').TCK_TopFixedWrapper(); });
+	</script>
+	    <!--[if lte IE 8]>
+  	<style type="text/css">
+  	#row1 > div.inner { behavior: url(/templates/gdc/pie.htc) }
+  	</style>
+  	<![endif]-->
+<!--[if lte IE 7]>
+<style type="text/css">
+#nav1 > div.inner ul.menu > li,#nav > div.inner ul.menu > li {
+	display: inline !important;
+	zoom: 1;
+}
+</style>
+<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+</head>
+<body class="com_content view-article no-layout no-task itemid-132 ltr"><div class="sm-pusher"><div class="sm-content"><div class="sm-content-inner">
+<div id="wrapper1" class="topfixedwrapper">
+	<div class="container-fluid inner ui-sortable">
+
+	<section id="row1" class="clearfix">
+		<div class="inner clearfix">
+			<div class="flexiblecolumn" style="width:30%;">
+				<div id="logo1" class="logo">
+					<div class="inner clearfix">
+												<a href="/">
+													<img src="/templates/gdc/images/imageGDC.png" width="216" height="53" alt="" />
+												</a>
+																	</div>
+				</div>
+			</div>
+			<div class="flexiblecolumn" style="width:70%;">
+								<nav id="nav1">
+					<div class="inner clearfix">
+						<label for="position-0-mobileck" class="mobileckhambuger_togglerlabel" style="display:none;">&#x2261;</label>
+						<input id="position-0-mobileck" class="mobileckhambuger_toggler" type="checkbox" style="display:none;"/>
+						<ul class="nav menu hidden-phone hidden-tablet mod-list">
+<li class="item-101 default"><a href="/" >Home</a></li><li class="item-108 deeper parent"><a href="/products.html" >Products</a><ul class="nav-child unstyled small"><li class="item-124 deeper parent"><a href="/products/prod-broadband.html" >Multiservice Solutions</a><ul class="nav-child unstyled small"><li class="item-176"><a href="/products/prod-broadband/prod-tid4.html" >Time Independent Transport</a></li><li class="item-191"><a href="/products/prod-broadband/prod-metroeth-1.html" >Metro Ethernet Products</a></li></ul></li><li class="item-125"><a href="/products/cabinets-shelves.html" >Cabinets / Shelves</a></li><li class="item-126"><a href="/products/csu-dsus.html" >CSU / DSUs</a></li><li class="item-127"><a href="/products/nebs-certified-routers-switches-ip-transport.html" >NEBS Certified Routers, Switches &amp; IP Transport</a></li><li class="item-128"><a href="/products/integrated-t1-t3-dds-ip-access.html" >Integrated T1 / T3 / DDS IP Access</a></li><li class="item-129"><a href="/products/modems-security.html" >Modems/Security</a></li><li class="item-130"><a href="/products/multiplexers.html" >Multiplexers</a></li><li class="item-133"><a href="/products/network-management.html" >Network Management</a></li><li class="item-134"><a href="/products/prod-xdsl.html" >xDSL Access</a></li><li class="item-136"><a href="/products/prod-broadband-dod.html" >Certified for DOD Interoperability by JTIC</a></li><li class="item-137"><a href="/products/federal.html" >GDC Federal Systems </a></li><li class="item-138"><a href="/products/prod-techsupport.html" >Technical Support</a></li></ul></li><li class="item-139 deeper parent"><a href="/solutions.html" >Solutions</a><ul class="nav-child unstyled small"><li class="item-140"><a href="/solutions/carrier-serviceprovider1.html" >Carriers &amp; Service Providers</a></li><li class="item-141"><a href="/solutions/enterprisesolutions1.html" >Enterprise</a></li></ul></li><li class="item-142 deeper parent"><a href="/corporate-news.html" >News</a><ul class="nav-child unstyled small"><li class="item-143"><a href="/corporate-news/cni-pr.html" >News Release Archive</a></li><li class="item-144"><a href="/corporate-news/cni-ev.html" >Events</a></li><li class="item-145"><a href="/corporate-news/access-bios.html" >Executive Leadership</a></li><li class="item-146"><a href="/corporate-news/access-product.html" >Product Overview</a></li></ul></li><li class="item-147 deeper parent"><a href="/service-support.html" >Professional Network Services</a><ul class="nav-child unstyled small"><li class="item-150"><a href="/service-support/factory-repair.html" >Factory Repair</a></li></ul></li><li class="item-148 deeper parent"><a href="/about.html" >Company Information</a><ul class="nav-child unstyled small"><li class="item-149"><a href="/about/locating.html" >Locating GDC</a></li><li class="item-151"><a href="/about/directions.html" >GDC Directions</a></li><li class="item-153"><a href="/corporate-news/access-bios.html" >Executive Leadership</a></li><li class="item-170"><a href="/about/contact-us.html" >Contact Us</a></li></ul></li><li class="item-152 deeper parent"><a href="/library.html" >Library</a><ul class="nav-child unstyled small"><li class="item-157"><a href="/library/prod-lit.html" >Product Literature</a></li><li class="item-158"><a href="/library/manual.html" >Manuals</a></li><li class="item-164"><a href="/library/download.html" >Downloads</a></li></ul></li></ul>
+<div class="noscript">
+	<nav id="off-menu_96" class="off-menu_96 sm-menu ">
+          	<div class="sm-filter-cont">
+		<input id="sm-filter-96" class="sm-filter" type="text" placeholder="Filter" value="" />
+		<label for="sm-filter-96" class="sm-search"></label>
+		<div class="sm-reset"></div>
+	</div>
+    <div class="sm-levels">
+    <div class="sm-level level1"><dl class="level1">
+  <dt class="level1 off-nav-101 notparent first">
+        <div class="inner">
+      <div class="link"><a data-text="Home" href="http://www.gdc.com/">Home</a></div>
+          </div>
+  </dt>
+  <dd class="level1 off-nav-101 notparent first">
+      </dd>
+    <dt class="level1 off-nav-108 parent">
+        <div class="inner">
+      <div class="link"><a data-text="Products" href="/products.html">Products</a></div>
+          </div>
+  </dt>
+  <dd class="level1 off-nav-108 parent">
+    <div class="sm-level level2"><dl class="level2">
+  <dt class="level2 off-nav-124 parent first">
+        <div class="inner">
+      <div class="link"><a data-text="Multiservice Solutions" href="/products/prod-broadband.html">Multiservice Solutions</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-124 parent first">
+    <div class="sm-level level3"><dl class="level3">
+  <dt class="level3 off-nav-176 notparent first">
+        <div class="inner">
+      <div class="link"><a data-text="Time Independent Transport" href="/products/prod-broadband/prod-tid4.html">Time Independent Transport</a></div>
+          </div>
+  </dt>
+  <dd class="level3 off-nav-176 notparent first">
+      </dd>
+    <dt class="level3 off-nav-191 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Metro Ethernet Products" href="/products/prod-broadband/prod-metroeth-1.html">Metro Ethernet Products</a></div>
+          </div>
+  </dt>
+  <dd class="level3 off-nav-191 notparent">
+      </dd>
+               </dl></div></dd>  <dt class="level2 off-nav-125 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Cabinets / Shelves" href="/products/cabinets-shelves.html">Cabinets / Shelves</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-125 notparent">
+      </dd>
+    <dt class="level2 off-nav-126 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="CSU / DSUs" href="/products/csu-dsus.html">CSU / DSUs</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-126 notparent">
+      </dd>
+    <dt class="level2 off-nav-127 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="NEBS Certified Routers, Switches &amp; IP Transport" href="/products/nebs-certified-routers-switches-ip-transport.html">NEBS Certified Routers, Switches &amp; IP Transport</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-127 notparent">
+      </dd>
+    <dt class="level2 off-nav-128 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Integrated T1 / T3 / DDS IP Access" href="/products/integrated-t1-t3-dds-ip-access.html">Integrated T1 / T3 / DDS IP Access</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-128 notparent">
+      </dd>
+    <dt class="level2 off-nav-129 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Modems/Security" href="/products/modems-security.html">Modems/Security</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-129 notparent">
+      </dd>
+    <dt class="level2 off-nav-130 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Multiplexers" href="/products/multiplexers.html">Multiplexers</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-130 notparent">
+      </dd>
+    <dt class="level2 off-nav-133 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Network Management" href="/products/network-management.html">Network Management</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-133 notparent">
+      </dd>
+    <dt class="level2 off-nav-134 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="xDSL Access" href="/products/prod-xdsl.html">xDSL Access</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-134 notparent">
+      </dd>
+    <dt class="level2 off-nav-136 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Certified for DOD Interoperability by JTIC" href="/products/prod-broadband-dod.html">Certified for DOD Interoperability by JTIC</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-136 notparent">
+      </dd>
+    <dt class="level2 off-nav-137 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="GDC Federal Systems " href="/products/federal.html">GDC Federal Systems </a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-137 notparent">
+      </dd>
+    <dt class="level2 off-nav-138 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Technical Support" href="/products/prod-techsupport.html">Technical Support</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-138 notparent">
+      </dd>
+               </dl></div></dd>  <dt class="level1 off-nav-139 parent">
+        <div class="inner">
+      <div class="link"><a data-text="Solutions" href="/solutions.html">Solutions</a></div>
+          </div>
+  </dt>
+  <dd class="level1 off-nav-139 parent">
+    <div class="sm-level level2"><dl class="level2">
+  <dt class="level2 off-nav-140 notparent first">
+        <div class="inner">
+      <div class="link"><a data-text="Carriers &amp; Service Providers" href="/solutions/carrier-serviceprovider1.html">Carriers &amp; Service Providers</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-140 notparent first">
+      </dd>
+    <dt class="level2 off-nav-141 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Enterprise" href="/solutions/enterprisesolutions1.html">Enterprise</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-141 notparent">
+      </dd>
+               </dl></div></dd>  <dt class="level1 off-nav-142 parent">
+        <div class="inner">
+      <div class="link"><a data-text="News" href="/corporate-news.html">News</a></div>
+          </div>
+  </dt>
+  <dd class="level1 off-nav-142 parent">
+    <div class="sm-level level2"><dl class="level2">
+  <dt class="level2 off-nav-143 notparent first">
+        <div class="inner">
+      <div class="link"><a data-text="News Release Archive" href="/corporate-news/cni-pr.html">News Release Archive</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-143 notparent first">
+      </dd>
+    <dt class="level2 off-nav-144 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Events" href="/corporate-news/cni-ev.html">Events</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-144 notparent">
+      </dd>
+    <dt class="level2 off-nav-145 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Executive Leadership" href="/corporate-news/access-bios.html">Executive Leadership</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-145 notparent">
+      </dd>
+    <dt class="level2 off-nav-146 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Product Overview" href="/corporate-news/access-product.html">Product Overview</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-146 notparent">
+      </dd>
+               </dl></div></dd>  <dt class="level1 off-nav-147 parent">
+        <div class="inner">
+      <div class="link"><a data-text="Professional Network Services" href="/service-support.html">Professional Network Services</a></div>
+          </div>
+  </dt>
+  <dd class="level1 off-nav-147 parent">
+    <div class="sm-level level2"><dl class="level2">
+  <dt class="level2 off-nav-150 notparent first">
+        <div class="inner">
+      <div class="link"><a data-text="Factory Repair" href="/service-support/factory-repair.html">Factory Repair</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-150 notparent first">
+      </dd>
+               </dl></div></dd>  <dt class="level1 off-nav-148 parent">
+        <div class="inner">
+      <div class="link"><a data-text="Company Information" href="/about.html">Company Information</a></div>
+          </div>
+  </dt>
+  <dd class="level1 off-nav-148 parent">
+    <div class="sm-level level2"><dl class="level2">
+  <dt class="level2 off-nav-149 notparent first">
+        <div class="inner">
+      <div class="link"><a data-text="Locating GDC" href="/about/locating.html">Locating GDC</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-149 notparent first">
+      </dd>
+    <dt class="level2 off-nav-151 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="GDC Directions" href="/about/directions.html">GDC Directions</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-151 notparent">
+      </dd>
+    <dt class="level2 off-nav-145 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Executive Leadership" href="/corporate-news/access-bios.html">Executive Leadership</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-145 notparent">
+      </dd>
+    <dt class="level2 off-nav-170 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Contact Us" href="/about/contact-us.html">Contact Us</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-170 notparent">
+      </dd>
+               </dl></div></dd>  <dt class="level1 off-nav-152 parent">
+        <div class="inner">
+      <div class="link"><a data-text="Library" href="/library.html">Library</a></div>
+          </div>
+  </dt>
+  <dd class="level1 off-nav-152 parent">
+    <div class="sm-level level2"><dl class="level2">
+  <dt class="level2 off-nav-157 notparent first">
+        <div class="inner">
+      <div class="link"><a data-text="Product Literature" href="/library/prod-lit.html">Product Literature</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-157 notparent first">
+      </dd>
+    <dt class="level2 off-nav-158 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Manuals" href="/library/manual.html">Manuals</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-158 notparent">
+      </dd>
+    <dt class="level2 off-nav-164 notparent">
+        <div class="inner">
+      <div class="link"><a data-text="Downloads" href="/library/download.html">Downloads</a></div>
+          </div>
+  </dt>
+  <dd class="level2 off-nav-164 notparent">
+      </dd>
+               </dl></div></dd>         </dl></div>
+    </div>
+</nav></div>
+
+					</div>
+				</nav>
+							</div>
+			<div class="clr"></div>
+		</div>
+	</section>
+
+	</div>
+</div>
+<div id="wrapper">
+	<div class="container-fluid inner ui-sortable">
+
+	
+	
+
+	<div id="maincontent" class="maincontent noleft noright">
+		<div class="inner clearfix">
+						<div id="main" class="column main row-fluid">
+				<div class="inner clearfix">
+							<main id="main-center" class="column center ">
+								<div class="inner">
+											<div id="system-message-container">
+	</div>
+
+											<div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB" />
+	
+		
+						
+		
+	
+	
+		
+						<div itemprop="articleBody">
+		<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><span style="font-size: 14pt;"><strong><span style="font-size: 18pt;">Ooops!&nbsp;</span> Sorry, the page you requested cannot be found!</strong>&nbsp;</span>&nbsp; </span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Please try again or use the menu above to navigate to the page you intended to find.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="/">Back Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <a href="/search.html">Search</a></p>
+<p>&nbsp; </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p> 	</div>
+
+						
+									</div>
+
+								</div>
+							</main>
+							
+				</div>
+			</div>
+			<div class="clr"></div>
+		</div>
+	</div>
+
+		<section id="modulesbottom" class="clearfix">
+		<div class="inner clearfix n4">
+						<div id="modulesbottommod1" class="flexiblemodule ">
+				<div class="inner clearfix">
+							<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="col-lg-3">
+<div class="widget">
+<h5 class="widgetheading">Get in touch with us</h5>
+<address><strong>www.GDC.com</strong></address>
+<p>(203) 729-0271 &bull; Sales &amp; Support <br /> (800) 523-1737 <br /><br /></p>
+</div>
+</div></div>
+		</div>
+	
+				</div>
+			</div>
+									<div id="modulesbottommod2" class="flexiblemodule ">
+				<div class="inner clearfix">
+							<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p><strong>Info.</strong></p>
+<p><span style="color: #ffffff;"><a href="/legalnotice.html" style="color: #ffffff;">Legal Notices</a></span><br /><span style="color: #ffffff;"><a href="/privacy.html" style="color: #ffffff;">Privacy Policy</a></span><br /><span style="color: #ffffff;"><a href="/" style="color: #ffffff;">Go to GDC Home</a></span><br /><span style="color: #f0f0f0;"><a href="http://www.gdc.com/about/contact-us.html" style="color: #f0f0f0;">Contact Us</a></span></p></div>
+		</div>
+	
+				</div>
+			</div>
+									<div id="modulesbottommod3" class="flexiblemodule ">
+				<div class="inner clearfix">
+							<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p><strong>Latest News</strong></p></div>
+		</div>
+			<div class="moduletable">
+						<ul class="latestnews mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/products/prod-broadband/prod-metroeth-1.html" itemprop="url">
+			<span itemprop="name">
+				General DataComm: Metro Ethernet Products			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/products/prod-broadband/prod-tid4.html" itemprop="url">
+			<span itemprop="name">
+				Time Independent Data Solution			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/products/network-management.html" itemprop="url">
+			<span itemprop="name">
+				General DataComm: Team			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/team-diag.html" itemprop="url">
+			<span itemprop="name">
+				General DataComm: Team Diagnostic			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/products/prod-xdsl.html" itemprop="url">
+			<span itemprop="name">
+				General DataComm: Product XDSL			</span>
+		</a>
+	</li>
+</ul>
+		</div>
+	
+				</div>
+			</div>
+									<div id="modulesbottommod4" class="flexiblemodule ">
+				<div class="inner clearfix">
+							<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p><span style="color: #ffffff;"><strong><a href="/library/download.html" style="color: #ffffff;">Downloads</a></strong></span></p>
+<p>&nbsp;</p></div>
+		</div>
+	
+				</div>
+			</div>
+									<div class="clr"></div>
+		</div>
+	</section>
+	
+
+		<footer id="footer">
+		<div class="inner clearfix">
+					<div class="moduletable hidden-phone">
+						
+
+<div class="custom hidden-phone"  >
+	<p><span style="font-size: 8pt;"><em>&nbsp;&nbsp;&nbsp; GDC is a leader in the design, development, and manufacture of high-speed network access and transport equipment for carriers and service providers, governments and commercial end-users worldwide</em></span></p></div>
+		</div>
+			<div class="moduletable">
+						<div class="footer1" style="text-transform: uppercase; padding-left: 12px;">Copyright &#169; 2021 General DataComm. All Rights Reserved.</div>
+<div class="footer2" style="padding: 12px;">All international rights reserved. GENERAL DATACOMM, GDC, Inc., Metroplex, Innovx, TEAM, and All Rate are registered trademarks of GENERAL DATACOMM, Inc. Hewlett-Packard and OpenView are registered trademarks of Hewlett-Packard. All other trademarks are the property of their respective owners.<br></div>
+		</div>
+	
+		</div>
+	</footer>
+	
+	</div>
+</div>
+
+
+</div></div></div></body>
+</html>

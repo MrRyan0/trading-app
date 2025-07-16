@@ -1,0 +1,521 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<title>  Gibb River Diamonds Limited </title>
+	<meta name="keywords" content="POZ">
+	<meta name="description" content="Phosphate Australia">
+	<link rel="shortcut icon" type="image/png" href="/irm/content/images/favicon.png">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" media="all" href="/irm/content/css/gallery.css">
+    <link href="/irm/content/css/jquery.fancybox.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" href="/irm/content/css/foundation.css" />
+    <link rel="stylesheet" href="/irm/content/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="/irm/content/js/slick/slick.css" />
+    <link rel="stylesheet" href="/irm/content/js/slick/slick-theme.css" />
+    <link rel="stylesheet" href="/irm/content/js/slicknav/slicknav.css" />
+	<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css">
+
+    <link rel="stylesheet" type="text/css" media="all" href="/irm/content/stylesheet.css">
+    <link rel="stylesheet" type="text/css" media="all" href="/irm/content/responsive.css">
+
+	
+</head>
+<body class="home-page">
+
+<div id="page">
+	<header id="header" role="banner">
+        
+        <div class="row pagetop">
+        	<div class="large-3 columns">
+	            <div id="title"><a href="/irm/content/default.aspx"><img src="/irm/content/images/GIBB_Logo.jpg" alt="Phospate Australia" class='logo'><span>POZ</span></a></div>
+			</div>
+        	<div class="large-9 columns right">
+				<nav class="top-bar" data-topbar>
+            	  
+					<ul class="title-area">
+						<li class="name">
+						  <h1><a href="/irm/content/default.aspx">&nbsp;</a></h1>
+						</li>
+						 <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+						<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+					</ul>
+
+	            	<section class="top-bar-section">
+		            	<ul class="nav" id="nav">
+<li><a href="/irm/content/default.aspx"  data-banner-description="">Home</a></li>
+<li><a href="/irm/content/corporate.aspx?RID=250" data-id="subnav1" data-banner-description="">Corporate</a>
+<ul
+ class="subnav1"
+>
+<li><a href="/irm/content/board-of-directors1.aspx?RID=251"  data-banner-description="">Board of Directors</a></li>
+<li><a href="/irm/content/corporate-governance.aspx?RID=269"  data-banner-description="">Corporate Governance</a></li>
+<li><a href="/irm/content/corporate-directory.aspx?RID=270"  data-banner-description="">Corporate Directory</a></li>
+</ul>
+</li>
+<li><a href="/irm/content/projects.aspx?RID=271" data-id="subnav2" data-banner-description="">Projects</a>
+<ul
+ class="subnav2"
+>
+<li><a href="/irm/content/gold2.aspx?RID=536"  data-banner-description="">Gold</a>
+<ul
+>
+<li><a href="/irm/content/edjudina-gold-project.aspx?RID=537"  data-banner-description="">Edjudina gold Project</a></li>
+</ul>
+</li>
+<li><a href="/irm/content/diamonds.aspx?RID=423"  data-banner-description="">Diamonds</a>
+<ul
+>
+<li><a href="/irm/content/ellendale-overview.aspx?RID=509"  data-banner-description="">Ellendale Overview</a></li>
+<li><a href="/irm/content/blina-alluvial-prospect.aspx?RID=510"  data-banner-description="">Blina Alluvial Prospect	</a></li>
+<li><a href="/irm/content/ellendale-9-alluvials-prospect.aspx?RID=511"  data-banner-description="">Ellendale 9 Alluvials Prospect</a></li>
+<li><a href="/irm/content/diamond-prices-ellendale-4-9.aspx?RID=523"  data-banner-description="">Diamond Prices Ellendale 4&amp;9</a></li>
+<li><a href="/irm/content/diamond-prices-ellendale-alluvials.aspx?RID=524"  data-banner-description="">Diamond Prices Ellendale Alluvials</a></li>
+<li><a href="/irm/content/diamond-prices-blina-alluvials.aspx?RID=525"  data-banner-description="">Diamond Prices Blina Alluvials</a></li>
+<li><a href="/irm/content/ellendale-9-diamond-quality-report.aspx?RID=526"  data-banner-description="">Ellendale 9: Diamond Quality Report</a></li>
+</ul>
+</li>
+<li><a href="/irm/content/phosphate1.aspx?RID=387"  data-banner-description=""> Phosphate</a></li>
+</ul>
+</li>
+<li><a href="/irm/content/investors.aspx?RID=273" data-id="subnav3" data-banner-description="">Investors</a>
+<ul
+ class="subnav3"
+>
+<li><a href="/irm/content/welcome.aspx?RID=274"  data-banner-description="">Welcome</a></li>
+<li><a href="/irm/content/asx-announcements.aspx?RID=8"  data-banner-description="">ASX Announcements</a></li>
+<li><a href="/irm/content/annual-reports.aspx?RID=276"  data-banner-description="">Annual Reports</a></li>
+<li><a href="/irm/content/half-yearly-quarterly-reports.aspx?RID=277"  data-banner-description="">Half Yearly &amp; Quarterly Reports</a></li>
+<li><a href="/irm/content/presentations.aspx?RID=278"  data-banner-description="">Presentations</a></li>
+<li><a href="/irm/content/media.aspx?RID=384"  data-banner-description="">Media</a></li>
+<li><a href="/irm/content/videos.aspx?RID=466"  data-banner-description="">Videos</a></li>
+<li><a href="/irm/content/top-20-shareholders.aspx?RID=318"  data-banner-description="">Top 20 Shareholders</a></li>
+</ul>
+</li>
+<li><a href="/irm/content/photo-gallery.aspx?RID=414" data-id="subnav4" data-banner-description="">Photo Gallery</a>
+<ul
+ class="subnav4"
+>
+<li><a href="/irm/content/diamond-project.aspx?RID=417"  data-banner-description="">Diamond Project</a></li>
+<li><a href="/irm/content/phosphate-project-photos.aspx?RID=381"  data-banner-description="">Phosphate Project</a></li>
+</ul>
+</li>
+<li><a href="/irm/content/contact-us1.aspx?RID=395" data-id="subnav5" data-banner-description=""> Contact Us</a>
+<ul
+ class="subnav5"
+>
+<li><a href="/irm/content/contact.aspx?RID=281"  data-banner-description="">Contact</a></li>
+<li><a href="/irm/content/email-alerts1.aspx?RID=420"  data-banner-description=""> Email Alerts</a></li>
+</ul>
+</li>
+</ul>
+        
+    
+
+</uc1:NavTop>
+	                </section>
+
+            	</nav><!-- #navigation -->
+			</div>
+		</div>
+
+	</header><!-- #header -->
+
+
+
+	<form name="aspnetForm" method="post" action="/IRM/content/default.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc1MzY1MDcwOA9kFgJmD2QWBAIBDw8WCB4PQ3VycmVudFVzZXJOYW1lBQ1Ob3QgTG9nZ2VkIEluHhJDdXJyZW50Q29tcGFueU5hbWUFCFBhdHJpY2tzHgpDYXRlZ29yeUlkZB4ST3JpZ2luYWxDYXRlZ29yeUlkZGRkAgIPDxYIHwJkHwNkHwBkHwFkZBYCZg8WAh4EVGV4dAXYHjx1bCBjbGFzcz0ibmF2IiBpZD0ibmF2Ij4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvZGVmYXVsdC5hc3B4IiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+SG9tZTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC9jb3Jwb3JhdGUuYXNweD9SSUQ9MjUwIiBkYXRhLWlkPSJzdWJuYXYxIiBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5Db3Jwb3JhdGU8L2E+DQo8dWwNCiBjbGFzcz0ic3VibmF2MSINCj4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvYm9hcmQtb2YtZGlyZWN0b3JzMS5hc3B4P1JJRD0yNTEiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5Cb2FyZCBvZiBEaXJlY3RvcnM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvY29ycG9yYXRlLWdvdmVybmFuY2UuYXNweD9SSUQ9MjY5IiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+Q29ycG9yYXRlIEdvdmVybmFuY2U8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvY29ycG9yYXRlLWRpcmVjdG9yeS5hc3B4P1JJRD0yNzAiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5Db3Jwb3JhdGUgRGlyZWN0b3J5PC9hPjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvcHJvamVjdHMuYXNweD9SSUQ9MjcxIiBkYXRhLWlkPSJzdWJuYXYyIiBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5Qcm9qZWN0czwvYT4NCjx1bA0KIGNsYXNzPSJzdWJuYXYyIg0KPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC9nb2xkMi5hc3B4P1JJRD01MzYiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5Hb2xkPC9hPg0KPHVsDQo+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L2VkanVkaW5hLWdvbGQtcHJvamVjdC5hc3B4P1JJRD01MzciICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5FZGp1ZGluYSBnb2xkIFByb2plY3Q8L2E+PC9saT4NCjwvdWw+DQo8L2xpPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC9kaWFtb25kcy5hc3B4P1JJRD00MjMiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5EaWFtb25kczwvYT4NCjx1bA0KPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC9lbGxlbmRhbGUtb3ZlcnZpZXcuYXNweD9SSUQ9NTA5IiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+RWxsZW5kYWxlIE92ZXJ2aWV3PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L2JsaW5hLWFsbHV2aWFsLXByb3NwZWN0LmFzcHg/UklEPTUxMCIgIGRhdGEtYmFubmVyLWRlc2NyaXB0aW9uPSIiPkJsaW5hIEFsbHV2aWFsIFByb3NwZWN0CTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC9lbGxlbmRhbGUtOS1hbGx1dmlhbHMtcHJvc3BlY3QuYXNweD9SSUQ9NTExIiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+RWxsZW5kYWxlIDkgQWxsdXZpYWxzIFByb3NwZWN0PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L2RpYW1vbmQtcHJpY2VzLWVsbGVuZGFsZS00LTkuYXNweD9SSUQ9NTIzIiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+RGlhbW9uZCBQcmljZXMgRWxsZW5kYWxlIDQmYW1wOzk8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvZGlhbW9uZC1wcmljZXMtZWxsZW5kYWxlLWFsbHV2aWFscy5hc3B4P1JJRD01MjQiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5EaWFtb25kIFByaWNlcyBFbGxlbmRhbGUgQWxsdXZpYWxzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L2RpYW1vbmQtcHJpY2VzLWJsaW5hLWFsbHV2aWFscy5hc3B4P1JJRD01MjUiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5EaWFtb25kIFByaWNlcyBCbGluYSBBbGx1dmlhbHM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvZWxsZW5kYWxlLTktZGlhbW9uZC1xdWFsaXR5LXJlcG9ydC5hc3B4P1JJRD01MjYiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5FbGxlbmRhbGUgOTogRGlhbW9uZCBRdWFsaXR5IFJlcG9ydDwvYT48L2xpPg0KPC91bD4NCjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L3Bob3NwaGF0ZTEuYXNweD9SSUQ9Mzg3IiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+IFBob3NwaGF0ZTwvYT48L2xpPg0KPC91bD4NCjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L2ludmVzdG9ycy5hc3B4P1JJRD0yNzMiIGRhdGEtaWQ9InN1Ym5hdjMiIGRhdGEtYmFubmVyLWRlc2NyaXB0aW9uPSIiPkludmVzdG9yczwvYT4NCjx1bA0KIGNsYXNzPSJzdWJuYXYzIg0KPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC93ZWxjb21lLmFzcHg/UklEPTI3NCIgIGRhdGEtYmFubmVyLWRlc2NyaXB0aW9uPSIiPldlbGNvbWU8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvYXN4LWFubm91bmNlbWVudHMuYXNweD9SSUQ9OCIgIGRhdGEtYmFubmVyLWRlc2NyaXB0aW9uPSIiPkFTWCBBbm5vdW5jZW1lbnRzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L2FubnVhbC1yZXBvcnRzLmFzcHg/UklEPTI3NiIgIGRhdGEtYmFubmVyLWRlc2NyaXB0aW9uPSIiPkFubnVhbCBSZXBvcnRzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L2hhbGYteWVhcmx5LXF1YXJ0ZXJseS1yZXBvcnRzLmFzcHg/UklEPTI3NyIgIGRhdGEtYmFubmVyLWRlc2NyaXB0aW9uPSIiPkhhbGYgWWVhcmx5ICZhbXA7IFF1YXJ0ZXJseSBSZXBvcnRzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L3ByZXNlbnRhdGlvbnMuYXNweD9SSUQ9Mjc4IiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+UHJlc2VudGF0aW9uczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC9tZWRpYS5hc3B4P1JJRD0zODQiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5NZWRpYTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC92aWRlb3MuYXNweD9SSUQ9NDY2IiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+VmlkZW9zPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L3RvcC0yMC1zaGFyZWhvbGRlcnMuYXNweD9SSUQ9MzE4IiAgZGF0YS1iYW5uZXItZGVzY3JpcHRpb249IiI+VG9wIDIwIFNoYXJlaG9sZGVyczwvYT48L2xpPg0KPC91bD4NCjwvbGk+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L3Bob3RvLWdhbGxlcnkuYXNweD9SSUQ9NDE0IiBkYXRhLWlkPSJzdWJuYXY0IiBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5QaG90byBHYWxsZXJ5PC9hPg0KPHVsDQogY2xhc3M9InN1Ym5hdjQiDQo+DQo8bGk+PGEgaHJlZj0iL2lybS9jb250ZW50L2RpYW1vbmQtcHJvamVjdC5hc3B4P1JJRD00MTciICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj5EaWFtb25kIFByb2plY3Q8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvcGhvc3BoYXRlLXByb2plY3QtcGhvdG9zLmFzcHg/UklEPTM4MSIgIGRhdGEtYmFubmVyLWRlc2NyaXB0aW9uPSIiPlBob3NwaGF0ZSBQcm9qZWN0PC9hPjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvY29udGFjdC11czEuYXNweD9SSUQ9Mzk1IiBkYXRhLWlkPSJzdWJuYXY1IiBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj4gQ29udGFjdCBVczwvYT4NCjx1bA0KIGNsYXNzPSJzdWJuYXY1Ig0KPg0KPGxpPjxhIGhyZWY9Ii9pcm0vY29udGVudC9jb250YWN0LmFzcHg/UklEPTI4MSIgIGRhdGEtYmFubmVyLWRlc2NyaXB0aW9uPSIiPkNvbnRhY3Q8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvaXJtL2NvbnRlbnQvZW1haWwtYWxlcnRzMS5hc3B4P1JJRD00MjAiICBkYXRhLWJhbm5lci1kZXNjcmlwdGlvbj0iIj4gRW1haWwgQWxlcnRzPC9hPjwvbGk+DQo8L3VsPg0KPC9saT4NCjwvdWw+DQpkZFOintRzoNb3zLPcLUqfJyUBnAeY" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DCBD7F32" />
+</div>
+			
+
+<style>
+
+.slide-one{
+	height: 300px;
+	background: url(/irm/content/images/slide5.jpg) no-repeat top center;
+}
+.slide-two{
+	height: 300px;
+	background: url(/irm/content/images/slide-new.jpg) no-repeat top center;
+}
+.slide-three{
+	height: 300px;
+	background: url(/irm/content/images/slide3.jpg) no-repeat;
+}
+
+.slide-four{
+	height: 300px;
+	background: url(/irm/content/images/slide6.jpg) no-repeat top center;
+	    background-size: cover;
+}
+
+.slide-five{
+	height: 300px;
+	background: url(/irm/content/images/slide7.jpg) no-repeat;
+	 background-size: cover;
+}
+
+
+.slide-six{
+	height: 300px;
+	background: url(/irm/content/images/slidenew6.jpg) no-repeat center center;
+	 background-size: cover;
+}
+
+
+.slide-seven{
+	height: 300px;
+	background: url(/irm/content/images/slidenew7.jpg) no-repeat center center;
+	 background-size: cover;
+}
+
+.slide-eight{
+	height: 300px;
+	background: url(/irm/content/images/slide8.jpg) no-repeat center center;
+	 background-size: cover;
+}
+
+</style>
+
+	
+	<div class="slideoverflow slider">
+			
+				<div class='slides slide-four'>
+					<!-- <img src="/irm/content/images/slide3.jpg" /> -->
+					<div class="slider-text">Blina Diamond Project: 8.4 carat Fancy Yellow diamond recovered from GIB ground</div>
+
+				</div>
+
+				<div class='slides slide-two'>
+				    <!-- <img src="/irm/content/images/slide2.jpg" /> -->
+				    <div class="slider-text">Blina Diamond Project – Historic Mining Agreement with Bunuba Traditional Owners</div>
+				</div>
+
+				
+				
+				
+				
+				
+				
+				<div class='slides slide-six'>
+					<!-- <img src="/irm/content/images/slide3.jpg" /> -->
+					<div class="slider-text">Blina Terrace 5 Previous Trial Mining Operations</div>
+				</div>
+				
+				
+				<div class='slides slide-seven'>
+					<!-- <img src="/irm/content/images/slide3.jpg" /> -->
+					<div class="slider-text">Highland Plains: sampling outcropping high grade phosphate</div>
+				</div>
+				<div class='slides slide-eight'>
+					<!-- <img src="/irm/content/images/slide3.jpg" /> -->
+					<div class="slider-text">Ellendale 9 Diamond Production</div>
+				</div>
+
+	</div>
+	
+	<div class="row homtitle">
+		<div class="small-12 columns">
+			<h2>Phosphate Australia Limited:<br>
+			Australia's Next Diamond Producer</h2>
+			<a href="https://www.youtube.com/embed/UeTNv5scIJU?autoplay=1" target="_blank"><img src="/irm/content/images/video-thumb.jpg"></a>
+		</div>
+	</div>
+
+	<div class="home-content-container">
+		<div class="row home-boxes">
+			
+			<div class="medium-4 columns lhombox">
+				<img src="/irm/content/images/latestnews.jpg">
+				<div class="lhomebox">
+					<h3>Latest News</h3>
+					<div id="load-news"><i class="fa fa-circle-o-notch fa-spin"></i></div>
+					<a class='hbmore' href="/irm/content/asx-announcements.aspx?RID=8"><i class="fa fa-plus-square"></i> more</a>
+				</div>
+			</div>
+
+			<div class="medium-3 columns lhombox">
+				<img src="/irm/content/images/emailalerts.jpg">
+				<div class="lhomebox">
+					<h3>Sign up to Email Alerts</h3>
+					<p>Subscribe to receive all company announcements through our Email Alerts service.</p>
+					<a class='hbmore' href="/irm/content/email-alerts1.aspx?RID=42"><i class="fa fa-plus-square"></i> more</a>
+				</div>
+			</div>
+
+			<div class="medium-5 columns lhomeboxlast">
+				<h2>Diamond Project Site Video Update</h2>
+				<a class="various fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/TuKhMkL0EBs?autoplay=1"><img src="/irm/content/images/Blina.jpg"></a>
+				<div class="row lhomeboxlastlb">
+					<div class="small-5 columns lilhbox">
+						<img class="hsp" src="/irm/content/images/shareprice.jpg">
+					</div>
+					<div class="small-7 columns lilhbox"> 
+						<h3>Share Price</h3>
+						<p>For more information <a href="http://www.asx.com.au/asx/research/companyInfo.do?by=asxCode&asxCode=GIB" target="_blank">Click here</a></p>
+						<a href='http://www.asx.com.au/asx/research/companyInfo.do?by=asxCode&asxCode=GIB' target='_blank'>
+							<img class="hasx" src="/irm/content/images/asx.png">
+						</a>
+					</div>
+				</div>
+				
+			</div>
+
+			<div class="medium-5 columns lhomeboxlastonresponsive">
+				<div class="imglhomeboxlastonresponsive">&nbsp;</div>
+				<div class="lhomebox">
+					<h3>Share Price</h3>
+					<p>For more information <a href="http://www.asx.com.au/asx/research/companyInfo.do?by=asxCode&asxCode=GIB" target="_blank">Click here</a></p>
+						<a href='http://www.asx.com.au/asx/research/companyInfo.do?by=asxCode&asxCode=GIB' target='_blank'>
+							<img class="hasx" src="/irm/content/images/asx.png">
+						</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+		</form>
+	
+	<div class="clear"></div>
+	</div><!-- #main -->
+    <footer id="footer">
+    
+    <div class="row footer padtop">
+
+        <div class="large-9 columns">
+
+            <div class="copyright">
+                Copyright &copy; <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script> Gibb River Diamonds Limited
+            </div>
+                
+            <ul class="footer-map">
+                <li><a href="/irm/content/privacy.aspx?RID=290">Privacy Statement</a></li>
+                <li><a href="/irm/search.aspx?masterpage=3&title=Search&rid=302">Search</a></li>
+                <li><a href="/irm/sitemap.aspx?masterpage=3&title=Site%20Map">Site Map</a></li>
+            </ul>
+
+        </div>
+
+        <div class="large-3 columns">
+            <div class='right sitebyirm'>
+               <a class="irmbut" href="http://www.irmau.com" target="_blank">Site by <img src='/irm/content/images/sitebyirm.png' class="irmlogo"></a>
+            </div>
+        </div>        
+
+    </div>
+
+
+
+    </footer><!-- #footer -->
+</div><!-- #page -->
+
+    <script src="/irm/content/js/vendor/jquery.js"></script>
+    <script src="/irm/content/js/foundation.min.js"></script>
+    <script src="/irm/content/js/jquery.fancybox.js" language="javascript" type="text/javascript"></script>
+    <script src="/irm/content/js/jquery.lightbox.activate.js" language="javascript" type="text/javascript"></script>
+    <script src="/irm/content/js/vendor/fastclick.js"></script>
+    <script src="/irm/content/js/vendor/jquery.cookie.js"></script>
+	<script src="/irm/content/js/vendor/placeholder.js"></script>
+    <script src="/irm/content/js/vendor/modernizr.js"></script>
+    <script src="/irm/content/js/slick/slick.min.js"></script>
+    <script src="/irm/content/js/slicknav/jquery.slicknav.min.js"></script>
+    
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+
+
+<script>
+	$(document).ready(function() {
+
+        //$("#nav a:contains(Home)").hide();
+
+        //$('#nav').slicknav();
+		
+		 $('#nav').slicknav({
+     
+	  allowParentLinks: 'true',
+	  nestedParentLinks: 'false', 
+		showChildren: 'true' 
+    });  
+
+        if($('.slider').length) {
+            $('.slider').slick({
+                  dots: true,
+                  infinite: true,
+                  speed: 1500,
+                  autoplay: true,
+                  autoplaySpeed: 7000,
+            });        
+        }        
+
+        $(".nav > li").addClass("has-dropdown"); 
+        $(".subnav1").addClass("dropdown"); 
+        $(".subnav2").addClass("dropdown"); 
+        $(".subnav3").addClass("dropdown"); 
+        $(".subnav4").addClass("dropdown"); 
+        $(".subnav5").addClass("dropdown"); 
+        $(".subnav6").addClass("dropdown"); 
+
+        $("ul.level4 ul").addClass("has-dropdown");
+        //$("li:contains(Phosphate)").addClass("has-dropdown"); 
+        //$("ul.level3 ul").addClass("has-dropdown"); 
+        // fix the nested sub menu for australia. Will probably break if the menu is moved around.
+
+        $(document).foundation();
+
+        //$(".image-gallery a").fancybox();
+		
+		$(".fancybox").fancybox({
+    'width': '100%',
+	'height': '100%' ,
+	type: "iframe",
+	fullScreen : {
+		requestOnStart : true
+	}
+    // other API options
+})
+
+        $(".top-bar-loading").hide();
+        $(".top-bar").show(); /*only show the main menu when the document is ready. */
+
+        $.ajaxSetup({cache:false});
+
+		if ($('#load-asx').length) {
+			loaderscript('#load-asx', '/irm/pub/SharePriceOld.aspx?ticker=GIB&exchange=ASX&disp=b,s,f,h,l,la,mp,ch,pc,v,tt,mm');
+		}
+		
+		if ($('#chart').length) {
+			$('#chart').attr('src', 'http://charts.iguana2.com/irmau/hist-500x300/line/1y/asx/GIB/0x00000000/0xf5f7fc/0xBDBDBD/0x2E2E2E/0xD8D8D8/0x2d3c8f/0x00000000/weekly/0x2d3c8f50');
+		}
+		
+		if ($('#load-media').length) {
+			loaderscript('#load-media', '/irm/ShowCategory.aspx?CategoryID=321&amp;HideTopLine=True&amp;masterpage=2 .newsitems');
+		}
+		
+        
+        // homepage news
+        if ($('#load-news').length) {
+            loaderscript('#load-news', '/irm/content/home-page-news-headlines.aspx .newsitems');
+        }
+        
+        // investor news
+        if ($('#load-invnews').length) {
+            loaderscript('#load-invnews', '/irm/content/home-page-news-headlines.aspx .newsitems');
+        }
+
+        // load annual report archive
+        if ($('#annualreportarchive').length) {
+            loaderscript('#annualreportarchive', '/irm/ShowCategory.aspx?CategoryID=291&amp;HideTopLine=True&amp;masterpage=2 .newsitems');
+        }
+        
+        // homepage shareprice
+        if ($('#load-shareprice').length) {
+            loaderscript('#load-shareprice', '/irm/content/shareprice.aspx #shareprice');
+        }
+        // load advanced share charts
+        if ($('#load-jschart').length) {
+            loaderscript('#load-jschart', '/irm/content/js-chart.html .shareprice');
+        }
+        
+        // breadcrumbs
+        if ($('#breadcrumbs').length) {
+            var pageTitle = $('.title').text();
+            $('#current-page').html(pageTitle);
+        }
+        
+        // striped tables
+        $('.cms-tbl tr:nth-child(odd)').addClass('alt');
+
+        $( "#tabs" ).tabs();
+
+        // load annual report archive
+        if ($('#presentationsload').length) {
+            loaderscript('#presentationsload', '/irm/content/presentations.aspx .newsitems');
+        }
+
+	});
+	
+
+
+function changePicture() {
+
+	var picFile = new Array (
+		'http://charts.iguana2.com/irmau/hist-500x300/line/6m/asx/GIB/0x00000000/0xf5f7fc/0xBDBDBD/0x2E2E2E/0xD8D8D8/0x2d3c8f/0x00000000/weekly/0x2d3c8f50',
+		'http://charts.iguana2.com/irmau/hist-500x300/line/1m/asx/GIB/0x00000000/0xf5f7fc/0xBDBDBD/0x2E2E2E/0xD8D8D8/0x2d3c8f/0x00000000/weekly/0x2d3c8f50',
+		'http://charts.iguana2.com/irmau/hist-500x300/line/2m/asx/GIB/0x00000000/0xf5f7fc/0xBDBDBD/0x2E2E2E/0xD8D8D8/0x2d3c8f/0x00000000/weekly/0x2d3c8f50',
+		'http://charts.iguana2.com/irmau/hist-500x300/line/3m/asx/GIB/0x00000000/0xf5f7fc/0xBDBDBD/0x2E2E2E/0xD8D8D8/0x2d3c8f/0x00000000/weekly/0x2d3c8f50',
+		'http://charts.iguana2.com/irmau/hist-500x300/line/1y/asx/GIB/0x00000000/0xf5f7fc/0xBDBDBD/0x2E2E2E/0xD8D8D8/0x2d3c8f/0x00000000/weekly/0x2d3c8f50',
+		'http://charts.iguana2.com/irmau/hist-500x300/pct/1y/asx/GIB/0x00000000/0xf5f7fc/0xBDBDBD/0x2E2E2E/0xD8D8D8/0x2d3c8f/0x00000000/weekly/-/asx/xjo/0xFF0000/0x00000000'
+	);
+
+	var selection = $('#picture option:selected').val();
+	$('#chart').attr('src', picFile[selection]);
+}
+
+//Ajax Loader + fadein on load
+function loaderscript(loadDivID, pageref) {
+    $(loadDivID).load(pageref, function() {
+        $(this).css('display', 'none');
+        $('.loader', this).fadeOut();
+        $(this).fadeIn();
+    });
+}
+
+//Text Resizing
+if ($('#utilities').length) {
+    $(function(){
+        $('.textresize').click(function(){
+            var ourText = $('h1, h2, .entry-content p, .entry-content ol li, .entry-content ul li, .entry-content .article,.entry-content table td');
+            var currFontSize = ourText.css('fontSize');
+            var finalNum = parseFloat(currFontSize, 10);
+            var stringEnding = currFontSize.slice(-2);
+            if(this.id == 'larger') {
+                finalNum *= 1.2;
+            }
+            else if (this.id == 'smaller'){
+                finalNum /=1.2;
+            }
+            ourText.css('fontSize', finalNum + stringEnding);
+        });
+    });
+}
+
+// make clickable div
+$(function() {
+    $('.clickable').click(function(){
+        window.location=$(this).find('a').attr('href');
+        return false;
+    });
+});
+
+    
+</script>
+
+<script>
+    var _gaq=[['_setAccount','UA-21954345-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+<!-- Add this after the google analytics code, to track links -->
+<script src="/irm/content/js/linktrack.js"></script>
+
+
+
+</body>
+</html>

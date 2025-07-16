@@ -1,0 +1,2159 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+		<!--<link rel="stylesheet" href="/css/sitesettings.php" type="text/css" />-->
+				<title>Little Sioux Corn Processors - Homepage</title>
+		<!--[if IE & gte IE 8 ]>
+			<meta http-equiv="x-ua-compatible" content="IE=edge">
+		<![endif]-->
+		<meta name="keywords" content="" />
+        <meta name="description" content="" />
+		<!--<meta http-equiv="Refresh" content="1800" />-->
+		
+		<link rel="stylesheet" type="text/css" href="/css/symbolpicker.css" />
+		<link rel="shortcut icon" href="" />
+				<script type="text/javascript" nonce="ac-sites-inline-js">
+			var JSTemplateName = 'responsive';
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.0.0/prototype.js" integrity="sha256-3t6jqiKgh7N0XJY156PWXnctV85ZC1QaajIGmgsdYLk=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.min.js" integrity="sha256-md9l4IyQqjtwDflTc6TT8foJIbHA8wpUoFLtV2tbWMc=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.8.3/effects.min.js" integrity="sha256-AOSx6HRh1cQUnMsmXXv6QTEh28+U1x//AlsoMMEgMJk=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.8.3/controls.min.js" integrity="sha256-Hnarrh/d5YnnE7l1BOhCWRlebwt3kRCJ5GNOABGayIk=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.8.3/dragdrop.min.js" integrity="sha256-LDp/7eErvr3vvRgY20AA6v7Jj7jiW+uJF3fRJ/yYNMY=" crossorigin="anonymous"></script>
+		<script type="text/javascript" language="javascript" src="/js/symbolpicker.js"></script>
+		<script type="text/javascript" language="javascript" src="/js/shared.js"></script>
+				<script type="text/javascript" language="javascript" src="//www.agricharts.com/marketdata/quotelib.js"></script>				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc=" crossorigin="anonymous" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.min.css" integrity="sha256-iWTx/iC9IoKaoSKD5+WVFef8ZYNIgQ4AxVpMbBw2hig=" crossorigin="anonymous" />
+		<link rel="stylesheet" href="/sitetemplates/responsive.css" />
+		<link rel="stylesheet" href="/css/responsive-default-colorscheme.css" type="text/css" />
+		<link rel="stylesheet" href="/sitetemplates/sliding-sidebar.css" />
+				<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.11/css/dataTables.bootstrap.min.css"/><link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.0.2/css/responsive.bootstrap.min.css"/>					<style>
+				.home-buttons td{background-color: #003398;padding:5px;border: 5px solid white;}
+.home-buttons a{color:#FFFFFF;}
+@font-face {
+font-family: 'Montserrat';
+}
+#sidebar-wrapper{
+background-color:#ffffff;
+}
+.navbar-default, .navbar-default .navbar-toggle, .sidebar {
+
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+
+}
+.sidebar-nav li a{color:#000000;}
+body {font-family: 'Montserrat', sans-serif;}
+p, h1, h2, h3, h4, h5 {font-family: 'Montserrat', sans-serif;}
+.sidebar-nav {float:right;}
+
+
+
+
+.navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: #000000;
+}
+
+.footer {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.container.footer{width:100%;}
+.show-hide-sidebar {
+ top: 114px;
+
+}
+.navbar-toggle {
+    background-color: #000000!important;
+border-color:#000000!important;
+}
+.title-block {
+    background-color: transparent;
+    color: #333333;
+    text-align: center;
+font-size: 20px;
+font-weight: bold;
+}
+}
+.sidebar-nav .open .dropdown-menu, .sidebar-nav .open .dropdown-menu > li, .sidebar-nav .open .dropdown-menu > li > a {
+    background: #003398;
+}
+.navbar-default .navbar-nav .open .dropdown-menu li {
+    background-color: #000000;
+}
+#wrapper {
+
+    margin-top: 104px;
+
+}
+
+
+.hail{width:80%,margin:auto;background-color:#333333;color:#FFFFFF;padding:10px;border-radius:10px;}
+
+.navbar-nav > li > a {
+    margin-top: -10px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.navbar-brand > img {
+    display: block;
+    width: 103%;
+}
+.navbar-logo-margin {
+
+    margin-top: -10px;
+
+}
+
+.bid-title p{color:#000000;font-size:18px;}
+.cashbid_group{background-color:#333333;color:#FFFFFF;font-size:16px;text-align:center;}
+.odd{background-color: #CCCCCC;}
+::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.carousel-caption {
+    margin: 10px;
+}
+.carousel-caption {
+    background-color: rgba(12, 89, 91,.7);}
+.carousel-caption a{color:#EC0202;}
+@media screen and (min-width: 280px) and (max-width: 768px){
+.fixed-nav-fix {
+
+    padding-top: 0px;
+
+}
+#ac-navbar-1 {
+ background:#000000;
+ margin-top: 48px;
+}
+#ac-navbar-1 a{
+color:#FFFFFF;}
+
+.navbar-brand > img {
+    width: 58%;
+}
+}
+@media screen and (min-width: 280px) and (max-width: 435px){
+.navbar-brand > img{
+margin-top: -52px;
+}
+}
+.home-small h4{text-align: center;border-top:5px solid #04049F;border-bottom:5px solid #04049F;padding-top:5px;padding-bottom:5px;}
+.show-hide-sidebar {
+    top: 119px;
+}
+
+
+.btn-default {
+    display:none;
+}
+
+.cashbid_title {
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.cashbid_table tr.even{
+	background-color: #C0C0C0;
+}
+.cashbid_table tr.odd{
+	background-color: #FFFFFF;
+}
+.cashbid_table td {
+	font-size: 14px;
+	padding: 3px;
+	border-bottom: 5px solid #999;
+}
+.cashbid_group {
+	font-weight: bold;
+	background-color: #003398;
+	color: #FFFFFF;
+}
+.cashbid_firstcolumn  tr.odd  {
+	background-color: #C0C0C0;
+}
+.cashbid_fields {
+	font-weight: bold;
+	background-color: #EEEEEE;
+}
+.cashbid_fields .cashbid_firstcolumn{
+	background-color: #EEEEEE;
+}
+tr.highlight td {
+	background-color: #FFFFCC;
+}
+.cashbid_change_up {
+	color: green;
+}
+.cashbid_change_down {
+	color: red;
+}
+.cashbid_change_none {
+	color: blue;
+}
+.carousel-caption a{color:#B9D3EE;}
+
+.sidebar-nav .open .dropdown-menu, .sidebar-nav .open .dropdown-menu > li, .sidebar-nav .open .dropdown-menu > li > a {
+    background: #FFFFFF;
+}
+.home-table{
+  margin: 0 -30px;
+background-color:#003398;
+padding-top:10px;
+}
+.home-table a{
+color:#FFFFFF;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #1A7A40;
+    border-color: #1A7A40;
+}
+.home-large img{margin:auto;}
+.home-small img{margin:auto;}
+.home-xsmall img{margin:auto;}
+
+@media only screen and (min-width:250px) and (max-width:450px){
+.home-large {display:none;}
+.home-small {display:none;}
+}
+@media only screen and (min-width:451px) and (max-width:845px){
+.home-large {display:none;}
+.home-xsmall {display:none;}
+}
+@media only screen and (min-width:846px){
+.home-small {display:none;}
+.home-xsmall {display:none;}
+}
+
+.navbar-default .navbar-nav > li > a, .sidebar .nav-stacked > li > a {
+    color: #333333;
+}
+@media screen and (min-width:768px){
+.navbar-right {
+    float: right !important;
+    margin-right: -15px;
+    margin-top: 141px;
+}
+#wrapper {
+
+    margin-top: 0px;
+
+}
+}
+#acCarousel{margin-top: 20px;}
+
+
+.home-blocks img{border:10px solid white;}
+@media screen and (min-width:768px){
+#wrapper {
+
+    margin-top: 150px;
+
+}
+}
+iframe {
+    margin: auto;
+    display: block;
+}
+.iviewbutton a{background-color:#217138;color:#FFFFFF;padding:20px;border-radius: .5em;font-size: 1.25em;}
+.showCWTPrices{display:none;}
+#page-content-wrapper {
+padding: 10px;
+}
+.fixed-nav-fix {
+    padding-top:0px;
+}
+.carousel {
+    border-top: 50px solid #0B595A;
+}
+.navbar .dropdown-menu li a:hover {
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.carousel-caption a {
+    color: #FFF;
+}
+@media screen and (max-width:900px){
+#acCarousel{display:none;}
+#acContentHolder{margin-top:100px;}
+.navbar-right .dropdown-menu {
+    right: -38px;
+    left: auto;
+}
+}
+#page-content-wrapper {
+    padding: 10px;
+    top: 102px;
+}
+				
+				body {
+					/*background: lightblue;*/
+				}
+				
+			</style>
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js" integrity="sha256-ImQvICV38LovIsvla2zykaCTdEh1Z801Y+DSop91wMU=" crossorigin="anonymous"></script>				<script defer src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw=" crossorigin="anonymous"></script>
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-rwdImageMaps/1.6/jquery.rwdImageMaps.min.js" integrity="sha512-eZB7hQa0bRlrKMQ2njpP0d/Klu6o30Gsr8e5FUCjUT3fSlnVkm/1J14n58BuwgaMuObrGb7SvUfQuF8qFsPU4g==" crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top">
+	<div class="container-fluid">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#ac-navbar-1" aria-expanded="false">
+				<span class="sr-only">Toggle Navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="/">
+									<img class="img-responsive navbar-logo-margin" src="//s3.amazonaws.com/media.agricharts.com/sites/2202/LSCP-web475.png" alt="Little Sioux Corn Processors"/>
+							</a>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="ac-navbar-1">
+			<ul class="nav navbar-nav navbar-right" role="menubar">
+															<li class="" role="menuitem">
+							<a href="/" >Home</a>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">About Us</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">About Us <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li class="" role="menuitem">
+										<a href="/about2" >Company Info</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/coprod" >Co-Products</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/about2" >Pictures</a>
+									</li>
+															</ul>
+						</li>
+																				<li class="" role="menuitem">
+							<a href="/media" >Media</a>
+						</li>
+																				<li class="" role="menuitem">
+							<a href="/stock" >Investor Information</a>
+						</li>
+																				<li class="" role="menuitem">
+							<a href="/ethanol" >Ethanol Facts</a>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">Resources</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">Resources <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li class="" role="menuitem">
+										<a href="/markets/fixed.php?page=overview" >Market Overview</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/futuresindex" >Futures</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/optionsindex" >Options</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/markets/chart.php" >Charts</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/markets/custchart.php" >Tech. Charts</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/markets/spreadchart.php" >Spread Charts</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/markets/heatmap.php" >Market Heat Map</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/markets/historic.php" >Historical Data</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/markets/stocks.php" >Stocks</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/markets/news.php?feed=BRUG" >News/Commentary</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/pages/weather-new.php" >Local Weather</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/weathercenter" >Weather Center</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/noaa" >NWS Weather</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/usdroughtmonitor" >US Drought Map</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/markets/calendar.php" >Trade Calendar</a>
+									</li>
+															</ul>
+						</li>
+																				<li class="" role="menuitem">
+							<a href="/careers" >Careers</a>
+						</li>
+																				<li class="" role="menuitem">
+							<a href="#" >Hours</a>
+						</li>
+																				<li class="" role="menuitem">
+							<a href="/pages/contact.php" >Contact Us</a>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">Cash Bids</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">Cash Bids <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li class="" role="menuitem">
+										<a href="/cashbidstable" >Cash Bids</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/cornpolicy" >Corn Policy</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="https://cmdtymarketplace.com/#/us/LSCP" target="_blank">Grain Offer System</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/account/login.php" >Text/Email Alerts</a>
+									</li>
+															</ul>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">Text/Email Alerts</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">Text/Email Alerts <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li class="" role="menuitem">
+										<a href="/account/register.php" >Register</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/account/login.php" >Login</a>
+									</li>
+																	<li class="" role="menuitem">
+										<a href="/account/" >My Account</a>
+									</li>
+															</ul>
+						</li>
+												</ul>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</nav>		<div id="wrapper">
+						<div id="page-content-wrapper">
+				<div class="text-left hidden-md hidden-lg show-hide-sidebar">
+					<a href="#menu-toggle" class="btn btn-default btn-xs glyphicon glyphicon-triangle-right" id="menu-toggle"></a>
+				</div>
+				<div id="acContentHolder" class="container-fluid fixed-nav-fix">
+					<div >
+						<script language="javascript" src="/markets/quoteutil-js.php"></script>
+										<!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">-->
+				<div>
+					<script language="javascript" type="text/javascript">
+	var features = {
+		first : {
+			image:	'//s3.amazonaws.com/media.agricharts.com/sites/2202/Pictures/LittleSiouxcareers.png',
+			text:	'<h1><strong>Please submit&nbsp;a job application&nbsp;as we will be hiring in the near future.<\/strong><\/h1><h1><strong><a href="https:\/\/s3.amazonaws.com\/media.agricharts.com\/sites\/2202\/Careers\/Employment Application 03-07-2018.pdf" target="_blank" title="LSCP Application">CLICK HERE FOR PRINTABLE JOB APPLICATION<\/a><\/strong><\/h1><p><span style="font-size: 12pt;">Please fill out Application and<\/span><\/p><p><span style="font-size: 12pt;">Fax to: 712-376-2815&nbsp;or Email to:&nbsp;<a href="mailto:sonia.jones@littlesiouxcornprocessors.com">sonia.jones@littlesiouxcornprocessors.com<\/a><\/span><\/p>'
+		},
+		second : {
+			image:	'//s3.amazonaws.com/media.agricharts.com/sites/2202/Pictures/newsletter.gif',
+			text:	'<h1>Stay in-the-know with our Biofuels Updates &amp; Newsletters<\/h1><p><a href="\/newsletters">Learn More<\/a><\/p>'
+		},
+		third : {
+			image:	'//s3.amazonaws.com/media.agricharts.com/sites/2202/Pictures/LittleSiouxEthanol.png',
+			text:	'<div class="ethanol"><h1>Ethanol:<\/h1><h1>Fueling a Cleaner Future<\/h1><p>&nbsp;<\/p><div class="button"><a href="\/ethanol">Click here for Ethanol Facts<\/a><\/div><\/div>'
+		},
+		fourth : {
+			image:	'http://s3.amazonaws.com/media.agricharts.com/sites/2202/LSCP1.png',
+			text:	'<h1>LSCP Marketplace App<\/h1><div class="button"><a href="\/marketplace">Click for Details<\/a><\/div>'
+		},
+		fifth : {
+			image:	'',
+			text:	''
+		}
+	};
+
+	var featureTo;
+
+	function switchFeature(selName, clicked) {
+		var nameAry = new Array();
+		var i=0, selId=0;
+
+		for (var name in features) {
+			if (name == selName)
+				selId = i;
+			nameAry[i] = name;
+			i++;
+			document.getElementById(name + 'Feature').style.display = 'none';
+			document.getElementById(name + 'Feature').style.visibility = 'hidden';
+		}
+
+		selId = (selId == nameAry.length -1) ? 0 : selId + 1;
+
+		if (!clicked)
+			featureTo = setTimeout("switchFeature('" + nameAry[selId] + "', false)", 9000);
+		else
+			clearTimeout(featureTo);
+
+		document.getElementById(selName + 'Feature').style.display = 'block';
+		document.getElementById(selName + 'Feature').style.visibility = 'visible';
+	}
+
+	function printFeatures() {
+		for (var id in features) {
+			document.write('<div id="' + id + 'Feature">');
+			document.write('	<div class="floatLeft imageContainer">');
+			document.write('		<a href="javascript:void();"><img src="' + features[id].image + '" /></a>');
+			document.write('	</div>');
+			document.write('	<div class="floatRight textContainer">');
+			document.write('		<div class="floatRight counter">');
+			var i=1;
+
+			for(var id2 in features) {
+				var imgname = (id == id2) ? i : i + '_on';
+				document.write('<a href="javascript:switchFeature(\'' + id2 + '\', true);"><img src="//s3.amazonaws.com/images2.aws.barchart.com/barchart/' + imgname + '.gif" alt ="' + i + '" border="0" /></a>&nbsp;');
+				i++;
+			}
+			document.write('		</div>');
+			document.write('		<div class="floatLeft">');
+			document.write(				features[id].text);
+			document.write('		</div>');
+			document.write('	</div>');
+			document.write('</div>');
+
+			var feat = document.getElementById(id + 'Feature');
+			feat.style.display = 'none';
+			feat.style.visibility = 'hidden';
+		}
+		switchFeature ('first', false);
+	}
+</script>
+		<div class="carousel-container" id="carousel-container">
+		<div id="acCarousel" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+									<li class="active" data-slide-to="0" data-target="#acCarousel"></li>
+									<li class="" data-slide-to="1" data-target="#acCarousel"></li>
+									<li class="" data-slide-to="2" data-target="#acCarousel"></li>
+									<li class="" data-slide-to="3" data-target="#acCarousel"></li>
+							</ol>
+			<div class="carousel-inner" role="listbox">
+														<div class="item active">
+													<img class="first-slide carousel-image" src= "//s3.amazonaws.com/media.agricharts.com/sites/2202/Pictures/LittleSiouxcareers.png" alt="Carousel image"/>
+												<div class="container">
+															<div class="carousel-caption">
+									<h1><strong>Please submit&nbsp;a job application&nbsp;as we will be hiring in the near future.</strong></h1>
+<h1><strong><a href="https://s3.amazonaws.com/media.agricharts.com/sites/2202/Careers/Employment Application 03-07-2018.pdf" target="_blank" title="LSCP Application">CLICK HERE FOR PRINTABLE JOB APPLICATION</a></strong></h1>
+<p><span style="font-size: 12pt;">Please fill out Application and</span></p>
+<p><span style="font-size: 12pt;">Fax to: 712-376-2815&nbsp;or Email to:&nbsp;<a href="mailto:sonia.jones@littlesiouxcornprocessors.com">sonia.jones@littlesiouxcornprocessors.com</a></span></p>								</div>	
+													</div>
+					</div>
+														<div class="item ">
+													<img class="second-slide carousel-image" src= "//s3.amazonaws.com/media.agricharts.com/sites/2202/Pictures/newsletter.gif" alt="Carousel image"/>
+												<div class="container">
+															<div class="carousel-caption">
+									<h1>Stay in-the-know with our Biofuels Updates &amp; Newsletters</h1>
+<p><a href="/newsletters">Learn More</a></p>								</div>	
+													</div>
+					</div>
+														<div class="item ">
+													<img class="third-slide carousel-image" src= "//s3.amazonaws.com/media.agricharts.com/sites/2202/Pictures/LittleSiouxEthanol.png" alt="Carousel image"/>
+												<div class="container">
+															<div class="carousel-caption">
+									<div class="ethanol">
+<h1>Ethanol:</h1>
+<h1>Fueling a Cleaner Future</h1>
+<p>&nbsp;</p>
+<div class="button"><a href="/ethanol">Click here for Ethanol Facts</a></div>
+</div>								</div>	
+													</div>
+					</div>
+														<div class="item ">
+													<img class="fourth-slide carousel-image" src= "http://s3.amazonaws.com/media.agricharts.com/sites/2202/LSCP1.png" alt="Carousel image"/>
+												<div class="container">
+															<div class="carousel-caption">
+									<h1>LSCP Marketplace App</h1>
+<div class="button"><a href="/marketplace">Click for Details</a></div>								</div>	
+													</div>
+					</div>
+							</div>
+			<a class="left carousel-control" data-slide="prev" role="button" href="#acCarousel">
+				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="right carousel-control" data-slide="next" role="button" href="#acCarousel">
+				<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+	</div>
+
+				</div>
+				<!---->
+				<!--<div class="clearfix"></div>-->
+							<div class="row">
+					
+			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 pull-left">
+															<div>
+								<div class="h4 title-block">Cash Bids</div>
+	<script type="text/javascript" language="javascript" src="//www.agricharts.com/marketdata/jsquote.php?varname=quotevar91827&amp;symbols=ZCH21,ZCK21,ZCN21,ZCU21,ZCZ21,ZCH22,ZMH21&amp;fields=name,month,last&amp;user=&amp;pass=&amp;settle=0&exchsyms=&display_ice=&ice_exchanges=&currencyconv="></script>
+	<script language="javascript">
+		rowclass = 'even';
+		display = '64';
+	</script>
+						
+					<div class="table-responsive">
+					<table  id = "dpTable1"  class="table table-condensed table-bordered order-column table-responsive dt-responsive nowrap" cellspacing="0" width="100%">
+						<thead>
+														<tr>
+																																															<th data-priority="1" class="text-left">Name</th>
+																																																								<th  class="text-left">Delivery Start</th>
+																																																								<th  class="text-left">Delivery End</th>
+																																																								<th  class="text-left">Basis</th>
+																																																								<th data-priority="1" class="text-left">Cash Price</th>
+																																																								<th  class="text-left">Futures Change</th>
+																								</tr>
+						</thead>
+						<tbody>
+							<tr class="quote-section">
+						<th style="border-right-width: 0; border-left-width: 0;">Corn</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+											</tr>
+						<script language="javascript">
+					lastquote = null;
+					var cashprice_decimals = parseInt('2');
+					if (cashprice_decimals == 0 || cashprice_decimals == '' || typeof(cashprice_decimals) == 'undefined' || isNaN(cashprice_decimals)) {
+						cashprice_decimals = 2;
+					}
+					var basis_decimals = parseInt('2');
+					if (basis_decimals == 0 || basis_decimals == '' || typeof(basis_decimals) == 'undefined' || isNaN(basis_decimals)) {
+						basis_decimals = 2;
+					}
+														quote = quotevar91827['ZCH21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">02/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">02/28/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.20');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=G21">$');
+																							var rounded = price + -20;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCH21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">03/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">03/31/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.15');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=H21">$');
+																							var rounded = price + -15;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCK21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">04/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">04/30/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.15');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=J21">$');
+																							var rounded = price + -15;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCK21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">05/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">05/31/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.15');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=K21">$');
+																							var rounded = price + -15;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCN21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">06/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">06/30/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.15');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=M21">$');
+																							var rounded = price + -15;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCN21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">07/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">07/31/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.20');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=N21">$');
+																							var rounded = price + -20;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCU21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">08/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">08/31/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.20');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=Q21">$');
+																							var rounded = price + -20;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCU21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">09/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">09/30/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.30');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=U21">$');
+																							var rounded = price + -30;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCZ21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">10/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">11/30/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.30');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=X21">$');
+																							var rounded = price + -30;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCZ21'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">12/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">12/31/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.20');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=Z21">$');
+																							var rounded = price + -20;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCH22'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">01/01/2022</td>');
+																					document.write('<td valign="top" class="text-left">01/31/2022</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.24');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=F22">$');
+																							var rounded = price + -24;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCH22'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">02/01/2022</td>');
+																					document.write('<td valign="top" class="text-left">02/28/2022</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.22');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=G22">$');
+																							var rounded = price + -22;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+																quote = quotevar91827['ZCH22'];
+									var currConv = '0';
+									var unitvalue = quote.exchange == 'WCE' ? 100 : 1;
+									var cwtmult = 1.7857142857143;
+									if (quote.last != undefined && quote.last != null) {
+										futures = parseFloat(quote.last);
+										price = parseFloat(quote.rawLast) * unitvalue;
+									}
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">Corn</td>');
+																					document.write('<td valign="top" class="text-left">03/01/2022</td>');
+																					document.write('<td valign="top" class="text-left">03/31/2022</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																																				document.write('-0.20');
+																																		document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6916&l=27300&d=H22">$');
+																							var rounded = price + -20;
+												if (currConv == 1) {
+													rounded *= quote.exchangeRate;
+												}
+																																		var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							if (quote.change < 0)
+													document.write('<span class="change_down">');
+												else if (quote.change > 0)
+													document.write('<span class="change_up">+');
+												else
+													document.write('<span class="change_none">');
+												document.write(quotelib.FormatPrice(quote.change, quote.basecode, display));
+												document.write('</span>');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+											</script>
+							<tr class="quote-section">
+						<th style="border-right-width: 0; border-left-width: 0;">DDGS</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+											</tr>
+						<script language="javascript">
+					lastquote = null;
+					var cashprice_decimals = parseInt('2');
+					if (cashprice_decimals == 0 || cashprice_decimals == '' || typeof(cashprice_decimals) == 'undefined' || isNaN(cashprice_decimals)) {
+						cashprice_decimals = 2;
+					}
+					var basis_decimals = parseInt('2');
+					if (basis_decimals == 0 || basis_decimals == '' || typeof(basis_decimals) == 'undefined' || isNaN(basis_decimals)) {
+						basis_decimals = 2;
+					}
+														quote = null;
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">DDGS</td>');
+																					document.write('<td valign="top" class="text-left">01/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">03/31/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																							document.write('&nbsp;');
+																						document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=7018&l=27300&d=H21">$');
+																							var rounded = 23000;
+																						var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							document.write('&nbsp;');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+											</script>
+							<tr class="quote-section">
+						<th style="border-right-width: 0; border-left-width: 0;">MWDGS</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+													<th style="border-right-width: 0; border-left-width: 0;">&nbsp;</th>
+											</tr>
+						<script language="javascript">
+					lastquote = null;
+					var cashprice_decimals = parseInt('2');
+					if (cashprice_decimals == 0 || cashprice_decimals == '' || typeof(cashprice_decimals) == 'undefined' || isNaN(cashprice_decimals)) {
+						cashprice_decimals = 2;
+					}
+					var basis_decimals = parseInt('2');
+					if (basis_decimals == 0 || basis_decimals == '' || typeof(basis_decimals) == 'undefined' || isNaN(basis_decimals)) {
+						basis_decimals = 2;
+					}
+														quote = null;
+													/*if (rowclass == 'even') rowclass = 'odd';
+								else rowclass = 'even';*/
+								document.write('<tr>');
+																				document.write('<td valign="top" class="text-left">MWDGS</td>');
+																					document.write('<td valign="top" class="text-left">01/01/2021</td>');
+																					document.write('<td valign="top" class="text-left">03/31/2021</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime ">');
+											} else {
+												document.write('<td class="">');
+											}
+																							document.write('&nbsp;');
+																						document.write('</td>');
+																					if (quote && (quote.mode == 'r' || quote.mode == 's')) {
+												document.write('<td class="realtime " valign="top">');
+											} else {
+												document.write('<td valign="top" class="">');
+											}
+											document.write('<a title="View Chart" href="/markets/cashchart.php?c=6917&l=27300&d=H21">$');
+																							var rounded = 11500;
+																						var remainder = rounded - Math.floor(rounded);
+											var rounding = 0.5;
+											if (rounding > -1) {
+												if(quote && (quote.unitcode == 3 || quote.symbol.substring(0, 2) == 'KG'))
+													document.write(rounded.toFixed(cashprice_decimals));
+												else {
+													rounded = remainder >= rounding ? Math.ceil(rounded) : Math.floor(rounded);
+													document.write((rounded/100).toFixed(cashprice_decimals));
+												}
+											} else {
+												if (rounded - Math.floor(rounded) > 0)
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+												else
+													if(quote && quote.unitcode == 3)
+														document.write(rounded.toFixed(cashprice_decimals));
+													else
+														document.write((rounded/100).toFixed(cashprice_decimals));
+											}
+											document.write('</a></td>');
+																					document.write('<td valign="top" class="">');
+																							document.write('&nbsp;');
+																						document.write('</td>');
+																		document.write('</tr>');
+								lastquote = quote;
+											</script>
+								</tbody>
+					</table>
+				</div>
+			<div class="text-center small">
+		Quotes are delayed, as of February 03, 2021, 05:54:29 AM CST or prior.
+		<br />All <a target="_blank" href="https://www.barchart.com/solutions/cmdty/data/grain-prices">grain prices</a> are subject to change at any time.
+		<br />Cash bids are based on 10-minute delayed futures prices, unless otherwise noted.
+							<script type="text/javascript">window.dpCount = 1;</script>
+			</div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+											<div>
+								<div class="h4 title-block"> </div>
+	<div><h3 style="text-align: center;"><span style="color: #000000; font-size: 12pt;">Attention all truck drivers.&nbsp; We have a large number of construction workers on site &amp; employees around the plant.&nbsp; For everyones safety, Please adhere to the 10 mph speed limit, stopping at stop signs and watching out for pedestrians.</span></h3>
+<h3 style="text-align: center;"><span style="text-decoration: underline; font-size: 12pt;">Corn Dump&nbsp;Hours</span></h3>
+<p style="text-align: center;"><span style="font-size: 12pt;">Monday&nbsp;- Thursday 7 am - 3 pm</span></p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt; color: #ff0000;">CLOSED FRIDAY</span></strong></p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><span>Free Price Later available, call for details.</span></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">18.9% Max Corn Moisture</span></p>
+<h3 style="text-align: center;"><span style="font-size: 12pt;"><a href="https://lscp.agricharts.com/cornpolicy">Corn Policies Click Here</a></span></h3></div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+											<div>
+								<div class="h4 title-block"> </div>
+	<div><h3 style="text-align: center;"><span style="font-size: 12pt;"><a href="https://lscp.agricharts.com/coproducts">Co-Products</a>&nbsp;</span></h3>
+<h3 style="text-align: center;"><span style="font-size: 12pt; color: #000000;">Attention all truck drivers. We have a large number of construction workers on site &amp; employees around the plant. For everyones safety, Please adhere to the 10 mph speed limit, stopping at stop signs and watching out for pedestrians.</span></h3>
+<h3 style="text-align: center;"><span style="font-size: 12pt;">Loading Hours</span><br /><span style="font-size: 12pt;">DDGS: Monday - Friday&nbsp; 7 am - 4 pm</span></h3>
+<h3 style="text-align: center;"><span style="font-size: 12pt;">MWDGS: 24 hours/day, 7 days/week</span></h3></div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+											<div>
+								<div class="h4 title-block">Market News</div>
+	<div class="block_content">
+		<ul class="news_headlines"><li><a href="/markets/story.php?id=1062583">Corn March 2021</a> <span class="byline">InsideFutures.com - Tue Feb 02,  4:14PM CST</span></li><li><a href="/markets/story.php?id=1065311">More Cold for February Energy Markets</a> <span class="byline">InsideFutures.com - Tue Feb 02,  3:50PM CST</span></li><li><a href="/markets/story.php?id=1065100">Soybeans - Just My Opinion</a> <span class="byline">InsideFutures.com - Tue Feb 02,  3:26PM CST</span></li><li><a href="/markets/story.php?id=1062299">Another Trading Opportunity In Soybeans Futures ($ZS_F)</a> <span class="byline">InsideFutures.com - Tue Feb 02, 10:38AM CST</span></li><li><a href="/markets/story.php?id=1062195">Historic Natural Gas Shortage Looms Large for the 2021/2022 Winter Season</a> <span class="byline">InsideFutures.com - Tue Feb 02, 10:25AM CST</span></li><li><a href="/markets/story.php?id=1060189">Daily Grain Market Commentary</a> <span class="byline">InsideFutures.com - Tue Feb 02,  7:55AM CST</span></li><li><a href="/markets/story.php?id=1055915">Corn - Just My Opinion</a> <span class="byline">InsideFutures.com - Mon Feb 01,  3:40PM CST</span></li><li><a href="/markets/story.php?id=1055874">Soybeans 2020 Recap and 2021 Outlook</a> <span class="byline">InsideFutures.com - Mon Feb 01,  3:34PM CST</span></li><li><a href="/markets/story.php?id=1048924">Soybean (ZS) Daily Chart Triangle Near Completion</a> <span class="byline">InsideFutures.com - Mon Feb 01,  1:23AM CST</span></li></ul>		<br />
+		<div class="text-right">
+			<a href="/markets/news.php?feed=IF&category=FUT.GRN&flag=&query=">
+				More News...
+			</a>
+		</div>
+	</div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+											<div>
+								<div class="h4 title-block">Little Sioux Mobile App</div>
+	<div><div style="text-align: center;"><a href="/marketplace"><img src="//s3.amazonaws.com/media.agricharts.com/sites/2202/Marketplace/LSMarketplace300.png" border="0" alt="" width="300" height="366" /></a></div></div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+												</div>
+					
+			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 pull-left">
+															<div>
+								<div class="h4 title-block">Local Weather</div>
+						<h5><strong>Marcus, Iowa (51035)</strong></h5>
+							<div id="weatherMapContainer" class="text-center">
+				<a href="/pages/weather-new.php?zip=51035" aria-label="Link to weather radar map">
+					<img id="weatherRadar" class="img-responsive" src="//sites.agricharts.com/pages/weathermap.php?maptype=InterRAD&zipcode=51035&width=260&height=220" alt="Weather radar map"/>
+				</a>
+			</div>
+			<br />
+							<!--<div class="table-responsive">
+				<table class="table table-condensed" width="100%" cellspacing="0" cellpadding="3">
+					<tbody>
+						<tr>
+							<th colspan="2">Current Conditions</th>
+							<td colspan="2"></td>
+						</tr>
+						<tr>
+							<th>Temperature
+						</tr>
+					</tbody>
+				</table>
+			</div>-->
+			<div class="row">
+				<span class="text-left col-sm-6" id="current-conditions"><strong>Current Conditions</strong></span>
+				<span class="text-right col-sm-6" aria-labelledby="current-conditions">Clear</span>
+				<div class="clearfix"></div>
+				<div class="col-xs-12 col-sm-12 col-md-6 col-md-6">
+					<div>
+						<span class="text-left pull-left" id="current-temperature"><strong>Temperature</strong></span>
+						<span class="text-left pull-right" aria-labelledby="current-temperature">21&deg;F</span>
+						<div class="clearfix"></div>
+					</div>
+					<div>
+						<span class="text-left pull-left" id="current-dew-point"><strong>Dew Point</strong></span>
+						<span class="text-left pull-right" aria-labelledby="current-dew-point">19&deg;F</span>
+						<div class="clearfix"></div>
+					</div>
+					<div>
+						<span class="text-left pull-left" id="current-pressure"><strong>Pressure</strong></span>
+						<span class="text-left pull-right" aria-labelledby="current-pressure">29.91 in. Hg</span>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-6 col-md-6">
+					<div>
+						<span class="text-left pull-left" id="current-humidity"><strong>Humidity</strong></span>
+						<span class="text-left pull-right" aria-labelledby="current-humidity">93%</span>
+						<div class="clearfix"></div>
+					</div>
+					<div>
+						<span class="text-left pull-left" id="current-wind"><strong>Wind</strong></span>
+						<span class="text-left pull-right" aria-labelledby="current-wind">8 mph</span>
+						<div class="clearfix"></div>
+					</div>
+					<div>
+						<span class="text-left pull-left" id="current-wind-dir"><strong>From</strong></span>
+						<span class="text-left pull-right" aria-labelledby="current-wind-dir">South</span>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<br />
+			<div class="text-right">
+				<a href="/pages/weather-new.php?zip=51035" aria-label="Complete Weather">Complete weather...</a>
+			</div>
+			<hr />
+											<h5><strong>Forecast</strong></h5>
+						<ul class="list-inline nav-justified">
+									<li>
+						<h6><strong>Wednesday</strong></h6>
+						<img class="img-responsive" src="//sites.agricharts.com/images/weather/mcldyicon.jpg" alt="Weather condition for Wednesday"/>
+						<label id="high-temp-1">Hi:</label> <span aria-labelledby="high-temp-1">37&deg;</span><br />
+						<label id="low-temp-1">Lo:</label> <span aria-labelledby="low-temp-1">21&deg;</span><br />
+					</li>
+									<li>
+						<h6><strong>Thursday</strong></h6>
+						<img class="img-responsive" src="//sites.agricharts.com/images/weather/mcldyicon.jpg" alt="Weather condition for Thursday"/>
+						<label id="high-temp-2">Hi:</label> <span aria-labelledby="high-temp-2">35&deg;</span><br />
+						<label id="low-temp-2">Lo:</label> <span aria-labelledby="low-temp-2">13&deg;</span><br />
+					</li>
+									<li>
+						<h6><strong>Friday</strong></h6>
+						<img class="img-responsive" src="//sites.agricharts.com/images/weather/pcldyicon.jpg" alt="Weather condition for Friday"/>
+						<label id="high-temp-3">Hi:</label> <span aria-labelledby="high-temp-3">20&deg;</span><br />
+						<label id="low-temp-3">Lo:</label> <span aria-labelledby="low-temp-3">6&deg;</span><br />
+					</li>
+									<li>
+						<h6><strong>Saturday</strong></h6>
+						<img class="img-responsive" src="//sites.agricharts.com/images/weather/mcldyicon.jpg" alt="Weather condition for Saturday"/>
+						<label id="high-temp-4">Hi:</label> <span aria-labelledby="high-temp-4">10&deg;</span><br />
+						<label id="low-temp-4">Lo:</label> <span aria-labelledby="low-temp-4">-5&deg;</span><br />
+					</li>
+									<li>
+						<h6><strong>Sunday</strong></h6>
+						<img class="img-responsive" src="//sites.agricharts.com/images/weather/mcldyicon.jpg" alt="Weather condition for Sunday"/>
+						<label id="high-temp-5">Hi:</label> <span aria-labelledby="high-temp-5">4&deg;</span><br />
+						<label id="low-temp-5">Lo:</label> <span aria-labelledby="low-temp-5">-10&deg;</span><br />
+					</li>
+									<li>
+						<h6><strong>Monday</strong></h6>
+						<img class="img-responsive" src="//sites.agricharts.com" alt="Weather condition for Monday"/>
+						<label id="high-temp-6">Hi:</label> <span aria-labelledby="high-temp-6"><!--cached data-->&deg;</span><br />
+						<label id="low-temp-6">Lo:</label> <span aria-labelledby="low-temp-6">&deg;</span><br />
+					</li>
+							</ul>
+			<br />
+				<div class="text-center">
+			<form class="form-inline padding-bottom-5" action="/pages/weather-new.php" method="get">
+				<div class="form-group">
+					<div class="input-group">
+						<label for="zip" class="sr-only">Zip Code</label>
+						<input type="text" class="form-control" name="zip" id="zip" placeholder="Enter Zip Code" />
+						<div class="input-group-btn">
+							<button type="submit" class="btn btn-primary">Get Weather</button>
+						</div>
+					</div>
+				</div>
+			</form>
+			<div class="small">
+				&copy;2021 <a target="_blank" href="http://www.weather.net">Freese-Notis Weather</a>
+			</div>
+		</div>
+		<script type="text/javascript">
+		
+			$('#weatherRadar').attr('src', '//sites.agricharts.com/pages/weathermap.php?maptype=InterRAD&zipcode=51035&width=' + $('#weatherMapContainer').innerWidth() + '&height=220');
+	</script>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+											<div>
+								<div class="h4 title-block">Welcome to LSCP</div>
+	<div><div style="text-align: center;"><iframe width="95%" height="315" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/lFk4ekZHttU?rel=0"></iframe></div></div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+											<div>
+							<script type="text/javascript" language="javascript" src="//www.agricharts.com/marketdata/jsquote.php?varname=quotes91755&symbols=ZC*1,ZC*2,ZC*3,FL*1,FL*2,ZS*1,ZS*2,ZS*3,GF*1,GF*2,LE*1,LE*2,HE*1,HE*2&user=&pass=&display_ice=&ice_exchanges="></script>
+	<div class="h4 title-block">Futures</div>
+	<div class="table-responsive">
+		<table class="table table-condensed table-bordered order-column table-responsive dt-responsive nowrap xdt" cellspacing="0" width="100%">
+			<script type="text/javascript">
+				window.xdt = true;
+				document.write(getQuoteboardHTML(quotes91755, 'name,shortmonth,open,high,low,last,change'.split(/,/), {'editUrl': null, 'template': 'responsive'}));
+			</script>
+		</table>
+	</div>
+		<div class="text-center small">
+		Quotes are delayed, as of February 03, 2021, 05:54:29 AM CST or prior.
+			</div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+												</div>
+			</div>
+	<div class="clearfix"></div>
+							<div class="text-center margin-top-10">
+			<a class="margin-right-10" href="/pages/cbot.php"><img src="/images/CMEGroup_2c.png" alt="The CME Group" /></a>
+			<a href="/pages/cbot.php"><img src="/images/ICE_Logo.png" alt="Intercontinental Exchange" /></a>
+		</div>
+							<div class="bottom-ad">
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid footer">
+			<div class="container-fluid">
+								<div class="disclaimer text-center">
+					<p class="small">Copyright &copy; 2021 - Barchart.com Inc. | Powered by <a target="_blank" href="https://www.barchart.com/solutions/cmdty/solutions/connect">cmdty</a></p>
+					<p class="small"><a target="_blank" href="https://www.barchart.com/solutions">Market data</a> provided by Barchart Solutions.</p>
+					<p class="small">
+						Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice, and is delayed per exchange requirements.<br />For Terms of Use, Privacy Policy and Exchange Delays, <a target="_blank" href="https://www.barchart.com/about/terms-and-privacy">click here</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+							<!-- Start Google Analytics tag -->
+			<script type="text/javascript" nonce="ac-sites-inline-js">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript" nonce="ac-sites-inline-js">
+				var pageTracker = _gat._getTracker("UA-75117303-1");
+				pageTracker._initData();
+				pageTracker._trackPageview();
+			</script>
+				<script id="dataTable" type="text/javascript" src="https://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script> <script defer type="text/javascript" src="https://cdn.datatables.net/1.10.11/js/dataTables.bootstrap.min.js"></script> <script defer type="text/javascript" src="https://cdn.datatables.net/responsive/2.0.2/js/dataTables.responsive.min.js"></script> <script defer id="dtResponsive" type="text/javascript" src="https://cdn.datatables.net/responsive/2.0.2/js/responsive.bootstrap.min.js"></script>		<script type="text/javascript" nonce="ac-sites-inline-js">
+			const expanded = parseInt() === 1;
+			jQuery.noConflict();
+			
+
+				(function($) {
+					
+					$('.topad > img').addClass('img-responsive');
+					var f = $('#acContentHolder').offset();
+					$('#carousel-container').css('left', '-'+f.left+'px');
+
+					$(window).resize(function() {
+						var f = $('#acContentHolder').offset();
+						$('#carousel-container').css('left', '-'+f.left+'px');
+					});
+
+					$('#menu-toggle').click(function(e) {
+						e.preventDefault();
+						$(this).toggleClass('glyphicon-triangle-left');
+						//$(this).toggleClass('show-hide-sidebar-pos');
+						$('#wrapper').toggleClass('toggled');
+					});
+
+					
+					document.getElementById('dtResponsive').addEventListener('load', function(){
+						$.extend(true, $.fn.dataTable.defaults, {
+							'dom': 't',
+							'searching': false,
+							'ordering': false,
+							'paging': false,
+							'info': false,
+						});
+
+						if (expanded) {
+							$('.table.dt-responsive').DataTable({
+								responsive: {
+									details: {
+										display: $.fn.dataTable.Responsive.display.childRowImmediate,
+										type: 'none',
+										target: ''
+									}
+								}
+							});
+						} else {
+							$('.table.dt-responsive').DataTable();
+						}
+					});
+		
+				})(jQuery);
+				// Copyright 2014-2015 Twitter, Inc.
+				// Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+				if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+					var msViewportStyle = document.createElement('style');
+					msViewportStyle.appendChild(
+						document.createTextNode(
+						'@-ms-viewport{width:auto!important}'
+						)
+					);
+					document.querySelector('head').appendChild(msViewportStyle);
+				}
+			
+		</script>
+	</body>
+</html>
+<script type="text/javascript" language="javascript" nonce="ac-sites-inline-js">
+	/*To enable/disable page refresh when window is not current active window.*/
+	var refresh = parseInt('1800');
+	
+	if (refresh && typeof(refresh) != 'undefined') {
+		var doRefresh = undefined;
+		(function($){
+			$(window).on('load focus blur', function(e){
+				var prevType = $(this).data('prevType');
+				var type = e.type;
+				if (prevType != e.type) {
+					switch(e.type) {
+						case 'blur':
+							clearInterval(doRefresh);
+							doRefresh = undefined;
+							break;
+						case 'focus':
+						default:
+							if (doRefresh == undefined) {
+								doRefresh = setInterval(function() {
+									window.location.reload(true);
+								}, refresh * 100);
+							}
+							break;
+					}
+				}
+				$(this).data('prevType', e.type);
+			});
+		})(jQuery);
+	}
+	
+	var scriptObjs = document.getElementsByTagName('script');
+	var i = 0;
+	var sideadCount = topadCount = bottomadCount = custom300Count = custom728Count = 0;
+	var searchString = "";
+	for(i = 0; i <= scriptObjs.length; i++) {
+		if (searchString.length > 0 && scriptObjs[i] && scriptObjs[i].innerHTML.indexOf(searchString) > -1 && scriptObjs[i].innerHTML.indexOf('<a') == -1 && scriptObjs[i].innerHTML.indexOf('<img') == -1) {
+			var parentDivClass = scriptObjs[i].parentNode.getAttribute('class');
+			if (parentDivClass != 'sidead' && parentDivClass != 'topad' && parentDivClass != 'bottomad') {
+				if (scriptObjs[i].innerHTML.indexOf('728x') > -1) {
+					custom728Count += 1;
+				} else {
+					custom300Count += 1;
+				}
+			} else {
+				window[parentDivClass + 'Count'] += 1;
+			}
+		}
+	}
+
+	jQuery.noConflict();
+	jQuery.ajax({
+		type: 'POST',
+		url: '/updateTrackingInfo.php',
+		dataType: 'json',
+		data: {
+			'customer': 2202,
+			'site': 3048,
+			'sideAd': sideadCount,
+			'topAd': topadCount,
+			'bottomAd': bottomadCount,
+			'custom300': custom300Count,
+			'custom728': custom728Count,
+			'view': 1
+		},
+		success: function() {
+		}
+	});
+
+	
+		(function(window, undefined) {
+			'use strict';
+
+			const document = window.document;
+
+			function BarchartCookieConsent() {
+				if (!(this instanceof BarchartCookieConsent)) {
+					return new BarchartCookieConsent();
+				}
+
+				this.initialize.call(this);
+
+				return this;
+			}
+
+			BarchartCookieConsent.prototype = {
+				initialize: function() {
+					if (!this.checkCookie('barchartCookieConsent')) {
+						this.displayNotification();
+					}
+				},
+
+				checkCookie: function(cookieName) {
+					if (document.cookie.split(';').filter(function(item) {
+						return item.trim().indexOf(cookieName+'=') == 0
+					}).length) {
+						return true;
+					} else {
+						return false;
+					}
+
+				},
+
+				setCookie: function(cookieName, value, duration) {
+					let expiration;
+					if (duration) {
+						let d = new Date();
+						d.setTime(d.getTime() + duration);
+						expiration = '; expires=' + d.toGMTString();
+					} else {
+						expiration = '';
+					}
+					document.cookie = cookieName+'='+value+expiration+'; path=/';
+				},
+
+				displayNotification: function() {
+					this.setStyling();
+
+					let html = '<div class="bc-cookie-consent-container">';
+					html += '<p>We use cookies to optimize site functionality and give you the best possible experience. Learn more about our <a target="_blank" href="https://www.barchart.com/solutions/company/terms-and-privacy">Privacy Policy</a>.</p>';
+					html += '<div><button type="button" id="bc-cookie-consent-accept">Accept</button></div>';
+					html += '</div>';
+					let tmpElem = document.createElement('div');
+					tmpElem.id = 'bc-cookie-consent-notification';
+					tmpElem.innerHTML = html;
+					document.body.appendChild(tmpElem);
+
+					this.bindAction();
+
+				},
+
+				setStyling: function() {
+					let css;
+					css += '#bc-cookie-consent-notification button:focus, #bc-cookie-consent-notification [input="button"]:focus, #bc-cookie-consent-notification a:focus { outline: unset; outline: none; text-decoration: none; }';
+					css += '#bc-cookie-consent-notification button, #bc-cookie-consent-notification [input="button"] { position: relative; display: inline-block; height: 30px; padding: 0 15px; border: 0; background: #4285f4; font-size: 16px; line-height: 28px; color: #fff; text-decoration: none; vertical-align: middle; cursor: pointer; border-radius: 0; -webkit-appearance: none; -webkit-border-radius: 0; -webkit-backface-visibility: hidden; backface-visibility: hidden; -moz-osx-font-smoothing: grayscale; }';
+					css += '#bc-cookie-consent-notification button:hover, #bc-cookie-consent-notification [input="button"]:hover, #bc-cookie-consent-notification a { text-decoration: none; }';
+					css += '#bc-cookie-consent-notification button:after, #bc-cookie-consent-notification [input="button"]:after { position: absolute; top: 0; right: 52%; bottom: 0; left: 52%; z-index: -1; border-bottom: 4px solid #14428d; background: rgba(20, 66, 141, .3); content: ""; }';
+					css += '#bc-cookie-consent-notification button:hover:after, #bc-cookie-consent-notification [input="button"]:hover:after, #bc-cookie-consent-notification button:focus:after, #bc-cookie-consent-notification [input="button"]:focus:after { right: 0; left: 0; }';
+					css += '#bc-cookie-consent-notification { position: fixed; bottom: 0; left: 0; z-index: 9999; overflow-x: hidden; overflow-y: auto; width: 100%; max-height: 100%; padding: 30px 0; background: #404040; opacity: 0.93; text-align: center; }';
+					css += '#bc-cookie-consent-notification * { padding: 0; margin: 0; outline: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container { width: 90%; margin: 0 auto; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container > p { font-size: 16px; line-height: 1.4; color: #fff; font-weight: 400; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container > div { padding-top: 10px; }';
+					css += '@media only screen and (max-width: 767px) {';
+					css += '#bc-cookie-consent-notification { padding: 15px 0; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container { width: 96%; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container > p { font-size: 16px; }';
+					css += '}';
+
+					let styleElem = document.createElement('style');
+					styleElem.type = 'text/css';
+					if (styleElem.styleSheet) {
+						styleElem.styleSheet.cssText = css;
+					} else {
+						styleElem.appendChild(document.createTextNode(css));
+					}
+					document.getElementsByTagName('head')[0].appendChild(styleElem);
+				},
+
+				bindAction: function() {
+					let self = this;
+					const btnElem = document.getElementById('bc-cookie-consent-accept');
+					if (typeof(btnElem) === 'object') {
+						this.createEvent(btnElem, 'click', function(e) {
+							if (e.preventDefault) {
+								e.preventDefault();
+							}
+							self.setCookie('barchartCookieConsent', 'YES', (365 * 24 * 60 * 60 * 1000));
+							document.getElementById('bc-cookie-consent-notification').remove();
+							return false;
+						});
+					}
+				},
+
+				createEvent: function(elem, action, fn) {
+					if (elem.addEventListener) {
+						elem.addEventListener(action, fn, false);
+					} else if (elem.attachEvent) {
+						elem['e' + action + fn] = fn;
+						elem[action + fn] = function() { elem['e' + action + fn](window.event); };
+						elem.attachEvent('on' + action, elem[action + fn]);
+					} else {
+						elem['on' + action] = elem['e' + action + fn];
+					}
+				}
+			};
+			window.BarchartCookieConsent = BarchartCookieConsent;
+		})(window);
+
+		window.onload = function() {
+			let enablePrompt = parseInt("0");
+			if (enablePrompt === 1) {
+				BarchartCookieConsent = BarchartCookieConsent();
+			}
+		}
+	
+	
+</script>

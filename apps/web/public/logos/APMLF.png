@@ -1,0 +1,1126 @@
+
+    <!DOCTYPE html>
+
+    <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+
+    <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+
+    <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+
+    <!--[if (gte IE 9)|!(IE)]><!-->
+    <html lang="en">
+    <!--<![endif]-->
+
+    <head>
+        <meta charset="utf-8" />
+        <base href="https://apartmentlove.com/" />
+                <meta name="language" content="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="google-signin-client_id" content="331421140857-2arqagflr3u895j9amqhj2qilqnv6q5u.apps.googleusercontent.com">
+
+        <title>ApartmentLove | Page Not Found</title>
+        <meta name="description" content="Page not found" />
+
+
+                    <link rel='canonical' href='https://apartmentlove.com//favicon.ico' />
+        
+        
+
+
+        <!-- Fav and touch icons -->
+
+        <link rel="shortcut icon" type="image/x-icon" href="images/fav_touch_icons/favicon_t.png" />
+
+        <link rel="apple-touch-icon" href="images/fav_touch_icons/apple-touch-icon.png" />
+
+        <link rel="apple-touch-icon" sizes="72x72" href="images/fav_touch_icons/apple-touch-icon-72x72.png" />
+
+        <link rel="apple-touch-icon" sizes="114x114" href="images/fav_touch_icons/apple-touch-icon-114x114.png" />
+
+
+
+        <!-- Fonts -->
+
+        <link  rel="preconnect" href="https://fonts.googleapis.com">
+        <link  rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <!--  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Raleway:wght@300;500;900&display=swap" rel="stylesheet"> -->
+
+                
+        <!-- Bootstrap CSS -->
+        <link rel="preload" href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript>
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+        </noscript>
+
+                    <link href="css/new-style.css?v=6" rel="stylesheet" />
+            <link href="css/home.css?v=6" rel="stylesheet" />
+        
+        
+
+                    <!-- Flatpickr -->
+            <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css"> -->
+            <!-- <link rel="preload" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+            <noscript>
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+            </noscript> -->
+        
+
+                
+                                    <link rel="preload" href="css/owl.carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+                <noscript>
+                    <link rel="stylesheet" href="css/owl.carousel.min.css">
+                </noscript>
+                    
+
+
+
+
+        
+        <!-- JQuery UI CSS for datepicker-->
+        <link rel="preload" href="css/jquery-ui.min.css?v=1" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript>
+            <link rel="stylesheet" href="css/jquery-ui.min.css?v=1">
+        </noscript>
+        
+        
+            <link rel="preload" href="css/jquery-ui.theme.min.css?v=1" as="style" onload="this.onload=null;this.rel='stylesheet'">
+            <noscript>
+                <link rel="stylesheet" href="css/jquery-ui.theme.min.css?v=1">
+            </noscript>
+
+
+            <link rel="preload" href="css/jquery-ui.structure.min.css?v=1" as="style" onload="this.onload=null;this.rel='stylesheet'">
+            <noscript>
+                <link rel="stylesheet" href="css/jquery-ui.structure.min.css?v=1">
+            </noscript>
+
+        
+        
+        
+        <!-- <link href="css/style.css?v=6" rel="stylesheet" /> -->
+        <!-- <link defer href="css/new-style.css?v=6" rel="stylesheet" /> -->
+        <!-- <link defer href="css/style_v2.css?v=6" rel="stylesheet" /> -->
+
+        
+                
+
+        
+
+        <script>
+            var isMobile = false;
+            if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4)))
+                isMobile = true;
+        </script>
+    </head>
+
+    <body class="-page">
+                    <img height="1" alt="Facebook" width="1" style="display:none" src="https://www.facebook.com/tr?id=500846527408916&ev=PageView&noscript=1" />
+        
+
+                
+<div class="burger-menu">
+
+
+    <ul>
+        <li><strong>Property Managers</strong></li>
+                    <li><a class='toggleLogIn' href="#">Login</a></li>
+            <li><a class='openSignInDialog' href="#">Sign Up</a></li>
+                            <li><a href="/advertise" class="subscription-trigger" href="#">Purchase Listing Subscription</a></li>
+                <li class=""><a href="?p=editListing">Post New Listing</a></li>
+                <li class="border-bottom-1"></li>
+        <li><strong>Renters</strong></li>
+                    <li><a class='toggleLogIn' href="#">Login</a></li>
+            <li><a class='openSignInDialog' href="#">Sign Up</a></li>
+                <li class="hide-m "><a href="?p=searchMap&user-location=1">Search by Map</a></li>
+        
+        <li><a href="apartments-for-rent/ho-chi-minh-city/ho-chi-minh/vietnam">Apartments Near Me</a></li>
+        
+                
+
+        
+
+       
+
+        <li class="border-bottom-1"></li>
+        <!-- <li class="separator"></li> -->
+        
+        <li>
+            <a href="#" data-toggle="dropdown" class='dropdown-toggle cursor-pointer'>Canada <span class="caret"></span></a>
+            <div class="dropdown-menu dropdown-box dropdown-bt" role="menu">
+                <div class='submenu-list'><a href="/apartments-for-rent/canada"><strong>Canada</strong></a></div>
+                
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/alberta/canada">Alberta</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/british-columbia/canada">British Columbia</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/manitoba/canada">Manitoba</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/new-brunswick/canada">New Brunswick</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/newfoundland-and-labrador/canada">Newfoundland and Labrador</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/northwest-territories/canada">Northwest Territories</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/nova-scotia/canada">Nova Scotia</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/nunavut/canada">Nunavut</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/ontario/canada">Ontario</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/prince-edward-island/canada">Prince Edward Island</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/quebec/canada">Quebec</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/saskatchewan/canada">Saskatchewan</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/yukon-territory/canada">Yukon Territory</a></div>
+                            </div>
+        </li>
+
+
+        <li>
+            <a href="#" data-toggle="dropdown" class='dropdown-toggle cursor-pointer'>United States <span class="caret"></span></a>
+            <div class="dropdown-menu dropdown-box dropdown-bt" role="menu">
+                <div class='submenu-list'><a href="/apartments-for-rent/united-states"><strong>United States</strong></a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/alabama/united-states">Alabama</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/alaska/united-states">Alaska</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/arizona/united-states">Arizona</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/arkansas/united-states">Arkansas</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/california/united-states">California</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/colorado/united-states">Colorado</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/connecticut/united-states">Connecticut</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/delaware/united-states">Delaware</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/district-of-columbia/united-states">District of Columbia</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/florida/united-states">Florida</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/georgia/united-states">Georgia</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/hawaii/united-states">Hawaii</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/idaho/united-states">Idaho</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/illinois/united-states">Illinois</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/indiana/united-states">Indiana</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/iowa/united-states">Iowa</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/kansas/united-states">Kansas</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/kentucky/united-states">Kentucky</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/louisiana/united-states">Louisiana</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/maine/united-states">Maine</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/maryland/united-states">Maryland</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/massachusetts/united-states">Massachusetts</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/michigan/united-states">Michigan</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/minnesota/united-states">Minnesota</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/mississippi/united-states">Mississippi</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/missouri/united-states">Missouri</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/montana/united-states">Montana</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/nebraska/united-states">Nebraska</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/nevada/united-states">Nevada</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/new-hampshire/united-states">New Hampshire</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/new-jersey/united-states">New Jersey</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/new-mexico/united-states">New Mexico</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/new-york/united-states">New York</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/north-carolina/united-states">North Carolina</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/north-dakota/united-states">North Dakota</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/ohio/united-states">Ohio</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/oklahoma/united-states">Oklahoma</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/oregon/united-states">Oregon</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/pennsylvania/united-states">Pennsylvania</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/puerto-rico/united-states">Puerto Rico</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/rhode-island/united-states">Rhode Island</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/south-carolina/united-states">South Carolina</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/south-dakota/united-states">South Dakota</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/tennessee/united-states">Tennessee</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/texas/united-states">Texas</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/utah/united-states">Utah</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/vermont/united-states">Vermont</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/virgin-islands/united-states">Virgin Islands</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/virginia/united-states">Virginia</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/washington/united-states">Washington</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/west-virginia/united-states">West Virginia</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/wisconsin/united-states">Wisconsin</a></div>
+                                                        <div class="submenu-list"><a href="/apartments-for-rent/wyoming/united-states">Wyoming</a></div>
+                            </div>
+        </li>
+                
+        <li class="border-bottom-1"></li>
+        
+        
+        <!-- <li><a href="/apartments-for-rent/united-states">United States</a></li> -->
+
+                <li>
+                                            <li><a href="/apartments-for-rent/australia">Australia</a></li>
+                                            <li><a href="/apartments-for-rent/austria">Austria</a></li>
+                                            <li><a href="/apartments-for-rent/belgium">Belgium</a></li>
+                                            <li><a href="/apartments-for-rent/brazil">Brazil</a></li>
+                                            <li><a href="/apartments-for-rent/colombia">Colombia</a></li>
+                                            <li><a href="/apartments-for-rent/czech-republic">Czech Republic</a></li>
+                                            <li><a href="/apartments-for-rent/denmark">Denmark</a></li>
+                                            <li><a href="/apartments-for-rent/france">France</a></li>
+                                            <li><a href="/apartments-for-rent/germany">Germany</a></li>
+                                            <li><a href="/apartments-for-rent/greece">Greece</a></li>
+                                            <li><a href="/apartments-for-rent/india">India</a></li>
+                                            <li><a href="/apartments-for-rent/ireland">Ireland</a></li>
+                                            <li><a href="/apartments-for-rent/italy">Italy</a></li>
+                                            <li><a href="/apartments-for-rent/malta">Malta</a></li>
+                                            <li><a href="/apartments-for-rent/netherlands">Netherlands</a></li>
+                                            <li><a href="/apartments-for-rent/poland">Poland</a></li>
+                                            <li><a href="/apartments-for-rent/portugal">Portugal</a></li>
+                                            <li><a href="/apartments-for-rent/singapore">Singapore</a></li>
+                                            <li><a href="/apartments-for-rent/south-korea">South Korea</a></li>
+                                            <li><a href="/apartments-for-rent/spain">Spain</a></li>
+                                            <li><a href="/apartments-for-rent/sweden">Sweden</a></li>
+                                            <li><a href="/apartments-for-rent/switzerland">Switzerland</a></li>
+                                            <li><a href="/apartments-for-rent/turkey">Turkey</a></li>
+                                            <li><a href="/apartments-for-rent/united-arab-emirates">United Arab Emirates</a></li>
+                                            <li><a href="/apartments-for-rent/united-kingdom">United Kingdom</a></li>
+                    </li>
+                            <li class="border-bottom-1"></li>
+                <!-- <li class="separator"></li> -->
+        <li><a href="/apartments-for-rent/search/?min_bed=1&max_bed=1">1 Bedroom</a></li>
+        <li><a href="/apartments-for-rent/search/?min_bed=2&max_bed=2">2 Bedroom</a></li>
+        <li><a href="/apartments-for-rent/search/?min_bed=3&max_bed=3">3 Bedroom</a></li>
+
+        <li class="border-bottom-1"></li>
+        <li class=""><a href="?p=aboutUs">About Us</a></li>
+        <li class=""><a href="?p=faqtenant">FAQ</a></li>
+        <li class=""><a href="blog">Blog</a></li>
+        <li class=""><a href="?p=careers">Careers</a></li>
+        <li class=""><a href="?p=contactus">Contact Us</a></li>
+        <li class="">
+                            <a href="/advertise" class="list-with-us-trigger">List With Us</a>
+                    </li>
+        <li class=""><a href="?p=termsofservice">Terms of Services</a></li>
+        <li class=""><a href="?p=privacypolicy">Privacy Policy</a></li>
+        <li class=""><a href="?p=equalOpportunityHousing">Equal Housing</a></li>
+
+        <!-- <li class="separator"></li> -->
+        
+        
+        <!-- <li>
+            <a href="#">Popular Cities</a>
+            <ul class="sub-menu">
+                   
+                    <li><a href="/texas/austin">Austin</a></li>
+                   
+                    <li><a href="/massachusetts/boston">Boston</a></li>
+                   
+                    <li><a href="/alberta/calgary">Calgary</a></li>
+                   
+                    <li><a href="/illinois/chicago">Chicago</a></li>
+                   
+                    <li><a href="/texas/dallas">Dallas</a></li>
+                   
+                    <li><a href="/texas/houston">Houston</a></li>
+                   
+                    <li><a href="/nevada/las-vegas">Las Vegas</a></li>
+                   
+                    <li><a href="/california/los-angeles">Los Angeles</a></li>
+                   
+                    <li><a href="/new-york/new-york">New York</a></li>
+                   
+                    <li><a href="/pennsylvania/philadelphia">Philadelphia</a></li>
+                   
+                    <li><a href="/arizona/phoenix">Phoenix</a></li>
+                   
+                    <li><a href="/pennsylvania/pittsburgh">Pittsburgh</a></li>
+                   
+                    <li><a href="/oregon/portland">Portland</a></li>
+                   
+                    <li><a href="/texas/san-antonio">San Antonio</a></li>
+                   
+                    <li><a href="/california/san-diego">San Diego</a></li>
+                   
+                    <li><a href="/washington/seattle">Seattle</a></li>
+                   
+                    <li><a href="/ontario/toronto">Toronto</a></li>
+                   
+                    <li><a href="/british-columbia/vancouver">Vancouver</a></li>
+                
+            </ul>
+        </li> -->
+
+
+    </ul>
+</div>
+        <div class='wrapper'><input type="hidden" id="website-user-id" value="0">
+
+
+<header class="header main-site-header">
+    <div id="top-bar" class=" hidden">
+
+        
+            
+        
+    </div>
+    <nav class="navbar navbar-expand-lg page-">
+        <!-- Left Section -->
+        <div class="left-header">
+            <div class="toggle-block">
+                <span  class="toggle-btn"></span>
+                                    <span class="toggle-name hide-m">&nbsp;&nbsp;&nbsp;MENU</span>
+                            </div>
+        </div>
+
+
+        <!-- Center section -->
+        <div class="center-header">
+            <a class="navbar-brand" href="/">
+               <!--  <img class='apartment-site-logo' src="images/Apartment-Love-Logo.png" alt="ApartmentLove | Page Not Found"> -->
+                <picture>
+                  <source srcset="images/Apartment-Love-Logo.webp" type="image/webp">
+                  <source srcset="images/Apartment-Love-Logo.png" type="image/jpeg"> 
+                   <img class='apartment-site-logo' width="250" height="100%" src="images/Apartment-Love-Logo.png" alt="ApartmentLove | Page Not Found">
+                </picture>
+            </a>
+
+            <div class="searchMap-search">
+                            </div>
+        </div>
+
+        <!-- Right Section -->
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                                    <!-- <style>
+                        .header .navbar-collapse {
+                            flex: 0 0 25%!important;
+                        }
+                    </style>-->
+                
+                
+                    <li class="nav-item ml-auto">
+                        <a class="nav-link toggleLogIn" href="#"> LOGIN</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link openSignInDialog" href="#">SIGN UP</a>
+                    </li>
+                    <!-- <li class="nav-item post-btn">
+                        <a class="nav-link" href="?p=editListing">Post a listing</a>
+                    </li> -->
+                    <li class="nav-item post-btn">
+                        <a class="nav-link list-with-us-trigger" href="/advertise">LIST WITH US</a>
+                    </li>
+                
+
+            </ul>
+        </div>
+    </nav>
+</header>
+<!-- BEGIN PAGE TITLE/BREADCRUMB -->
+
+
+
+<!-- END PAGE TITLE/BREADCRUMB -->
+
+<!-- BEGIN HIGHLIGHT -->
+<div class="content hero-banner banner-404">
+    <div class="container">
+        <div class="row d-flex 404-page">
+            <div class="col-md-6">
+
+                <div class="banner-content">
+                    <h1 class='site-title'>The page you are looking for is not available.</h1>
+                    <p>Find rentals from coast to coast and around the world on ApartmentLove.com!</p>
+                </div>
+
+                <div class="banner-search">
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade  active in" id="home" role="tabpanel" aria-labelledby="home-tab">
+                            <div id="home-page" class="filter-list-block">
+                                
+
+
+<form id="homeHeroSearchForm" autocomplete="off" >
+
+    <input type="hidden" id="route" name="route" />
+
+    <input type="hidden" id="locality" name="locality" value="Ho Chi Minh City" />
+
+    <input type="hidden" id="sublocality_level_1" name="sublocality_level_1" value="Ho Chi Minh City" />
+
+    <input type="hidden" id="administrative_area_level_1" name="administrative_area_level_1" value="Ho Chi Minh" />
+
+    <input type="hidden" id="country" name="country" value="Vietnam" />
+
+    <div class="container">
+        <div class="filter-list-block">
+            <div class="filter-list search-box">
+                <input data-homeinput="1" id="HomeHeroSearch" name="HomeHeroSearchCCC" type="text"  placeholder="Where do you want to be?" autocomplete="off" class="google-city" value="Ho Chi Minh City, Ho Chi Minh, United States" />
+            </div>
+            <!-- <div class="filter-list alsearch-btn"></div> -->
+            <div class="filter-list alsearch-btn">
+                <input type='submit' id="HomeHeroSearchButton" class="search-input filter-btn pac-target-input" value="Search">
+            </div>
+        </div>
+    </div>
+    <!-- <div class="form-group ">
+
+
+    </div> -->
+
+
+
+</form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="banner-img">
+                    <img src="../images/404-2.jpg" alt="404 image">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div class="recentlyview-404">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<section class="blog-sec">
+    <div class="container">
+        <div class="row">
+            <!-- BEGIN MAIN CONTENT -->
+            <div class="col-sm-12">
+                <p>
+                    <strong> Looking for some tips on how to find the perfect apartment for rent in your favorite city? Check out our blog articles packed with useful tips and tricks!</strong> <br><br>
+                </p>
+            </div>
+            <div class="col-sm-12">
+            <div class="container">
+                        <div id="blog-listing" class=" grid-style1 row clearfix ">
+                            <div class="owl-carousel owl-theme" id="owlHomeBlog">
+                                                                    <div class="item ">
+                                        <!-- Set width to 4 columns for grid view mode only -->
+                                        <div class="blog-box">
+                                            <div class="image">
+                                                <a href="blog/Neighborhoods-in-Houston,-TX--|-Apartments-for-Rent-in-Houston-/164">
+                                                   <!--  <span class="btn btn-default"><i class="fa fa-file-o"></i> Read More</span> -->
+                                                </a>
+                                                <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="blogPhotos/1635851913/Neighborhoods_in_Houston_TX__From_Arts_to_Business_and_Nature.jpg" alt="Neighborhoods in Houston, TX  | Apartments for Rent in Houston " />
+                                            </div>
+                                            <div class="info-blog">
+                                                <div class="blogTitlePreview home-page">
+                                                    <h3 class=""><a href="blog/Neighborhoods-in-Houston,-TX--|-Apartments-for-Rent-in-Houston-/164">Neighborhoods in Houston, TX  | Apartments for Rent in Houston </a></h3>
+                                                </div>
+
+                                                                                                <p style="color: #4d4f52;" class="blogContentPreview">
+                                                    Known for its artistic scene, being a business hub to oil and gas along with its beautiful nature, Houston is an eclectic mix of art, creativity and business growth. Neighborhoods in Houston TX | From Arts to Business and Nature
+Known for its artistic scene, being a business hub to oil and gas along with its beautiful nature, Houston is an eclectic mix of art, creativity and business growth.
+Apartments in Houston offer a flexible range of budget and lifestyle choices for arts, professionals, and students alike. Apartment renters can get involved in a variety of apartment lease options that can either enable them to lock in a great place to live for several years or provide more flexibility signing an apartment lease on a month to month basis. There really are many options for different types of renatl homes and apartments ranging from properties with pools, garages to duplexes and condos.,
+Living in a Houston, TX apartment complex can make life easier for anyone. Many rental apartment complexes in Houston, TX come with rental amenities such as a gym, swimming pool and other social areas that act as a private club for residents. Apartment living also means being able to enjoy a well-manicured landscape without ever having to push a lawn mower. Choosing a rental property in Houston, TX with on-site amenities provides conveniences all renters can enjoy while saving them both time and money.
+
+The following table summarizes the number of active apartment listings in Houston, TX as well as the average, maximum and minimum monthly rent.
+  
+As you search for your next apartment for rent in Houston, TX keep the following tips and advice in mind:
+
+
+Determine What is a Good Location for Your Needs
+Proximity to your place of employment is just one apartment rental criteria you should use when choosing an apartment to rent in Houston. Other rental property considerations such as proximity to shopping, nightlife, hospitals, and emergency medical facilities also need to enter into your decision making process. If you are a young couple looking for your first Houston, TX apartment, then it may be a good idea to find an apartment close to public schools, grocery stores and public transportation as well.
+
+There are so many unique districts in Houston ranging from the art districts, to nature reserves, to the financial core and energy sector. We have a great article offering tips on finding the best apartment in downtown Houston too!
+
+ Be sure to check out some of these areas on your next trip to Houston: 
+
+
+The Galleria: Uptown Mall - home to ballets, high end art, ice skating and music.
+Water Wall: Installation art at its finest! A man made art piece and waterfall in mid town!
+Houston Graffiti Building: Art meets urban landscape!
+Kickerillo-Mischer Preserve: Nature and scenic walking at its finest!
+
+
+
+Take Care of Your Credit
+Many apartment rental managers in Houston, TX ask prospective tenants to complete credit applications when applying. These credit applications give the landlord permission to access your credit report. You can order a free credit report from any of the three credit reporting agencies in the US (Experian, Equifax and Trans Union) to make sure that all of the information is accurate before you start applying for apartments for rent in Houston.
+
+Have a Plan
+Before you head out to look for an apartment to rent, it is important to have a plan written out that tells you where you would prefer to live and what rental amenities you are looking for. You can use the search functions of our online apartment finder to serve as your apartment guide and help narrow your focus to only apartments for rent, townhomes for rent and condos for rent in Houston that meet your needs.  Your plan should also include important elements such as your budget and whether any appliances or utilities are included in the price of the monthly apartment rent.
+
+Waste No Time
+It is always better to arrange apartment showings in advance with property managers or rental owners so that you can try to lock in an apartment that you really like the moment that you find it. However, if you do find an apartment that you like and the property manager is not available, you should not waste any time in contacting the manager to secure the apartment as apartments for rent in Houston tend to rented quickly after being listed.
+
+Consider All the Details
+Do you have pets? If so, make sure to look for pet friendly apartment rentals. Some rental properties may require you to put down an extra deposit for pets. Do you need more than one bathroom in your apartment? If so, that is going to determine which properties you look at as well. When you are planning your apartment search, brainstorm on all of the criteria you will need to consider to find the perfect place for you to call home.
+
+ApartmentLove | Apartments for Rent in Houston, TX
+
+Here at ApartmentLove.com, we are committed to helping you find the perfect place to rent. By simply putting in the city and information you are looking for in our search bar, you can find a list of remarkable homes, condos, and apartments to rent from. We offer thousands of rental listings in all cities across the U.S. and North America.
+From downtown to the suburbs of Houston, we got you covered. Our database of listings is sure to find you the best short-term or long-term rental in Houston, Texas. Compare thousands of prices right here on our website and let ApartmentLove find your dream home today!
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="item ">
+                                        <!-- Set width to 4 columns for grid view mode only -->
+                                        <div class="blog-box">
+                                            <div class="image">
+                                                <a href="blog/Renting-an-Apartment-in-Edmonds,-Seattle/163">
+                                                   <!--  <span class="btn btn-default"><i class="fa fa-file-o"></i> Read More</span> -->
+                                                </a>
+                                                <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="blogPhotos/1633507841/bigstock-Young-couple-resting-after-mov-335802943.jpg" alt="Renting an Apartment in Edmonds, Seattle" />
+                                            </div>
+                                            <div class="info-blog">
+                                                <div class="blogTitlePreview home-page">
+                                                    <h3 class=""><a href="blog/Renting-an-Apartment-in-Edmonds,-Seattle/163">Renting an Apartment in Edmonds, Seattle</a></h3>
+                                                </div>
+
+                                                                                                <p style="color: #4d4f52;" class="blogContentPreview">
+                                                    Renting Spacious Apartments and Houses in the Tranquil Neighborhood of Edmonds, Seattle Location of Edmonds, Seattle
+The walkable waterfront Edmonds is a town surrounded by breath-taking nature. The Olympic Mountains are to the west and a forest to the east. It’s located on the shore of Puget Sound, an inlet flowing into the Pacific Ocean.  Edmonds is in the southwest of Snohomish County. It’s about 32 km due north of Seattle and less than 320 km from the Canadian border.
+What are Edmonds, Seattle and Its Residents Like?
+Edmonds’ people are a big fan of art in every form be it performing, literary, visual, culinary, or liquid arts. They have the best ballerinas and famous cellists. You’ll find the art in the strangest places and in every nook and cranny. For entertainment, people find Edmonds having the best artists on the biggest stages.
+
+Edmonds has retained its history from a century ago but has also an identity of a contemporary style. For example, there are many shingle mills built at the turn of the century giving stunning views to the waterfront walkway. Also, the ancient design of downtown pedestrians reflects the age of the area. While exploring downtown, you’ll see different antique stores and specialty shops that you don’t want to miss. 
+What to Know about Edmonds’ Beaches
+
+Of course, if most people have the chance, they would choose Hawaii beach for some downtime. However, Edmonds beaches beauty is nothing less than that of Hawaii. It gives you a sense of bliss as you walk on the sands along 1 mile of shoreline. 
+There are 4 main beachfront parks in Edmonds; Olympic Beach, Marina Beach, and Brackett’s Landing North and South. All of them are now officially marine sanctuaries. There’s a dive park at Brackett’s Landing where scuba divers from all around the U.S. explore eagerly. This is the most popular beach in the summer.
+What to Know about Edmonds Ferries
+The not-so-known family-friendly Underwater Park provides many recreational facilities such as scuba diving, sunset strolls, tidal pools, and playgrounds for kids. As you fly your kites, you can see ferries surfing. If you’d like to explore the Olympic Peninsula and the charming Olympic National Park, take a day trip using Edmonds ferry services. Craving seafood? Then you can go fishing for a lot of salmon while on the ferries or along the popular 900-foot fishing pier. You can catch a lot of squid or crabs, too. In addition, this award-winning marina includes restaurants and cafes for gourmet foods.
+A Bit about Expenditure and Employability Rates in Edmonds, Seattle
+The cost of living in Edmonds is about 50% higher compared to the rest of the cities in America. However, the unemployment rate is very low and there has been an increase in Edmonds’ job growth. Why? One reason is that among most cities in Washington, the city's population is old – age 65 and above. For young people looking for a job, Edmonds is the best suburb in Seattle with an overflow of job vacancies.
+What to Expect When Renting Edmonds Apartments and Houses
+Most residents there are homeowners but it’s not hard to rent or buy among a different range of apartments in the core areas or the surrounding. In downtown Edmonds, there’s a hilly strip of land where modern skyscrapers rise on. The residential areas can be found in the lower areas, usually in the north of downtown and along the water. Having a balanced size of the population makes Edmonds’ neighborhood neither bustling nor very quiet. Needless to say, as it’s a well-rounded city, it adapts itself to almost all kinds of people.
+The monthly payment for Edmonds apartments varies depending on size, location, and other factors. However, as a general rule you are looking at a monthly rent of between $1400 to $2400. About 75% of housing stocks belonging to homeowner residents in Edmonds are single detached homes. Many large apartment buildings are also there to rent. They’re mainly composed of at least 3 bedrooms. It seems the residents are in favor of spacious homes. So, finding a cozy mother-in-law apartment for rent in Edmonds is not difficult in this residential submarket. Especially, since the town is known to provide a slower-paced environment for retirees, who make up a greater percentage of the population.
+
+If you prefer to live in smaller places, there are always condos for rent in Edmonds. They’re a great compromise between a house and an apartment. Their leases usually last up to a year but you can have the option to rent from 6 months to 12 months. Keep in mind that the landlords in Edmonds often require a security deposit on an apartment rental. 
+ApartmentLove | Renting Spacious Apartments and Houses in the Tranquil Edmonds, Seattle
+
+Here at ApartmentLove, we are committed to informing you about the latest news on multiple neighborhoods in major cities such as Seattle Washington. There is no better way to decide on an area or district to consider as a new place of residence than to get to know these charming localities in advance. Ballard can provide both a relaxing and a bustling environment. If you are single, married, want to start a family, or looking for an area suitable for your children, Edmonds, Seattle apartments have it all. From downtown to the suburbs of Seattle, we got you covered. Our database of listings is sure to find you the best short-term or long-term apartments for rent in this and many other areas of Seattle. Compare thousands of rental listings prices right here on our website and let ApartmentLove find your dream home today!                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="item ">
+                                        <!-- Set width to 4 columns for grid view mode only -->
+                                        <div class="blog-box">
+                                            <div class="image">
+                                                <a href="blog/Renting-Upscale-Apartments-in-Belltown,-Seattle/162">
+                                                   <!--  <span class="btn btn-default"><i class="fa fa-file-o"></i> Read More</span> -->
+                                                </a>
+                                                <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="blogPhotos/1633506521/Apartment_Rentals_in_Belltown_Seattle_–_All_You_Need_to_Know.jpg" alt="Renting Upscale Apartments in Belltown, Seattle" />
+                                            </div>
+                                            <div class="info-blog">
+                                                <div class="blogTitlePreview home-page">
+                                                    <h3 class=""><a href="blog/Renting-Upscale-Apartments-in-Belltown,-Seattle/162">Renting Upscale Apartments in Belltown, Seattle</a></h3>
+                                                </div>
+
+                                                                                                <p style="color: #4d4f52;" class="blogContentPreview">
+                                                    Apartment Rentals in Belltown, Seattle – All You Need to Know Geography and History of Belltown, Seattle
+
+Belltown is a waterfront neighborhood with a high density in King County. To the east, there is the Denny Triangle neighborhood. To the west, it’s bordered by Elliot Bay on the Puget Sound. It’s exactly north of Downtown Seattle and very close to it.
+
+Belltown is named after William Bell who owned the land in the area. About 2 centuries ago, Seattle’s tallest hill was Denny Hill and it was Belltown’s original location. The Hill isolated it from downtown and that is the main reason why it was suitable for people on a low budget. The Hill also made the area a semi-industrial district. So, they thought of its removal and re-grading for gentrification. Artificially flattening the hill made Belltown a more sought-after area to live in as the process turned it into a trendy urban neighborhood.
+Development Process of Belltown, Seattle
+
+Soon after gentrification, hotels, apartments, high-rise residential towers, and warehouses appeared tempting artists and musicians settling in Belltown. These creators were the main reason for the establishment of galleries, studios, and clubs. However, what began its strong development was the burgeoning film industry, so much that the area was known as “Film Row”. The primary reason for the fame was the limitation of the flammable film exchanges to other locations.
+
+Almost a decade ago, Belltown became renowned for being a walkable area with everything within walking distance. Nowadays, it has boutiques and local and national art galleries, and many other places for entertainment. So, that would make it an appealing vibrant area for living. 
+How Safe is it to Live in Belltown, Seattle
+
+Admittedly, Belltown was once notorious for being a seedy neighborhood but nowadays, the nightlife in Belltown is amazing and almost all people feel safe in this area. Similar to other neighborhoods, to stay safe, it’s better to avoid certain streets at night that have a few vacant or abandoned properties with homeless and panhandlers roaming. However, as a general rule, Belltown is considered a safe place to live.
+Discover the Best of Belltown, Seattle Restaurants
+
+
+Belltown boasts several popular restaurants with artisanal foods. The award-winning restaurants constantly showcase their finest dishes. So, even the pickiest of eaters wouldn’t leave the restaurants unsatisfied. Lola serves Greek and delectable bites from across the modern Mediterranean dishes with local ingredients. FOB Poke Bar expanded to another brand in Capitol Hill as the healthy colorful dishes it serves gained popularity. El Gaucho is the darkest dinner house in Belltown and with the shimmering candlelight, it’s a perfect place to impress a date.
+You’ll also find classic and inexpensive restaurants. At Green Leaf, you’ll spend no more than $10 for the most mouth-watering Vietnamese pancakes. The ingredients are shrimp and many fresh vegetables such as basil, lettuce, and bean sprouts. What’s unique about it is that it’s a hole-in-the-wall restaurant! 
+Speaking of pancakes, you don’t have to always settle for them. If you’re not a morning person and always looking for brunches, you can go to Boat Street Kitchen with inventive and extraordinary dishes. In addition, Cursed Oak can provide discounts in happy hours. With this spacious restaurant, you’ll enjoy eating your meal while listening to music. It’s a good place for rowdy birthday parties and dancing until small hours.
+Belltown, Seattle Apartments
+
+So, what are the best apartments in Belltown, Seattle like? There are a variety of homes with excellent interior and exterior quality. Belltown has many unequaled lofts and condos to rent or buy. To buy condos you can visit many areas such as Concord Condos, the Ellington Condos, or the Vine Belltown. Unlike Ballard where most residents are retirees who own their homes, most tenants in Belltown are young liberal professionals. It’s one of the best places in Washington to live in with highly-rated public schools. 
+As mentioned earlier, Belltown offers almost everything within walking distance such as public transportation and many interesting sights. The perfect proximity Belltown offers for visiting the city’s top event venues makes this neighborhood tourist-friendly. In addition, most tourists are willing to stay in well-appointed rooms including kitchenettes for their short stay to both save money and somehow feel at home. They can choose among countless new and cozy furnished apartments in Belltown, Seattle.
+A Top-Value Hotel in Belltown, Seattle Hotels
+
+The lovely Belltown Inn is in the hip Belltown neighborhood. It’s a comfortable hotel with outstanding modern architecture. It has a welcoming and friendly staff. They help you choose the restaurants you’re in the mood for, discover the best tourists spots, and give you directions. Pike Place Market, the Space Needle, Symphony Hall, and cruise ship terminals are all steps away. 
+The rooms are spotless and the view from them is amazing. When you open the windows, you feel the gentle touch of the northwest breeze on your face. 
+This hotel also provides conference rooms for large meetings. There are also special discounts for multiple rooms booking. This is especially beneficial for the members of large companies to stay together and attends the meetings on time. 
+ApartmentLove | Renting an Apartment in Belltown, Seattle
+Here at ApartmentLove.com, we are committed to helping you find the perfect home to rent. By simply typing in the city or neighborhood you want to rent from, you can find thousands of listings of remarkable homes, condos, and apartments to rent throughout the U.S. and Canada.
+From downtown to the suburbs of Seattle, such as Belltown, we got you covered. Our database of listings is sure to find you the best short-term or long-term apartments for rent in this and many other areas of Seattle. Compare thousands of rental listings prices right here on our website and let ApartmentLove find your dream home today!
+                                                </p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+               
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+</div>
+<!-- END HIGHLIGHT -->
+<!-- New Footer -->
+<div class="careers-footer">
+    <div class="container">
+        <div class="bottom-rental-text">
+            ApartmentLove<sup>®</sup> | <span class="salmon">the feeling of home</span>
+        </div>
+    </div>
+</div>
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="f-inner">
+                    <!-- <a href="/" class="footer-logo">
+                            <img src="../images/site-logo.png" alt="Footer Logo">
+                            <h6>ApartmentLove Inc.</h6>
+                        </a> -->
+                    <ul class="">
+                        <!--<li class=""><a href="?p=propertyManagers">Property Managers</a></li>-->
+                        <li class=""><a href="?p=aboutUs">ABOUT US</a></li>
+                        <li class=""><a href="?p=careers">CAREERS</a></li>
+
+                        <!-- <li class=""><a href="?p=partners">Partners</a></li> -->
+                        <li class=""><a href="?p=contactus">CONTACT US</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="f-inner">
+                    <!-- <h6>Legal</h6> -->
+                    <ul class="">
+                        <li class=""><a href="?p=termsofservice">TERMS OF SERVICES</a></li>
+                        <!-- <li class=""><a href="?p=refundPolicy">Refund Policy</a></li> -->
+                        <li class=""><a href="?p=privacypolicy">PRIVACY POLICY</a></li>
+                        <!-- <li class=""><a href="?p=scamAvoidance">Avoid Rental Scams</a></li> -->
+                        <li class=""><a href="?p=equalOpportunityHousing">EQUAL HOUSING</a></li>
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="f-inner">
+                    <!-- <h6>Helpful Links</h6> -->
+                    <ul class="">
+                        <li class="">
+                                                    <a href="/advertise" class="list-with-us-trigger">LIST WITH US</a>
+                                            </li>
+                        <li class=""><a href="?p=faqlandlord">FAQ</a></li>
+
+                        <!-- <li class=""><a href="?p=faqtenant">FAQ - Tenant</a></li> -->
+
+                        <!-- <li class=""><a href="?p=searchMap">Search by Map</a></li>-->
+
+
+                        <li class=""><a href="blog">BLOG</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="f-inner">
+                    <!-- <h6>Locations</h6> -->
+                                            <div>
+    
+                            <ul id='location-slider' class="owl-carousel owl-theme footer-links">
+    
+                                <li class='item'>
+                                    <address>
+                                        Calgary Office<br>
+                                        1500, 850 - 2nd Street SW<br>
+                                        Calgary, AB T2P 0R8
+                                    </address>
+    
+                                </li>
+    
+                                <li class='item'>
+    
+                                    <address>
+                                        Kelowna Office <br>
+                                        201, 1405 St. Paul Street<br>
+                                        Kelowna, BC V1Y 2E4
+                                    </address>
+    
+                                </li>
+    
+                                <li class='item'>
+                                    <address>
+                                        Chicago Office <br>
+                                        3800, 55 E. Monroe Street<br>
+                                        Chicago, IL 60603
+                                    </address>
+    
+    
+                                </li>
+    
+                                <li class='item'>
+                                    <address>
+                                        Dallas Office <br>
+                                        800, 17304 Preston Road<br>
+                                        Dallas, TX 75252
+                                    </address>
+    
+                                </li>
+    
+                                <li class='item'>
+                                    <address>
+                                        New York Office<br>
+                                        600, 845, Third Avenue<br>
+                                        New York, NY 10022
+                                    </address>
+    
+                                </li>
+    
+                                <li class='item'>
+                                    <address>
+                                        Orlando Office<br>
+                                        500, 618 E. South Street<br>
+                                        Orlando, FL 32801
+                                    </address>
+    
+                                </li>
+    
+                                <li class='item'>
+                                    <address>
+                                        San Francisco Office<br>
+                                        202, 75 Broadway<br>
+                                        San Francisco, CA 94111
+                                    </address>
+    
+                                </li>
+    
+    
+                            </ul>
+                        </div>
+                                        <!-- <h6>Locations</h6>
+                        <div>
+                            ApartmentLove Inc.- San Francisco<br>
+                            75 Broadway<br>
+                            Suite 202<br>
+                            San Francisco, California 94111<br>
+                            United States of America
+                        </div> -->
+                </div>
+            </div>
+
+        </div>
+
+        <div class="footer-bottom">
+            <p>All information displayed is believed to be accurate but is not guaranteed and should be independently verified. No representations or warranties are made of any kind.</p>
+            <p>© 2021 ApartmentLove Inc. All rights reserved. </p>
+        </div>
+    </div>
+</footer>
+</div>
+                    <input type="hidden" id="website-googlemap-key" value="AIzaSyDL77cKU_PCdaqjiwwXGZtQklC2TeP9l1Y">
+                            <input type="hidden" id="website-mapbox-key" value="pk.eyJ1IjoiYXBhcnRtZW50bG92ZSIsImEiOiJjanplaWNtcnUwMTQ5M2NwNWpqOTRmZXM4In0.oAjfhbajqG015fUrpnFJ0g">
+        
+        <div id="updateMessage"></div>
+
+        <div id="mapOverloadMessage">We have a high number of listings for this location.<br />Please refine your search or zoom in on an area.</div>
+
+
+
+        <!-- Libs -->
+        <!-- <script defer src="https://apis.google.com/js/platform.js?onload=renderButton" ></script> -->
+        <script defer src="js/common.min.js"></script>
+                    <script defer src="js/owl.carousel.min.js?v=2.0"></script>
+        
+                    <script defer src="js/js.cookie.min.js"></script>
+                
+                    <script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDL77cKU_PCdaqjiwwXGZtQklC2TeP9l1Y&v=3&libraries=places"></script>
+        
+                    <script defer src="js/chosen.jquery.min.js"></script>
+                            <script defer src="js/input-mask.min.js"></script>
+                            <script defer src="js/infobox.min.js"></script>
+        
+        
+        
+                    <script defer src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.js'></script>
+            <script defer src='https://api.mapbox.com/mapbox.js/v3.2.0/mapbox.js'></script>
+                   
+        
+                    <!-- Modernizr -->
+            <script defer src="js/modernizr-2.8.1.min.js"></script>
+        
+
+        
+                    <script src="js/swiper.min.js"></script>
+        
+                     <!-- Template Scripts -->
+             <script defer src="js/settings.js"></script>
+        
+        <script>
+            let disableCheckBoxConversion = 0        </script>
+
+                    <script defer src="js/bootstrap-checkbox.js"></script>
+        
+        <!-- <script defer src="js/jquery-ui.min.js"></script> -->
+        <script defer src="js/jquery.validate.min.js"></script>
+        
+                    <script defer src="js/jquery.validate.additional.rules.js"></script>
+        
+                    <script defer src="js/jquery.md5.js"></script>
+            <script defer src="js/jquery-te-1.4.0.min.js"></script>
+            <script defer src="js/passwordStrengthMeter.js?v=1636056071"></script>
+        
+
+                    <script defer src="js/jquery.tablesorter.min.js"></script>
+            <script defer src="js/jqueryForm.js"></script>
+        
+
+
+        <!-- Custom Scripts -->
+                    <script defer src="js/propertyForm.js?v=1636056071"></script>
+            <script defer src="js/scripts.js?v=5"></script>
+        
+        
+
+                    <!-- Flatpickr -->
+            <!-- <script defer src="https://cdn.jsdelivr.net/npm/flatpickr"></script> -->
+        
+        
+
+
+        <!-- sidebar menu -->
+
+        
+
+
+        
+        <input type="hidden" id="cookiesToSet" value="">
+        
+        <script src="js/blazy.min.js"></script>
+        <script>
+            ;
+            (function() {
+                // Initialize
+                var bLazy = new Blazy();
+            })();
+        </script>
+        
+                <input type="hidden" id="openDialogWhenReady" value="0">
+        <input type="hidden" id="openVerificationEntryDialog" value="0">
+        <input type="hidden" id="verificationToken" value="0">
+        
+        <script>
+            let openDialogWhenReady = 0;
+            let openVerificationEntryDialog = 0;
+            let verificationToken = '';
+        </script>
+
+        <div class="hidden">Page prep = 0.09093713760376<br /></div>
+
+        
+        <div id="consent-popup" class="hide-consent">
+            <p>We use cookies to operate this website. By continuing to use this site, you agree to our use of cookies in accordance with our <a href='?p=privacypolicy'>Privacy Policy</a>.</p>
+            <p class='consent-btn-container'>
+                <button id="consent-popup-accept" class="btn btn-default ">Continue</button>
+            </p>
+        </div>
+
+        <div style="display:none;" id="messageLandlordDialogForm" title="Contact the Owner">
+        <div id="messageLandlordModalForm" class="messageLandlordModalContainer alPopup-form">
+            <i id="closeMessageLandlordModal" class="close-btn close-apply-now"></i>
+            <div class="dynamic-form">
+            </div>
+
+            <div class="static-form">
+                <div class="message-send-box hide">
+                    <h2 class="site-title center">Message</h2>
+                                        <form id="messageLandlordForm" class="">
+    
+                        <input type="hidden" id="previewedPropertyIdMsg" name="previewedPropertyIdMsg" />
+    
+    
+                        <input type="hidden" id="toEmail" name="toEmail" />
+                        <div style ="display:none">
+                            <label>I agree to send message </label>
+                            <input  type="checkbox"  name="agreeToSendMessage" value = "1">
+                        </div>
+    
+                        <div class="form-group">
+    
+                            <input type="hidden" id="Subject" name="Subject" class="form-control required subject" />
+    
+                            <textarea id="Message" name="Message" placeholder="Type your messaege..." class="form-control required"></textarea>
+    
+                        </div>
+    
+                        <div id="messageLandlordErrors"></div>
+    
+                        <div class="center">
+    
+                            <button id="messageLandlordModal" type="submit" class="btn cta-btn contactButton desktopContactButton">Send Message</button>
+    
+                            <!-- <button id="closemessageLandlordModal" class="btn btn-fullcolor contactButton desktopContactButton">Cancel</button>-->
+    
+                        </div>
+    
+                    </form>
+                </div>
+
+                <div class="message-disabled-box hide">
+                    <p class='applyNowDetails close-message-box' data-code="">Chat option is not available for this Landlord, <a class='applyNowLink blue-text cursor-pointer' href="#">Click here</a> to Contact</p>
+                </div>
+                <div class="message-owner-box hide">
+                    <p class='applyNowDetails close-message-box' data-code="">Sorry! You are the owner of this property. <a class="blue-text cursor-pointer" href="?p=myAccount&sb=UserMessages">Click here</a> to view messages on your properties.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        <div style="display:none;" id="contactLandlordDialogForm" title="Contact the Owner">
+
+            <div id="contactLandlordModalForm" class="ContactLandlordModalContainer alPopup-form">
+                <i id="closeContactLandlordModal" class="close-btn close-apply-now"></i>
+
+                <div class="dynamic-form">
+
+                </div>
+
+                <div class="static-form">
+                                            <h2 class="site-title center">Schedule a Viewing</h2>
+                        <!-- <div id="contactLandlordModalLogo"><img src="images/Apartment Love Logo - thin.png" alt="ApartmentLove | Search By Map"></div>-->
+
+                    
+                    <form id="contactLandlordForm" class="">
+
+                        <input type="hidden" id="previewedPropertyId" name="previewedPropertyId" />
+
+                        <input type="hidden" id="rentLinxId" name="rentLinxId" />
+
+                        <input type="hidden" id="toEmail" name="toEmail" />
+
+                        <div class="form-group form-label-group">
+
+                            <input required type="text" id="Name" name="Name" placeholder="Your Name*" class="form-control required fromName" value="" />
+                            <label for="Name">Your Name <span class="applyingName">*</span></label>
+                        </div>
+
+                        <div class="form-group form-label-group">
+                            <input required type="tel" id="Phone" name="Phone" placeholder="Your Phone*" class="form-control phone" value="" />
+                            <label for="Phone">Your Phone <span class="applyingPhone">*</span></label>
+                        </div>
+
+                        <div class="form-group form-label-group">
+                            <input required type="email" id="Email" name="Email" placeholder="Your Email*" class="form-control required fromEmail" value="" />
+                            <label for="Email">Your Email <span class="applyingEmail">*</span></label>
+                        </div>
+
+                        <div class="form-group">
+
+                            <input type="hidden" id="Subject" name="Subject" class="form-control required subject" />
+
+                            <textarea id="Message" name="Message" placeholder="" class="form-control required">Hi, I found your rental on ApartmentLove.com. Looks great, when can I see the property?  Thanks!</textarea>
+
+                        </div>
+                        
+                        
+                        <div id="contactLandlordErrors"></div>
+
+                        <div class="center">
+
+                            <button id="contactLandlordModal" type="submit" class="btn cta-btn contactButton desktopContactButton">Send Message</button>
+
+                            <!-- <button id="closeContactLandlordModal" class="btn btn-fullcolor contactButton desktopContactButton">Cancel</button>-->
+
+                        </div>
+
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <div id="propertyStatistics">
+
+            <div id="propertyStatisticsTitleBar">Property Listings Statistics<div class="closeButton">X</div>
+            </div>
+
+            <div id="propertyStatisticsContent">
+
+            </div>
+
+        </div>
+
+        <div id="signInDialogForm"></div>
+
+        <div id="signUpDialogThankYou"></div>
+
+        <div style="display: none;" class="alPopup-form signup-switch" id="dynamic-dialog">
+
+        </div>
+
+        <script defer  src="js/web-common.js"></script>
+
+                            <script defer src="js/user-action.js"></script>
+                            <!-- <script defer src="js/search-action.js?v=1636056071"></script> -->
+        
+                    <script defer src="js/culada.js?v=1636056071"></script>
+            <script defer src="js/maps2.0.js?v=1636056071"></script> 
+                            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVHX3KT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    ! function(f, b, e, v, n, t, s)
+
+                    {
+                        if (f.fbq) return;
+                        n = f.fbq = function() {
+                            n.callMethod ?
+
+                                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                        };
+
+                        if (!f._fbq) f._fbq = n;
+                        n.push = n;
+                        n.loaded = !0;
+                        n.version = '2.0';
+
+                        n.queue = [];
+                        t = b.createElement(e);
+                        t.defer = !0;
+
+                        t.src = v;
+                        s = b.getElementsByTagName('body')[0];
+                        s.appendChild(t)
+                        // s.parentNode.insertBefore(t, s)
+                        // b.body.appendChild(t);
+                    }(window, document, 'script',
+
+                        'https://connect.facebook.net/en_US/fbevents.js');
+
+                    fbq('init', '500846527408916');
+
+                    fbq('track', 'PageView');
+
+                });
+            </script>
+                        <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    (function(w, d, s, l, i) {
+                        w[l] = w[l] || [];
+                        w[l].push({
+                            'gtm.start':
+
+                                new Date().getTime(),
+                            event: 'gtm.js'
+                        });
+                        var f = d.getElementsByTagName('body')[0],
+
+
+                            j = d.createElement(s),
+                            dl = l != 'dataLayer' ? '&l=' + l : '';
+                        j.defer = true;
+                        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                        // f.parentNode.insertBefore(j, f);
+                        // d.body.appendChild(j);
+                        f.appendChild(j);
+                    })(window, document, 'script', 'dataLayer', 'GTM-NVHX3KT');
+                });
+            </script>
+
+        
+        
+    </body>
+
+    </html>
+

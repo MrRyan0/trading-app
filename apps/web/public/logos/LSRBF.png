@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 	
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<base href="https://laserbond.com.au/404.html" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Page Not Found</title>
+	<link href="/templates/laserbond/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://laserbond.com.au/search.opensearch" rel="search" title="Search LaserBond" type="application/opensearchdescription+xml" />
+	<link href="/plugins/system/jce/css/content.css?b037b60a93f8414411e3d778c022f6b4" rel="stylesheet" type="text/css" />
+	<link href="/cache/widgetkit/widgetkit-f9afbe45.css" rel="stylesheet" type="text/css" />
+	<link href="/media/system/css/modal.css?b037b60a93f8414411e3d778c022f6b4" rel="stylesheet" type="text/css" />
+	<link href="https://www.laserbond.com.au//modules/mod_vchart/css/style.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.cloaked_email span:before { content: attr(data-ep-a890c); } .cloaked_email span:after { content: attr(data-ep-ba532); }
+</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"329672ac9a61826f7f22e2d7c44246fa","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="/cache/widgetkit/widgetkit-682d9793.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?b037b60a93f8414411e3d778c022f6b4" type="text/javascript"></script>
+	<script src="https://www.google.com/jsapi" type="text/javascript"></script>
+	<script src="/components/com_vchart/css/addthis.js" type="text/javascript"></script>
+	<script src="/components/com_vchart/css/rgbcolor.js" type="text/javascript"></script>
+	<script src="/components/com_vchart/css/canvg.js" type="text/javascript"></script>
+	<script src="/modules/mod_vchart/css/jquery-resizeEnd.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('.rs_modal').get(), {
+					parse: 'rel'
+				});
+			}
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+var emailProtector=emailProtector||{};emailProtector.addCloakedMailto=function(f,g){var a=document.getElementById(f);if(a){for(var e=a.getElementsByTagName("span"),b="",c="",d=0,h=e.length;d<h;d++)b+=e[d].getAttribute("data-ep-a890c"),c=e[d].getAttribute("data-ep-ba532")+c;a.innerHTML=b+c;g&&(a.parentNode.href="mailto:"+b+c)}};
+</script>
+
+	<meta content="width=device-width, minimum-scale=1.0" name="viewport">
+	<link rel="shortcut icon" href="/templates/laserbond/favicon.ico" />
+	<link href="/templates/laserbond/assets_v_2_6/css/style.css" rel="stylesheet" />
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/templates/laserbond/assets_v_2_6/css/ie.css" />
+	<![endif]-->
+</head>
+<body class="sub">
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MR4ZT3"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MR4ZT3');</script>
+	<!-- End Google Tag Manager -->
+
+<div class="overlay-form"></div>
+<header class="header cf">
+	<div class="inner cf">
+	
+		<a class="logo" href="/"><img src="/templates/laserbond/assets_v_2_6/img/logo.png" /></a>  		
+
+					<div class="header-right cf">
+						<div class="moduletable top-nav">
+						<ul class="nav menu">
+<li class="item-101"><a href="/" >Home</a></li><li class="item-127"><a href="/about-us/news-in-the-news.html" >News</a></li><li class="item-562"><a href="/blog.html" >Blog</a></li><li class="item-497"><a href="/gallery/mining.html" >Gallery</a></li><li class="item-326"><a href="/contact-us.html" >Contact Us</a></li></ul>
+		</div>
+			<div class="moduletable social">
+						<ul class="nav menu">
+<li class="item-138"><a class="youtube" href="https://www.youtube.com/watch?v=i_In_Of8F3I&amp;feature=youtu.be&amp;t=8s" target="_blank" >You Tube</a></li><li class="item-140"><a class="linkedin" href="http://www.linkedin.com/company/laserbond-limited" target="_blank" >LinkedIn</a></li><li class="item-382"><a class=" asx" href="http://www.asx.com.au/asx/share-price-research/company/LBL" target="_blank" >Asx</a></li></ul>
+		</div>
+	
+			</div>
+			
+		
+					<nav class="main-nav cf">
+						<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-123 deeper parent"><a href="/industries.html" >Industries</a><ul class="nav-child unstyled small"><li class="item-554"><a href="/industries.html" >Summary</a></li><li class="item-334"><a href="/industries/mining.html" >Mining </a></li><li class="item-350"><a href="/industries/drilling.html" >Drilling</a></li><li class="item-336"><a href="/industries/mineral-processing.html" >Mineral Processing</a></li><li class="item-337"><a href="/industries/power-generation.html" >Power Generation</a></li><li class="item-338"><a href="/industries/transport-marine.html" >Transport &amp; Marine</a></li><li class="item-339"><a href="/industries/plant-machinery.html" >Plant &amp; Machinery</a></li><li class="item-396"><a href="/industries/manufacturing.html" >Manufacturing</a></li><li class="item-351"><a href="/industries/fluid-handling.html" >Fluid Handling</a></li><li class="item-340"><a href="/industries/agriculture.html" >Agriculture</a></li></ul></li><li class="item-328 deeper parent"><a href="/services.html" >Services</a><ul class="nav-child unstyled small"><li class="item-555"><a href="/services.html" >Summary</a></li><li class="item-352 deeper parent"><a href="/services/laser-cladding.html" >Laser Cladding</a><ul class="nav-child unstyled small"><li class="item-383"><a href="/services/laser-cladding/more-about-laser-cladding.html" >More about Laser Cladding</a></li><li class="item-428"><a href="/services/laser-cladding/more-about-laser-cladding-2.html" >FAQs - Laser Cladding</a></li></ul></li><li class="item-353 deeper parent"><a href="/services/thermal-spray.html" >Thermal Spray, Hardfacing &amp; Polymer Coatings</a><ul class="nav-child unstyled small"><li class="item-384"><a href="/services/thermal-spray/more-about-thermal-spraying-technologies.html" >More about Thermal, Hard Facing &amp; Polymer</a></li></ul></li><li class="item-355"><a href="/services/welding.html" >Welding</a></li><li class="item-356"><a href="/services/machining.html" >Machining</a></li><li class="item-357"><a href="/services/heat-treatment.html" >Heat Treatment</a></li><li class="item-358"><a href="/services/metallurgy-lab.html" >Metallurgy Lab</a></li><li class="item-359 deeper parent"><a href="/services/surface-coatings.html" >Surface Coatings</a><ul class="nav-child unstyled small"><li class="item-385"><a href="/services/surface-coatings/more-about-surface-cladding.html" >More about Surface Cladding</a></li></ul></li><li class="item-360"><a href="/services/remanufacturing.html" >Remanufacturing</a></li></ul></li><li class="item-124 deeper parent"><a href="/products.html" >Products</a><ul class="nav-child unstyled small"><li class="item-556"><a href="/products.html" >Summary</a></li><li class="item-563"><a href="/products/composite-carbide-steel-mill-rolls.html" >Composite Carbide Steel Mill Rolls</a></li><li class="item-361 deeper parent"><a href="/products/drilling-tools/hammer-details.html" >Drilling Tools</a><ul class="nav-child unstyled small"><li class="item-398 deeper parent"><a href="/products/drilling-tools/hammer-details.html" >Hammer Details</a><ul class="nav-child unstyled small"><li class="item-399"><a href="/products/drilling-tools/hammer-details/dth-product-spec.html" >DTH Product Spec</a></li><li class="item-400"><a href="/products/drilling-tools/hammer-details/mine-site-trial.html" >Mine Site Trial</a></li></ul></li><li class="item-401"><a href="/products/drilling-tools/drill-bits.html" >Drill Bits </a></li></ul></li></ul></li><li class="item-354 deeper parent"><a href="/technology.html" >Technology</a><ul class="nav-child unstyled small"><li class="item-557"><a href="/technology.html" >Summary</a></li><li class="item-549"><a href="/technology/licensing.html" >Licensing</a></li><li class="item-550"><a href="/technology/wear-performance-crcp.html" >Wear Performance CRCp</a></li><li class="item-551"><a href="/technology/innovation-projects.html" >Innovation Projects</a></li></ul></li><li class="item-126 deeper parent"><a href="/case-studies.html" >Case Studies</a><ul class="nav-child unstyled small"><li class="item-558"><a href="/case-studies.html" >Summary</a></li><li class="item-341"><a href="/case-studies/mining.html" >Mining</a></li><li class="item-343"><a href="/case-studies/drilling.html" >Drilling</a></li><li class="item-345"><a href="/case-studies/mineral-processing.html" >Mineral Processing</a></li><li class="item-344"><a href="/case-studies/power-generation.html" >Power Generation</a></li><li class="item-346"><a href="/case-studies/transport-marine.html" >Transport and Marine</a></li><li class="item-342"><a href="/case-studies/plant-machinery.html" >Plant  and Machinery</a></li><li class="item-347"><a href="/case-studies/manufacturing.html" >Manufacturing</a></li><li class="item-348"><a href="/case-studies/fluid-handling.html" >Fluid Handling</a></li><li class="item-349"><a href="/case-studies/agriculture.html" >Agriculture</a></li></ul></li><li class="item-327 deeper parent"><a href="/values.html" >Values</a><ul class="nav-child unstyled small"><li class="item-559"><a href="/values.html" >Summary</a></li><li class="item-476"><a href="/values/health-safety.html" >Health &amp; Safety </a></li><li class="item-369"><a href="/values/quality-assurance.html" >Quality Assurance</a></li><li class="item-367"><a href="/values/project-management.html" >Project Management</a></li><li class="item-366"><a href="/values/r-d-innovation.html" >R&amp;D Innovation </a></li><li class="item-370"><a href="/values/sustainable-environment.html" >Sustainable Environment</a></li><li class="item-368"><a href="/values/lean-5s-manufacturing.html" >Lean 5S Manufacturing</a></li></ul></li><li class="item-125 deeper parent"><a href="/about-us.html" >About Us</a><ul class="nav-child unstyled small"><li class="item-560"><a href="/about-us.html" >Summary</a></li><li class="item-475"><a href="/about-us/history-of-innovation.html" >History of Innovation</a></li><li class="item-402"><a href="/about-us/news-in-the-news.html" >News &amp; In the News</a></li><li class="item-372"><a href="/about-us/vision-mission.html" >Vision – Mission</a></li><li class="item-702"><a href="/about-us/leadership-team.html" >Leadership Team</a></li><li class="item-374"><a href="/about-us/policies.html" >Policies</a></li><li class="item-375"><a href="/about-us/people-community.html" >People &amp; Community</a></li><li class="item-376"><a href="/about-us/career-opportunities.html" >Career Opportunities</a></li></ul></li><li class="item-329 deeper parent"><a href="/investor-relations.html" >Investor Relations</a><ul class="nav-child unstyled small"><li class="item-561"><a href="/investor-relations.html" >Summary</a></li><li class="item-377"><a href="http://www.asx.com.au/asx/share-price-research/company/LBL" target="_blank" >ASX Dashboard</a></li><li class="item-378"><a href="/investor-relations/announcements.html" >Announcements</a></li><li class="item-380"><a href="/investor-relations/financial-reports.html" >Financial Reports</a></li><li class="item-379"><a href="/investor-relations/analyst-reports.html" >Analyst Reports</a></li><li class="item-381"><a href="/investor-relations/governance-statement.html" >Corporate Governance</a></li><li class="item-386"><a href="/investor-relations/corporate-directory.html" >Corporate Directory</a></li><li class="item-552"><a href="/investor-relations/register-for-updates.html" >Register for Updates</a></li></ul></li></ul>
+		</div>
+	
+			</nav>
+		
+		
+						<div class="search">
+							<div class="moduletable">
+						
+<form action="/404.html" method="post" class="form-inline">
+	<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="text" size="20" value="SEARCH..."  onblur="if (this.value=='') this.value='SEARCH...';" onfocus="if (this.value=='SEARCH...') this.value='';" /> <input type="submit" value="" class="button btn btn-primary" onclick="this.form.searchword.focus();" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="132" />
+</form>
+
+		</div>
+	
+				</div>
+				
+		<a class="menu-btn">Menu</a>	
+	</div>
+</header>
+
+
+<section class="mega-header  close cf">
+	<div class="inner cf">
+		<section class="slider-mobile cf">
+			<div class="slider-overlay"></div>
+			
+		</section>
+
+		<div class="slider cf">
+			<div class="slider-overlay"></div>
+					<div class="moduletable">
+						
+
+<div class="content cf"  style="background-image: url(/images/slider/sub-page/industries-1.jpg)" >
+	<h2>industries we serve</h2></div>
+
+		</div>
+	
+		</div>
+		
+			</div>
+</section>
+<section class="container cf">
+	<div class="inner cf">
+
+		<article class="main-content cf">
+						
+			<div id="system-message-container">
+	</div>
+
+			<div class="item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB" />
+				<div class="page-header">
+		<h1>
+												Page Not Found									</h1>
+							</div>
+					
+	
+	
+		
+								<div itemprop="articleBody">
+		<p>
+	Sorry the page you are looking for seems to be missing. Please click <a href="/">here</a> to go back to the home page.</p>
+ 	</div>
+
+	
+						 </div>
+
+		</article>
+
+		<aside class="left">
+							<nav class="side-nav">
+					
+				</nav>
+						
+					<div class="moduletable phone">
+						
+
+<div class="content cf"  >
+	<h3>
+	<a href="tel:+611300527372">1300 LASERBOND</a></h3>
+<div>
+	<a href="javascript:// This email address is being protected from spambots."><span class="cloaked_email" id="ep_34479be3"><span data-ep-ba532="&#117;" data-ep-a890c="i&#110;f&#111;"><span data-ep-ba532="&#111;m&#46;&#97;" data-ep-a890c="&#64;l&#97;&#115;"><span data-ep-ba532="&#110;&#100;&#46;&#99;" data-ep-a890c="e&#114;&#98;&#111;"></span></span></span></span><span class="cloaked_email" id="ep_267d7787" style="display:none;"><span data-ep-ba532="u" data-ep-a890c="&#105;&#110;&#102;&#111;"><span data-ep-a890c="&#64;&#108;&#97;&#115;" data-ep-ba532="o&#109;&#46;a"><span data-ep-ba532="n&#100;&#46;&#99;" data-ep-a890c="e&#114;&#98;o"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_267d7787", 1);</script></div>
+</div>
+
+		</div>
+			<div class="moduletable  ask-us ">
+							<h3>Ask Us</h3>
+						
+
+<div class="content cf"  >
+	<ul>
+	<li>
+		<a href="/online-help.html" title="Online Help">Online Help to Wear-life Problems</a></li>
+	<li>
+		<a href="/contact-us.html" title="Contact Us">Enquire Now</a></li>
+</ul>
+</div>
+
+		</div>
+			<div class="moduletable emails">
+							<h3>Email Contacts</h3>
+						
+
+<div class="content cf"  >
+	<ul>
+	<li>
+		<a href="mailto:services@laserbond.com.au ">Services</a></li>
+	<li>
+		<a href="javascript:// This email address is being protected from spambots.">Products<span class="cloaked_email" id="ep_2ed41ff6" style="display:none;"><span data-ep-a890c="&#112;&#114;&#111;&#100;&#117;" data-ep-ba532=""><span data-ep-ba532="&#111;&#109;.a&#117;" data-ep-a890c="&#99;&#116;&#115;&#64;&#108;"><span data-ep-ba532="&#111;n&#100;&#46;&#99;" data-ep-a890c="a&#115;&#101;&#114;&#98;"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_2ed41ff6", 1);</script></li>
+	<li>
+		<a href="javascript:// This email address is being protected from spambots."> Corporate<span class="cloaked_email" id="ep_5767dcd2" style="display:none;"><span data-ep-a890c="&#105;&#110;&#102;&#111;" data-ep-ba532="u"><span data-ep-ba532="om.&#97;" data-ep-a890c="&#64;&#108;a&#115;"><span data-ep-a890c="&#101;rbo" data-ep-ba532="&#110;d&#46;&#99;"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_5767dcd2", 1);</script></li>
+</ul>
+</div>
+
+		</div>
+	
+		</aside>
+
+	</div>
+</section><!--	-->
+
+	<div class="after-content">
+		<div class="inner cf">
+					<div class="moduletable crcp commonwealth">
+						
+
+<div class="content cf"  >
+	<p>
+	<img src="/images/logos/DIIS_CRC-Business-AusGov-Industry-Stacked-RGB.jpg" /></p>
+</div>
+
+		</div>
+			<div class="moduletablecrcp wearlife">
+						
+
+<div class="content cf"  >
+	<p>
+	<img alt="" src="/images/logos/wearlife-crcp(1).png" /></p>
+</div>
+
+		</div>
+			<div class="moduletable  years">
+						
+
+<div class="content cf"  >
+	<p>
+	<img alt="" height="79" src="/images/library/Seam_logo.jpg" width="201" /></p>
+</div>
+
+		</div>
+			<div class="moduletable  years">
+						
+
+<div class="content cf"  >
+	<p>
+	<a href="/about-us/history-of-innovation.html" title="History of Innovation"><img alt="" src="/images/25th-logo.png" /></a></p>
+</div>
+
+		</div>
+			<div class="moduletable qas">
+						
+
+<div class="content cf"  >
+	<p><img src="/images/cert-logo.png" alt="" /></p>
+<ul>
+<li><a href="/images/library/values/PAS99_Cert_1074AUPCA-200417_PAS99-2012_Integrated_Management_System.pdf" target="_blank">PAS99 Integrated Management</a></li>
+<li><a href="/images/library/values/PAS99_Cert_1074AUPCA-200417_ISO9001-2015_Quality_Management_System.pdf" target="_blank">Quality ISO 9001</a></li>
+<li><a href="/images/library/values/PAS99_Cert_1074AUPEN-200417_ISO14001-2015_Environmental.pdf" target="_blank">Environment ISO 14001</a></li>
+<li><a href="/images/library/values/PAS99_Cert_1074AUPHS-200417_ISO45001-2018_AS4801_Workplace_Health__Safety.pdf" target="_blank">Health &amp; Safety ISO 45001</a></li>
+</ul></div>
+
+		</div>
+	
+		</div>
+	</div>
+
+<div class="mega-footer cf">
+	<div class="inner cf">
+		<div class="mega-footer-top cf">
+					<div class="moduletable">
+							<h3>Sydney (Head Office)</h3>
+						
+
+<div class="content cf"  >
+	<p>
+	2/57 Anderson Road<br />
+	Smeaton Grange<br />
+	NSW 2567</p>
+<p>
+	P: +61 2 4631 4500<br />
+	F: +61 2 4631 4555</p>
+<p>
+	ABN 24 057 636 692</p>
+</div>
+
+		</div>
+			<div class="moduletable">
+							<h3>Adelaide</h3>
+						
+
+<div class="content cf"  >
+	<p>
+	112 Levels Rd<br />
+	Cavan SA 5094</p>
+<p>
+	P: +61 8 8262 2289<br />
+	F: +61 8 8260 2238</p>
+</div>
+
+		</div>
+			<div class="moduletable">
+							<h3>Victoria</h3>
+						
+
+<div class="content cf"  >
+	<p>26-32 Aberdeen Road,</p>
+<p>ALTONA VIC 3018</p>
+<p>P: +61 3 9398 5925<br /><br /></p></div>
+
+		</div>
+	
+		</div>
+	
+		<div class="mega-footer-bottom cf">
+					<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-123 deeper parent"><a href="/industries.html" >Industries</a><ul class="nav-child unstyled small"><li class="item-554"><a href="/industries.html" >Summary</a></li><li class="item-334"><a href="/industries/mining.html" >Mining </a></li><li class="item-350"><a href="/industries/drilling.html" >Drilling</a></li><li class="item-336"><a href="/industries/mineral-processing.html" >Mineral Processing</a></li><li class="item-337"><a href="/industries/power-generation.html" >Power Generation</a></li><li class="item-338"><a href="/industries/transport-marine.html" >Transport &amp; Marine</a></li><li class="item-339"><a href="/industries/plant-machinery.html" >Plant &amp; Machinery</a></li><li class="item-396"><a href="/industries/manufacturing.html" >Manufacturing</a></li><li class="item-351"><a href="/industries/fluid-handling.html" >Fluid Handling</a></li><li class="item-340"><a href="/industries/agriculture.html" >Agriculture</a></li></ul></li><li class="item-328 deeper parent"><a href="/services.html" >Services</a><ul class="nav-child unstyled small"><li class="item-555"><a href="/services.html" >Summary</a></li><li class="item-352 deeper parent"><a href="/services/laser-cladding.html" >Laser Cladding</a><ul class="nav-child unstyled small"><li class="item-383"><a href="/services/laser-cladding/more-about-laser-cladding.html" >More about Laser Cladding</a></li><li class="item-428"><a href="/services/laser-cladding/more-about-laser-cladding-2.html" >FAQs - Laser Cladding</a></li></ul></li><li class="item-353 deeper parent"><a href="/services/thermal-spray.html" >Thermal Spray, Hardfacing &amp; Polymer Coatings</a><ul class="nav-child unstyled small"><li class="item-384"><a href="/services/thermal-spray/more-about-thermal-spraying-technologies.html" >More about Thermal, Hard Facing &amp; Polymer</a></li></ul></li><li class="item-355"><a href="/services/welding.html" >Welding</a></li><li class="item-356"><a href="/services/machining.html" >Machining</a></li><li class="item-357"><a href="/services/heat-treatment.html" >Heat Treatment</a></li><li class="item-358"><a href="/services/metallurgy-lab.html" >Metallurgy Lab</a></li><li class="item-359 deeper parent"><a href="/services/surface-coatings.html" >Surface Coatings</a><ul class="nav-child unstyled small"><li class="item-385"><a href="/services/surface-coatings/more-about-surface-cladding.html" >More about Surface Cladding</a></li></ul></li><li class="item-360"><a href="/services/remanufacturing.html" >Remanufacturing</a></li></ul></li><li class="item-124 deeper parent"><a href="/products.html" >Products</a><ul class="nav-child unstyled small"><li class="item-556"><a href="/products.html" >Summary</a></li><li class="item-563"><a href="/products/composite-carbide-steel-mill-rolls.html" >Composite Carbide Steel Mill Rolls</a></li><li class="item-361 deeper parent"><a href="/products/drilling-tools/hammer-details.html" >Drilling Tools</a><ul class="nav-child unstyled small"><li class="item-398 deeper parent"><a href="/products/drilling-tools/hammer-details.html" >Hammer Details</a><ul class="nav-child unstyled small"><li class="item-399"><a href="/products/drilling-tools/hammer-details/dth-product-spec.html" >DTH Product Spec</a></li><li class="item-400"><a href="/products/drilling-tools/hammer-details/mine-site-trial.html" >Mine Site Trial</a></li></ul></li><li class="item-401"><a href="/products/drilling-tools/drill-bits.html" >Drill Bits </a></li></ul></li></ul></li><li class="item-354 deeper parent"><a href="/technology.html" >Technology</a><ul class="nav-child unstyled small"><li class="item-557"><a href="/technology.html" >Summary</a></li><li class="item-549"><a href="/technology/licensing.html" >Licensing</a></li><li class="item-550"><a href="/technology/wear-performance-crcp.html" >Wear Performance CRCp</a></li><li class="item-551"><a href="/technology/innovation-projects.html" >Innovation Projects</a></li></ul></li><li class="item-126 deeper parent"><a href="/case-studies.html" >Case Studies</a><ul class="nav-child unstyled small"><li class="item-558"><a href="/case-studies.html" >Summary</a></li><li class="item-341"><a href="/case-studies/mining.html" >Mining</a></li><li class="item-343"><a href="/case-studies/drilling.html" >Drilling</a></li><li class="item-345"><a href="/case-studies/mineral-processing.html" >Mineral Processing</a></li><li class="item-344"><a href="/case-studies/power-generation.html" >Power Generation</a></li><li class="item-346"><a href="/case-studies/transport-marine.html" >Transport and Marine</a></li><li class="item-342"><a href="/case-studies/plant-machinery.html" >Plant  and Machinery</a></li><li class="item-347"><a href="/case-studies/manufacturing.html" >Manufacturing</a></li><li class="item-348"><a href="/case-studies/fluid-handling.html" >Fluid Handling</a></li><li class="item-349"><a href="/case-studies/agriculture.html" >Agriculture</a></li></ul></li><li class="item-327 deeper parent"><a href="/values.html" >Values</a><ul class="nav-child unstyled small"><li class="item-559"><a href="/values.html" >Summary</a></li><li class="item-476"><a href="/values/health-safety.html" >Health &amp; Safety </a></li><li class="item-369"><a href="/values/quality-assurance.html" >Quality Assurance</a></li><li class="item-367"><a href="/values/project-management.html" >Project Management</a></li><li class="item-366"><a href="/values/r-d-innovation.html" >R&amp;D Innovation </a></li><li class="item-370"><a href="/values/sustainable-environment.html" >Sustainable Environment</a></li><li class="item-368"><a href="/values/lean-5s-manufacturing.html" >Lean 5S Manufacturing</a></li></ul></li><li class="item-125 deeper parent"><a href="/about-us.html" >About Us</a><ul class="nav-child unstyled small"><li class="item-560"><a href="/about-us.html" >Summary</a></li><li class="item-475"><a href="/about-us/history-of-innovation.html" >History of Innovation</a></li><li class="item-402"><a href="/about-us/news-in-the-news.html" >News &amp; In the News</a></li><li class="item-372"><a href="/about-us/vision-mission.html" >Vision – Mission</a></li><li class="item-702"><a href="/about-us/leadership-team.html" >Leadership Team</a></li><li class="item-374"><a href="/about-us/policies.html" >Policies</a></li><li class="item-375"><a href="/about-us/people-community.html" >People &amp; Community</a></li><li class="item-376"><a href="/about-us/career-opportunities.html" >Career Opportunities</a></li></ul></li><li class="item-329 deeper parent"><a href="/investor-relations.html" >Investor Relations</a><ul class="nav-child unstyled small"><li class="item-561"><a href="/investor-relations.html" >Summary</a></li><li class="item-377"><a href="http://www.asx.com.au/asx/share-price-research/company/LBL" target="_blank" >ASX Dashboard</a></li><li class="item-378"><a href="/investor-relations/announcements.html" >Announcements</a></li><li class="item-380"><a href="/investor-relations/financial-reports.html" >Financial Reports</a></li><li class="item-379"><a href="/investor-relations/analyst-reports.html" >Analyst Reports</a></li><li class="item-381"><a href="/investor-relations/governance-statement.html" >Corporate Governance</a></li><li class="item-386"><a href="/investor-relations/corporate-directory.html" >Corporate Directory</a></li><li class="item-552"><a href="/investor-relations/register-for-updates.html" >Register for Updates</a></li></ul></li></ul>
+		</div>
+	
+		</div>
+	</div>
+</div>
+
+	<div class="chart cf">
+				<div class="moduletable">
+							<h3>Safety - RIFR</h3>
+						
+<script type="text/javascript">
+ if (typeof total_chart_indexing == 'undefined')
+	{
+ var total_chart_indexing = new Array();
+ }
+ if (typeof live_update_chart_defined == 'undefined')
+	 {	
+ var live_update_chart_defined=1;
+ }
+ if (typeof interval == 'undefined')
+	 {	
+ var interval = null;
+ }
+  var data99213 = [];
+  var options99213  = [];
+  var chart99213 ='';
+var data_range_limit = 0;
+var total_data_number99213;
+var id_testing;
+var remaining; var new_re; var first_column; var temp; var test_string; var init; var fin; 
+var chart_type = 'Gauge';
+function getImgData99213(chartContainer) {
+var chartArea = chartContainer.children[0];
+var svg = chartArea.innerHTML.substring(chartArea.innerHTML.indexOf("<svg"), chartArea.innerHTML.indexOf("</svg>") + 6);
+var doc = chartContainer.ownerDocument;
+var canvas = doc.createElement('canvas');
+canvas.setAttribute('width', chartArea.offsetWidth);
+canvas.setAttribute('height', chartArea.offsetHeight);
+canvas.setAttribute(
+'style',
+'position: absolute; ' +
+'top: ' + (-chartArea.offsetHeight * 2) + 'px;' +
+'left: ' + (-chartArea.offsetWidth * 2) + 'px;');
+doc.body.appendChild(canvas);
+canvg(canvas, svg);
+var imgData = canvas.toDataURL("image/png");
+canvas.parentNode.removeChild(canvas);
+return imgData;
+}
+function saveAsImg99213(chartContainer) {
+var imgData = getImgData99213(chartContainer);
+
+return imgData; 
+}
+				
+				if(typeof google !== "undefined") google.load("visualization", "1.1", {"packages":["gauge", "controls"],"language": "en"});	
+				google.setOnLoadCallback(drawChart99213);
+				function drawChart99213() {
+				data99213 = google.visualization.arrayToDataTable([["Safety - RIFR","Safety - RIFR"],["Safety - RIFR", 2.59]]);
+				options99213 = {title: "Safety - TRIFR",titleTextStyle: {fontName: "Arial",fontSize: ""}, greenFrom: 3, greenTo: 0, yellowFrom: 9, yellowTo: 3, redFrom: 12, redTo: 9, min: 12, max: 0, animation:{duration: 1000, easing: "inAndOut" },backgroundColor: {fill: "#ffffff",strokeWidth: "3"},width:"95%",height:250};
+				chart99213 =  new google.visualization.Gauge(document.getElementById("vchart_99213"));
+								                  				  
+				  
+				  total_data_number99213 = data99213.getNumberOfRows();
+				  google.visualization.events.addListener(chart99213, "ready", function () { 
+				 
+				   total_chart_indexing_new = '';
+				   total_chart_indexing_new = 99+'@'+total_data_number99213+'@data@'+99213+'@normal';
+				    				}); 
+                
+				chart99213.draw(data99213, options99213);
+				 jQuery(window).resizeEnd(function () {
+						drawChart99213();
+						});
+				google.visualization.events.addListener(chart99213, "error", function () {
+				alert("You have given wrong data");
+				});
+				 }
+
+
+	  
+           if (typeof live_update_chart == 'undefined') {			 
+					 function live_update_chart(){
+						 jQuery.ajax({
+					    url: "index.php",
+					    dataType: "json",
+                   data: {"option":"com_vchart", "view":"vchart", "task":"getchartdata","current_limit":total_chart_indexing, "chart_id":99, "329672ac9a61826f7f22e2d7c44246fa":1, "abase":1}
+                   }).done(function (results) {
+				  //   live_update_chart(results);
+				        if(results.total)
+					    var first_column =  results.total.shift(); 
+					    var chart_numbering = '';
+						for(var s=0;s<results.newstring.length;s++){
+						  test_string =  results.newstring[s];
+						  temp = new Array();
+						  for(var ss=0;ss<test_string.length;ss++){ 
+						   
+						   if(ss==0){
+						if(typeof first_column[s].type !="undefined" && (first_column[s].type=="date" || first_column[s].type=="datetime"))	{
+						var init = test_string[ss].indexOf("(");
+						var fin = test_string[ss].indexOf(")");
+						test_string[ss] = test_string[ss].substr(init+1,fin-init-1);
+						
+						var test_string_date = test_string[ss].split(",");
+						if(test_string_date.length>3)
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2],test_string_date[3],test_string_date[4],test_string_date[5]));
+					    else
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2]));	
+						}
+					    else if(typeof first_column[s].type !="undefined" && first_column[s].type=="number")	   
+						     temp.push(parseFloat(test_string[ss]));
+					     else
+							temp.push(test_string[ss].replace(/(^"|"$)/g, ""));	  
+					
+						  }
+						  else
+							temp.push(parseFloat(test_string[ss]));     
+					   }
+					
+                        chart_numbering = results.charttype[s];						 
+						if(test_string.length>0)
+						 {
+							eval('total_data_number'+chart_numbering+'= '+'total_data_number'+chart_numbering+'+1');
+							
+							 eval('data'+results.charttype[s]+'.addRow(temp)');
+							if(results.limit_value[s]!="no"){
+								
+							eval('var total_limit = data'+results.charttype[s]+'.getNumberOfRows();');
+                               if(total_limit>results.limit_value[s])							
+							eval('data'+results.charttype[s]+'.removeRow(0)');	
+							}
+							
+							
+						 }
+						
+						 temp = new Array();
+						var mns = 'chart'+results.charttype[s];
+						var optionname = 'options'+results.charttype[s];
+						eval('chart'+chart_numbering+'.draw(data'+chart_numbering+',options'+chart_numbering+')');
+						
+						}
+					 
+					}); 
+					
+					   clearTimeout(interval);
+						interval   = 	setTimeout(function(){
+					    live_update_chart();
+						//live_update_chart_defined = 1;
+						
+          			 },10000);
+					 
+			       }
+					
+               }
+          		 
+	
+	
+
+</script> <div class="vchar_info">	<a class="chart-link" href="/values/health-safety.html"></a>
+
+		
+                <div id="vchart_99213" class="chart_div share_option"></div>
+		
+				
+        	 <canvas id="canvas" style="display:none;"></canvas>
+	 </div>
+     		</div>
+			<div class="moduletable">
+							<h3>Quality – CPPM	</h3>
+						
+<script type="text/javascript">
+ if (typeof total_chart_indexing == 'undefined')
+	{
+ var total_chart_indexing = new Array();
+ }
+ if (typeof live_update_chart_defined == 'undefined')
+	 {	
+ var live_update_chart_defined=1;
+ }
+ if (typeof interval == 'undefined')
+	 {	
+ var interval = null;
+ }
+  var data100218 = [];
+  var options100218  = [];
+  var chart100218 ='';
+var data_range_limit = 0;
+var total_data_number100218;
+var id_testing;
+var remaining; var new_re; var first_column; var temp; var test_string; var init; var fin; 
+var chart_type = 'Gauge';
+function getImgData100218(chartContainer) {
+var chartArea = chartContainer.children[0];
+var svg = chartArea.innerHTML.substring(chartArea.innerHTML.indexOf("<svg"), chartArea.innerHTML.indexOf("</svg>") + 6);
+var doc = chartContainer.ownerDocument;
+var canvas = doc.createElement('canvas');
+canvas.setAttribute('width', chartArea.offsetWidth);
+canvas.setAttribute('height', chartArea.offsetHeight);
+canvas.setAttribute(
+'style',
+'position: absolute; ' +
+'top: ' + (-chartArea.offsetHeight * 2) + 'px;' +
+'left: ' + (-chartArea.offsetWidth * 2) + 'px;');
+doc.body.appendChild(canvas);
+canvg(canvas, svg);
+var imgData = canvas.toDataURL("image/png");
+canvas.parentNode.removeChild(canvas);
+return imgData;
+}
+function saveAsImg100218(chartContainer) {
+var imgData = getImgData100218(chartContainer);
+
+return imgData; 
+}
+				
+				if(typeof google !== "undefined") google.load("visualization", "1.1", {"packages":["gauge", "controls"],"language": "en"});	
+				google.setOnLoadCallback(drawChart100218);
+				function drawChart100218() {
+				data100218 = google.visualization.arrayToDataTable([["Quality – CPPM	","Quality – CPPM	"],["Quality – CPPM", 99.9]]);
+				options100218 = { greenFrom: 99, greenTo: 100, yellowFrom: 95, yellowTo: 99, redFrom: 90, redTo: 95, min: 90, max: 100, animation:{duration: 1000, easing: "inAndOut" },width:"95%",height:250};
+				chart100218 =  new google.visualization.Gauge(document.getElementById("vchart_100218"));
+								                  					 var formatter100218 = new google.visualization.NumberFormat({
+					pattern: "#.##"
+										,suffix: "%"
+				   					}); 
+                    formatter100218.format(data100218, 1);	
+									  
+				  
+				  total_data_number100218 = data100218.getNumberOfRows();
+				  google.visualization.events.addListener(chart100218, "ready", function () { 
+				 
+				   total_chart_indexing_new = '';
+				   total_chart_indexing_new = 100+'@'+total_data_number100218+'@data@'+100218+'@normal';
+				    				}); 
+                
+				chart100218.draw(data100218, options100218);
+				 jQuery(window).resizeEnd(function () {
+						drawChart100218();
+						});
+				google.visualization.events.addListener(chart100218, "error", function () {
+				alert("You have given wrong data");
+				});
+				 }
+
+
+	  
+           if (typeof live_update_chart == 'undefined') {			 
+					 function live_update_chart(){
+						 jQuery.ajax({
+					    url: "index.php",
+					    dataType: "json",
+                   data: {"option":"com_vchart", "view":"vchart", "task":"getchartdata","current_limit":total_chart_indexing, "chart_id":100, "329672ac9a61826f7f22e2d7c44246fa":1, "abase":1}
+                   }).done(function (results) {
+				  //   live_update_chart(results);
+				        if(results.total)
+					    var first_column =  results.total.shift(); 
+					    var chart_numbering = '';
+						for(var s=0;s<results.newstring.length;s++){
+						  test_string =  results.newstring[s];
+						  temp = new Array();
+						  for(var ss=0;ss<test_string.length;ss++){ 
+						   
+						   if(ss==0){
+						if(typeof first_column[s].type !="undefined" && (first_column[s].type=="date" || first_column[s].type=="datetime"))	{
+						var init = test_string[ss].indexOf("(");
+						var fin = test_string[ss].indexOf(")");
+						test_string[ss] = test_string[ss].substr(init+1,fin-init-1);
+						
+						var test_string_date = test_string[ss].split(",");
+						if(test_string_date.length>3)
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2],test_string_date[3],test_string_date[4],test_string_date[5]));
+					    else
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2]));	
+						}
+					    else if(typeof first_column[s].type !="undefined" && first_column[s].type=="number")	   
+						     temp.push(parseFloat(test_string[ss]));
+					     else
+							temp.push(test_string[ss].replace(/(^"|"$)/g, ""));	  
+					
+						  }
+						  else
+							temp.push(parseFloat(test_string[ss]));     
+					   }
+					
+                        chart_numbering = results.charttype[s];						 
+						if(test_string.length>0)
+						 {
+							eval('total_data_number'+chart_numbering+'= '+'total_data_number'+chart_numbering+'+1');
+							
+							 eval('data'+results.charttype[s]+'.addRow(temp)');
+							if(results.limit_value[s]!="no"){
+								
+							eval('var total_limit = data'+results.charttype[s]+'.getNumberOfRows();');
+                               if(total_limit>results.limit_value[s])							
+							eval('data'+results.charttype[s]+'.removeRow(0)');	
+							}
+							
+							
+						 }
+						
+						 temp = new Array();
+						var mns = 'chart'+results.charttype[s];
+						var optionname = 'options'+results.charttype[s];
+						eval('chart'+chart_numbering+'.draw(data'+chart_numbering+',options'+chart_numbering+')');
+						
+						}
+					 
+					}); 
+					
+					   clearTimeout(interval);
+						interval   = 	setTimeout(function(){
+					    live_update_chart();
+						//live_update_chart_defined = 1;
+						
+          			 },10000);
+					 
+			       }
+					
+               }
+          		 
+	
+	
+
+</script> <div class="vchar_info">	<a class="chart-link" href="/values/quality-assurance.html"></a>
+
+		
+                <div id="vchart_100218" class="chart_div share_option"></div>
+		
+				
+        	 <canvas id="canvas" style="display:none;"></canvas>
+	 </div>
+     		</div>
+			<div class="moduletable">
+							<h3>On-time Delivery </h3>
+						
+<script type="text/javascript">
+ if (typeof total_chart_indexing == 'undefined')
+	{
+ var total_chart_indexing = new Array();
+ }
+ if (typeof live_update_chart_defined == 'undefined')
+	 {	
+ var live_update_chart_defined=1;
+ }
+ if (typeof interval == 'undefined')
+	 {	
+ var interval = null;
+ }
+  var data96214 = [];
+  var options96214  = [];
+  var chart96214 ='';
+var data_range_limit = 0;
+var total_data_number96214;
+var id_testing;
+var remaining; var new_re; var first_column; var temp; var test_string; var init; var fin; 
+var chart_type = 'Gauge';
+function getImgData96214(chartContainer) {
+var chartArea = chartContainer.children[0];
+var svg = chartArea.innerHTML.substring(chartArea.innerHTML.indexOf("<svg"), chartArea.innerHTML.indexOf("</svg>") + 6);
+var doc = chartContainer.ownerDocument;
+var canvas = doc.createElement('canvas');
+canvas.setAttribute('width', chartArea.offsetWidth);
+canvas.setAttribute('height', chartArea.offsetHeight);
+canvas.setAttribute(
+'style',
+'position: absolute; ' +
+'top: ' + (-chartArea.offsetHeight * 2) + 'px;' +
+'left: ' + (-chartArea.offsetWidth * 2) + 'px;');
+doc.body.appendChild(canvas);
+canvg(canvas, svg);
+var imgData = canvas.toDataURL("image/png");
+canvas.parentNode.removeChild(canvas);
+return imgData;
+}
+function saveAsImg96214(chartContainer) {
+var imgData = getImgData96214(chartContainer);
+
+return imgData; 
+}
+				
+				if(typeof google !== "undefined") google.load("visualization", "1.1", {"packages":["gauge", "controls"],"language": "en"});	
+				google.setOnLoadCallback(drawChart96214);
+				function drawChart96214() {
+				data96214 = google.visualization.arrayToDataTable([["On-time Delivery ","On-time Delivery "],["On-time Delivery", 97]]);
+				options96214 = {title: "On-time Delivery ",titleTextStyle: {fontName: "Arial",fontSize: "0"}, greenFrom: 95, greenTo: 100, yellowFrom: 90, yellowTo: 95, redFrom: 80, redTo: 90, min: 80, max: 100, animation:{duration: 1000, easing: "inAndOut" },backgroundColor: 'transparent',width:"95%",height:250};
+				chart96214 =  new google.visualization.Gauge(document.getElementById("vchart_96214"));
+								                  					 var formatter96214 = new google.visualization.NumberFormat({
+					pattern: "#.##"
+										,suffix: "%"
+				   					}); 
+                    formatter96214.format(data96214, 1);	
+									  
+				  
+				  total_data_number96214 = data96214.getNumberOfRows();
+				  google.visualization.events.addListener(chart96214, "ready", function () { 
+				 
+				   total_chart_indexing_new = '';
+				   total_chart_indexing_new = 96+'@'+total_data_number96214+'@data@'+96214+'@normal';
+				    				}); 
+                
+				chart96214.draw(data96214, options96214);
+				 jQuery(window).resizeEnd(function () {
+						drawChart96214();
+						});
+				google.visualization.events.addListener(chart96214, "error", function () {
+				alert("You have given wrong data");
+				});
+				 }
+
+
+	  
+           if (typeof live_update_chart == 'undefined') {			 
+					 function live_update_chart(){
+						 jQuery.ajax({
+					    url: "index.php",
+					    dataType: "json",
+                   data: {"option":"com_vchart", "view":"vchart", "task":"getchartdata","current_limit":total_chart_indexing, "chart_id":96, "329672ac9a61826f7f22e2d7c44246fa":1, "abase":1}
+                   }).done(function (results) {
+				  //   live_update_chart(results);
+				        if(results.total)
+					    var first_column =  results.total.shift(); 
+					    var chart_numbering = '';
+						for(var s=0;s<results.newstring.length;s++){
+						  test_string =  results.newstring[s];
+						  temp = new Array();
+						  for(var ss=0;ss<test_string.length;ss++){ 
+						   
+						   if(ss==0){
+						if(typeof first_column[s].type !="undefined" && (first_column[s].type=="date" || first_column[s].type=="datetime"))	{
+						var init = test_string[ss].indexOf("(");
+						var fin = test_string[ss].indexOf(")");
+						test_string[ss] = test_string[ss].substr(init+1,fin-init-1);
+						
+						var test_string_date = test_string[ss].split(",");
+						if(test_string_date.length>3)
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2],test_string_date[3],test_string_date[4],test_string_date[5]));
+					    else
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2]));	
+						}
+					    else if(typeof first_column[s].type !="undefined" && first_column[s].type=="number")	   
+						     temp.push(parseFloat(test_string[ss]));
+					     else
+							temp.push(test_string[ss].replace(/(^"|"$)/g, ""));	  
+					
+						  }
+						  else
+							temp.push(parseFloat(test_string[ss]));     
+					   }
+					
+                        chart_numbering = results.charttype[s];						 
+						if(test_string.length>0)
+						 {
+							eval('total_data_number'+chart_numbering+'= '+'total_data_number'+chart_numbering+'+1');
+							
+							 eval('data'+results.charttype[s]+'.addRow(temp)');
+							if(results.limit_value[s]!="no"){
+								
+							eval('var total_limit = data'+results.charttype[s]+'.getNumberOfRows();');
+                               if(total_limit>results.limit_value[s])							
+							eval('data'+results.charttype[s]+'.removeRow(0)');	
+							}
+							
+							
+						 }
+						
+						 temp = new Array();
+						var mns = 'chart'+results.charttype[s];
+						var optionname = 'options'+results.charttype[s];
+						eval('chart'+chart_numbering+'.draw(data'+chart_numbering+',options'+chart_numbering+')');
+						
+						}
+					 
+					}); 
+					
+					   clearTimeout(interval);
+						interval   = 	setTimeout(function(){
+					    live_update_chart();
+						//live_update_chart_defined = 1;
+						
+          			 },10000);
+					 
+			       }
+					
+               }
+          		 
+	
+	
+
+</script> <div class="vchar_info">	<a class="chart-link" href="/values/project-management.html"></a>
+
+		
+                <div id="vchart_96214" class="chart_div share_option"></div>
+		
+				
+        	 <canvas id="canvas" style="display:none;"></canvas>
+	 </div>
+     		</div>
+			<div class="moduletable">
+							<h3>R&D Investment </h3>
+						
+<script type="text/javascript">
+ if (typeof total_chart_indexing == 'undefined')
+	{
+ var total_chart_indexing = new Array();
+ }
+ if (typeof live_update_chart_defined == 'undefined')
+	 {	
+ var live_update_chart_defined=1;
+ }
+ if (typeof interval == 'undefined')
+	 {	
+ var interval = null;
+ }
+  var data101216 = [];
+  var options101216  = [];
+  var chart101216 ='';
+var data_range_limit = 0;
+var total_data_number101216;
+var id_testing;
+var remaining; var new_re; var first_column; var temp; var test_string; var init; var fin; 
+var chart_type = 'Gauge';
+function getImgData101216(chartContainer) {
+var chartArea = chartContainer.children[0];
+var svg = chartArea.innerHTML.substring(chartArea.innerHTML.indexOf("<svg"), chartArea.innerHTML.indexOf("</svg>") + 6);
+var doc = chartContainer.ownerDocument;
+var canvas = doc.createElement('canvas');
+canvas.setAttribute('width', chartArea.offsetWidth);
+canvas.setAttribute('height', chartArea.offsetHeight);
+canvas.setAttribute(
+'style',
+'position: absolute; ' +
+'top: ' + (-chartArea.offsetHeight * 2) + 'px;' +
+'left: ' + (-chartArea.offsetWidth * 2) + 'px;');
+doc.body.appendChild(canvas);
+canvg(canvas, svg);
+var imgData = canvas.toDataURL("image/png");
+canvas.parentNode.removeChild(canvas);
+return imgData;
+}
+function saveAsImg101216(chartContainer) {
+var imgData = getImgData101216(chartContainer);
+
+return imgData; 
+}
+				
+				if(typeof google !== "undefined") google.load("visualization", "1.1", {"packages":["gauge", "controls"],"language": "en"});	
+				google.setOnLoadCallback(drawChart101216);
+				function drawChart101216() {
+				data101216 = google.visualization.arrayToDataTable([["R&D Investment ","R&D Investment "],["R&D Investment", 3.9]]);
+				options101216 = { greenFrom: 4, greenTo: 6, yellowFrom: 2, yellowTo: 4, redFrom: 0, redTo: 2, min: 0, max: 6, animation:{duration: 1000, easing: "inAndOut" },width:"95%",height:250};
+				chart101216 =  new google.visualization.Gauge(document.getElementById("vchart_101216"));
+								                  					 var formatter101216 = new google.visualization.NumberFormat({
+					pattern: "#.##"
+										,suffix: "%"
+				   					}); 
+                    formatter101216.format(data101216, 1);	
+									  
+				  
+				  total_data_number101216 = data101216.getNumberOfRows();
+				  google.visualization.events.addListener(chart101216, "ready", function () { 
+				 
+				   total_chart_indexing_new = '';
+				   total_chart_indexing_new = 101+'@'+total_data_number101216+'@data@'+101216+'@normal';
+				    				}); 
+                
+				chart101216.draw(data101216, options101216);
+				 jQuery(window).resizeEnd(function () {
+						drawChart101216();
+						});
+				google.visualization.events.addListener(chart101216, "error", function () {
+				alert("You have given wrong data");
+				});
+				 }
+
+
+	  
+           if (typeof live_update_chart == 'undefined') {			 
+					 function live_update_chart(){
+						 jQuery.ajax({
+					    url: "index.php",
+					    dataType: "json",
+                   data: {"option":"com_vchart", "view":"vchart", "task":"getchartdata","current_limit":total_chart_indexing, "chart_id":101, "329672ac9a61826f7f22e2d7c44246fa":1, "abase":1}
+                   }).done(function (results) {
+				  //   live_update_chart(results);
+				        if(results.total)
+					    var first_column =  results.total.shift(); 
+					    var chart_numbering = '';
+						for(var s=0;s<results.newstring.length;s++){
+						  test_string =  results.newstring[s];
+						  temp = new Array();
+						  for(var ss=0;ss<test_string.length;ss++){ 
+						   
+						   if(ss==0){
+						if(typeof first_column[s].type !="undefined" && (first_column[s].type=="date" || first_column[s].type=="datetime"))	{
+						var init = test_string[ss].indexOf("(");
+						var fin = test_string[ss].indexOf(")");
+						test_string[ss] = test_string[ss].substr(init+1,fin-init-1);
+						
+						var test_string_date = test_string[ss].split(",");
+						if(test_string_date.length>3)
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2],test_string_date[3],test_string_date[4],test_string_date[5]));
+					    else
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2]));	
+						}
+					    else if(typeof first_column[s].type !="undefined" && first_column[s].type=="number")	   
+						     temp.push(parseFloat(test_string[ss]));
+					     else
+							temp.push(test_string[ss].replace(/(^"|"$)/g, ""));	  
+					
+						  }
+						  else
+							temp.push(parseFloat(test_string[ss]));     
+					   }
+					
+                        chart_numbering = results.charttype[s];						 
+						if(test_string.length>0)
+						 {
+							eval('total_data_number'+chart_numbering+'= '+'total_data_number'+chart_numbering+'+1');
+							
+							 eval('data'+results.charttype[s]+'.addRow(temp)');
+							if(results.limit_value[s]!="no"){
+								
+							eval('var total_limit = data'+results.charttype[s]+'.getNumberOfRows();');
+                               if(total_limit>results.limit_value[s])							
+							eval('data'+results.charttype[s]+'.removeRow(0)');	
+							}
+							
+							
+						 }
+						
+						 temp = new Array();
+						var mns = 'chart'+results.charttype[s];
+						var optionname = 'options'+results.charttype[s];
+						eval('chart'+chart_numbering+'.draw(data'+chart_numbering+',options'+chart_numbering+')');
+						
+						}
+					 
+					}); 
+					
+					   clearTimeout(interval);
+						interval   = 	setTimeout(function(){
+					    live_update_chart();
+						//live_update_chart_defined = 1;
+						
+          			 },10000);
+					 
+			       }
+					
+               }
+          		 
+	
+	
+
+</script> <div class="vchar_info">	<a class="chart-link" href="/values/r-d-innovation.html?id=53"></a>
+
+		
+                <div id="vchart_101216" class="chart_div share_option"></div>
+		
+				
+        	 <canvas id="canvas" style="display:none;"></canvas>
+	 </div>
+     		</div>
+			<div class="moduletable">
+							<h3>Energy Efficiency</h3>
+						
+<script type="text/javascript">
+ if (typeof total_chart_indexing == 'undefined')
+	{
+ var total_chart_indexing = new Array();
+ }
+ if (typeof live_update_chart_defined == 'undefined')
+	 {	
+ var live_update_chart_defined=1;
+ }
+ if (typeof interval == 'undefined')
+	 {	
+ var interval = null;
+ }
+  var data102217 = [];
+  var options102217  = [];
+  var chart102217 ='';
+var data_range_limit = 0;
+var total_data_number102217;
+var id_testing;
+var remaining; var new_re; var first_column; var temp; var test_string; var init; var fin; 
+var chart_type = 'Gauge';
+function getImgData102217(chartContainer) {
+var chartArea = chartContainer.children[0];
+var svg = chartArea.innerHTML.substring(chartArea.innerHTML.indexOf("<svg"), chartArea.innerHTML.indexOf("</svg>") + 6);
+var doc = chartContainer.ownerDocument;
+var canvas = doc.createElement('canvas');
+canvas.setAttribute('width', chartArea.offsetWidth);
+canvas.setAttribute('height', chartArea.offsetHeight);
+canvas.setAttribute(
+'style',
+'position: absolute; ' +
+'top: ' + (-chartArea.offsetHeight * 2) + 'px;' +
+'left: ' + (-chartArea.offsetWidth * 2) + 'px;');
+doc.body.appendChild(canvas);
+canvg(canvas, svg);
+var imgData = canvas.toDataURL("image/png");
+canvas.parentNode.removeChild(canvas);
+return imgData;
+}
+function saveAsImg102217(chartContainer) {
+var imgData = getImgData102217(chartContainer);
+
+return imgData; 
+}
+				
+				if(typeof google !== "undefined") google.load("visualization", "1.1", {"packages":["gauge", "controls"],"language": "en"});	
+				google.setOnLoadCallback(drawChart102217);
+				function drawChart102217() {
+				data102217 = google.visualization.arrayToDataTable([["Energy Conversion","Energy Efficiency"],["Energy Efficiency", 1.48]]);
+				options102217 = { greenFrom: 1.5, greenTo: 2.0, yellowFrom: 1.0, yellowTo: 1.5, redFrom: 0.5, redTo: 1.0, min: 0.5, max: 2.0, animation:{duration: 1000, easing: "inAndOut" },width:"95%",height:250};
+				chart102217 =  new google.visualization.Gauge(document.getElementById("vchart_102217"));
+								                  				  
+				  
+				  total_data_number102217 = data102217.getNumberOfRows();
+				  google.visualization.events.addListener(chart102217, "ready", function () { 
+				 
+				   total_chart_indexing_new = '';
+				   total_chart_indexing_new = 102+'@'+total_data_number102217+'@data@'+102217+'@normal';
+				    				}); 
+                
+				chart102217.draw(data102217, options102217);
+				 jQuery(window).resizeEnd(function () {
+						drawChart102217();
+						});
+				google.visualization.events.addListener(chart102217, "error", function () {
+				alert("You have given wrong data");
+				});
+				 }
+
+
+	  
+           if (typeof live_update_chart == 'undefined') {			 
+					 function live_update_chart(){
+						 jQuery.ajax({
+					    url: "index.php",
+					    dataType: "json",
+                   data: {"option":"com_vchart", "view":"vchart", "task":"getchartdata","current_limit":total_chart_indexing, "chart_id":102, "329672ac9a61826f7f22e2d7c44246fa":1, "abase":1}
+                   }).done(function (results) {
+				  //   live_update_chart(results);
+				        if(results.total)
+					    var first_column =  results.total.shift(); 
+					    var chart_numbering = '';
+						for(var s=0;s<results.newstring.length;s++){
+						  test_string =  results.newstring[s];
+						  temp = new Array();
+						  for(var ss=0;ss<test_string.length;ss++){ 
+						   
+						   if(ss==0){
+						if(typeof first_column[s].type !="undefined" && (first_column[s].type=="date" || first_column[s].type=="datetime"))	{
+						var init = test_string[ss].indexOf("(");
+						var fin = test_string[ss].indexOf(")");
+						test_string[ss] = test_string[ss].substr(init+1,fin-init-1);
+						
+						var test_string_date = test_string[ss].split(",");
+						if(test_string_date.length>3)
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2],test_string_date[3],test_string_date[4],test_string_date[5]));
+					    else
+						temp.push(new Date(test_string_date[0],test_string_date[1],test_string_date[2]));	
+						}
+					    else if(typeof first_column[s].type !="undefined" && first_column[s].type=="number")	   
+						     temp.push(parseFloat(test_string[ss]));
+					     else
+							temp.push(test_string[ss].replace(/(^"|"$)/g, ""));	  
+					
+						  }
+						  else
+							temp.push(parseFloat(test_string[ss]));     
+					   }
+					
+                        chart_numbering = results.charttype[s];						 
+						if(test_string.length>0)
+						 {
+							eval('total_data_number'+chart_numbering+'= '+'total_data_number'+chart_numbering+'+1');
+							
+							 eval('data'+results.charttype[s]+'.addRow(temp)');
+							if(results.limit_value[s]!="no"){
+								
+							eval('var total_limit = data'+results.charttype[s]+'.getNumberOfRows();');
+                               if(total_limit>results.limit_value[s])							
+							eval('data'+results.charttype[s]+'.removeRow(0)');	
+							}
+							
+							
+						 }
+						
+						 temp = new Array();
+						var mns = 'chart'+results.charttype[s];
+						var optionname = 'options'+results.charttype[s];
+						eval('chart'+chart_numbering+'.draw(data'+chart_numbering+',options'+chart_numbering+')');
+						
+						}
+					 
+					}); 
+					
+					   clearTimeout(interval);
+						interval   = 	setTimeout(function(){
+					    live_update_chart();
+						//live_update_chart_defined = 1;
+						
+          			 },10000);
+					 
+			       }
+					
+               }
+          		 
+	
+	
+
+</script> <div class="vchar_info">	<a class="chart-link" href="/values/sustainable-environment.html"></a>
+
+		
+                <div id="vchart_102217" class="chart_div share_option"></div>
+		
+				
+        	 <canvas id="canvas" style="display:none;"></canvas>
+	 </div>
+     		</div>
+	
+	</div>
+
+<footer class="footer cf">
+	<div class="inner cf">
+
+		<nav class="footer-nav cf">
+					<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-131"><a href="/sitemap.html" >Sitemap</a></li><li class="item-132"><a href="/search.html" >Search</a></li><li class="item-133"><a href="/disclaimer.html" >Disclaimer  </a></li><li class="item-134"><a href="/privacy-statement.html" >Privacy Statement</a></li><li class="item-403"><a href="/about-us/news-in-the-news.html" >News</a></li><li class="item-575"><a href="/articles.html" >Articles</a></li></ul>
+		</div>
+	
+		</nav>
+
+		<a class="dash" href="https://www.choosedigital.com.au" target="_blank">Website by ChooseDigital.com.au</a>
+	</div>
+</footer>
+<script src="/templates/laserbond/assets_v_2_6/js/overthrow-detect.js"></script>
+<script src="/templates/laserbond/assets_v_2_6/js/overthrow-polyfill.js"></script>
+<script src="/templates/laserbond/assets_v_2_6/js/overthrow-toss.js"></script>
+<script src="/templates/laserbond/assets_v_2_6/js/overthrow-init.js"></script>
+<script src="/templates/laserbond/assets_v_2_6/js/template.js"></script>
+
+<!--[if IE]>
+	<script src="/templates/laserbond/assets_v_2_6/js/script-ie.js"></script>
+	<script src="/templates/laserbond/assets_v_2_6/js/jquery.placeholder.1.3.min.js" defer="defer"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+	<script src="/templates/laserbond/assets_v_2_6/js/selectivizr-min.js"></script>
+	<script src="/templates/laserbond/assets_v_2_6/js/html5shiv.js"></script>
+<![endif]-->
+
+
+</body>
+</html>

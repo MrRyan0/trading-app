@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>twenty-over-ten-icon</title>
+    <style>
+        #Group {
+        fill: #2d2d2d;
+        }
+        circle {
+            stroke: #2d2d2d;
+        }
+        @media (prefers-color-scheme: dark) {
+        #Group {
+        fill: #ffffff;
+        }
+        circle {
+        stroke: #ffffff;
+        }
+        }
+    </style>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="twenty-over-ten-icon" transform="translate(2.000000, 2.000000)">
+            <g id="Group" transform="translate(30.430000, 18.445000)" fill="#2D2D2D" fill-rule="nonzero">
+                <rect id="Rectangle" x="0.00598641587" y="28.05" width="6.868" height="3.06"></rect>
+                <path d="M4.53244514,22.95 C5.49169278,22.95 6.25909091,22.8420846 6.83463951,22.6262539 L6.83463951,19.748511 C6.45094043,19.8444358 6.0072884,19.8923981 5.50368339,19.8923981 C4.64036049,19.8923981 4.02284484,19.7005486 3.65113638,19.3168495 C3.2794279,18.9331505 3.09357367,18.3336207 3.09357367,17.5182602 L3.09357367,8.52531348 L6.83463951,8.52531348 L6.83463951,5.4677116 L3.09357367,5.4677116 L3.09357367,0 L-5.13367125e-14,0 L-5.13367125e-14,2.80579937 C-5.13367125e-14,3.33338558 -5.13367125e-14,5.23989028 -5.13367125e-14,8.52531348 L-5.13367125e-14,18.0218652 C-5.13367125e-14,19.5806426 0.143887147,20.7916928 1.00721003,21.6550157 C1.87053292,22.5183386 3.04561128,22.95 4.53244514,22.95 Z"
+                      id="Path"></path>
+            </g>
+            <circle id="Oval" stroke="#2D2D2D" stroke-width="3.4" cx="34" cy="34.085" r="34"></circle>
+        </g>
+    </g>
+</svg>

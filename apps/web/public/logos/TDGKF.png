@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>太平電業株式会社</title>
+<meta name="description" content="太平電業株式会社は、高い技術力と独自の技術、工法、開発品（特許品）で、国内外の火力・原子力発電所をはじめ、各種プラント・環境設備等の建設、メンテナンスから解体・廃止までのプラントライフサイクルを一貫サポートする総合プラント建設会社です。">
+<meta name="keywords" content="太平電業,プラント,発電所,建設,メンテナンス">
+<meta name="robots" content="all">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:site_name" content="太平電業株式会社">
+<meta property="og:title" content="太平電業株式会社">
+<meta property="og:description" content="太平電業株式会社は、高い技術力と独自の技術、工法、開発品（特許品）で、国内外の火力・原子力発電所をはじめ、各種プラント・環境設備等の建設、メンテナンスから解体・廃止までのプラントライフサイクルを一貫サポートする総合プラント建設会社です。">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://www.taihei-dengyo.co.jp/common_rwd/ogp_1200_630.png">
+<link rel="icon" href="./common_rwd/img/icon.ico" type="image/vnd.microsoft.icon">
+<link rel="shortcut icon" href="./common_rwd/img/icon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="./common_rwd/img/icon_180_180.png"><style>/*! sanitize.css v5.0.0 | CC0 License | github.com/jonathantneal/sanitize.css */*,::after,::before{background-repeat:no-repeat;box-sizing:inherit}::after,::before{text-decoration:inherit;vertical-align:inherit}html{box-sizing:border-box;cursor:default;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}article,aside,footer,header,nav,section{display:block}body{margin:0}h1{font-size:2em;margin:.67em 0}figcaption,figure,main{display:block}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}nav ol,nav ul{list-style:none}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}::-moz-selection{background-color:#b3d4fc;color:#000;text-shadow:none}::selection{background-color:#b3d4fc;color:#000;text-shadow:none}audio,canvas,iframe,img,svg,video{vertical-align:middle}audio,video{display:inline-block}audio:not([controls]){display:none;height:0}img{border-style:none}svg{fill:currentColor}svg:not(:root){overflow:hidden}table{border-collapse:collapse}button,input,optgroup,select,textarea{margin:0}button,input,select,textarea{background-color:transparent;color:inherit;font-size:inherit;line-height:inherit}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{display:inline-block;vertical-align:baseline}textarea{overflow:auto;resize:vertical}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details,menu{display:block}summary{display:list-item}canvas{display:inline-block}template{display:none}[tabindex],a,area,button,input,label,select,summary,textarea{-ms-touch-action:manipulation;touch-action:manipulation}[hidden]{display:none}[aria-busy=true]{cursor:progress}[aria-controls]{cursor:pointer}[aria-hidden=false][hidden]:not(:focus){clip:rect(0,0,0,0);display:inherit;position:absolute}[aria-disabled]{cursor:default}/*  */
+</style>
+<link rel="stylesheet" type="text/css" href="./common_rwd/css/base.css?v=20171026" media="all">
+<script>
+var ua = navigator.userAgent;
+if(ua.indexOf('iPhone') > 0 || ua.indexOf('iPod') > 0 || (ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0)){
+	document.write('<meta name="viewport" content="width=device-width,initial-scale=1" id="viewport">');
+} else {
+	document.write('<meta name="viewport" content="width=1100" id="viewport">');
+} 
+</script>
+<link rel="stylesheet" type="text/css" href="./common_rwd/css/top.css" media="all">
+
+<link rel="stylesheet" type="text/css" href="./common_rwd/lib/slick/slick.css" media="all">
+<link rel="stylesheet" type="text/css" href="./common_rwd/lib/magnific-popup/magnific-popup.css" media="all">
+</head>
+
+<body id="index" class="f_root">
+
+<div id="wrap">
+<header>
+<div class="inner">
+<h1 class="logo"><a href="./"> 
+<img src="./common_rwd/img/header/logo_01.png" alt="">
+</a></h1>
+<div class="pcNavWrap">
+<nav>
+<ul>
+<li><a class="megaOpen companyLine" href="./company/" data-megamenu="companyMegaTab">企業情報</a></li>
+<li><a class="megaOpen businessLine" href="./business/" data-megamenu="businessMegaTab">事業内容</a></li>
+<li><a class="megaOpen technologyLine" href="./technology/" data-megamenu="technologyMegaTab">テクノロジー</a></li>
+<li><a class="megaOpen achievementLine" href="./achievement/" data-megamenu="achievementMegaTab">実績</a></li>
+<li><a class="megaOpen irLine" href="./ir/" data-megamenu="irMegaTab">IR情報</a></li>
+<li><a class="newsLine" href="./news/">ニュース</a></li>
+<li><a href="https://www.taihei-dengyo.co.jp/saiyo/" target="_blank">採用情報</a></li>
+<li class="iconWrap">
+<a class="langIcon rollOpa" href="./en/">ENG</a>
+<a class="mailIcon rollOpa" href="./inquiry/"><img src="./common_rwd/img/icon/icon_mail_01.png" alt="mail"></a>
+</li>
+</ul>
+</nav>
+<!-- /.pcWrap --></div>
+<div class="spNavWrap">
+<ul>
+<li class="iconWrap">
+<a class="langIcon" href="./en/">ENG</a>
+<a class="mailIcon" href="./inquiry/"><img src="./common_rwd/img/icon/icon_mail_01.png" alt="mail"></a>
+</li>
+<li class="menuBtn"><a href="javascript:void(0)"><span class="bar"></span><span class="bar"></span><span class="bar"></span><span class="txt"><b class="roboto close">MENU</b><b class="roboto open">CLOSE</b></span></a></li>
+</ul>
+<nav>
+<div id="gNav">
+<ul class="parentUl">
+<li><a href="./">TOP</a></li>
+		<li class="hasChild">
+			<span class="trg">企業情報<span class="icon"></span></span>
+				<ul class="innerUl">
+					<li><a href="./company">企業情報トップ</a></li>
+					<li>
+						<a href="./company/greeting">社長挨拶</a>
+					</li>
+					<li>
+						<a href="./company/message">コーポレートメッセージ</a>
+					</li>
+					<li>
+						<a href="./company/philosophy">企業理念</a>
+					</li>
+					<li>
+						<a href="./company/strategy">経営戦略</a>
+					</li>
+					<li>
+						<a href="./company/outline">会社概要</a>
+					</li>
+					<li>
+						<a href="./company/safety">安全への取り組み</a>
+					</li>
+					<li>
+						<a href="./company/branch">太平電業グループ</a>
+					</li>
+					<li>
+						<a href="./company/history">沿革</a>
+					</li>
+					<li>
+						<a href="./company/certification">資格・認証</a>
+							<ul class="childUl">
+								<li><a href="./company/certification/iso">ISO・ASME・製品認証</a></li>
+								<li><a href="./company/certification/patent">特許情報</a></li>
+								<li><a href="./company/certification/eligible">有資格者</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="./company/policy">企業の取り組み・基本方針</a>
+							<ul class="childUl">
+								<li><a href="./company/policy/control">内部統制の取り組み</a></li>
+								<li><a href="./company/policy/security">情報セキュリティの取り組み</a></li>
+								<li><a href="./company/policy/mynumber">特定個人情報等の適正な取扱いに関する基本方針</a></li>
+								<li><a href="./company/policy/next">次世代育成に関する取り組み</a></li>
+								<li><a href="./company/policy/woman">女性の活躍推進</a></li>
+								<li><a href="./company/policy/haken">労働者派遣情報</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="./company/customer">主な取引先</a>
+					</li>
+					<li>
+						<a href="./company/links">関連リンク</a>
+					</li>
+				</ul>
+		</li>
+		<li class="hasChild">
+			<span class="trg">事業内容<span class="icon"></span></span>
+				<ul class="innerUl">
+					<li><a href="./business">事業内容トップ</a></li>
+					<li>
+						<a href="./business/eng">エンジニアリング・製作</a>
+							<ul class="childUl">
+								<li><a href="./business/eng/design">工事計画・設計</a></li>
+								<li><a href="./business/eng/fab">製作</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="./business/domestic">国内工事事業</a>
+							<ul class="childUl">
+								<li><a href="./business/domestic/thermal">火力発電</a></li>
+								<li><a href="./business/domestic/renewable_energy">再生可能エネルギー発電</a></li>
+								<li><a href="./business/domestic/nuclear">原子力発電</a></li>
+								<li><a href="./business/domestic/plant">各種プラント</a></li>
+								<li><a href="./business/domestic/public">その他施設</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="./business/overseas">海外工事事業</a>
+							<ul class="childUl">
+								<li><a href="./business/overseas/generator">発電設備</a></li>
+								<li><a href="./business/overseas/other">その他プラント設備</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="./business/private">発電事業</a>
+							<ul class="childUl">
+								<li><a href="./business/private/oam">運転・保守・メンテナンス</a></li>
+								<li><a href="./business/private/training">教育・訓練</a></li>
+								<li><a href="./business/private/pgb">自社発電所</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="./business/virtual">バーチャル社会科見学</a>
+					</li>
+				</ul>
+		</li>
+<li class="hasChild"><span class="trg">テクノロジー<span class="icon"></span></span>
+<ul class="innerUl">
+	<li><a href="./technology/">テクノロジートップ</a></li>
+	<li><a href="./technology/#categoryID88">ツール</a></li>
+	<li><a href="./technology/#categoryID87">工法</a></li>
+</ul>
+</li>
+<li class="hasChild"><span class="trg">実績<span class="icon"></span></span>
+<ul class="innerUl">
+	<li><a href="./achievement/">実績トップ</a></li>
+	<li><a class="rollOpa" href="./achievement/#area">地域別</a>
+		<ul class="childUl">
+						<li><a href="./achievement/area/hokkaido/">北海道</a></li>
+						<li><a href="./achievement/area/tohoku/">東北</a></li>
+						<li><a href="./achievement/area/kanto/">関東</a></li>
+						<li><a href="./achievement/area/chubu/">中部</a></li>
+						<li><a href="./achievement/area/kinki/">近畿</a></li>
+						<li><a href="./achievement/area/chugoku/">中国</a></li>
+						<li><a href="./achievement/area/kyushu/">九州</a></li>
+						<li><a href="./achievement/area/overseas/">海外</a></li>
+	</ul>
+	</li>
+	<li><a class="rollOpa" href="./achievement/#field">事業別</a>
+		<ul class="childUl">
+						<li><a href="./achievement/field/thermal/">火力発電</a></li>
+						<li><a href="./achievement/field/nuclear/">原子力発電</a></li>
+						<li><a href="./achievement/field/renewable_energy/">再生可能エネルギー発電</a></li>
+						<li><a href="./achievement/field/domestic_plant/">各種プラント</a></li>
+						<li><a href="./achievement/field/roam/">その他施設</a></li>
+						<li><a href="./achievement/field/overseas_plant_generator/">海外工事</a></li>
+	</ul>
+	</li>
+</ul>
+</li>
+<li class="hasChild"><span class="trg">IR情報<span class="icon"></span></span>
+<ul class="innerUl">
+	<li><a href="./ir/">IR情報トップ</a></li>
+				<li><a href="./ir/message">トップメッセージ</a></li>
+				<li><a href="./ir/introduction">経営方針</a>
+				<ul class="childUl">
+				<li><a href="./ir/introduction/management">中期経営計画</a></li>
+				<li><a href="./ir/introduction/governance">コーポレート・ガバナンス</a></li>
+				</ul>
+				</li>
+				<li><a href="./ir/library">IRライブラリ</a>
+				<ul class="childUl">
+				<li><a href="./ir/library/earnings">決算短信</a></li>
+				<li><a href="./ir/library/presentation">決算説明会</a></li>
+				<li><a href="http://ur0.link/0Kps" target="_blank">有価証券報告書</a></li>
+				<li><a href="./ir/library/interim-report">中間報告書</a></li>
+				<li><a href="./ir/library/business-report">報告書</a></li>
+				</ul>
+				</li>
+				<li><a href="./ir/general-meeting">株主総会</a></li>
+				<li><a href="./ir/finance">財務・業績情報</a></li>
+				<li><a href="./ir/news">IRニュース</a></li>
+				<li><a href="./ir/guide">IRガイド</a>
+				<ul class="childUl">
+				<li><a href="./ir/guide/calendar">IRカレンダー</a></li>
+				<li><a href="./ir/guide/qa">よくあるご質問</a></li>
+				</ul>
+				</li>
+				<li><a href="./ir/stockholder">株主・株式情報</a></li>
+				<li><a href="./ir/disclaimer">免責事項</a></li>
+</ul>
+</li>
+<li><a href="./news/">ニュース</a></li>
+<li><a href="https://www.taihei-dengyo.co.jp/saiyo/" target="_blank">採用情報</a></li>
+<li><a href="./sitemap/">サイトマップ</a></li>
+<li class="searchWrap"><form method="get" action="/cgi/search/search_root/search.cgi"><label><input class="roboto" type="text" name="phrase" value="" placeholder="SEARCH"></label>
+</form></li>
+<!-- /.parentUl --></ul>
+</div>
+</nav>
+<!-- /.spNavWrap --></div>
+<!-- /.inner --></div>
+<div id="megaMenuWrap">
+<div id="companyMegaTab" class="subMega">
+<div class="inner">
+<div class="row titleRow">
+<dl>
+<dt>企業情報</dt>
+<dd class="en">CORPORATE INFORMATION</dd>
+<dd class="topLink"><a class="rollOpa" href="./company">企業情報トップ</a></dd>
+</dl>
+</div>
+<div class="row listRow hasSublink">
+<div class="linksWrap">
+<ul>
+<li><a class="rollOpa" href="./company/greeting/"><div class="img"><img src="./company_01.jpg"></div><div class="txt">社長挨拶</div></a></li>
+<li><a class="rollOpa" href="./company/message/"><div class="img"><img src="./company_02.jpg"></div><div class="txt">コーポレートメッセージ</div></a></li>
+<li><a class="rollOpa" href="./company/philosophy/"><div class="img"><img src="./company_03.jpg"></div><div class="txt">企業理念</div></a></li>
+<li><a class="rollOpa" href="./company/strategy/"><div class="img"><img src="./company_04.jpg"></div><div class="txt">経営戦略</div></a></li>
+<li><a class="rollOpa" href="./company/outline/"><div class="img"><img src="./company_05.jpg"></div><div class="txt">会社概要</div></a></li>
+<li><a class="rollOpa" href="./company/branch/"><div class="img"><img src="./company_06.jpg"></div><div class="txt">太平電業グループ</div></a></li>
+<li><a class="rollOpa" href="./company/history/"><div class="img"><img src="./company_07.jpg"></div><div class="txt">沿革</div></a></li>
+</ul>
+</div>
+<div class="sublinksWrap">
+<ul class="txtLink">
+<li><a class="rollOpa" href="./company/certification/">資格・認証</a></li>
+<li><a class="rollOpa" href="./company/policy/">企業の取り組み・基本方針</a></li>
+<li><a class="rollOpa" href="./company/customer/">主な取引先</a></li>
+<li><a class="rollOpa" href="./company/links/">関連リンク</a></li>
+</ul>
+<ul>
+<li><a class="rollOpa" href="./company/safety/"><div class="img"><img src="./7fc43d511dabd65573c837f8309408ab3f1b2b6e.jpg"></div><div class="txt">安全への取り組み</div></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /.subMega --></div>
+<div id="businessMegaTab" class="subMega">
+<div class="inner">
+<div class="row titleRow">
+<dl>
+<dt>事業内容</dt>
+<dd class="en">BUSINESS DESCRIPTION</dd>
+<dd class="topLink"><a class="rollOpa" href="./business">事業内容トップ</a></dd>
+</dl>
+</div>
+<div class="row listRow type02">
+<div class="linksWrap">
+<ul>
+<li>
+<dl>
+<dt>
+<a class="rollOpa" href="./business/eng"><span class="title">エンジニアリング・製作</span><span class="img"><img src="./business_01.jpg"></span></a>
+</dt>
+<dd class="subLinks">
+<ul class="txtLink">
+<li><a class="rollOpa" href="./business/eng/design">工事計画・設計</a></li>
+<li><a class="rollOpa" href="./business/eng/fab">製作</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>
+<a class="rollOpa" href="./business/domestic"><span class="title">国内工事事業</span><span class="img"><img src="./business_02.jpg"></span></a>
+</dt>
+<dd class="subLinks">
+<ul class="txtLink">
+<li><a class="rollOpa" href="./business/domestic/thermal">火力発電</a></li>
+<li><a class="rollOpa" href="./business/domestic/renewable_energy">再生可能エネルギー発電</a></li>
+<li><a class="rollOpa" href="./business/domestic/nuclear">原子力発電</a></li>
+<li><a class="rollOpa" href="./business/domestic/plant">各種プラント</a></li>
+<li><a class="rollOpa" href="./business/domestic/public">その他施設</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>
+<a class="rollOpa" href="./business/overseas"><span class="title">海外工事事業</span><span class="img"><img src="./business_03.jpg"></span></a>
+</dt>
+<dd class="subLinks">
+<ul class="txtLink">
+<li><a class="rollOpa" href="./business/overseas/generator">発電設備</a></li>
+<li><a class="rollOpa" href="./business/overseas/other">その他<br>プラント設備</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt>
+<a class="rollOpa" href="./business/private"><span class="title">発電事業</span><span class="img"><img src="./business_04.jpg"></span></a>
+</dt>
+<dd class="subLinks">
+<ul class="txtLink">
+<li><a class="rollOpa" href="./business/private/oam">運転・保守・メンテナンス</a></li>
+<li><a class="rollOpa" href="./business/private/training">教育・訓練</a></li>
+<li><a class="rollOpa" href="./business/private/pgb">自社発電所</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</div>
+<div class="sublinksWrap">
+<ul>
+<li><a class="rollOpa" href="./business/virtual/"><div class="img"><img src="./mega_banner.jpg"></div><div class="txt">バーチャル社会科見学</div></a></li>
+<li><a class="rollOpa" href="https://www.youtube.com/watch?v=jiYnzrsbUPc" target="_blank" rel="noopener noreferrer"><div class="img"><img src="/common_rwd/img/header/mega_banner_virtual_seifu.png"></div><div class="txt">西風新都バイオマス発電所バーチャル社会科見学</div></a></li>
+<li><a class="rollOpa" href="/business/saitama/"><div class="img"><img src="/common_rwd/img/header/mega_banner_saitama.jpg"></div><div class="txt">埼玉第三工場見学会</div></a></li>
+<li><a class="rollOpa" href="/business/seihushinto/"><div class="img"><img src="/common_rwd/img/header/mega_banner_seihushinto.jpg"></div><div class="txt">西風新都バイオマス発電所</div></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /.subMega --></div>
+<div id="technologyMegaTab" class="subMega">
+<div class="inner">
+<div class="row titleRow">
+<dl>
+<dt>テクノロジー</dt>
+<dd class="en">TECHNOLOGY</dd>
+<dd class="topLink"><a class="rollOpa" href="./technology/">テクノロジートップ</a></dd>
+</dl>
+</div>
+<div class="row listRow hasSublink">
+<div class="linksWrap">
+<ul>
+<li><a class="rollOpa" href="./technology/#categoryID88"><div class="img"><img src="./technology/upload/technology_01%5B1%5D.jpg" alt=""></div><div class="txt">ツール</div></a></li>
+<li><a class="rollOpa" href="./technology/#categoryID87"><div class="img"><img src="./technology/upload/mega_kouhou.jpg" alt=""></div><div class="txt">工法</div></a></li>
+</ul>
+</div>
+<div class="sublinksWrap">
+<ul class="txtLink">
+<li><a class="rollOpa" href="./technology/news/">トピックス</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /.subMega --></div>
+<div id="achievementMegaTab" class="subMega">
+<div class="inner">
+<div class="row titleRow">
+<dl>
+<dt>実績</dt>
+<dd class="en">ACHIEVEMENT</dd>
+<dd class="topLink"><a class="rollOpa" href="./achievement/">実績トップ</a></dd>
+</dl>
+</div>
+<div class="row listRow">
+<div class="linksWrap">
+<ul>
+	<li>
+<dl>
+<dt><a class="rollOpa" href="./achievement/#area">
+<span class="title">地域別</span>
+<span class="img"><img src="./achievement/upload/area_nav_01.jpg" alt=""></span>
+</a></dt>
+<dd>
+<ul class="txtLink">
+<li><a class="rollOpa" href="./achievement/area/hokkaido/">北海道</a></li>
+<li><a class="rollOpa" href="./achievement/area/tohoku/">東北</a></li>
+<li><a class="rollOpa" href="./achievement/area/kanto/">関東</a></li>
+<li><a class="rollOpa" href="./achievement/area/chubu/">中部</a></li>
+<li><a class="rollOpa" href="./achievement/area/kinki/">近畿</a></li>
+<li><a class="rollOpa" href="./achievement/area/chugoku/">中国</a></li>
+<li><a class="rollOpa" href="./achievement/area/kyushu/">九州</a></li>
+<li><a class="rollOpa" href="./achievement/area/overseas/">海外</a></li>
+</ul>
+</dd>
+</dl>
+	</li>
+	<li>
+<dl>
+<dt><a class="rollOpa" href="./achievement/#field">
+<span class="title">事業別</span>
+<span class="img"><img src="./achievement/upload/field_nav_01.jpg" alt=""></span>
+</a></dt>
+<dd>
+<ul class="txtLink">
+<li><a class="rollOpa" href="./achievement/field/thermal/">火力発電</a></li>
+<li><a class="rollOpa" href="./achievement/field/nuclear/">原子力発電</a></li>
+<li><a class="rollOpa" href="./achievement/field/renewable_energy/">再生可能エネルギー発電</a></li>
+<li><a class="rollOpa" href="./achievement/field/domestic_plant/">各種プラント</a></li>
+<li><a class="rollOpa" href="./achievement/field/roam/">その他施設</a></li>
+<li><a class="rollOpa" href="./achievement/field/overseas_plant_generator/">海外工事</a></li>
+</ul>
+</dd>
+</dl>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /.subMega --></div>
+<div id="irMegaTab" class="subMega">
+<div class="inner">
+<div class="row titleRow">
+<dl>
+<dt>IR情報</dt>
+<dd class="en">INVESTOR RELATIONS INFORMATION</dd>
+<dd class="topLink"><a class="rollOpa" href="./ir/">IR情報トップ</a></dd>
+</dl>
+</div>
+<div class="row listRow hasSublink">
+<div class="linksWrap">
+<ul>
+<li><a class="rollOpa" href="./ir/message/"><div class="img"><img src="./ir/ir_01.jpg" alt=""></div><div class="txt">トップメッセージ</div></a></li>
+<li><a class="rollOpa" href="./ir/introduction/"><div class="img"><img src="./ir/ir_02.jpg" alt=""></div><div class="txt">経営方針</div></a></li>
+<li><a class="rollOpa" href="./ir/library/"><div class="img"><img src="./ir/ir_05.jpg" alt=""></div><div class="txt">IRライブラリ</div></a></li>
+<li><a class="rollOpa" href="./ir/general-meeting/"><div class="img"><img src="./ir/ir_04.jpg" alt=""></div><div class="txt">株主総会</div></a></li>
+<li><a class="rollOpa" href="./ir/finance/"><div class="img"><img src="./ir/ir_03.jpg" alt=""></div><div class="txt">財務・業績情報</div></a></li>
+<li><a class="rollOpa" href="./ir/news/"><div class="img"><img src="./ir/ir_07.jpg" alt=""></div><div class="txt">IRニュース</div></a></li>
+<li><a class="rollOpa" href="./ir/guide/"><div class="img"><img src="./ir/ir_08.jpg" alt=""></div><div class="txt">IRガイド</div></a></li>
+<li><a class="rollOpa" href="./ir/stockholder/"><div class="img"><img src="./ir/ir_09.jpg" alt=""></div><div class="txt">株主・株式情報</div></a></li>
+<li><a class="rollOpa" href="./ir/individual/"><div class="img"><img src="./ir/ir_06.jpg" alt=""></div><div class="txt">個人投資家のみなさまへ</div></a></li>
+<li><a class="rollOpa" href="./ir/disclaimer/"><div class="img"><img src="./ir/ir_010.jpg" alt=""></div><div class="txt">免責事項</div></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- /.subMega --></div>
+<!-- /#megaMenuWrap --></div>
+</header>
+
+
+<div id="main">
+<section class="block mainBlock">
+<div class="slideWrap">
+<div class="item item01">
+<div class="bg pcElement" style="background-image: url(./common_rwd/img/top/slide/vi_01.jpg);"></div>
+<div class="bg spElement" style="background-image: url(./common_rwd/img/top/slide/vi_01_sp.jpg);"></div>
+<div class="inner">
+<h2>豊かな社会と<br>これからも。</h2>
+<p>太平電業は、平和で豊かな社会の実現という<br>
+強い「意義」と「使命」をもって<br>
+プラント建設事業を行ってきました。<br>
+プラント建設は常に危険との隣り合わせだからこそ、<br>
+安全・安心でなければなりません。<br>
+そのために実行してきた独自技術開発に磨きをかけ、<br>
+これからも日本中、<br class="spElement">世界中で必要とされる企業であり続けます。</p>
+</div>
+</div>
+
+<div class="item item02">
+<div class="bg pcElement" style="background-image: url(./common_rwd/img/top/slide/vi_02.jpg);"></div>
+<div class="bg spElement" style="background-image: url(./common_rwd/img/top/slide/vi_02_sp.jpg);"></div>
+<div class="inner">
+<h2>豊かな社会と<br>これからも。</h2>
+<p>原子力発電とこれからどう向き合い、<br class="spElement">共存していくかは、<br>
+日本の未来にとって大きな課題です。<br>
+太平電業は、長年にわたり蓄積された<br class="spElement">ノウハウと技術力を活かし、<br>
+安定稼働のためのメンテナンス作業、<br>
+安全な廃止措置に全力で取り組んでいます。</p>
+</div>
+</div>
+
+<div class="item item03">
+<div class="bg pcElement" style="background-image: url(./common_rwd/img/top/slide/vi_03.jpg);"></div>
+<div class="bg spElement" style="background-image: url(./common_rwd/img/top/slide/vi_03_sp.jpg);"></div>
+<div class="inner">
+<h2>豊かな社会と<br>これからも。</h2>
+<p>独立系企業としての強みを活かし、<br>
+1947年から数多くのプラントで<br class="spElement">メンテナンスを行ってきました。<br>
+国内にあるプラントの多くは、<br>
+建設からすでに半世紀近くが経とうとしており、<br>
+太平電業の果たす役割はますます高まっています。</p>
+</div>
+</div>
+
+<div class="item item04">
+<div class="bg pcElement" style="background-image: url(./common_rwd/img/top/slide/vi_04.jpg);"></div>
+<div class="bg spElement" style="background-image: url(./common_rwd/img/top/slide/vi_04_sp.jpg);"></div>
+<div class="inner">
+<h2>豊かな社会と<br>これからも。</h2>
+<p>これからの電力事業に<br>
+再生可能エネルギーは必要不可欠です。<br>
+太平電業は、研修施設として独自に<br>
+再生可能エネルギー発電所をもち、<br>
+次世代の発電所をトータルサポートするための<br>
+人材教育・技術研鑽に努めています。</p>
+</div>
+</div>
+
+<div class="item item05">
+<div class="bg pcElement" style="background-image: url(./common_rwd/img/top/slide/vi_05.jpg);"></div>
+<div class="bg spElement" style="background-image: url(./common_rwd/img/top/slide/vi_05_sp.jpg);"></div>
+<div class="inner">
+<h2>豊かな社会と<br>これからも。</h2>
+<p>太平電業は、プラント建設・<br>
+メンテナンスのパイオニアとして、<br>
+確かな技術と安全な施工管理で<br>
+世界中の社会の発展に寄与してきました。<br>
+これからも太平電業のグローバルへの挑戦は続きます。</p>
+</div>
+</div>
+
+<!-- /.slideWrap --></div>
+<!-- /.block --></section>
+
+<section class="block newsBlock">
+<div class="inner">
+<div class="row">
+<div class="titleWrap">
+<h2>NEWS</h2>
+<a href="/news/">一覧を見る</a>
+</div>
+<div class="newsWrap">
+<ul class="scrollNews">
+	<li>
+		<p class="date">2021/10/27<span class="cat">お知らせ<!--新着情報--></span></p>
+			<p class="txt"><a href="./news/company/2021/10/post_166.html">（民間製品認証）プロセス認証Ⅰ を取得しました</a></p>
+	</li>
+	<li>
+		<p class="date">2021/10/15<span class="cat">お知らせ<!--新着情報--></span></p>
+			<p class="txt"><a href="./news/20211015_hiroshima_gien.pdf" target="_blank">「令和３年８月広島県大雨災害」に対する義援金について</a></p>
+	</li>
+	<li>
+		<p class="date">2021/10/14<span class="cat">IR関連資料<!--新着情報--></span></p>
+			<p class="txt"><a href="./news/20211014_IR_CG.pdf" target="_blank">コーポレート・ガバナンス報告書</a></p>
+	</li>
+</ul>
+<p class="link"><a href="./news/">一覧を見る</a></p>
+</div>
+</div>
+</div>
+<!-- /.block --></section>
+
+
+
+<section class="block block01">
+<div class="inner">
+<div class="row">
+<div class="img"><img src="./common_rwd/img/top/img_01_01.png" alt="プラントライフサイクルをトータルサポート 建設/運転/補修/解体"></div>
+<div class="txtWrap">
+<h2><span class="cBusiness">BUSINESS</span><span class="mark">&amp;</span><span class="cTechnology">TECHNOLOGY</span></h2>
+<p>太平電業は、プラント建設、メンテナンスからマネジメントまでの一貫サポートを可能にする独立系企業です。長年にわたり培った高い技術力と知識を活かし、広く社会から信頼され、選ばれる企業を目指します。</p>
+<p class="btnRow"><a class="rollOpa" href="./business/">事業内容を見る</a></p>
+</div>
+</div>
+</div>
+<!-- /.block --></section>
+
+<section class="block block02">
+<div class="inner">
+<h2 class="lineHd01 tBusiness"><span>事業領域</span></h2>
+
+<ul>
+<li><a class="rollOpa" href="./business/eng/">
+<div class="img"><img src="./common_rwd/img/top/img_02_01.jpg" alt=""></div>
+<p><span>エンジニアリング・製作</span></p></a></li>
+<li><a class="rollOpa" href="./business/domestic/">
+<div class="img"><img src="./common_rwd/img/top/img_02_02.jpg" alt=""></div>
+<p><span>国内工事事業</span></p></a></li>
+<li><a class="rollOpa" href="./business/overseas/">
+<div class="img"><img src="./common_rwd/img/top/img_02_03.jpg" alt=""></div>
+<p><span>海外工事事業</span></p></a></li>
+<li><a class="rollOpa" href="./business/private/">
+<div class="img"><img src="./common_rwd/img/top/img_02_04.jpg" alt=""></div>
+<p><span>発電事業</span></p></a></li>
+</ul>
+</div>
+
+<!-- /.block --></section>
+
+<section class="block block03">
+<div class="inner">
+<div class="box left">
+<h2 class="lineHd01 tTechnology"><span>テクノロジー</span></h2>
+
+<ul>
+<li><a class="rollOpa" href="./technology/">
+<div class="txtWrap">
+<p class="link"><span>技術/工法一覧</span></p>
+<p>現場に根ざした特色あるテクノロジーをご紹介します。</p>
+</div>
+<div class="img" style="background-image: url(./common_rwd/img/top/img_03_01.jpg);"></div>
+</a></li>
+</ul>
+</div>
+<div class="box right">
+<h2 class="lineHd01 tAchievement"><span>実績</span></h2>
+<ul>
+<li><a class="rollOpa" href="./achievement/">
+<div class="txtWrap">
+<p class="link"><span>実績を見る</span></p>
+<p>太平電業の技術を活かした国内外の実績をご紹介します。</p>
+</div>
+<div class="img" style="background-image: url(./common_rwd/img/top/img_03_02.jpg);"></div>
+</a></li>
+
+</ul>
+</div>
+</div>
+<!-- /.block --></section>
+
+<section class="block block04">
+<a href="./company/safety/">
+<div class="inner">
+<div class="row">
+<div class="left">
+<h2><span class="jp">安全への取り組み</span><span class="en">APPROACH TO SAFETY</span></h2>
+<p>太平電業の技術開発、業務改善、品質向上に対する<br>想いをご覧ください。</p>
+</div>
+<div class="right">
+<span class="link">安全への取り組みについて</span>
+</div>
+</div>
+</div>
+</a>
+<!-- /.block --></section>
+
+<section class="block block05">
+<div class="inner">
+<h2>株主・投資家のみなさまへ</h2>
+<ul>
+<li><a class="rollOpa" href="./ir/finance/"><div class="img"><img src="./common_rwd/img/top/img_05_01.jpg" alt=""></div><p>財務・業績情報</p></a></li>
+<li><a class="rollOpa" href="./ir/introduction/management/"><div class="img"><img src="./common_rwd/img/top/img_05_02.jpg" alt=""></div><p>中期経営計画</p></a></li>
+<li><a class="rollOpa" href="./ir/stockholder/"><div class="img"><img src="./common_rwd/img/top/img_05_03.jpg" alt=""></div><p>株主・株式情報</p></a></li>
+<li><a class="rollOpa" href="./ir/general-meeting/"><div class="img"><img src="./common_rwd/img/top/img_05_04.jpg" alt=""></div><p>株主総会</p></a></li>
+<li><a class="rollOpa" href="./ir/library/"><div class="img"><img src="./common_rwd/img/top/img_05_05.jpg" alt=""></div><p>IRライブラリ</p></a></li>
+<li><a class="rollOpa" href="./ir/individual/"><div class="img"><img src="./common_rwd/img/top/img_05_06.jpg" alt=""></div><p>個人投資家のみなさまへ</p></a></li>
+</ul>
+</div>
+<!-- /.block --></section>
+
+<section class="block block05">
+<div class="inner">
+<h2>PICKUP CONTENTS</h2>
+<ul>
+<li><a class="rollOpa" href="./anniversary70th/information/"><div class="img"><img src="./common_rwd/img/top/img_06_01-1.jpg" alt=""></div><p>まるわかり太平電業</p></a></li>
+<li><a class="rollOpa" href="./anniversary70th/history/"><div class="img"><img src="./common_rwd/img/top/img_06_01-2.jpg" alt=""></div><p>70年の歩み</p></a></li>
+<li><a class="rollOpa" href="./anniversary70th/succeed/"><div class="img"><img src="./common_rwd/img/top/img_06_01-3.jpg" alt=""></div><p>受け継がれる想いと太平魂</p></a></li>
+</ul>
+</div>
+<!-- /.block --></section>
+
+<section class="block block06">
+<div class="inner">
+<ul>
+<li><a class="popup-iframe rollOpa" href="https://www.youtube.com/watch?v=vJfx-GFWQ5Q"><img src="./common_rwd/img/top/img_06_02.jpg" alt="スイッチフレームによる発電機の搬入・据付を360°の動画でご覧いただけます。">
+</a>
+<p class="note">※ 360°全方位の視点操作をご体感いただくには、Chrome・Opera、またはFirefoxの最新バージョンのブラウザの環境でご視聴ください。画面左上に表示される矢印か、マウスでドラッグすることでアングルを自由に変更することが可能です。</p></li>
+<li><a class="rollOpa" href="business/virtual/"><img src="./common_rwd/img/top/img_06_03.jpg" alt="バーチャル社会科見学"><p></p></a></li>
+<li><a class="popup-iframe rollOpa" href="https://www.youtube.com/watch?v=jiYnzrsbUPc"><img src="./common_rwd/img/top/img_06_04.png" alt="バーチャル社会科見学西風新都バイオマス発電所編">
+</a>
+<p class="note"></p></li>
+</ul>
+</div>
+<!-- /.block --></section>
+
+
+<!-- /#main --></div>
+
+<footer>
+<div class="row topRow">
+<div class="inner">
+<div class="pcWrap">
+
+
+
+
+<div class="ulWrap">
+<p><a href="./company/">企業情報</a></p>
+<ul>
+
+<li><a href="./company/greeting">社長挨拶</a></li>
+
+<li><a href="./company/message">コーポレートメッセージ</a></li>
+
+<li><a href="./company/philosophy">企業理念</a></li>
+
+<li><a href="./company/strategy">経営戦略</a></li>
+
+<li><a href="./company/outline">会社概要</a></li>
+
+<li><a href="./company/safety">安全への取り組み</a></li>
+
+<li><a href="./company/branch">太平電業グループ</a></li>
+
+<li><a href="./company/history">沿革</a></li>
+
+<li><a href="./company/certification">資格・認証</a></li>
+
+<li><a href="./company/policy">企業の取り組み・基本方針</a></li>
+
+<li><a href="./company/customer">主な取引先</a></li>
+
+<li><a href="./company/links">関連リンク</a></li>
+
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ulWrap">
+<p><a href="./business/">事業内容</a></p>
+<ul>
+
+<li><a href="./business/eng">エンジニアリング・製作</a></li>
+
+<li><a href="./business/domestic">国内工事事業</a></li>
+
+<li><a href="./business/overseas">海外工事事業</a></li>
+
+<li><a href="./business/private">発電事業</a></li>
+
+<li><a href="./business/virtual">バーチャル社会科見学</a></li>
+
+<li><a href="/business/saitama">埼玉第三工場見学会</a></li>
+<li><a href="/business/seihushinto">西風新都バイオマス発電所</a></li>
+</ul>
+<p><a href="./technology/">テクノロジー</a></p>
+<p><a href="./achievement/">実績</a></p>
+<p><a href="./news/">ニュース</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="ulWrap">
+<p><a href="./ir/">IR情報</a></p>
+<ul>
+
+<li><a href="./ir/message/">トップメッセージ</a></li>
+
+<li><a href="./ir/introduction/">経営方針</a></li>
+
+<li><a href="./ir/library/">IRライブラリ</a></li>
+
+<li><a href="./ir/general-meeting/">株主総会</a></li>
+
+<li><a href="./ir/finance/">財務・業績情報</a></li>
+
+<li><a href="./ir/news/">IRニュース</a></li>
+
+<li><a href="./ir/guide/">IRガイド</a></li>
+
+<li><a href="./ir/stockholder/">株主・株式情報</a></li>
+
+<li><a href="./ir/individual/">個人投資家のみなさまへ</a></li>
+
+<li><a href="./ir/disclaimer/">免責事項</a></li>
+
+</ul>
+</div>
+
+
+
+<div class="ulWrap">
+<p><a href="https://www.taihei-dengyo.co.jp/saiyo/" target="_blank">採用情報</a></p>
+<p><a href="./anniversary70th/information/">まるわかり太平電業</a></p>
+<p><a href="./anniversary70th/history/">70年の歩み</a></p>
+<p><a href="./anniversary70th/succeed/">受け継がれる想いと太平魂</a></p>
+</div>
+
+<!-- /.pcWrap --></div>
+
+<div class="spWrap">
+<ul>
+<li><a href="./company/">企業情報</a></li>
+<li><a href="./business/">事業内容</a></li>
+<li><a href="./technology/">テクノロジー</a></li>
+<li><a href="./achievement/">実績</a></li>
+<li><a href="./ir/">IR情報</a></li>
+<li><a href="./news/">ニュース</a></li>
+<li><a href="https://www.taihei-dengyo.co.jp/saiyo/" target="_blank">採用情報</a></li>
+</ul>
+<!-- /.spWrap --></div>
+</div>
+</div>
+
+<div class="row row03">
+<div class="inner">
+<ul>
+<li><a href="./terms-of-use/">利用条件</a></li>
+<li><a href="./sitemap/">サイトマップ</a></li>
+<li><a href="./privacy/">プライバシーポリシー</a></li>
+</ul>
+<p>&copy; 2017 TAIHEI DENGYO KAISHA, LTD</p>
+</div>
+</div>
+
+<div class="inner">
+<!-- /.inner --></div>
+<a class="pageTop" href="#wrap"></a>
+</footer>
+<!-- /#wrap --></div>
+
+
+<script src="./common_rwd/lib/jquery/jquery.min.js"></script>
+<script src="./common_rwd/lib/jquery/jquery.easing.min.js"></script>
+<script src="./common_rwd/js/jquery.init.js"></script>
+<script src="./common_rwd/js/base.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87988768-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="./common_rwd/lib/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="./common_rwd/lib/slick/slick.min.js"></script>
+<script>
+$('.slideWrap').slick({
+	arrows: false,
+	fade: true,
+	autoplay: true,
+	autoplaySpeed: 10000,
+	pauseOnHover: false,
+	pauseOnFocus: false,
+	speed: 2000,
+	dots: true
+});
+$('.popup-iframe').magnificPopup({
+	type: 'iframe',
+	mainClass: 'mfp-fade',
+	removalDelay: 200,
+	preloader: false
+});
+var scrollNewsEle = $('.scrollNews');
+var scrollNewsPos = 0;
+var newsnum = scrollNewsEle.find('li').length;
+
+function scrollNews(){
+	setTimeout(function(){
+		scrollNewsPos ++;
+		var height = scrollNewsEle.height();
+		if( scrollNewsPos >= newsnum ){
+			scrollNewsPos = 0;
+		}
+		scrollNewsEle.animate({scrollTop:scrollNewsPos * height}, 500, 'swing', function(){ scrollNews(); });
+	},3000);
+}
+scrollNews();
+</script>
+</body>
+</html>
+

@@ -1,0 +1,251 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Welcome to Lodestar Minerals Limited &#8211; Lodestar Minerals</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="description" content=""/>
+				<meta name="author" content="www.itomic.com - perth web design, development, hosting, promotion, and domain names"/>
+		<link rel="stylesheet" href="http://lodestarminerals.com.au/files/css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="http://lodestarminerals.com.au/files/css/lytebox.css" type="text/css"/>
+		<link rel="stylesheet" href="http://lodestarminerals.com.au/files/css/skin.css" type="text/css"/>
+		<link rel="stylesheet" href="http://lodestarminerals.com.au/files/css/print.css" type="text/css"/>
+		<link rel="icon" type="image/ico" href="http://www.lodestarminerals.com.au/favicon.ico"/>
+		<link rel="shortcut icon" href="http://www.lodestarminerals.com.au/favicon.ico"/>
+		<link rel="bookmark icon" href="http://lodestarminerals.com.au/favicon.ico"/>
+		<script type="text/javascript" src="http://lodestarminerals.com.au/files/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+		<script type="text/javascript" src="http://lodestarminerals.com.au/files/js/jquery.cycle.all.2.72.js"></script>
+				<script src="http://lodestarminerals.com.au/files/js/lytebox.js" type="text/javascript"></script>
+		<script src="http://lodestarminerals.com.au/files/clientlib/js/it/suckerfish.js" type="text/javascript"></script>
+		  <script type="text/javascript" src="http://lodestarminerals.com.au/files/js/jquery.jcarousel.min.js"></script>
+	<!--[if IE 6]>
+		<script src="/js/DD_belatedPNG_0.0.8a-min.js"></script>
+		<script>
+		  /* EXAMPLE */
+		  DD_belatedPNG.fix('#mask, .join-mailing-list, #latest-news');
+		  /* string argument can be any CSS selector */
+		  /* .png_bg example is unnecessary */
+		  /* change it to what suits you! */
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			$(function() {
+			    $('#s1').cycle({ 
+					fx:    'fade', 
+					speed:  1000,
+					random: 1,
+					timeout:  4000
+				});
+				$('#photoset').cycle({
+			        fx:     'fade',
+			        speed:  500,
+			        timeout: 0,
+			        pager:  '#photonav',
+			        pagerAnchorBuilder: function(idx, slide) {
+			            return '#photonav li:eq(' + (idx) + ') a';
+			        }
+			    });
+			});
+		jQuery(document).ready(function() {
+		    jQuery('#mycarousel').jcarousel({
+		        vertical: true,
+				  scroll: 4
+		    });
+		});
+			</script>
+	<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/lodestarminerals.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://lodestarminerals.com.au/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://lodestarminerals.com.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lodestarminerals.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lodestarminerals.com.au/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.4" />
+<link rel="canonical" href="http://lodestarminerals.com.au/" />
+<link rel='shortlink' href='http://lodestarminerals.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="http://lodestarminerals.com.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flodestarminerals.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://lodestarminerals.com.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flodestarminerals.com.au%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//lodestarminerals.com.au/?wordfence_lh=1&hid=2E64E8D587ABE05F4EED462F951F1B4B');
+</script>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+	<body id="home">
+	<div class="container">
+		<div id="header">
+			<a href="http://lodestarminerals.com.au" title="Lodestar Minerals"><img src="http://lodestarminerals.com.au/files/images/logos/lodestar.gif" alt="Lodestar Minerals" title="Lodestar Minerals" width="278" height="62" class="logo"/></a>
+		<div id="nav">
+<ul class="toplevel wp-menu">
+<li id="menu-item-2" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1 current_page_item menu-item-2 current_page_item "><a class="menu-item-link"href="http://lodestarminerals.com.au/" aria-current="page">Home</a></li>
+<li id="menu-item-4" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4"><a class="menu-item-link"href="http://lodestarminerals.com.au/corporate-summary/">Corporate Summary</a>
+<ul class="sub-menu">
+	<li id="menu-item-6" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6"><a class="menu-item-link"href="http://lodestarminerals.com.au/overview/">Overview</a></li>
+	<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a class="menu-item-link"href="http://lodestarminerals.com.au/lsr-directors/">LSR Directors</a></li>
+</ul>
+</li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10"><a class="menu-item-link"href="http://lodestarminerals.com.au/projects/">Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12"><a class="menu-item-link"href="http://lodestarminerals.com.au/doolgunna/">Doolgunna</a>
+	<ul class="sub-menu">
+		<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a class="menu-item-link"href="http://lodestarminerals.com.au/the-neds-creek-project/">The Ned’s Creek Project</a></li>
+		<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a class="menu-item-link"href="http://lodestarminerals.com.au/the-camel-hills-project/">The Camel Hills Project</a></li>
+		<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a class="menu-item-link"href="http://lodestarminerals.com.au/the-imbin-project/">The Imbin Project</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18"><a class="menu-item-link"href="http://lodestarminerals.com.au/investor-centre/">Investor Centre</a>
+<ul class="sub-menu">
+	<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a class="menu-item-link"href="http://lodestarminerals.com.au/governance/">Governance</a></li>
+	<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a class="menu-item-link"href="http://lodestarminerals.com.au/asx-announcements/">ASX Announcements</a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a class="menu-item-link"href="http://lodestarminerals.com.au/media/">Media</a></li>
+	<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a class="menu-item-link"href="http://lodestarminerals.com.au/annual-reports/">Annual Reports</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a class="menu-item-link"href="http://lodestarminerals.com.au/presentations-and-broker-research-reports/">Presentations and Broker Research Reports</a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a class="menu-item-link"href="http://lodestarminerals.com.au/photo-gallery/">Photo Gallery</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a class="menu-item-link"href="http://lodestarminerals.com.au/contact-us/">Contact Us</a></li>
+</ul>
+		</div><!-- nav -->
+			<div id="share-price">
+				<iframe style=""src ="https://wcsecure.weblink.com.au:443/Clients/lodestarminerals/priceframe.aspx" width="180px" height="60px" scrolling="no" frameborder="0">
+				</iframe>
+			</div><!-- share-price -->
+			<div id="projects-feed">				
+				<h2><span class="x42ts3mxpb4q54on5">Our Projects</span></h2>
+								<a href="http://lodestarminerals.com.au/Projects/Doolgunna/" title="Doolgunna (Cu-Au) 170km north east of Meekatharra" class="doolgunna-p">Doolgunna (Cu-Au) 170km north east of Meekatharra</a>
+							</div>			
+			<div id="masthead">
+					<div id="mask">&nbsp;</div>
+					<div class="pics" id="s1">
+											<div>
+						<span class="mastheadimgname">A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  </span>
+						<img src="http://lodestarminerals.com.au/files/files/files/106_1.jpg" alt="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " title="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " width="733" height="269"/>
+						</div>
+											<div>
+						<span class="mastheadimgname">A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  </span>
+						<img src="http://lodestarminerals.com.au/files/files/files/107_2.jpg" alt="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " title="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " width="733" height="269"/>
+						</div>
+											<div>
+						<span class="mastheadimgname">A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  </span>
+						<img src="http://lodestarminerals.com.au/files/files/files/108_3.jpg" alt="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " title="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " width="733" height="269"/>
+						</div>
+											<div>
+						<span class="mastheadimgname">A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  </span>
+						<img src="http://lodestarminerals.com.au/files/files/files/109_4.jpg" alt="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " title="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " width="733" height="269"/>
+						</div>
+											<div>
+						<span class="mastheadimgname">A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  </span>
+						<img src="http://lodestarminerals.com.au/files/files/files/255_IMG_3183_733x550.jpg" alt="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " title="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " width="733" height="269"/>
+						</div>
+											<div>
+						<span class="mastheadimgname">A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  </span>
+						<img src="http://lodestarminerals.com.au/files/files/files/254_PA170038_733x550.jpg" alt="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " title="A base metal - gold explorer with a growing strategic footprint in the peak hill-doolgunna district  " width="733" height="269"/>
+						</div>
+										</div><!-- s1 -->			
+			</div><!-- masthead -->
+		</div><!-- header -->
+		<div id="main">
+				<link rel="stylesheet" type="text/css" media="all" href="http://lodestarminerals.com.au/wp-content/themes/0ccc7zwm5r6gezoa74amny25785/style.css" />
+<p> </p>
+<div id="main-l">
+<div id="content">
+<p><strong>Welcome to Lodestar Minerals Limited</strong></p>
+<p>Lodestar Minerals Limited is an active West Australian exploration company focused on the discovery of new gold and copper deposits to deliver shareholder value.</p>
+<p>Lodestar’s projects are located in the Capricorn Orogen, a major, under-explored mineralised province within central Western Australia that spans the northern margin of the Archaean Yilgarn Craton (see Figure 1). Lodestar holds a strategic land position of over 1, 500 square kilometres of tenure across the Capricorn Orogen that is prospective for orogenic gold deposits, volcanic-hosted massive sulphide and sediment-hosted copper deposits.</p>
+<p>The Capricorn Orogen represents a long-lived continental collision zone between the Pilbara and Yilgarn Cratons characterised by deep crustal structures, such as the Jenkin Fault, magmatic activity and the development of extensive volcanosedimentary basins. These features are commonly associated with the formation of major hydrothermal systems and ore deposits.</p>
+<p>Lodestar’s exploration at the Brumby–Contessa prospects has resulted in the discovery of gold mineralisation unique to this area related to syenogranite intrusions. This success is the result of a focussed, multi-faceted strategy including on-the-ground geological mapping, multi-element geochemical sampling, advanced airborne and surface geophysical surveys and drilling.</p>
+<p>At the core of Lodestar’s values is awareness of the need to maintain low administration and corporate overhead costs to maximise exploration investment and shareholder returns. The Board of Directors of Lodestar all have substantial shareholdings in the Company.</p>
+<div id="attachment_161" style="width: 524px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-161" class="wp-image-161" src="http://lodestarminerals.com.au/wp-content/uploads/2020/01/Lodestar-projects-300x170.png" alt="" width="514" height="291" srcset="http://lodestarminerals.com.au/wp-content/uploads/2020/01/Lodestar-projects-300x170.png 300w, http://lodestarminerals.com.au/wp-content/uploads/2020/01/Lodestar-projects-768x436.png 768w, http://lodestarminerals.com.au/wp-content/uploads/2020/01/Lodestar-projects.png 888w" sizes="(max-width: 514px) 100vw, 514px" /><p id="caption-attachment-161" class="wp-caption-text"><em><strong>Lodestar projects and significant gold and copper deposits in the Capricorn Orogen, northern Yilgarn margin.</strong></em></p></div>
+<div class="mceTemp"> </div>
+</div>
+<p><!-- content --></p>
+</div>
+<p><!-- main-l --></p>
+
+
+<p></p>
+<div id="main-r">
+					<!-- OLD <div id="latest-news">
+						<h2><span class="xwgzybmyrianqg2su">Latest News</span></h2>					
+						<ul>
+													<li><span class="xwgzybmyrianqg2su">12 March 2018</span>
+															<a href="http://www.lodestarminerals.com.au/files/files/464_LSR_Interim_Report_31_Dec_2017_ASX.pdf" target="_blank" title="31 December 2017 Interim Financial Report">31 December 2017 Interim Financial Report</a> </li>
+																				<li><span class="xwgzybmyrianqg2su">12 March 2018</span>
+															<a href="http://www.lodestarminerals.com.au/files/files/465_LSR_Interim_Report_31_Dec_2017_ASX.pdf" target="_blank" title="31 December 2017 Interim Financial Report">31 December 2017 Interim Financial Report</a> </li>
+																				<li><span class="xwgzybmyrianqg2su">28 February 2018</span>
+															<a href="http://www.lodestarminerals.com.au/files/files/463_007_-_LSR_Placement_to_Fund_Upcoming_Work_Program.pdf" target="_blank" title="Placement to Fund Upcoming Work Program">Placement to Fund Upcoming Work Program</a> </li>
+																			</ul>
+					</div><!-- latest-news -->
+					<script src="https://wcsecure.weblink.com.au:443/styles/chartstyles/responsive/WL_TabFrameFunctions.js"></script>
+					<iframe id='Top5HdFrame' src ="https://wcsecure.weblink.com.au:443/Clients/lodestarminerals/Top5Headline.html" width="100%" height="180px" frameborder="0" scrolling="no" ALLOWTRANSPARENCY="true" >
+					</iframe>
+								<a href="http://lodestarminerals.com.au/Join-our-Mailing-List/" title="Join our Mailing List" class="join-mailing-list">Join our Mailing List</a>
+	
+			</div><!-- main-r -->
+			<br clear="all"/>
+		</div><!-- main -->
+	</div><!-- container -->
+<div id="footer">
+	<div class="container">
+<p class="copyright">© 2012 Lodestar Minerals&nbsp; |&nbsp;
+<a href="http://lodestarminerals.com.au/Disclaimer/">Disclaimer</a>&nbsp; |&nbsp; <a href="http://lodestarminerals.com.au/Privacy/">Privacy</a>&nbsp; |&nbsp; <a href="http://lodestarminerals.com.au/Sitemap/">Sitemap</a></p>
+			</div><!-- container -->
+</div><!-- footer -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl./" : "http://www./");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-16224456-43");
+		pageTracker._trackPageview();
+	</script>
+	<script type='text/javascript' src='http://lodestarminerals.com.au/wp-includes/js/wp-embed.min.js?ver=5.2.4'></script>
+</body>
+</html>

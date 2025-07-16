@@ -1,0 +1,2291 @@
+
+<!DOCTYPE html>
+<!--MainLayout.cshtml MARKET-->
+
+<html class="">
+
+<head>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1f909291-acb1-444a-977a-b0e152b8b464" data-blockingmode="auto" type="text/javascript"></script>  <!-- Google Tag Manager -->
+<script> (function(w, d, s, l, i){
+w[l] = w[l] ||[]; w[l].push({
+'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id=' +i+dl;f.parentNode.insertBefore(j,f); }
+)(window,document,'script','dataLayer','GTM-K925RNV');</script>
+<!-- End Google Tag Manager -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+
+
+
+      <link rel="shortcut icon" type="image/png" href="/-/media/nolato-swirl-.jpg?thn=1">
+
+
+
+  <meta name="description" content="Our offering in developing and producing polymer-based products comprises everything from concept development, product design and process optimization, to high-volume production, post-processing, assembly and logistics. We partner and work closely with customers, and involvement at an early stage allows us to help develop successful, cost-effective products that are ready to manufacture. Learn more here.">
+  <meta name="keywords" content="Plastic, Medical devices, Pharma, pharmaceutical, automotive, assembly, integrated electronics, shielding, extrusion, thermal management, laser bonding, thermal, flat bed punching, die-cut, metal stamping, cosmetic technologies, multi-step assembly,
+breathing bags, catheter Balloons, pharma packaging, laboratory products, Polymer, VMS packaging, Cosmetics packaging, sugery, silicone sponge extrusion, tool manufacturing, cleanroom production, injection molding plastics, End-to-End Solutions provider, Contract Manufacturer, Virtual Prototyping, Injection Blow Molding, Dip molding, Scientific Injection Molding, Micro Molding, EMI Shielding, Ceramic Injection Molding, Solutions provider, Consumer electronics
+
+">
+  <title>Advanced partner in solutions of polymer products</title>
+
+<link rel="canonical" href="https://www.nolato.com/en/" />
+  <link rel="alternate" hreflang="en" href="https://www.nolato.com/en/" />
+
+
+
+  <!--Social / Open Graph: -->
+    <meta property="og:title" content="A global, advanced high-tech solutions provider and manufacturer of polymer products and systems" />
+    <meta property="og:description" content="Our offering in developing and producing polymer-based products comprises everything from concept development, product design and process optimization, to high-volume production, post-processing, assembly and logistics. We partner and work closely with customers, and involvement at an early stage allows us to help develop successful, cost-effective products that are ready to manufacture." />
+    <meta property="og:image" content="http://www.nolato.com/-/media/Images/Home/Nolato_heart-open-graph.png?mw=420&amp;hash=E1521D932F7E4887B542AA93E78CA59A" />
+  <meta property="og:url" content="https://www.nolato.com/en/" />
+
+
+
+
+  <!--Twitter card: -->
+    <meta property="twitter:title" content="Empowering outstanding innovation and operating excellence, together we create the solutions of tomorrow" />
+    <meta property="twitter:image" content="http://www.nolato.com/-/media/Images/Home/Nolato-Header-startpage.jpg?mw=420&amp;hash=D4C387F1BAF05D9EAF5DA983FE28324C" />
+    <meta property="twitter:description" content="Our offering in developing and producing polymer-based products comprises everything from concept development, product design and process optimization, to high-volume production, post-processing, assembly and logistics. We partner and work closely with customers, and involvement at an early stage allows us to help develop successful, cost-effective products that are ready to manufacture. Learn more here." />
+    <meta property="twitter:card" content="summary" />
+
+
+
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap-grid.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/Assets/index.css">
+
+</head>
+
+<body class="preload">
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K925RNV"
+height="0" width="0" data-cookieconsent="statistics" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div id="wrapper">
+    <!--ContactFlyout.cshtml MARKET-->
+  <div class="contact-modal contact-modal__popup">
+    <div class="form-row justify-content-between">
+      <div class="col- contact-modal__title">
+        <h2>Contact us</h2>
+      </div>
+      <div class="contact-modal__close">
+        <span></span>
+      </div>
+    </div>
+    <div class="contactLoading__container">
+      <div class="contact__onload">
+        <div class="loading__loader contact__onload--loader"></div>
+        <h3 class="contact__onload-responseHeadline">Sending Email...</h3>
+        <p class="contact__onload-responseMessage"></p>
+      </div>
+    </div>
+    <div class="thank-you-message">
+      <div class="thank-you-message__container">
+        <h3 class="thank-you-message__responseHeadline"></h3>
+        <p class="thank-you-message__responseMessage"></p>
+      </div>
+    </div>
+    <div class="error-message">
+      <div class="error-message__container">
+        <h3 class="error-message__responseHeadline"></h3>
+        <p class="error-message__responseMessage"></p>
+      </div>
+    </div>
+    <form data-page="4B463139F7AC4CD689287153423CFED2">
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label class="contact__required" for="inputName">Name</label>
+          <input type="text" class="form-control" id="inputName">
+          <div class="form__error">
+            Valid input required
+          </div>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputTitle">Title/Function</label>
+          <input type="text" class="form-control" id="inputTitle">
+        </div>
+        <div class="form-group col-md-6">
+          <label class="contact__required" for="inputEmail">E-mail</label>
+          <input type="email" class="form-control" id="inputEmail">
+          <div class="form__error">
+            Valid input required
+          </div>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputCompany">Company</label>
+          <input type="text" class="form-control" id="inputCompany">
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputPhone">Phone number</label>
+          <input type="tel" class="form-control" id="inputPhone">
+        </div>
+        <div class="form-group col-md-6">
+          <label for="inputIndustry">Industry</label>
+          <select id="inputIndustry" class="form-control">
+              <option value="" selected>Select industry</option>
+                <option value="Aerospace">Aerospace</option>
+                <option value="Automotive">Automotive</option>
+                <option value="Industry 1">Industry 1</option>
+                <option value="Industry 2">Industry 2</option>
+                <option value="Consumer Electronics">Consumer Electronics</option>
+                <option value="Diagnostics">Diagnostics</option>
+                <option value="Food">Food</option>
+                <option value="General Industry">General Industry</option>
+                <option value="Medical Devices">Medical Devices</option>
+                <option value="Pharma">Pharma</option>
+                <option value="Telecom">Telecom</option>
+                <option value="Medical Solutions">Medical Solutions</option>
+                <option value="Integrated Solutions">Integrated Solutions</option>
+                <option value="Industrial Solutions">Industrial Solutions</option>
+
+          </select>
+        </div>
+        <div class="form-group col-md-12">
+          <label class="contact__required" for="exampleFormControlTextarea1">Your message</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          <div class="form__error">
+            Valid input required
+          </div>
+        </div>
+        <div class="form-group col-md-12 contact-modal__confirm-container">
+          <div class="nolato-checkbox">
+            <label class="nolato-checkbox__title contact-modal__agree-terms ">
+              By ticking the box, I confirm that I have read <a href="/en/Integrity-cookies">Nolato's information about privacy and cookies</a>&nbsp;and agree that my personal information in the form is stored by Nolato.
+              <input type="checkbox" class="policy" id="cbPolicy">
+              <span class="nolato-checkbox__checkmark"></span>
+            </label>
+            <div class="form__error">
+              Valid input required
+            </div>
+          </div>
+        </div>
+        <div class="from-group col-md-6 contact-modal__robot ">
+
+        </div>
+        <div class="from-group col-md-6">
+          <div class="btn-container contact-modal__submit">
+            <div id="recaptcha-contactflyout" class="g-recaptcha recaptcha-element"
+                 data-sitekey="6LcYBtkaAAAAAHtWuq4_kFSY5eLnZrVuiQ8E9c8Y"
+                 data-size="invisible" data-order=""></div>
+
+            <button class="btn-default btn-default-thin btn-backgroundcolor-red" id="submitButton">
+               Send message
+            </button>
+          </div>
+        </div>
+      </div>
+    </form>
+    <div class="form-row contactForm__contactCards">
+    </div>
+
+  </div>
+
+
+
+    
+<!--header.cshtml MARKET-->
+
+  <header class="header">
+    <div class="toolbar">
+      <div class="container">
+        <div class="toolbar__row row">
+          <div class="toolbar__col col">
+            <div class="toolbar__income">
+
+              <a href="/en/IR/Investors">
+                <div id="ticker-holder" class="toolbar__ticker" data-url="https://widget.datablocks.se/api/rose/widgets/stock-table?token=eacfd943-1321-419c-8a2c-062b56cac15a&amp;c=cbb3c95c-c497-4550-898d-de6fdfabacba&amp;type=json"></div>
+              </a>
+
+            </div>
+          </div>
+          <div class="toolbar__col col-md-8">
+            <div class="toolbar__contact">
+              <ul class="toolbar__contact-list">
+                    <li class="toolbar__contact--item"><a href="/en/IR">Investor relations</a></li>
+                    <li class="toolbar__contact--item"><a href="/en/Group-companies">Group companies</a></li>
+                    <li class="toolbar__contact--item"><a href="/en/Find-us">Find us</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <div class="navbar nav container">
+      <div class="nav__row row align-items-center">
+        <div class="nav__logo-wrapper">
+          <a class="nav__logo-image" href="/en/">
+              <img class="nav__logo-image" src="/-/media/Images/Shared-images/Logos/nolato-logo.svg" />
+          </a>
+        </div>
+        <div class="navbar__container nav__col">
+          <div class="nav__search display-none">
+            <div class="nav__search-icon"></div>
+            <div class="nav__search-container">
+              <form action="/en/Search" method="get">
+                <input name="q" id="searchInputHeader" type="search" value="" class="nav__search-container-text-field" placeholder="What would you like to find?">
+              </form>
+
+            </div>
+            <div class="nav__search-close-container nav__search-close-button">
+            </div>
+          </div>
+          <div class="nav__navbar">
+            <ul>
+                  <li class=" ">
+
+                      <a href="/en/Offering"><span class="">Offering</span></a>
+
+                  </li>
+                  <li class="nav__navbar-hasdropdown  ">
+
+                      <span class="nav__navbar-title ">Industries</span>
+                      <div class="nav__navbar-dropdown nav__navbar-dropdown--has-icons">
+                        <div class="container">
+                          <div class="row nav__dropdown-header-row">
+                            <div class="col">
+                              <a href="/en/Industries">
+                                <h2 class="link__hover">Industries</h2>
+                              </a>
+                            </div>
+                            <div class="col">
+                              <div class="nav__dropdown-close-container">
+                                <div class="nav__dropdown-close-section">
+                                  <div><span>Close</span></div>
+                                </div>
+
+                              </div>
+                            </div>
+                          </div>
+                            <div class="row nav__dropdown-body-row">
+
+                                  <div class="col-md-3 col-12">
+                                    <h3>
+                                      Medical Solutions
+                                    </h3>
+                                  </div>
+                                  <div class="col-md-3 col-12">
+                                    <h3>
+                                      Integrated Solutions
+                                    </h3>
+                                  </div>
+                                  <div class="col-md-3 col-12">
+                                    <h3>
+                                      Industrial Solutions
+                                    </h3>
+                                  </div>
+                            </div>
+                          <div class="row nav__dropdown-body-row">
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Diagnostics" target="">
+                                        Diagnostics
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Medical-Devices" target="">
+                                        Medical Devices
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Pharma" target="">
+                                        Pharma
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Consumer-Electronics" target="">
+                                        Consumer Electronics
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Telecom" target="">
+                                        Telecom
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Automotive" target="">
+                                        Automotive
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Aerospace" target="">
+                                        Aerospace
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/General-Industry" target="">
+                                        General Industry
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Food" target="">
+                                        Food
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Industries/Automotive" target="">
+                                        Automotive
+                                      </a>
+                                    </div>
+                              </div>
+                          </div>
+                          <div class="row justify-content-end">
+                            <a href="/en/Industries">
+                              <div class="nav__dropdown-bottom-section">
+                                <span class="text-with-red-arrow-right link__hover">
+                                  SELECTED INDUSTRIES WE SERVE
+                                </span>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                  </li>
+                  <li class=" ">
+
+                      <a href="/en/Services"><span class="">Services we provide</span></a>
+
+                  </li>
+                  <li class="nav__navbar-hasdropdown  ">
+
+                      <span class="nav__navbar-title ">Standard products</span>
+                      <div class="nav__navbar-dropdown nav__navbar-dropdown--has-icons">
+                        <div class="container">
+                          <div class="row nav__dropdown-header-row">
+                            <div class="col">
+                              <a href="/en/Standard-products">
+                                <h2 class="link__hover">Standard products</h2>
+                              </a>
+                            </div>
+                            <div class="col">
+                              <div class="nav__dropdown-close-container">
+                                <div class="nav__dropdown-close-section">
+                                  <div><span>Close</span></div>
+                                </div>
+
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row nav__dropdown-body-row">
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Standard-products/Breathing-bags" target="">
+                                        Breathing bags
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Standard-products/Catheter-balloons" target="">
+                                        Catheter balloons
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Standard-products/EMC-products" target="">
+                                        EMC products
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Standard-products/Laboratory-products" target="">
+                                        Laboratory products
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Standard-products/MIL-SPEC-EMI-shielding-products" target="">
+                                        MIL SPEC EMI shielding products
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Standard-products/Non-conductive-materials" target="">
+                                        Non-conductive sealing and damping
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Standard-products/Pharma-packaging" target="">
+                                        Pharma packaging
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Standard-products/Thermal-Interface-Materials" target="">
+                                        Thermal Interface Materials
+                                      </a>
+                                    </div>
+                              </div>
+                          </div>
+                          <div class="row justify-content-end">
+                            <a href="/en/Standard-products">
+                              <div class="nav__dropdown-bottom-section">
+                                <span class="text-with-red-arrow-right link__hover">
+                                  EXPLORE ALL OUR STANDARD PRODUCTS
+                                </span>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                  </li>
+                  <li class="nav__navbar-hasdropdown  ">
+
+                      <span class="nav__navbar-title ">About us</span>
+                      <div class="nav__navbar-dropdown nav__navbar-dropdown--has-icons">
+                        <div class="container">
+                          <div class="row nav__dropdown-header-row">
+                            <div class="col">
+                              <a href="/en/About-us">
+                                <h2 class="link__hover">About us</h2>
+                              </a>
+                            </div>
+                            <div class="col">
+                              <div class="nav__dropdown-close-container">
+                                <div class="nav__dropdown-close-section">
+                                  <div><span>Close</span></div>
+                                </div>
+
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row nav__dropdown-body-row">
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/About-us" target="">
+                                        About Nolato
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/About-us/Nolato-Spirit" target="">
+                                        The Nolato Spirit
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/About-us/Sustainable-development" target="">
+                                        Sustainable development
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/IR/Investors" target="">
+                                        Investor relations
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/About-us/Media-service" target="">
+                                        Media service
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Stories" target="">
+                                        Nolato stories
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/About-us/History" target="">
+                                        History
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/About-us/Events" target="">
+                                        Events
+                                      </a>
+                                    </div>
+                              </div>
+                          </div>
+                          <div class="row justify-content-end">
+                            <a href="/en/About-us">
+                              <div class="nav__dropdown-bottom-section">
+                                <span class="text-with-red-arrow-right link__hover">
+                                  LEARN MORE ABOUT NOLATO
+                                </span>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                  </li>
+                  <li class="nav__navbar-hasdropdown  ">
+
+                      <span class="nav__navbar-title ">Careers</span>
+                      <div class="nav__navbar-dropdown nav__navbar-dropdown--has-icons">
+                        <div class="container">
+                          <div class="row nav__dropdown-header-row">
+                            <div class="col">
+                              <a href="/en/Careers">
+                                <h2 class="link__hover">Careers</h2>
+                              </a>
+                            </div>
+                            <div class="col">
+                              <div class="nav__dropdown-close-container">
+                                <div class="nav__dropdown-close-section">
+                                  <div><span>Close</span></div>
+                                </div>
+
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row nav__dropdown-body-row">
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/China" target="">
+                                        China
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Hungary" target="">
+                                        Hungary
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Ireland" target="">
+                                        Ireland
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Malaysia" target="">
+                                        Malaysia
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Mexico" target="">
+                                        Mexico
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Poland" target="">
+                                        Poland
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Sweden" target="">
+                                        Sweden
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Switzerland" target="">
+                                        Switzerland
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/UK" target="">
+                                        UK
+                                      </a>
+                                    </div>
+                              </div>
+                              <div class="col-md-3 col-12">
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/USA" target="">
+                                        USA
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Employee-stories" target="">
+                                        Employee stories
+                                      </a>
+                                    </div>
+                                    <div class="nav__dropdown-body-wrapper ">
+                                      <a href="/en/Careers/Open-positions" target="">
+                                        Open positions
+                                      </a>
+                                    </div>
+                              </div>
+                          </div>
+                          <div class="row justify-content-end">
+                            <a href="/en/Careers">
+                              <div class="nav__dropdown-bottom-section">
+                                <span class="text-with-red-arrow-right link__hover">
+                                  CAREERS AT NOLATO
+                                </span>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                  </li>
+            </ul>
+          </div>
+        </div>
+        <div class="nav__col nav__fixed">
+          <div class="nav__info ">
+            <div class="nav__info-search ">
+              <span class="nav__info-search-button"></span>
+            </div>
+
+          </div>
+        </div>
+        <div>
+
+          
+
+        </div>
+      </div>
+    </div>
+    <section class="mobil__header">
+      <div class="row">
+        <div class="mobil__navbar">
+          <div class="mobil__navbar__logo">
+            <a class="nav__logo-image" href="/en/">
+                <img src="/-/media/Images/Shared-images/Logos/nolato-logo.svg" alt="Nolato">
+            </a>
+          </div>
+          <div class="mobil__navbar__wrapper">
+            <div class="responsive-searchfield">
+              <form action="/en/Search" method="get">
+                <input name="q" id="searchInputMobile" type="search" value="" class="responsive-searchfield__textfield" placeholder="What would you like to find?">
+              </form>
+
+              <div class="close-button">
+                <div class="close-button__line1"></div>
+                <div class="close-button__line2"></div>
+                <div class="close-button__line3"></div>
+              </div>
+            </div>
+            <div class="responsive-container">
+              <div class="search-button"></div>
+              <div class="menu-button">
+                <div class="menu-button__line1"></div>
+                <div class="menu-button__line2"></div>
+                <div class="menu-button__line3"></div>
+              </div>
+            </div>
+
+            <div class="mobil__sidebar">
+                <ul class="mobil__sidebar-items">
+                      <li class="mobil__sidebar-item ">
+                        <a href="/en/Offering">Offering</a>
+
+                      </li>
+                      <li class="mobil__sidebar-item mobil__sidebar-hasdropdown">
+                        <a href="/en/Industries">Industries</a>
+                      <ul class="mobil__sidebar__dropdown">
+
+
+
+                              <li class="mobil__sidebar__dropdown--title">
+                                <h3>Medical Solutions</h3>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Diagnostics" target="">
+                                  Diagnostics
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Medical-Devices" target="">
+                                  Medical Devices
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Pharma" target="">
+                                  Pharma
+                                </a>
+                              </li>
+                              <li class="mobil__sidebar__dropdown--title">
+                                <h3>Integrated Solutions</h3>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Consumer-Electronics" target="">
+                                  Consumer Electronics
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Telecom" target="">
+                                  Telecom
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Automotive" target="">
+                                  Automotive
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Aerospace" target="">
+                                  Aerospace
+                                </a>
+                              </li>
+                              <li class="mobil__sidebar__dropdown--title">
+                                <h3>Industrial Solutions</h3>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/General-Industry" target="">
+                                  General Industry
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Food" target="">
+                                  Food
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Industries/Automotive" target="">
+                                  Automotive
+                                </a>
+                              </li>
+                      </ul>
+
+                      </li>
+                      <li class="mobil__sidebar-item ">
+                        <a href="/en/Services">Services we provide</a>
+
+                      </li>
+                      <li class="mobil__sidebar-item mobil__sidebar-hasdropdown">
+                        <a href="/en/Standard-products">Standard products</a>
+                      <ul class="mobil__sidebar__dropdown">
+
+
+
+                              <li>
+                                <a href="/en/Standard-products/Breathing-bags" target="">
+                                  Breathing bags
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Standard-products/Catheter-balloons" target="">
+                                  Catheter balloons
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Standard-products/EMC-products" target="">
+                                  EMC products
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Standard-products/Laboratory-products" target="">
+                                  Laboratory products
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Standard-products/MIL-SPEC-EMI-shielding-products" target="">
+                                  MIL SPEC EMI shielding products
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Standard-products/Non-conductive-materials" target="">
+                                  Non-conductive sealing and damping
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Standard-products/Pharma-packaging" target="">
+                                  Pharma packaging
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Standard-products/Thermal-Interface-Materials" target="">
+                                  Thermal Interface Materials
+                                </a>
+                              </li>
+                      </ul>
+
+                      </li>
+                      <li class="mobil__sidebar-item mobil__sidebar-hasdropdown">
+                        <a href="/en/About-us">About us</a>
+                      <ul class="mobil__sidebar__dropdown">
+
+
+
+                              <li>
+                                <a href="/en/About-us" target="">
+                                  About Nolato
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/About-us/Nolato-Spirit" target="">
+                                  The Nolato Spirit
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/About-us/Sustainable-development" target="">
+                                  Sustainable development
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/IR/Investors" target="">
+                                  Investor relations
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/About-us/Media-service" target="">
+                                  Media service
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Stories" target="">
+                                  Nolato stories
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/About-us/History" target="">
+                                  History
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/About-us/Events" target="">
+                                  Events
+                                </a>
+                              </li>
+                      </ul>
+
+                      </li>
+                      <li class="mobil__sidebar-item mobil__sidebar-hasdropdown">
+                        <a href="/en/Careers">Careers</a>
+                      <ul class="mobil__sidebar__dropdown">
+
+
+
+                              <li>
+                                <a href="/en/Careers/China" target="">
+                                  China
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Hungary" target="">
+                                  Hungary
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Ireland" target="">
+                                  Ireland
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Malaysia" target="">
+                                  Malaysia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Mexico" target="">
+                                  Mexico
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Poland" target="">
+                                  Poland
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Sweden" target="">
+                                  Sweden
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Switzerland" target="">
+                                  Switzerland
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/UK" target="">
+                                  UK
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/USA" target="">
+                                  USA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Employee-stories" target="">
+                                  Employee stories
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/en/Careers/Open-positions" target="">
+                                  Open positions
+                                </a>
+                              </li>
+                      </ul>
+
+                      </li>
+                                        <li class="mobil__sidebar-item"><a href="/en/IR">Investor relations</a></li>
+                      <li class="mobil__sidebar-item"><a href="/en/Group-companies">Group companies</a></li>
+                      <li class="mobil__sidebar-item"><a href="/en/Find-us">Find us</a></li>
+                </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </header>
+
+
+
+
+<!--Hero.cshtml MARKET-->
+
+<div class="imageheader imageheader--large imageheader__video " data-mobile-src="" data-image-src="/-/media/Images/Home/Nolato-Header-startpage.jpg?h=1100&amp;w=1650&amp;hash=342AFDCF7C2B7B5789C3B3ADAF7746E8">
+  <img class="imageheader__image" src="/-/media/Images/Home/Nolato-Header-startpage.jpg?h=1100&amp;w=1650&amp;hash=342AFDCF7C2B7B5789C3B3ADAF7746E8" alt="" width="1650" height="1100">
+    <div id="top-video" class="videoContainer" data-video-src="https://player.vimeo.com/video/504773043?background=1&autoplay=1&loop=1&color=0ff0e1&title=0&byline=0&portrait=0&fun=0&muted=1&dnt=1" data-width-ratio='16' data-height-ratio='9' data-video-id="504773043">
+      <iframe src="https://player.vimeo.com/video/504773043?background=1&autoplay=1&loop=1&color=0ff0e1&title=0&byline=0&portrait=0&fun=0&muted=1&dnt=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay"></iframe>
+    </div>
+  <div class="container">
+
+    <div class="row justify-content-between align-items-end">
+      <div class="col-md-8 col-xs-12">
+        <div class="imageheader__topic-text">
+
+
+        </div>
+        <div class="imageheader__header-text">
+            <h1>Empowering outstanding innovation and operating excellence, together we create the solutions of tomorrow</h1>
+
+        </div>
+        <div class="imageheader__body-text">
+          <p>
+            
+          </p>
+        </div>
+      </div>
+      <div class="col-md-4 imageheader__button ">
+        <div class=" btn-container">
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  <!--pageNavigation.cshtml MARKET-->
+  <div class="secondary-menu nolato-border__bottom">
+    <div class="container">
+          <ul class="secondary-menu__links"></ul>
+        </div>
+        
+  </div>
+
+
+      <!--PW_FullPage.cshtml MARKET-->
+<!--TextAndImage.cshtml MARKET-->
+  <div class="redlinecolumnseparator nolato-component  ">
+    <div class="container">
+      <div class="redlinecolumnseparator__wrapper">
+        <div class="redlinecolumnseparator__container">
+          <h2>   A long-term partner</h2>
+        </div>
+        <div class="redlinecolumnseparator__line"></div>
+        <div class="redlinecolumnseparator__container  textStyle-2">
+          Nolato's customer offering spans the entire value chain. Our capabilities cover the full spectrum of working with and around polymer-based materials. We support the innovative products of tomorrow, from development to high-volume production and beyond. And always in close partnership with our customers.
+        </div>
+        <div class="redlinecolumnseparator__line"></div>
+        <div class="redlinecolumnseparator__container">
+          <div class="btn-container">
+            <a class="btn-default btn-backgroundcolor-transparent" href="/en/Offering">Explore our offering</a>
+            
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+<!--Splitter2Columns.cshtml MARKET-->
+  <div class="two-column nolato-component    nolato-component__no-border nolato-component__no-margin__bottom ">
+    <div class="container">
+      <div class="row justify-content-between align-items-start">
+        <div class="col-md-6 two-column__left ">
+          <!--TextBlock.cshtml MARKET-->
+    <section class="text-title">
+      <div class="text-title__container">
+          <h2 class="text-title__title-tiny">WHAT WE DO</h2>
+                  <h2 class="text-title__optional">An agile and innovative solutions provider in polymer products</h2>
+
+      </div>
+      <div class="text-title__text">
+      </div>
+    </section>
+
+        </div>
+        <div class="col-md-6 two-column__right  "><!--TextBlock.cshtml MARKET-->
+    <section class="text-title">
+      <div class="text-title__container">
+        
+      </div>
+      <div class="text-title__text">
+          <div class="rich__text textStyle-2">
+            We develop and manufacture customer-specific products in polymer materials such as plastic, silicone and TPE for global customers in medical technology, pharmaceuticals, consumer electronics, telecom, automotive, hygiene and other selected industrial sectors.
+          </div>
+      </div>
+    </section>
+</div>
+      </div>
+    </div>
+  </div>
+  <section id="hotSpots" class="hotSpots nolato-component" data-ID="{16564A6C-D98D-4E33-A5BC-0FF2CEE4CA9E}">
+    <div class="container">
+      <div class="hotSpots__leftArrow"></div>
+      <div class="hotSpots__header">
+        <h3 class="hotSpots__header--subTitle"></h3>
+        <h2 class="hotSpots__header--title"></h2>
+        <div class="rich__text hotSpots__header--desciption textStyle-2">
+ 
+        </div>
+      </div>
+      <div class="hotSpots__container">
+        <div class="hotSpots__wrapper">
+          <img class="hotSpots__wrapper--image" src="" alt="Image" width="980" height="690">
+        </div>
+        <div class="hotSpots__slider">
+        </div>
+      </div>
+      <div class="hotSpots__rightArrow"></div>
+    </div>
+  </section>
+<!--TextAndImage.cshtml MARKET-->
+  <div class="Imagewithtext nolato-component ">
+    <div class="container">
+      <div class="row justify-content-md-center flex-md-row-reverse">
+        <div class="col-md-6  Imagewithtext-text-container justify-content-center red__border">
+          <div class="Imagewithtext-subtitle">
+            <!-- Add class large-text for big title-->
+              <h3>SUSTAINABLE DEVELOPMENT</h3>
+          </div>
+          <div class="Imagewithtext-title">
+              <h2>
+                Creating sustainable solutions
+              </h2>
+          </div>
+          <div class="rich__text textStyle-2 Imagewithtext-text">
+            <p>We seek to create solutions that support sustainable development. Nolato&rsquo;s expertise and technology can contribute to customers&rsquo; Environmental, Social and Governance (ESG) efforts.&nbsp;<br />
+<br />
+A proactive approach, new business opportunities, responsibility and transparency are core elements of Nolato&rsquo;s long-term strategy to create growth and value for stakeholders and society. </p>
+<p>We aim to be the experts in the impact of our business on people, the environment and society.
+</p>
+<p><a href="/en/About-us/Sustainable-development" class="button-red">Explore more</a></p>
+          </div>
+
+        </div>
+        <div class="col-md-6  Imagewithtext__image ">
+<img src="/-/media/Images/Shared-images/nolato-sustainability.png?h=450&amp;iar=0&amp;w=700&amp;hash=6837A20C55E2DCFE55F228EE8AF10594" class="img-responsive" alt="Landscape - Torekov" width="700" height="450" DisableWebEdit="False" />        </div>
+      </div>
+    </div>
+  </div>
+<!--Splitter2Columns.cshtml MARKET-->
+  <div class="two-column nolato-component    nolato-component__tiny nolato-component__no-border ">
+    <div class="container">
+      <div class="row justify-content-between align-items-start">
+        <div class="col-md-6 two-column__left ">
+          <!--TextBlock.cshtml MARKET-->
+    <section class="text-title">
+      <div class="text-title__container">
+          <h2 class="text-title__title-tiny">INDUSTRIES</h2>
+                  <h2 class="text-title__optional">Cross-industry expertise</h2>
+
+      </div>
+      <div class="text-title__text">
+      </div>
+    </section>
+
+        </div>
+        <div class="col-md-6 two-column__right  "><!--TextBlock.cshtml MARKET-->
+    <section class="text-title">
+      <div class="text-title__container">
+        
+      </div>
+      <div class="text-title__text">
+          <div class="rich__text textStyle-2">
+            Nolato's experience spans virtually every industry and a vast array of challenges, giving us a unique perspective that we bring to every client relationship. Our customers gain access to a unique combination of world-class cross-sector expertise and technologies. These are within your local reach through One Nolato.
+          </div>
+      </div>
+    </section>
+</div>
+      </div>
+    </div>
+  </div>
+
+<!--PageList.cshtml MARKET-->
+
+  <div class="cardsection nolato-component cardCollapseSection nolato-component__tiny nolato-component__no-border " data-maximumcards="4">
+    <div class="container cardsection__container">
+      <div class="row">
+        <div class="cardsection__header col-12 ">
+          <div class="cardsection__header-text">
+              <h2>Medical Solutions</h2>
+          </div>
+          <div class="cardsection__info">
+
+<a class="text-with-red-arrow-right link__hover" href="/en/Industries">SELECTION OF INDUSTRIES SERVED</a>
+          </div>
+        </div>
+      </div>
+      <div class="cardsection__overlay"></div>
+      <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Diagnostics">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/Diagnostics-IVD-listing.jpg?mw=420&amp;hash=9A9114E496C4FDC44A670547645D9E08" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf493;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Diagnostics</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Medical-Devices">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/medical-devices-listing.jpg?mw=420&amp;hash=6D581E9A35ABDDE03812D1746626B27A" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf48e;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Medical Devices</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Pharma">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/PharmaPackaging-listing.jpg?mw=420&amp;hash=02C98CAE409EC440E10B7D94849AE38E" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf486;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Pharma</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+      </div>
+    </div>
+
+    <div class="collapsebutton" data-expand="View all" data-collapse="Collapse">
+      <div class="collapsebutton-section">
+        <span class="collapsebutton-text ">
+View all        </span>
+      </div>
+    </div>
+  </div>
+
+<!--PageList.cshtml MARKET-->
+
+  <div class="cardsection nolato-component cardCollapseSection nolato-component__tiny nolato-component__no-border " data-maximumcards="4">
+    <div class="container cardsection__container">
+      <div class="row">
+        <div class="cardsection__header col-12 ">
+          <div class="cardsection__header-text">
+              <h2>Integrated Solutions</h2>
+          </div>
+          <div class="cardsection__info">
+
+<a class="text-with-red-arrow-right link__hover" href="/en/Industries">SELECTION OF INDUSTRIES SERVED</a>
+          </div>
+        </div>
+      </div>
+      <div class="cardsection__overlay"></div>
+      <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Consumer-Electronics">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/Consumer-Electronics-listing.jpg?mw=420&amp;hash=50AFBBA914AB344CF8B0820F56742DBB" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xe066;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Consumer Electronics</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Telecom">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/Telecom-listing.png?mw=420&amp;hash=DC2444F59DBE4FDB4F84323807002580" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf10b;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Telecom</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Automotive">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/automotive-listing.png?mw=420&amp;hash=66E01A8EB7AAC23BFE81CF7A25E196A5" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf1b9;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Automotive</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Aerospace">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/Aerospace-listing.jpg?mw=420&amp;hash=12A6E508FEDF4BC3113221137DC66AA3" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf072;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Aerospace</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+      </div>
+    </div>
+
+    <div class="collapsebutton" data-expand="View all" data-collapse="Collapse">
+      <div class="collapsebutton-section">
+        <span class="collapsebutton-text ">
+View all        </span>
+      </div>
+    </div>
+  </div>
+
+<!--PageList.cshtml MARKET-->
+
+  <div class="cardsection nolato-component cardCollapseSection " data-maximumcards="4">
+    <div class="container cardsection__container">
+      <div class="row">
+        <div class="cardsection__header col-12 ">
+          <div class="cardsection__header-text">
+              <h2>Industrial Solutions</h2>
+          </div>
+          <div class="cardsection__info">
+
+<a class="text-with-red-arrow-right link__hover" href="/en/Industries">SELECTION OF INDUSTRIES SERVED</a>
+          </div>
+        </div>
+      </div>
+      <div class="cardsection__overlay"></div>
+      <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/General-Industry">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/general-industry-listing.jpg?mw=420&amp;hash=E0695DDCFF7D98E0731F7E0365647489" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf275;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">General Industry</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Food">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/Food-listing.jpg?mw=420&amp;hash=A286B91FB63DDA03F3802551B7380D96" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf2e7;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Food</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Industries/Automotive">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Industries/automotive-listing.png?mw=420&amp;hash=66E01A8EB7AAC23BFE81CF7A25E196A5" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="&#xf1b9;">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Automotive</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+      </div>
+    </div>
+
+    <div class="collapsebutton" data-expand="View all" data-collapse="Collapse">
+      <div class="collapsebutton-section">
+        <span class="collapsebutton-text ">
+View all        </span>
+      </div>
+    </div>
+  </div>
+<!--Splitter2Columns.cshtml MARKET-->
+  <div class="two-column nolato-component    nolato-component__tiny nolato-component__no-border ">
+    <div class="container">
+      <div class="row justify-content-between align-items-start">
+        <div class="col-md-6 two-column__left ">
+          <!--TextBlock.cshtml MARKET-->
+    <section class="text-title">
+      <div class="text-title__container">
+          <h2 class="text-title__title-tiny">SERVICES</h2>
+                  <h2 class="text-title__optional">Worldwide solutions services</h2>
+
+      </div>
+      <div class="text-title__text">
+      </div>
+    </section>
+
+        </div>
+        <div class="col-md-6 two-column__right  "><!--TextBlock.cshtml MARKET-->
+    <section class="text-title">
+      <div class="text-title__container">
+        
+      </div>
+      <div class="text-title__text">
+          <div class="rich__text textStyle-2">
+            We are at the forefront of future technologies and developing services and capabilities. Through our expertise and state-of-the-art technology we deliver high-quality, time-sensitive, high-precision and cost-effective solutions for you and your end users.
+          </div>
+      </div>
+    </section>
+</div>
+      </div>
+    </div>
+  </div>
+
+<!--PageList.cshtml MARKET-->
+
+  <div class="cardsection nolato-component cardCollapseSection " data-maximumcards="12">
+    <div class="container cardsection__container">
+      <div class="row">
+        <div class="cardsection__header col-12 ">
+          <div class="cardsection__header-text">
+          </div>
+          <div class="cardsection__info">
+
+<a class="text-with-red-arrow-right link__hover" href="/en/Services">EXPLORE ALL OUR SERVICES</a>
+          </div>
+        </div>
+      </div>
+      <div class="cardsection__overlay"></div>
+      <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Full-solutions-provider-Contract-manufacturing">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/End-to-End-Solution-Provider/ContractManufacturer/ContractManu-listing.jpg?mw=420&amp;hash=DA8892EE3B69CCB8215D13037E3F4ED2" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Full solutions provider and contract manufacturer</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Virtual-prototyping">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Virtual-Prototyoping/VirtualP-listing.jpg?mw=420&amp;hash=A329B87A4C983FB7DC85C10857237784" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Virtual prototyping</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Injection-molding-of-plastics">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/InjectionMoldingPlastics/Injection-molding-plastic-listing.jpg?mw=420&amp;hash=ED97D715A9D0CB5405522D972FA58B2D" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Injection molding of plastics</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Injection-molding-of-silicone">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/InjectionMoldingSilicone/Injection_Molding_Silicone_listing.png?mw=420&amp;hash=B73B61D508809C59A2916FC857AFA69F" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Injection molding of silicone</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Injection-blow-molding">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/InjectionBlowMolding/Injection_blo_molding_listing.jpg?mw=420&amp;hash=D3D7462BB555378BD23ECEC160E91142" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Injection blow molding</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Dip-molding">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Dip-Molding/Dip_molding_listing.jpg?mw=420&amp;hash=553079545957A044D0DF8C83D819F4A6" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Dip molding</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Scientific-injection-molding">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Scientific-Injection-Molding/Scientific-Injection-Molding-listing.png?mw=420&amp;hash=E1E4A2CF9FA03FBF22156FE0C8498FBE" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Scientific injection molding</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Extrusion">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Extrusion/Extrusion-listing.jpg?mw=420&amp;hash=B60882AE9D104D4EEDAEEB57783FFFE4" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Extrusion</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Silicone-sponge-extrusion">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Silicone-Sponge-Extrusion/Silicone-Sponge-Extrusions_listing.jpg?mw=420&amp;hash=0565B8E21DFC803AB77ECA69044C75AF" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Silicone sponge extrusion</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Decoration-technologies">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Decoration-Technologies/Decoration-listing.jpg?mw=420&amp;hash=74CE73083D1637A800E5BCF9655C8D08" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Decoration technologies</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Micromolding">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/MicroMolding/MicroMolding-listing.jpg?mw=420&amp;hash=64E7C3158EA4243D1B30245D5981B717" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Micromolding</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Compression-molding">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Compression-Molding/Compression-Molding-Conductive-listing.png?mw=420&amp;hash=2F5C86D9EE2E256AB2D3B543EF3840CA" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Compression molding</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Die-cutting-technologies">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Die-Cut-Technology/Die-Cut_listing.jpg?mw=420&amp;hash=FB8DF3BD4EAA962965DAD872E5CF8C8E" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Die-cutting technologies</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Tool-manufacturing">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Tool-Manufacturing/Tool-manufacturing-listing.jpg?mw=420&amp;hash=971B3404F3096CE42D7A218411BD20A1" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Tool manufacturing</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Assembly-solutions">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Assembly-Solutions/Assembly-listing.jpg?mw=420&amp;hash=B1FB4B5AAA713762C5A72223749A6E13" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Assembly solutions</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Cleanroom-production">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Cleanroom-Production/Cleanroom-listing.jpg?mw=420&amp;hash=67796F650E1DC1DDAB9C5CB21BD262AF" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Cleanroom production</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/EMI-shielding">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/EMC-Products/emc-rel-pages.jpg?mw=420&amp;hash=86943AD3C7DB041AC446022A6ABC39D3" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">EMI shielding</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Thermal-management">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Thermal-Management/Thermal-listing.jpg?mw=420&amp;hash=40F1D6E98E7E3BFF39DD7F9BBB95B181" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Thermal management</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Flatbed-punching">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Flat-Bed-Punching/Flat-Bed-Punching_listing.jpg?mw=420&amp;hash=2B8C3A1E89473112F8988E41D01C77D7" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Flatbed punching</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Laser-activated-bonding">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Laser-Activated-Bonding/Laser-activated-listing.jpg?mw=420&amp;hash=841C0D7155D353DFB4A3F27A3679500C" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Laser-activated bonding</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Ceramics-injection-molding">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Ceramic-Injection-Molding/Ceramics-listing.jpg?mw=420&amp;hash=228403667DD3D57BD4473AD202E5E91A" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Ceramic injection molding</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Services/Design-solutions">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Services/Design-Solutions/Design-solutions-listing.jpg?mw=420&amp;hash=CD63516D0BB0A9F46BE8B96E52ED3A43" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Design solutions</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+      </div>
+    </div>
+
+    <div class="collapsebutton" data-expand="View all" data-collapse="Collapse">
+      <div class="collapsebutton-section">
+        <span class="collapsebutton-text ">
+View all        </span>
+      </div>
+    </div>
+  </div>
+
+<!--PageList.cshtml MARKET-->
+
+  <div class="imagecard nolato-component ">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-lg-6">
+          <section class="text-title">
+            <div class="text-title__container">
+                              <h2 class="text-title__optional">Stories</h2>
+              
+            </div>
+
+          </section>
+        </div>
+        <div class="col-lg-3 offset-lg-3 imagecard__right">
+          <div class="link__container">
+<a class="text-with-red-arrow-right link__hover" href="/en/Stories">EXPLORE ALL OUR STORIES</a>          </div>
+
+        </div>
+      </div>
+
+      <div class="row imagecard__row">
+          <div class="col-lg-4 col-md-6  imagecard__col">
+            <!-- ImageCard med Tags-->
+            <div class="imagecard__wrapper">
+              <!-- A-taggen som var här är borta -->
+              <div class="imagecard__image-container">
+                <img data-lasyload="/-/media/Images/Stories/Working-for-sustainable-future/sustainability-hands-list.jpg?mw=420&amp;hash=B16D8BB5A3D62848F521A08F86EB6EF1" src="" alt="">
+              </div>
+              <div class="imagecard__container">
+                <div class="imagecard__title">
+                  <p class="imagecard__date">STORIES</p>
+                  <h4 class="imagecard__title-header">
+                    Working for a sustainable future
+                  </h4>
+                </div>
+                <div class="imagecard__text textStyle-2">
+                  Constantly ensuring that everything Nolato does is sustainable and in harmony with the environment, social responsibility and business benefit is vitally important to us.
+
+
+                </div>
+                <div class="imagecard__button">
+                  <a href="/en/Stories/Working-for-a-sustainable-future">
+                    <!-- Ny Atag -->
+                    <span class="text-with-red-arrow-right link__hover">Explore</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6  imagecard__col">
+            <!-- ImageCard med Tags-->
+            <div class="imagecard__wrapper">
+              <!-- A-taggen som var här är borta -->
+              <div class="imagecard__image-container">
+                <img data-lasyload="/-/media/Images/Stories/Reducing-production-related-emissions/Reducing-production-related-listing.png?mw=420&amp;hash=FBA1FE3F51AAFC5FEA04BF710B7E4311" src="" alt="">
+              </div>
+              <div class="imagecard__container">
+                <div class="imagecard__title">
+                  <p class="imagecard__date">STORIES</p>
+                  <h4 class="imagecard__title-header">
+                    Reducing production related emissions
+                  </h4>
+                </div>
+                <div class="imagecard__text textStyle-2">
+                  We want you to know that we at Nolato are pushing ourselves, and want do do more than what is demanded of us. Do you want to read more about what we do to reduce the harmful emissions? Read more about how we work with ISO 50001 at Nolato Jaycare, and how we clean gas emissions at Nolato Beijing here.
+
+
+                </div>
+                <div class="imagecard__button">
+                  <a href="/en/Stories/Reducing-production-related-emissions">
+                    <!-- Ny Atag -->
+                    <span class="text-with-red-arrow-right link__hover">Explore</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6  imagecard__col">
+            <!-- ImageCard med Tags-->
+            <div class="imagecard__wrapper">
+              <!-- A-taggen som var här är borta -->
+              <div class="imagecard__image-container">
+                <img data-lasyload="/-/media/Images/Stories/MedicalPackaging-a-case-for-plastic/medicalpackaging-listing.jpg?mw=420&amp;hash=72960C9C7095656ABF7DF8C07A748DA8" src="" alt="">
+              </div>
+              <div class="imagecard__container">
+                <div class="imagecard__title">
+                  <p class="imagecard__date">STORIES</p>
+                  <h4 class="imagecard__title-header">
+                    Medical packaging: A case for plastic
+                  </h4>
+                </div>
+                <div class="imagecard__text textStyle-2">
+                  Nolato consulted an independent third party to conduct a life cycle assessment (LCA) screening on one of our products. Read all about the result here.
+
+
+                </div>
+                <div class="imagecard__button">
+                  <a href="/en/Stories/Medical-packaging-A-case-for-plastic">
+                    <!-- Ny Atag -->
+                    <span class="text-with-red-arrow-right link__hover">Explore</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+      </div>
+    </div>
+  </div>
+<!--Splitter2Columns.cshtml MARKET-->
+  <div class="two-column nolato-component    nolato-component__tiny nolato-component__no-border ">
+    <div class="container">
+      <div class="row justify-content-between align-items-start">
+        <div class="col-md-6 two-column__left ">
+          <!--TextBlock.cshtml MARKET-->
+    <section class="text-title">
+      <div class="text-title__container">
+          <h2 class="text-title__title-tiny">STANDARD PRODUCTS</h2>
+                  <h2 class="text-title__optional">High-quality standard products</h2>
+
+      </div>
+      <div class="text-title__text">
+      </div>
+    </section>
+
+        </div>
+        <div class="col-md-6 two-column__right  "><!--TextBlock.cshtml MARKET-->
+    <section class="text-title">
+      <div class="text-title__container">
+        
+      </div>
+      <div class="text-title__text">
+          <div class="rich__text textStyle-2">
+            We also offer our own range of quality standard products such as packaging, laboratory products, breathing bags, shielding, sealing products.
+          </div>
+      </div>
+    </section>
+</div>
+      </div>
+    </div>
+  </div>
+
+<!--PageList.cshtml MARKET-->
+
+  <div class="cardsection nolato-component cardCollapseSection " data-maximumcards="8">
+    <div class="container cardsection__container">
+      <div class="row">
+        <div class="cardsection__header col-12 ">
+          <div class="cardsection__header-text">
+          </div>
+          <div class="cardsection__info">
+
+<a class="text-with-red-arrow-right link__hover" href="/en/Standard-products">EXPLORE ALL OUR STANDARD PRODUCTS</a>
+          </div>
+        </div>
+      </div>
+      <div class="cardsection__overlay"></div>
+      <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Standard-products/Pharma-packaging">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/Pharma-Packaging/nolato-pharma-packaging-listing.jpg?mw=420&amp;hash=684F3BFEFF949AF9FB924BD97C855A4F" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Pharma packaging</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Standard-products/EMC-products">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/EMC-Products/emc-rel-pages.jpg?mw=420&amp;hash=86943AD3C7DB041AC446022A6ABC39D3" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">EMC products</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Standard-products/Thermal-Interface-Materials">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/Thermal-Interface-Materials/nolato-thermal-management-listing.jpg?mw=420&amp;hash=323187752DD9B6E33FDB0748E1E8ADB2" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Thermal Interface Materials</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Standard-products/Laboratory-products">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/Laboratory-Products/nolato-laboratory-products-listing.jpg?mw=420&amp;hash=AF06DBBC520C8D59862ECA6B1AE30205" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Laboratory products</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Standard-products/Breathing-bags">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/Breathing-bags/Balloons-listingimage.jpg?mw=420&amp;hash=98658207995B2D66A0B3990C18FD021C" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Breathing bags</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Standard-products/Catheter-balloons">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/Catheter-balloons/nolato-catheter-balloons-listing.jpg?mw=420&amp;hash=77A44966D1AADE2948D9BB61B6E71B3C" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Catheter balloons</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Standard-products/MIL-SPEC-EMI-shielding-products">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/Mil-spec-EMI/MILspeck-llisting.jpg?mw=420&amp;hash=A7956B89B2068066BD6CC21B90244541" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">MIL SPEC EMI shielding products</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a class="cardsection__wrapper" href="/en/Standard-products/Non-conductive-materials">
+              <div class="cardsection__image">
+                <img data-lasyload="/-/media/Images/Standard-products/Non-Conductive-Sealing-Damping/Non-Conductive-listing.jpg?mw=420&amp;hash=82A1D23650E83EFE17FD50ADBAB1310D" src="" alt="">
+              </div>
+              <div class="cardsection__textlink">
+
+
+                <div class="cardsection__textlink-wrapper" data-cardSectionIcon="">
+                  <div>
+                    <span class="cardsection__textlink-container-text">Non-conductive sealing and damping</span>
+                  </div>
+                </div>
+                <span class="text-with-red-arrow-right"></span>
+              </div>
+            </a>
+          </div>
+      </div>
+    </div>
+
+    <div class="collapsebutton" data-expand="View all" data-collapse="Collapse">
+      <div class="collapsebutton-section">
+        <span class="collapsebutton-text ">
+View all        </span>
+      </div>
+    </div>
+  </div>
+<!--ImageOnly.cshtml MARKET-->
+  <div class="map nolato-component   ">
+    <div class="container">
+      <div class="row justify-content-between">
+        <div class="col-lg-5 text-title">
+          <div class="text-title__container">
+              <h2 class="text-title__title-tiny">PROXIMITY</h2>
+                          <h2 class="text-title__optional">Local yet global presence</h2>
+          
+            </div>
+        </div>
+        <div class="col-lg-4 text-component map__right">
+          <div class="rich__text textStyle-2">
+Proximity to our customers and their markets is always key for us. That's why we have more than 30 development and production units in Europe, Asia and North America. Explore all our group companies on the map below.          </div>
+          <div>
+<a class="text-with-red-arrow-right link__hover map__link" href="/en/Find-us">EXPLORE ALL OUR SITES</a>          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="map__wrapper">
+          <a class="linked-image" style="display:block" href="/en//Find-us#Globalpresence">
+            <img src="/-/media/Images/Home/Nolato-sites-map.JPG?h=661&amp;iar=0&amp;w=1408&amp;hash=9D15331398291A1A03803D5C096CF995" class="img-responsive" alt="Map - Nolato all sites" width="1408" height="661" DisableWebEdit="False" />
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <footer class="footer-wrapper">
+      <!--ContactBannerFooter.cshtml MARKET-->
+    <div class="footer-contact">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-5 offset-md-1 footer-contact__text-wrapper">
+            <div class="footer-contact__text-wrapper-title">
+              <h2>Want to know more?</h2>
+            </div>
+            <div class="footer-contact__text-wrapper-text"><p>Our expertise and services are just a message away</p></div>
+          </div>
+          <div class="col-md-5 footer-contact__button-wrapper">
+            <div class="btn-container">
+                <a href="#" class="btn-default btn-backgroundcolor-white onclick__contact-modal">Contact us</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  <!--footer.cshtml MARKET-->
+  <div class="footer">
+    <div class="container footer-container">
+      <div class="row align-items-center">
+        <div class="col-lg-4">
+          <div class="footer__logo-container">
+              <a href="/"><img src="/-/media/Images/Shared-images/Logos/nolato-logo-white.svg" /></a>
+
+          </div>
+        </div>
+        <div class="col-lg-6 offset-2 footer__social-media">
+                <a class="footer__social-media-icon" href="https://www.facebook.com/nolatoab"></a>
+                <a class="footer__social-media-icon" href="https://www.linkedin.com/company/nolato/"></a>
+                <a class="footer__social-media-icon" href="https://twitter.com/nolatogroup"></a>
+
+            </div>
+      </div>
+      <div class="row">
+        <div class=" col-lg-4 footer__slogan-container">
+          <span>
+            Experience &amp; innovation
+          </span>
+        </div>
+      </div>
+      <div class="row footer__menu">
+        <div class="col-lg-12">
+          <ul>
+                <li>
+                  <a href="/en/Find-us">
+                    <span>
+                      Find us
+                    </span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/en/Group-companies">
+                    <span>
+                      Group companies
+                    </span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/en/Careers">
+                    <span>
+                      Careers
+                    </span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/en/About-us/Media-service">
+                    <span>
+                      Media service
+                    </span>
+                  </a>
+                </li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="row footer__copyright">
+        <div class="col-lg-6">
+          <ul class="footer__copyright-list">
+                <li>
+                  <a href="/en/NolatoNet-login">
+                    <span>
+                      NolatoNet
+                    </span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/en/Integrity-cookies">
+                    <span>
+                      Integrity
+                    </span>
+                  </a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-6  footer__copyright-owner">
+          <span>
+            &#169; Nolato AB (publ), Nolatov&#228;gen 32, 269 78 Torekov, Sweden
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+    </footer>
+  </div>
+
+  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+    <script src="/Assets/index.js"></script>
+    <script defer>
+      function renderRecaptcha() {
+        $.each($('.recaptcha-element'),
+          function (index) {
+
+            var idName = $(this).attr('id');
+            var siteKey = $(this).attr('data-sitekey');
+            //	 $(this).attr('data-order', index);
+
+            grecaptcha.render(idName,
+              {
+                'size': 'invisible',
+                'callback': function () {
+                  window['submit' + index](index, grecaptcha.getResponse(index));
+
+                }
+              });
+          });
+      }
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=renderRecaptcha&render=explicit"></script>
+  <script>
+    var currentLocation = window.location.host;
+    if (currentLocation == "nolato-ir.dev.local" || currentLocation == "c-test-sitecore.nolato.com") {
+      var str = document.body.innerHTML;
+      var splitWord = "COR" + "PORATE";
+      var n = str.split(splitWord).length - 1;
+      if (n > 0) { console.error(n + " " + splitWord + " components present on a MARKET page!!!"); }
+    }
+  </script>
+  
+</body>
+</html>

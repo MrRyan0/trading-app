@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta charset="utf-8" />
+	<base href="https://www.northviewfund.com/404" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>404 Error</title>
+	<link href="/templates/northview/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-5.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagecontainer.css" rel="stylesheet" />
+	<link href="/assets/hero/assets/template.css" rel="stylesheet" />
+	<link href="/plugins/system/jce/css/content.css?4d4ac890d6a9737bbcf0e16244fd21a6" rel="stylesheet" />
+	<link href="/templates/northview/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/templates/northview/css/northview.css" rel="stylesheet" />
+	<link href="/templates/northview/css/hacks.css" rel="stylesheet" />
+	<link href="/templates/northview/css/custom.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/magnific-popup.css" rel="stylesheet" />
+	<link href="/assets/contact_widget/assets/template.css" rel="stylesheet" />
+	<link href="/assets/navigation/assets/template.css" rel="stylesheet" />
+	<link href="/assets/stock_ticker/assets/template.css" rel="stylesheet" />
+	<style>
+.sp-page-builder .page-content #section-id-1590034941863{min-height:275px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590034941862{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1590044292004 {margin:0px 0px 0px 0px;}#sppb-addon-1590044292004 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1590044292004 {margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1590044292004 {margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}}.sp-page-builder .page-content #section-id-1590643538827{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590643538826{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1590643538830 {margin:0px 0px 30px 0px;}#sppb-addon-1590643538830 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1590643538830 .sppb-addon-title {letter-spacing:;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1590643538830 {margin-top:0px;margin-right:0px;margin-bottom:20px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1590643538830 {margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}}#sppb-addon-1590643538830 h2.sppb-addon-title {margin:0px 0px 30px 0px; text-transform:none; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1590643538833 {margin:0px 0px 30px 0px;}#sppb-addon-1590643538833 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1590643538833 {margin-top:0px;margin-right:0px;margin-bottom:20px;margin-left:0px;}}@media (max-width:767px) {#sppb-addon-wrapper-1590643538833 {margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"bdadd6eb609265a330d292ca39c4dece","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?4d4ac890d6a9737bbcf0e16244fd21a6"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?4d4ac890d6a9737bbcf0e16244fd21a6"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?4d4ac890d6a9737bbcf0e16244fd21a6"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.parallax.js"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js"></script>
+	<script src="/media/jui/js/bootstrap.min.js?4d4ac890d6a9737bbcf0e16244fd21a6"></script>
+	<script src="/templates/northview/js/northview.js?4d4ac890d6a9737bbcf0e16244fd21a6" defer></script>
+	<script src="/templates/northview/js/fontawesome.js?4d4ac890d6a9737bbcf0e16244fd21a6" defer></script>
+	<script src="/templates/northview/js/countUp.js?4d4ac890d6a9737bbcf0e16244fd21a6"></script>
+	<!--[if lt IE 9]><script src="/media/jui/js/html5.js?4d4ac890d6a9737bbcf0e16244fd21a6"></script><![endif]-->
+	<script src="/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="/media/system/js/core.js?4d4ac890d6a9737bbcf0e16244fd21a6"></script>
+	<script>
+;(function ($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': Joomla.getOptions('csrf.token')
+		}
+	});
+})(jQuery);
+	</script>
+	<meta property="og:title" content="404 Error" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.northviewfund.com/404" />
+	<meta property="og:site_name" content="Northview Fund" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="Northview Fund" />
+
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<style>
+	html, body {
+		opacity: 0;
+		transition: 0.5s;
+	}
+	</style>
+	<script>
+		//IE 11 ForEach polyfill 
+		if (window.NodeList && !NodeList.prototype.forEach) {
+			NodeList.prototype.forEach = Array.prototype.forEach;
+		}
+
+		if (!Array.prototype.forEach) {
+			Array.prototype.forEach = function (callback, thisArg) {
+			thisArg = thisArg || window;
+
+			for (var i = 0; i < this.length; i++) {
+				callback.call(thisArg, this[i], i, this);
+				}
+			};
+		}
+
+		//IE 11 Object.entries() polyfill
+		if (!Object.entries) {
+			Object.entries = function( obj ){
+				var ownProps = Object.keys( obj ),
+						i = ownProps.length,
+						resArray = new Array(i); // preallocate the Array
+				while (i--)
+					resArray[i] = [ownProps[i], obj[ownProps[i]]];
+
+				return resArray;
+			};
+		}
+	</script>
+</head>
+<body>
+	<div class="page-container">
+		<div class="modal">
+		</div>
+		<div class="before-header row">
+			<div class="container">
+				<div class="mod-sppagebuilder  sp-page-builder" data-module_id="102">
+	<div class="page-content">
+		<div id="section-id-1594963877221" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1594963877220"><div id="column-id-1594963877220" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1594963877224" class="sppb-addon-wrapper"><div id="sppb-addon-1594963877224" class="clearfix "     ><div class="stock-ticker-outer">
+  <div class="stock-ticker-inner">
+    <div class="ticker">
+    <div
+  data-qmod-tool="detailedquotetabchart"
+  data-qmod-params='{"symbol":"NHF.UN:CA"}'
+  class="qtool"
+>
+  <script type="text/template">
+
+    <div class="info-block">
+      <span class="bolder">NHF.UN:</span><span class="price">{ data.pricedata.last | numeraljs '0.00' '-' | asCurrency data.key.currency tLang}</span>
+    </div>
+    <div class="info-block on-open">
+      <span class="bolder">Change:</span><span class="change">{ data.pricedata.change | numeraljs '0.00' '-' | asCurrency data.key.currency tLang} ({ data.pricedata.changepercent | numeraljs '0.00' '-' | postFix '%' tLang})</span>
+    </div>
+    <div class="info-block on-open">
+      <span class="bolder">Volume:</span><span class="volume">{data.pricedata.sharevolume | numeraljs '0,0' 'N/A'}</span>
+    </div>
+    <div class="info-block on-open">
+      <span class="as-at">As at {data.datetime | momentjs 'true' 'YYYY-MM-DD HH:mm' tLang}</span>
+    </div>
+  </script>
+</div>
+    </div>
+  </div>
+</div>
+<script>
+$ = jQuery;
+$(document).ready(function() {
+
+  const ticker = document.querySelector('.ticker');
+  const beforeHeader = document.querySelector('.before-header');
+  ticker.addEventListener('click', function(e) {
+    if(beforeHeader.classList.contains('open')) {
+      beforeHeader.classList.remove('open');
+    } else {
+      beforeHeader.classList.add('open');
+    }
+  });
+
+  });
+</script><style type="text/css">#sppb-addon-wrapper-1594963877224 {
+margin:0px 0px 0 0px;}
+#sppb-addon-1594963877224 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1594963877224 {
+}
+#sppb-addon-1594963877224.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1594963877224 {}#sppb-addon-wrapper-1594963877224 {margin-top: 0px;margin-right: 0px;margin-bottom: 0;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1594963877224 {}#sppb-addon-wrapper-1594963877224 {margin-top: 0px;margin-right: 0px;margin-bottom: 0;margin-left: 0px;}}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1590129718243{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590129718240{padding-top:0;padding-right:40px;padding-bottom:0px;padding-left:0px;box-shadow:0 0 0 0 #fff;}#column-id-1590129718241{padding-top:5px;box-shadow:0 0 0 0 #fff;}#column-id-1590129718242{padding-top:5px;box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1590889863749{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590889863750{padding-top:0;padding-right:40px;padding-bottom:0px;padding-left:0px;box-shadow:0 0 0 0 #fff;}#column-id-1590889863753{padding-top:5px;box-shadow:0 0 0 0 #fff;}#column-id-1590889863756{padding-top:5px;box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1590041930884{padding-top:30px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590041930883{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1594963877221{padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1594963877220{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+
+			</div>
+		</div>
+		<header class="header">
+			<div class="top-header">
+				<div class="container">
+					<div class="logo">
+											<a href="/">
+							<img src="/images/logos/Northview-white.png" class="logo-image logo-image-main"/>
+							<img src="/images/logos/Northview-white.png" class="logo-image logo-image-light"/>
+						</a>
+										</div>
+					<div class="navigation">
+						<div class="mod-sppagebuilder  sp-page-builder" data-module_id="96">
+	<div class="page-content">
+		<div id="section-id-1590041930884" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1590041930883"><div id="column-id-1590041930883" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590042329384" class="sppb-addon-wrapper"><div id="sppb-addon-1590042329384" class="clearfix "     ><nav class="main-nav top-nav">
+      <div class="nav-item  ">
+      <a href="/about" >About</a>
+              <div class="submenu-container">
+          <div class="submenu">
+                                        <div class="subnav-item  ">
+                <a href="/about" >About Us</a>
+                              </div>
+                                        <div class="subnav-item  ">
+                <a href="/about/executive-officers-and-trustees" >Executive Officers and Trustees</a>
+                              </div>
+                                        <div class="subnav-item  ">
+                <a href="/about/corporate-governance" >Corporate Governance</a>
+                              </div>
+                      </div>
+        </div>
+          </div>
+      <div class="nav-item  ">
+      <a href="/properties" >Properties</a>
+              <div class="submenu-container">
+          <div class="submenu">
+                                        <div class="subnav-item  ">
+                <a href="/properties/multi-residential" >Multi-Residential Properties</a>
+                              </div>
+                                        <div class="subnav-item  ">
+                <a href="/properties/commercial" >Commercial Properties</a>
+                              </div>
+                                        <div class="subnav-item  ">
+                <a href="/properties/execusuites" >Execusuite Properties</a>
+                              </div>
+                                    </div>
+        </div>
+          </div>
+      <div class="nav-item  ">
+      <a href="/investor-relations" >Investor Relations</a>
+              <div class="submenu-container">
+          <div class="submenu">
+                                        <div class="subnav-item  ">
+                <a href="/investor-relations#tab-1" >News Releases</a>
+                              </div>
+                                        <div class="subnav-item  ">
+                <a href="/investor-relations#tab-2" >Financial Reports</a>
+                              </div>
+                                        <div class="subnav-item has-children ">
+                <a href="/investor-relations#tab-3" >Presentations & Prospectus</a>
+                                  <div class="submenu-container">
+                    <div class="submenu">
+                                                                      <a href="/files/14/Presentations/13/Northview%20Canadian%20High%20Yield%20Residential%20Fund%20Preliminary%20Prospectus.pdf?preview=1" target="_blank">Prospectus</a>
+                                                                      <a href="/files/14/Presentations/14/Northview%20Canadian%20Residential%20High%20Yield%20Fund%20-%20Teaser%20Presentation.pdf?preview=1" target="_blank">Investor Presentation</a>
+                                          </div>
+                  </div>
+                              </div>
+                      </div>
+        </div>
+          </div>
+      <div class="nav-item  ">
+      <a href="/residents" >Residents</a>
+          </div>
+      <div class="nav-item  ">
+      <a href="/contact" >Contact Us</a>
+          </div>
+      <div class="nav-item  highlight">
+      <a href="https://www.rentnorthview.com/" target="_blank">Find a Rental</a>
+          </div>
+    <div class="mobile-nav-button mobile-nav-open">
+    <i class="fas fa-bars"></i>
+  </div>
+  <div class="mobile-nav-button mobile-nav-close">
+    <i class="fas fa-times"></i>
+  </div>
+</nav><style type="text/css">#sppb-addon-wrapper-1590042329384 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590042329384 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590042329384 {
+}
+#sppb-addon-1590042329384.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590042329384 {}#sppb-addon-wrapper-1590042329384 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590042329384 {}#sppb-addon-wrapper-1590042329384 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1590129718243{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590129718240{padding-top:0;padding-right:40px;padding-bottom:0px;padding-left:0px;box-shadow:0 0 0 0 #fff;}#column-id-1590129718241{padding-top:5px;box-shadow:0 0 0 0 #fff;}#column-id-1590129718242{padding-top:5px;box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1590889863749{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590889863750{padding-top:0;padding-right:40px;padding-bottom:0px;padding-left:0px;box-shadow:0 0 0 0 #fff;}#column-id-1590889863753{padding-top:5px;box-shadow:0 0 0 0 #fff;}#column-id-1590889863756{padding-top:5px;box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1590041930884{padding-top:30px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590041930883{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="header-container">
+				
+			</div>
+		</header>
+		<div class="main">
+			
+<div id="sp-page-builder" class="sp-page-builder  page-16">
+	<div class="page-content">
+				<div id="section-id-1590034941863" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1590034941862"><div id="column-id-1590034941862" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590044292004" class="sppb-addon-wrapper"><div id="sppb-addon-1590044292004" class="clearfix "     ><style type="text/css">
+  .hero {
+    height: 400px;
+    padding-top: 60px;
+  }
+
+  .hero-about {
+    background: url('/images/hero/Homepage_hero.png');
+    background-position: top;
+    background-size: cover;
+    margin-bottom: -0px;
+  }
+
+  .hero-about h1 {
+    text-align: center;
+  }
+</style>
+<div class="hero hero-about container-fluid">
+  <div class="inner-hero container">
+    <h1>Not Found</h1>
+      </div>
+</div></div></div></div></div></div></div></div></div><section id="section-id-1590643538827" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1590643538826"><div id="column-id-1590643538826" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590643538830" class="sppb-addon-wrapper"><div id="sppb-addon-1590643538830" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-center"><h2 class="sppb-addon-title">404 Not Found</h2></div></div></div><div id="sppb-addon-wrapper-1590643538833" class="sppb-addon-wrapper"><div id="sppb-addon-1590643538833" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-center "><div class="sppb-addon-content"><p>The resource you have requested was not found.&nbsp; Please let us know if you believe this to be an error.</p></div></div></div></div></div></div></div></div></div></section>			</div>
+</div>
+
+		</div>
+		<footer class="footer" role="contentinfo">
+			<div class="container">
+				<div class="mod-sppagebuilder  sp-page-builder" data-module_id="97">
+	<div class="page-content">
+		<div id="section-id-1590129718243" class="sppb-section sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1590129718240"><div id="column-id-1590129718240" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590129718246" class="sppb-addon-wrapper"><div id="sppb-addon-1590129718246" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-left "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/logos/Northview-dark.jpg"  alt="Northview Canadian High Yield Residential Fund" title=""   loading="lazy"></div></div></div><style type="text/css">#sppb-addon-wrapper-1590129718246 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590129718246 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590129718246 {
+}
+#sppb-addon-1590129718246.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590129718246 {}#sppb-addon-wrapper-1590129718246 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590129718246 {}#sppb-addon-wrapper-1590129718246 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1590129718246 img{width:185px;max-width:185px;height:84px;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590129718246 img{}}@media (max-width: 767px) {#sppb-addon-1590129718246 img{}}</style></div></div><div id="sppb-addon-wrapper-1590129833984" class="sppb-addon-wrapper"><div id="sppb-addon-1590129833984" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p>Copyright ©2020 Starlight Group Property Holdings Inc. All rights reserved.</p></div></div><style type="text/css">#sppb-addon-wrapper-1590129833984 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590129833984 {
+	color: #7E848C;
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590129833984 {
+}
+#sppb-addon-1590129833984.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590129833984 {}#sppb-addon-wrapper-1590129833984 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590129833984 {}#sppb-addon-wrapper-1590129833984 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1590129833984{ font-size: 12px; }@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1590129718241"><div id="column-id-1590129718241" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590130715588" class="sppb-addon-wrapper"><div id="sppb-addon-1590130715588" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Northview Canadian High Yield</p>
+<p>Residential Fund</p></div></div><style type="text/css">#sppb-addon-wrapper-1590130715588 {
+margin:0px 0px 10px 0px;}
+#sppb-addon-1590130715588 {
+	color: #2C393E;
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590130715588 {
+}
+#sppb-addon-1590130715588.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590130715588 {}#sppb-addon-wrapper-1590130715588 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590130715588 {}#sppb-addon-wrapper-1590130715588 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1590130715588{ font-size: 18px;font-weight: 700; }@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div><div id="sppb-addon-wrapper-1590131240668" class="sppb-addon-wrapper"><div id="sppb-addon-1590131240668" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>6131 6 St SE<br />Suite 200<br />Calgary, Alberta<br />T2H 1L9<br />T. +1 (403) 531-0720</p></div></div><style type="text/css">#sppb-addon-wrapper-1590131240668 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590131240668 {
+	color: #2C393E;
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590131240668 {
+}
+#sppb-addon-1590131240668.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590131240668 {}#sppb-addon-wrapper-1590131240668 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590131240668 {}#sppb-addon-wrapper-1590131240668 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1590131240668{ font-size: 14px; }@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1590129718242"><div id="column-id-1590129718242" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590150537139" class="sppb-addon-wrapper"><div id="sppb-addon-1590150537139" class="clearfix "     ><div class="contact-widget">
+  <input type="text" placeholder="Your Email" name="email" />
+  <button id="submit-email" class="red-callout">Subscribe</button>
+  <div class="message"></div>
+</div>
+<script>
+$ = jQuery;
+$('#submit-email').on('click', function() {
+  const emailInput = $("input[name='email']");
+  const message = $(".message");
+  if(emailInput.val().trim() == '') return;
+  let test = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/.test(emailInput.val());
+  if(!test) {
+    message.html("Please enter a valid email address");
+  } else {
+    message.html("Thank you, your email has been received.");
+    let val = emailInput.val();
+    emailInput.val('');
+    $.ajax({
+      type: 'POST',
+      url: '/',
+      dataType: 'json',
+      data: {
+        'sending-email': 1,
+        'email': val 
+      }
+    });
+  }
+});
+</script><style type="text/css">#sppb-addon-wrapper-1590150537139 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1590150537139 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590150537139 {
+}
+#sppb-addon-1590150537139.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590150537139 {}#sppb-addon-wrapper-1590150537139 {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590150537139 {}#sppb-addon-wrapper-1590150537139 {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}}</style></div></div><div id="sppb-addon-wrapper-1608069251986" class="sppb-addon-wrapper"><div id="sppb-addon-1608069251986" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-left "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/company/northview-canadian-high-yield-residential-fund/"><img class="sppb-img-responsive" src="/images/logos/linkedin-northview.png"  alt="Image" title=""   loading="lazy"></a></div></div></div><style type="text/css">#sppb-addon-wrapper-1608069251986 {
+margin:0px 0px 20px 0px;}
+#sppb-addon-1608069251986 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1608069251986 {
+}
+#sppb-addon-1608069251986.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1608069251986 {}#sppb-addon-wrapper-1608069251986 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1608069251986 {}#sppb-addon-wrapper-1608069251986 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1608069251986 img{height:25px;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1608069251986 img{height:25px;}}@media (max-width: 767px) {#sppb-addon-1608069251986 img{height:25px;}}</style></div></div><div id="sppb-addon-wrapper-1590829114998" class="sppb-addon-wrapper"><div id="sppb-addon-1590829114998" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use and Disclaimer</a></p></div></div><style type="text/css">#sppb-addon-wrapper-1590829114998 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590829114998 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590829114998 {
+}
+#sppb-addon-1590829114998.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590829114998 {}#sppb-addon-wrapper-1590829114998 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590829114998 {}#sppb-addon-wrapper-1590829114998 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div></div></div></div><div id="section-id-1590889863749" class="sppb-section sppb-hidden-md sppb-hidden-lg" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1590889863750"><div id="column-id-1590889863750" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590889863757" class="sppb-addon-wrapper"><div id="sppb-addon-1590889863757" class="clearfix "     ><div class="contact-widget">
+  <input type="text" placeholder="Your Email" name="email" />
+  <button id="submit-email" class="red-callout">Subscribe</button>
+  <div class="message"></div>
+</div>
+<script>
+$ = jQuery;
+$('#submit-email').on('click', function() {
+  const emailInput = $("input[name='email']");
+  const message = $(".message");
+  if(emailInput.val().trim() == '') return;
+  let test = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/.test(emailInput.val());
+  if(!test) {
+    message.html("Please enter a valid email address");
+  } else {
+    message.html("Thank you, your email has been received.");
+    let val = emailInput.val();
+    emailInput.val('');
+    $.ajax({
+      type: 'POST',
+      url: '/',
+      dataType: 'json',
+      data: {
+        'sending-email': 1,
+        'email': val 
+      }
+    });
+  }
+});
+</script><style type="text/css">#sppb-addon-wrapper-1590889863757 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1590889863757 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590889863757 {
+}
+#sppb-addon-1590889863757.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590889863757 {}#sppb-addon-wrapper-1590889863757 {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590889863757 {}#sppb-addon-wrapper-1590889863757 {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}}</style></div></div><div id="sppb-addon-wrapper-1608069696190" class="sppb-addon-wrapper"><div id="sppb-addon-1608069696190" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-left "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/company/northview-canadian-high-yield-residential-fund/"><img class="sppb-img-responsive" src="/images/logos/linkedin-northview.png"  alt="Image" title=""   loading="lazy"></a></div></div></div><style type="text/css">#sppb-addon-wrapper-1608069696190 {
+margin:0px 0px 20px 0px;}
+#sppb-addon-1608069696190 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1608069696190 {
+}
+#sppb-addon-1608069696190.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1608069696190 {}#sppb-addon-wrapper-1608069696190 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1608069696190 {}#sppb-addon-wrapper-1608069696190 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1608069696190 img{height:25px;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1608069696190 img{height:25px;}}@media (max-width: 767px) {#sppb-addon-1608069696190 img{height:25px;}}</style></div></div><div id="sppb-addon-wrapper-1590889863758" class="sppb-addon-wrapper"><div id="sppb-addon-1590889863758" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Use and Disclaimer</a></p></div></div><style type="text/css">#sppb-addon-wrapper-1590889863758 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590889863758 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590889863758 {
+}
+#sppb-addon-1590889863758.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590889863758 {}#sppb-addon-wrapper-1590889863758 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590889863758 {}#sppb-addon-wrapper-1590889863758 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1590889863753"><div id="column-id-1590889863753" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590889863754" class="sppb-addon-wrapper"><div id="sppb-addon-1590889863754" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Northview Canadian High Yield</p>
+<p>Residential Fund</p></div></div><style type="text/css">#sppb-addon-wrapper-1590889863754 {
+margin:0px 0px 10px 0px;}
+#sppb-addon-1590889863754 {
+	color: #2C393E;
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590889863754 {
+}
+#sppb-addon-1590889863754.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590889863754 {}#sppb-addon-wrapper-1590889863754 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590889863754 {}#sppb-addon-wrapper-1590889863754 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1590889863754{ font-size: 18px;font-weight: 700; }@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div><div id="sppb-addon-wrapper-1590889863755" class="sppb-addon-wrapper"><div id="sppb-addon-1590889863755" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>6131 6 St SE<br />Suite 200<br />Calgary, Alberta<br />T2H 1L9<br />T. +1 (403) 531-0720</p></div></div><style type="text/css">#sppb-addon-wrapper-1590889863755 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590889863755 {
+	color: #2C393E;
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590889863755 {
+}
+#sppb-addon-1590889863755.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590889863755 {}#sppb-addon-wrapper-1590889863755 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590889863755 {}#sppb-addon-wrapper-1590889863755 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1590889863755{ font-size: 14px; }@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1590889863756"><div id="column-id-1590889863756" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1590889863751" class="sppb-addon-wrapper"><div id="sppb-addon-1590889863751" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-left "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/logos/Northview-dark.jpg"  alt="Northview Canadian High Yield Residential Fund" title=""   loading="lazy"></div></div></div><style type="text/css">#sppb-addon-wrapper-1590889863751 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590889863751 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590889863751 {
+}
+#sppb-addon-1590889863751.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590889863751 {}#sppb-addon-wrapper-1590889863751 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590889863751 {}#sppb-addon-wrapper-1590889863751 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1590889863751 img{width:185px;max-width:185px;height:84px;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590889863751 img{}}@media (max-width: 767px) {#sppb-addon-1590889863751 img{}}</style></div></div><div id="sppb-addon-wrapper-1590889863752" class="sppb-addon-wrapper"><div id="sppb-addon-1590889863752" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p>Copyright ©2020 Starlight Group Property Holdings Inc. All rights reserved.</p></div></div><style type="text/css">#sppb-addon-wrapper-1590889863752 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1590889863752 {
+	color: #7E848C;
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1590889863752 {
+}
+#sppb-addon-1590889863752.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1590889863752 {}#sppb-addon-wrapper-1590889863752 {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}}@media (max-width: 767px) {#sppb-addon-1590889863752 {}#sppb-addon-wrapper-1590889863752 {margin-top: 0px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}}</style><style type="text/css">#sppb-addon-1590889863752{ font-size: 12px; }@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1590129718243{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590129718240{padding-top:0;padding-right:40px;padding-bottom:0px;padding-left:0px;box-shadow:0 0 0 0 #fff;}#column-id-1590129718241{padding-top:5px;box-shadow:0 0 0 0 #fff;}#column-id-1590129718242{padding-top:5px;box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1590889863749{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1590889863750{padding-top:0;padding-right:40px;padding-bottom:0px;padding-left:0px;box-shadow:0 0 0 0 #fff;}#column-id-1590889863753{padding-top:5px;box-shadow:0 0 0 0 #fff;}#column-id-1590889863756{padding-top:5px;box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+
+			</div>
+		</footer>
+		
+	</div>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167786403-1"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-167786403-1');
+		</script>
+		<script
+        id="qmod"
+        type="application/javascript"
+        src="https://qmod.quotemedia.com/js/qmodLoader.js"
+        data-qmod-wmid="103748"
+        data-qmod-env="app"></script>
+</body>
+</html>

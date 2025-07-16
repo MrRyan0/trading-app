@@ -1,0 +1,420 @@
+
+
+
+
+<!DOCTYPE html>
+<!--
+      ___          ___          ___          ___
+     /  /\        /  /\        /  /\        /  /\     ___
+    /  /::\      /  /::\      /  /::|      /  /::\   /__/\
+   /  /:/\:\    /  /:/\:\    /  /:|:|     /  /:/\:\  \  \:\
+  /  /::\ \:\  /  /:/  \:\  /  /:/|:|__  /  /::\ \:\  \__\:\
+ /__/:/\:\_\:\/__/:/ \__\:|/__/:/ |:| /\/__/:/\:\ \:\ /  /::\
+ \__\/  \:\/:/\  \:\ /  /:/\__\/  |:|/:/\  \:\ \:\_\//  /:/\:\
+      \__\::/  \  \:\  /:/     |  |:/:/  \  \:\ \:\ /  /:/__\/
+      /  /:/    \  \:\/:/      |__|::/    \  \:\_\//__/:/
+     /__/:/      \__\::/       /__/:/      \  \:\  \__\/
+     \__\/           ~~        \__\/        \__\/
+-->
+<!--[if lt IE 7]><html id="top" class="no-js lt-ie9 lt-ie8 lt-ie7 python-requests-2 home en-page " lang="en " direction="ltr" env="live"><![endif]-->
+<!--[if IE 7]><html id="top" class="no-js lt-ie9 lt-ie8 python-requests-2 home en-page " lang="en " direction="ltr" env="live"><![endif]-->
+<!--[if IE 8]><html id="top" class="no-js lt-ie9 python-requests-2 home en-page " lang="en " direction="ltr" env="live"><![endif]-->
+<!--[if gt IE 8]><!--><html id="top" class="no-js python-requests-2 home en-page " lang="en " direction="ltr" env="live" xmlns:og="//opengraphprotocol.org/schema/"><!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="cleartype" content="on" />
+
+	<title>Home/English | Po Valley Energy Limited</title>
+	<meta property="og:title" content="Home/English" />
+	<meta name="twitter:title" content="Home/English" />
+
+	<meta name="description" content="Po Valley Energy Limited (PVE) is an emerging Oil & Gas exploration and development Company with an expanding portfolio of hydrocarbon assets in north&hellip;" />
+	<meta property="og:description" content="Po Valley Energy Limited (PVE) is an emerging Oil & Gas exploration and development Company with an expanding portfolio of hydrocarbon assets in northern Italy.
+
+The Company owns and operates two gas treatment plants, with more gas and oil developments to come.
+
+Po Valley was the first E&P Company t&hellip;" />
+	<meta name="twitter:description" content="Po Valley Energy Limited (PVE) is an emerging Oil & Gas exploration and development Company with an expanding portfolio of hydrocarbon assets in northern Italy.
+
+The Company owns and operates two gas &hellip;" />
+<meta property="og:url" content="http://www.povalley.com/en" />
+
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta name="HandheldFriendly" content="True" />
+	<meta name="MobileOptimized" content="320" />
+
+
+        
+        <link rel="dns-prefetch" href="https://cdn.adnetcms.com">
+        <link rel="alternate" type="application/rss+xml" href="http://www.povalley.com/feed" title="Po Valley Energy Limited RSS Feed">
+        <link rel="icon" type="image/png" sizes="16x16" href="/_themes/design2015/img/favicon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/_themes/design2015/img/favicon-32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/_themes/design2015/img/favicon-96.png">
+                <script src="//use.typekit.net/tbe6znx.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+        
+        <link rel="stylesheet" type="text/css" href="/_themes/design2015/css/dist/design2015.css">
+        <!--[if lt IE 9]>
+        <script src="/_themes/design2015/js/ie.js" defer></script>
+        <![endif]-->
+
+        <!--[if (gte IE 6)&(lte IE 8)]>
+        <script src="//cdn.adnetcms.com/lib/selectivizr/1.0.2/selectivizr-min.js" defer></script>
+        <![endif]-->
+    </head>    
+    
+    
+    
+    
+    
+
+
+
+    <body>
+        <!--[if lt IE 8]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+  <div id="page-body">
+                    <header id="page-header" class="header">
+    <div class="navbar navbar-bg  ">
+        <div class="uk-container uk-container-center">
+            <div class="uk-grid">
+              <div class="uk-width-medium-1-3 uk-width-small-3-5 " id="logo">
+                  <a href="/"><img src="/_themes/design2015/img/logo.svg" onerror="this.src='/_themes/design2015/img/logo.png'; this.onerror=null;" alt="Po Valley Energy Limited" class="logo" /></a>
+              </div>
+                <div class="uk-width-medium-2-3 uk-width-small-2-5 uk-vertical-align uk-text-right" id="header-nav">
+                  <div class="uk-vertical-align-middle">
+                    <div class="uk-visible-small mobile-nav"><a href="#" data-uk-offcanvas="{ target:'#main-nav' }"><i class="uk-icon-bars uk-icon-medium"></i> Menu</a>
+                    </div>
+                    <div class="stocks-header stock-data uk-margin-bottom uk-hidden-small" data-provider="adnetapi" data-stock-symbol="PVE.AX" data-display-symbol="PVE" data-decimal="2" data-query-type="detailed" data-token="" data-debug="false">
+	<span class="stock"><span class="uk-text-bold">ASX:</span> PVE $<span class="last_price"><span> <i class="uk-icon-spin uk-icon-refresh"></i></span></span>
+</div>
+
+
+                    <ul class="nav main-nav uk-hidden-small uk-margin-top">
+    <li id="nl" class="first">
+        <a href="/">Home</a>
+    </li>
+
+        <li class=" uk-parent">
+        <a href="/en/about-us">About Us</a>
+                    <ul class="sub">
+                    <li class="">
+        <a href="/en/about-us/company-profile">Company Profile</a>
+            </li>
+        <li class="">
+        <a href="/en/about-us/board">Board</a>
+            </li>
+        <li class="">
+        <a href="/en/about-us/management">Management</a>
+            </li>
+        <li class="">
+        <a href="/en/about-us/country-profile">Country Profile</a>
+            </li>
+        <li class="">
+        <a href="/en/about-us/corporate-governance">Corportate Governance</a>
+            </li>
+        <li class="">
+        <a href="/en/about-us/sustainability">Sustainability</a>
+            </li>
+        <li class="">
+        <a href="/en/about-us/suppliers-area">Suppliers Area</a>
+            </li>
+    
+            </ul>
+            </li>
+        <li class=" uk-parent">
+        <a href="/en/projects">Projects</a>
+                    <ul class="sub">
+                    <li class="">
+        <a href="/en/projects/overview">Overview</a>
+            </li>
+        <li class="">
+        <a href="/en/projects/d40a.c-.py">d40A.C-.PY (Teodorico)</a>
+            </li>
+        <li class="">
+        <a href="/en/projects/selva">P.Gallina (Selva)</a>
+            </li>
+    
+            </ul>
+            </li>
+        <li class=" uk-parent">
+        <a href="/en/investors">Investors</a>
+                    <ul class="sub">
+                    <li class="">
+        <a href="/en/investors/news-asx-releases">News & ASX Releases</a>
+            </li>
+        <li class="">
+        <a href="/en/investors/financial-reports">Financial Reports</a>
+            </li>
+        <li class="">
+        <a href="/en/investors/quarterly-reports">Quarterly Reports</a>
+            </li>
+        <li class="">
+        <a href="/en/investors/agm">AGM</a>
+            </li>
+        <li class="">
+        <a href="/en/investors/share-price">Stock Information</a>
+            </li>
+        <li class="">
+        <a href="/en/investors/presentations">Presentations</a>
+            </li>
+        <li class="">
+        <a href="/en/investors/advisors">Advisors</a>
+            </li>
+    
+            </ul>
+            </li>
+        <li class=" uk-parent">
+        <a href="/en/contact">Contact Us</a>
+                    <ul class="sub">
+                    <li class="">
+        <a href="/en/contact/contact-info">Contact Info</a>
+            </li>
+        <li class="">
+        <a href="/en/contact/request-more-info">Request More Information</a>
+            </li>
+    
+            </ul>
+            </li>
+    
+    <!--<li>    
+        <a href="/it" title="Italian language site"><img src="http://cdn.adnetcms.com/lib/flags/flat/24/IT.png" alt="Po Valley Italian Site" height="18" width="18"> It</a>
+        </li>-->
+</ul>
+
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+        
+        
+            <div id="slider" class="cycle-slideshow slider"
+        data-cycle-log="false"
+        data-cycle-fx="fade"
+                data-cycle-timeout="4000"
+                data-cycle-slides="> div"
+        data-cycle-pager="#sliderpager"
+        data-cycle-swipe="true"
+        data-cycle-swipe-fx="fade"
+        data-cycle-prev=".slider-previous"
+        data-cycle-next=".slider-next"
+        data-cycle-pager-template="<li data-uk-slideshow-item=''><a href=''></a></li>">
+                                      <div class="slide" style="background: url('/assets/img/slides/home-01.jpg') no-repeat 50% 0;background-size:cover;">
+                    <div class="tagline">
+                                                                                            </div>
+                </div>
+                            <div class="slide" style="background: url('/assets/img/slides/home-02.jpg') no-repeat 50% 0;background-size:cover;">
+                    <div class="tagline">
+                                                                                            </div>
+                </div>
+                            <div class="slide" style="background: url('/assets/img/slides/home-03.jpg') no-repeat 50% 0;background-size:cover;">
+                    <div class="tagline">
+                                                                                            </div>
+                </div>
+            
+
+
+                        <a href="" class="uk-slidenav uk-slidenav-previous slider-previous uk-slidenav-contrast" data-uk-slideshow-item="previous"></a>
+            <a href="" class="uk-slidenav uk-slidenav-next slider-next uk-slidenav-contrast" data-uk-slideshow-item="next"></a>
+            
+                        <ul id="sliderpager" class="uk-dotnav uk-flex-center">
+            </ul>
+                        
+        </div>
+
+    
+        <div class="uk-container uk-container-center uk-margin-large-top">
+
+
+          
+                        <div class="uk-grid uk-margin-bottom">
+    <div class="uk-width-medium-2-3 uk-width-small-1-1 uk-margin-bottom">
+      <h2 class="uk-h2">Welcome To Po Valley Energy</h2>
+         <p>Po Valley Energy Limited (PVE) is an emerging Oil & Gas exploration and development Company with an expanding portfolio of hydrocarbon assets in northern Italy.</p>
+
+<p>The Company owns and operates two gas treatment plants, with more gas and oil developments to come.</p>
+
+<p>Po Valley was the first E&P Company to bring new production to the Po Valley region since the end of the ENI-Agip monopoly and the liberalisation of the Italian gas market in 1998.</p><p><strong>NEW PROACTIVE INVESTORS VIDEO: CHAIRMAN MICHAEL MASTERMAN,
+UPDATES THE MARKET ON THE SUBSTANTIAL UPGRADE IN GAS RESOURCES AT THE COMPANY&#8217;S
+SELVA ONSHORE GAS FIELD DEVELOPMENT</strong> (<a href="https://www.youtube.com/watch?v=eUFGgZarjyw&feature=youtu.be">click here</a>)<br></p><p><br></p>     </div>
+    <div class="uk-width-medium-1-3 uk-width-small-1-1 uk-margin-bottom" >
+      <h2 class="uk-h2"><i class="uk-icon uk-icon-newspaper-o"></i>  Latest News</h2>
+        <ul class="uk-list uk-list-line news-home ">
+                  <li><span class="news-date uk-text-bold">June 26, 2020</span> -
+            <a href="/en/investors/news-asx-releases/notice-of-annual-general-meeting" class="news-title"><span>Notice of Annual General Meeting</span></a>
+          </li>
+                  <li><span class="news-date uk-text-bold">April 30, 2020</span> -
+            <a href="/en/investors/news-asx-releases/deferral-of-annual-general-meeting" class="news-title"><span>Deferral of Annual General Meeting</span></a>
+          </li>
+                  <li><span class="news-date uk-text-bold">January 07, 2020</span> -
+            <a href="/en/investors/news-asx-releases/key-environmental-approval-for-italian-gas-field" class="news-title"><span>Key Environmental Approval for Italian Gas Field</span></a>
+          </li>
+        
+        </ul>
+                              <a class="uk-button uk-button-primary link-button" href="https://www.povalley.com/assets/docs/200626%20%20PVE%20-%20ASX%20Announcement%20-%20%20AGM.pdf">
+              <i class="uk-icon uk-icon-file-pdf-o"></i> Notice of Annual General Meeting 26 June 2020</a>
+         
+            </div>
+</div>
+<div class="uk-container uk-container-center uk-padding-remove">
+		<div id="features" class="uk-grid">
+		  <div class="uk-width-large-1-3 uk-width-medium-1-3 uk-width-small-1-1">
+		  <div class="feature feature-bg">
+		    		    <a href="/en/projects">
+			    			      <span class="feature-title">Projects</span> <i class="uk-icon uk-icon-medium uk-icon-angle-right"></i>
+			    			    		    </a>
+	      		  </div>
+	  </div>
+		  <div class="uk-width-large-1-3 uk-width-medium-1-3 uk-width-small-1-1">
+		  <div class="feature feature-bg">
+		    		    <a href="/assets/docs/PVE_ANNUAL REPORT COMPILATION_31_12_19 FINAL.pdf" target="_blank" >
+			    			      <span class="feature-title">Annual Report 2019</span><i class="uk-icon uk-icon-medium uk-icon-angle-right"></i>
+			    			    		    </a>
+		    		  </div>
+	  </div>
+		  <div class="uk-width-large-1-3 uk-width-medium-1-3 uk-width-small-1-1">
+		  <div class="feature feature-bg">
+		    		    <a href="/en/investors/presentations">
+			    			      <span class="feature-title">Corporate Presentation</span> <i class="uk-icon uk-icon-medium uk-icon-angle-right"></i>
+			    			    		    </a>
+	      		  </div>
+	  </div>
+	
+	</div>
+	</div>
+
+                    </div>
+        </div>
+
+        <footer id="page-footer" class="footer-bg">
+    <div class="uk-container uk-container-center uk-margin-bottom">
+      <hr class="uk-grid-divider">
+      <div class="uk-grid uk-grid-small">
+        <div id="partners" class="uk-width-medium-2-3 uk-width-small-1-1 uk-vertical-align">
+          <div class="uk-grid uk-vertical-align-middle">
+              <div class="uk-width-medium-2-5 uk-width-small-1-1">
+                <span>Subsidiary:</span>
+              </div>
+              <div class="uk-width-medium-3-5">
+                <div class="uk-grid">
+                  <div class="uk-width-medium-1-2">
+                    <img src="/assets/img/PVO_logo.jpg" alt="Po Valley Operations" class="uk-margin-bottom" />
+                  </div>
+                  <div class="uk-width-medium-1-2">
+                  <img src="/assets/img/no-logo.jpg" class="uk-margin-bottom" alt="" />
+                  
+                  
+                    <!--<img src="/assets/img/northsun-logo.jpg" class="uk-margin-bottom" alt="North Sun" />-->
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+        <div class="uk-width-medium-1-3 uk-width-small-1-1 uk-margin-bottom uk-text-right uk-text-center-small">
+	       <span>Copyright &copy; 2021 Po Valley Energy Limited All rights reserved.</span>
+       </div>
+     </div>
+    </div>
+</footer>
+
+        <div id="main-nav" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar uk-offcanvas-bar-flip">
+        <div class="uk-panel uk-text-center">
+            <a href="http://www.povalley.com/en"><img src="/_themes/design2015/img/logo.png" alt="Po Valley Energy Limited" /></a>
+        </div>
+        <div class="stocks uk-text-center color-white">
+            
+        </div>
+        <ul class="uk-nav uk-nav-offcanvas uk-nav-parent-icon" data-uk-nav>
+            <li id="m0" class="first"><a href="http://www.povalley.com/en"><i class="uk-icon-home"></i> Home</a></li>
+                                                <li id="m1" class="uk-parent">
+                        <a href="#">About Us</a>
+                        <ul class="uk-nav-sub uk-list-space">
+                                                    <li class=""><a href="/en/about-us/company-profile" class="uk-icon-caret-right"> <span>Company Profile</span></a></li>
+                                                    <li class=""><a href="/en/about-us/board" class="uk-icon-caret-right"> <span>Board</span></a></li>
+                                                    <li class=""><a href="/en/about-us/management" class="uk-icon-caret-right"> <span>Management</span></a></li>
+                                                    <li class=""><a href="/en/about-us/country-profile" class="uk-icon-caret-right"> <span>Country Profile</span></a></li>
+                                                    <li class=""><a href="/en/about-us/corporate-governance" class="uk-icon-caret-right"> <span>Corportate Governance</span></a></li>
+                                                    <li class=""><a href="/en/about-us/sustainability" class="uk-icon-caret-right"> <span>Sustainability</span></a></li>
+                                                    <li class=""><a href="/en/about-us/suppliers-area" class="uk-icon-caret-right"> <span>Suppliers Area</span></a></li>
+                        
+                        </ul>
+                    </li>
+                                                                <li id="m2" class="uk-parent">
+                        <a href="#">Projects</a>
+                        <ul class="uk-nav-sub uk-list-space">
+                                                    <li class=""><a href="/en/projects/overview" class="uk-icon-caret-right"> <span>Overview</span></a></li>
+                                                    <li class=""><a href="/en/projects/d40a.c-.py" class="uk-icon-caret-right"> <span>d40A.C-.PY (Teodorico)</span></a></li>
+                                                    <li class=""><a href="/en/projects/selva" class="uk-icon-caret-right"> <span>P.Gallina (Selva)</span></a></li>
+                        
+                        </ul>
+                    </li>
+                                                                <li id="m3" class="uk-parent">
+                        <a href="#">Investors</a>
+                        <ul class="uk-nav-sub uk-list-space">
+                                                    <li class=""><a href="/en/investors/news-asx-releases" class="uk-icon-caret-right"> <span>News & ASX Releases</span></a></li>
+                                                    <li class=""><a href="/en/investors/financial-reports" class="uk-icon-caret-right"> <span>Financial Reports</span></a></li>
+                                                    <li class=""><a href="/en/investors/quarterly-reports" class="uk-icon-caret-right"> <span>Quarterly Reports</span></a></li>
+                                                    <li class=""><a href="/en/investors/agm" class="uk-icon-caret-right"> <span>AGM</span></a></li>
+                                                    <li class=""><a href="/en/investors/share-price" class="uk-icon-caret-right"> <span>Stock Information</span></a></li>
+                                                    <li class=""><a href="/en/investors/presentations" class="uk-icon-caret-right"> <span>Presentations</span></a></li>
+                                                    <li class=""><a href="/en/investors/advisors" class="uk-icon-caret-right"> <span>Advisors</span></a></li>
+                        
+                        </ul>
+                    </li>
+                                                                <li id="m4" class="uk-parent">
+                        <a href="#">Contact Us</a>
+                        <ul class="uk-nav-sub uk-list-space">
+                                                    <li class=""><a href="/en/contact/contact-info" class="uk-icon-caret-right"> <span>Contact Info</span></a></li>
+                                                    <li class=""><a href="/en/contact/request-more-info" class="uk-icon-caret-right"> <span>Request More Information</span></a></li>
+                        
+                        </ul>
+                    </li>
+                                                                <li id="m5" class="">
+                                            <a href="/en/site-map">Site Map</a>
+                                        </li>
+                                                                <li id="m6" class="">
+                                            <a href="/en/disclaimer">Disclaimer</a>
+                                        </li>
+                            
+            <li>
+                        <a href="/it">Italian</a>
+                        </li>
+        </ul>
+        <div class="uk-panel copyright">Copyright &copy; 2021<br />Po Valley Energy Limited<br />All rights reserved.</div>
+    </div>
+</div>
+
+
+                
+        <script type="text/javascript">var token = "DTNQq8CwlJHH5d9VRfhD3DPRT8wbGBtlTrHqBgZwW5NXj59KHh9NGk3GzMm5NX82"</script><script src="/_add-ons/stockquotes/js/stockquotes.js" async defer></script>
+        <script src="https://www.google.com/recaptcha/api.js" defer async></script>
+        <script src="/_themes/design2015/js/dist/misc.js" defer async></script>
+        <script src="/_themes/design2015/js/dist/design2015.js" defer async></script>
+        <script type="text/javascript">var token = "WzJmM76d3wc0dQN3FYJrW1vnhwSJ1r1F3d2JkzcLKTL7zsGgSqWJj8HXGFDTTzcQ"</script><script src="/_add-ons/adnetapi/js/adnetapi.js" async defer></script>
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-5563617-37', 'auto');
+  ga('send', 'pageview');
+</script>
+        <script type="text/javascript">
+var _paq = [['setSiteId', 70],['setDoNotTrack', 1],['setTrackerUrl', 'https://stats.adnetcms.com/piwik.php'],['trackPageView'],['enableLinkTracking']];(function(){var g = document.createElement('script'); g.type = 'text/javascript'; g.async = true; g.src = 'https://cdn.adnetcms.com/piwik/piwik.min.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(g,s); })();
+</script>
+<noscript><p><img src="https://stats.adnetcms.com/piwik.php?idsite=70" style="border:0;" alt="" /></p></noscript>    </body>
+</html>

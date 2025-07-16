@@ -1,0 +1,476 @@
+/* === START: _tokens.css === */
+:root {
+  /* Color Palette extracted from legacy css/style.css */
+  --c-bg: #002020;         /* primary dark background */
+  --c-bg-dark: #004040;    /* darker panel bg */
+  --c-green: #00e676;      /* positive number */
+  --c-green-alt: #05c788;  /* secondary positive */
+  --c-red: #ff5252;        /* negative number */
+  --c-gray: #94a3b8;       /* secondary text */
+
+  /* Layout */
+  --page-max: 1200px;
+
+  /* Radii */
+  --radius-card: 8px;
+  --radius-btn: 4px;
+
+  /* Spacing scale */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+
+  /* Typography */
+  --font-base: 1rem;
+  --font-family-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+/* === END: _tokens.css === */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global body styles matching legacy project */
+body {
+  background-color: var(--c-bg);
+  color: #ffffff;
+  font-family: var(--font-family-sans);
+  margin: 0;
+  font-size: 115%;
+}
+
+/* Original CSS classes from style.css */
+.section-title, .table, #symbols-list, .stats-grid {
+  width: 90%;
+  max-width: var(--page-max);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Header styles */
+.top {
+  background: rgba(0, 255, 153, 0.3);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 20px;
+  box-sizing: border-box;
+}
+
+.clocks {
+  display: flex;
+  gap: 12px;
+  font-weight: 600;
+}
+
+.right-btns {
+  margin-left: auto;
+  margin-right: 40px;
+}
+
+.right-btns button {
+  margin-left: 10px;
+  padding: 4px 12px;
+  border: none;
+  border-radius: 4px;
+  background: #00e676;
+  color: #002020;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.date {
+  margin-right: 12px;
+  font-weight: bold;
+}
+
+/* Dashboard stats grid */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 180px);
+  gap: 10px;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.symbols-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-start;
+  margin: 10px auto 0;
+}
+
+.symbol-tag {
+  flex: 0 0 calc(10% - 8px);
+}
+
+.box {
+  background: #003030;
+  border: 1px solid #00e67666;
+  border-radius: 6px;
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.title {
+  font-size: 0.8rem;
+  margin-bottom: 4px;
+  opacity: 0.85;
+}
+
+.value {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+/* Box helper classes from legacy */
+.box-title {
+  font-size: 0.8rem;
+  margin-bottom: 4px;
+  opacity: 0.85;
+}
+.box-value {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+/* Color utility classes (legacy) */
+.green { color: var(--c-green); }
+.red   { color: var(--c-red); }
+.white { color: #ffffff; }
+
+.table {
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  margin: 0 auto 20px;
+}
+
+.table th,
+.table td {
+  border: 1px solid #004040;
+  padding: 4px 6px;
+  text-align: center;
+}
+
+.table th {
+  background: #004040;
+}
+
+.details {
+  color: #0090ff !important;
+  text-decoration: none;
+  margin-left: 6px;
+}
+
+#fab {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--c-green);
+  border: none;
+  color: var(--c-bg);
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+}
+
+/* Analysis page styles */
+.page-title {
+  text-align: center;
+  margin: 20px 0 10px;
+  font-size: 1.6rem;
+}
+
+.btn {
+  background: #014d4d;
+  border: 1px solid #05b3b3;
+  color: #fff;
+  padding: 6px 14px;
+  margin-right: 4px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.btn:hover {
+  background: #027272;
+}
+
+.btn.active {
+  background: #05b3b3;
+  color: #002020;
+}
+
+.btn-group {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+/* Calendar styles */
+.calendar-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 10px 0;
+  justify-content: center;
+}
+
+.calendar-controls .btn {
+  padding: 4px 8px;
+  }
+
+.view-btns .active {
+  background: #1b7d4d;
+  color: #fff;
+}
+
+.calendar-scroll {
+  overflow: auto;
+  max-height: 360px;
+  padding: 10px 0;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(120px, 1fr));
+  gap: 4px;
+  }
+
+.calendar-header {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(120px, 1fr));
+  gap: 4px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 4px;
+  }
+
+.calendar-header div {
+  color: #94a3b8;
+}
+
+.calendar-cell {
+  background: #013939;
+  border: 1px solid #025f5f;
+  border-radius: 4px;
+  min-height: 80px;
+  padding: 4px;
+  box-sizing: border-box;
+  font-size: 0.8rem;
+}
+
+.calendar-cell.positive {
+  background: #014e2a;
+}
+
+.calendar-cell.negative {
+  background: #5f1a1a;
+}
+
+.calendar-cell.zero {
+  background: #2d3748;
+}
+
+/* Modal styles */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.65);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+.modal-content {
+  background: #fff;
+  color: #002020;
+  padding: 20px 24px;
+  border-radius: 8px;
+  min-width: 320px;
+  max-width: 90vw;
+}
+.modal-content h3 { margin-top: 0; text-align: center; color: #002020; }
+.modal-content label { display: block; margin: 10px 0 4px; color: #002020; }
+.modal-content input,
+.modal-content select { width: 100%; padding: 6px; border: 1px solid #888; border-radius: 4px; }
+
+/* Logo column */
+.logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  vertical-align: middle;
+}
+
+/* === Legacy compatibility additions === */
+.cn { text-align: left; padding-left: 12px; }
+
+/* 中文列对齐 */
+.cn {
+  text-align: left;
+}
+
+/* 持仓表格加载状态 */
+.loading {
+  color: #888;
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+.error {
+  color: #e53935;
+  font-size: 0.9em;
+}
+
+/* 总计行样式 */
+.summary-row {
+  background-color: #f5f5f5;
+  font-weight: 500;
+}
+
+.summary-row td {
+  border-top: 2px solid #ddd;
+}
+
+/* 持仓表格头部样式 */
+.positions-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 0 10px;
+}
+
+.last-updated {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.last-updated span {
+  font-weight: 500;
+  color: #333;
+}
+
+.refresh-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 6px 12px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.refresh-button:hover {
+  background-color: #45a049;
+}
+
+.refresh-button:active {
+  background-color: #3d8b40;
+}
+
+/* 股票标签样式 */
+.symbol-tag {
+  padding: 4px 8px;
+  background: #002b29;
+  border: 1px solid #05c788;
+  border-radius: 4px;
+  color: #05c788;
+  text-decoration: none;
+  font-size: 14px;
+  flex: 0 0 calc(10% - 8px);
+  text-align: center;
+  transition: background 0.2s;
+}
+.symbol-tag:hover {
+  background: #05c788;
+  color: #002b29;
+}
+
+/* Trades page action buttons */
+.btn-action {
+  border: none;
+  outline: none;
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  margin: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  background: rgba(40,60,60,0.09);
+  color: #fff;
+  box-shadow: 0 1px 8px 0 rgba(0,0,0,0.10);
+  cursor: pointer;
+  position: relative;
+  transition: background 0.18s, transform 0.14s, box-shadow 0.14s;
+  z-index: 1;
+}
+.btn-edit { color: #29b6f6; }
+.btn-del  { color: #ff5252; }
+
+.btn-action:hover {
+  background: rgba(70,200,240,0.19);
+  transform: scale(1.15) rotate(-7deg);
+  box-shadow: 0 4px 18px 0 rgba(36,190,190,0.10);
+}
+.btn-del:hover {
+  background: rgba(255,82,82,0.17);
+  color: #fff;
+  transform: scale(1.18) rotate(8deg);
+}
+
+/* Tooltip effect */
+.btn-action[data-tooltip]:hover::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(40,50,60,0.97);
+  color: #fff;
+  padding: 4px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+  white-space: normal;
+  opacity: 0.97;
+  pointer-events: none;
+  box-shadow: 0 2px 7px 0 rgba(0,0,0,0.19);
+  z-index: 10;
+}
+
+/* Watermark big text for stock page */
+.watermark {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20vw;
+  color: rgba(255,255,255,0.06);
+  font-weight: 700;
+  transform: rotate(-45deg);
+  text-align: center;
+}

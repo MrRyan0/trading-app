@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags always come first -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<!-- Head content such as meta tags and encoding options, etc -->
+	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Sunshine Gold Limited. A Queensland focused gold and copper explorer with the Triumph, Hodgkinson and Investigator Projects" />
+		<meta name="robots" content="index, follow" />
+		<link rel="apple-touch-icon" sizes="167x167" href="https://www.shngold.com.au/resources/medium.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.shngold.com.au/resources/Sunshine%20Gold%20-%20Logo%20(rgb)(1)(1).png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.shngold.com.au/resources/small.png" />
+<link rel="mask-icon" href="https://www.shngold.com.au/resources/6Np0I4NAQU.svg" color="rgba(255,255,255,1.00)" /><link rel="icon" type="image/png" href="https://www.shngold.com.au/resources/favicon_medium.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://www.shngold.com.au/resources/favicon_small.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://www.shngold.com.au/resources/favicon_large.png" sizes="64x64" />
+
+
+	<!-- User defined head content -->
+	
+
+  <!-- Browser title -->
+	<title>Sunshine Gold</title>
+
+  <!-- Main Theme Stylesheet -->
+	<link rel="stylesheet" type="text/css" media="all" href="rw_common/themes/Foundry/consolidated.css" />
+		
+
+	<!-- RapidWeaver Color Picker Stylesheet -->
+	
+
+	<!-- Plugin injected code -->
+			<link rel='stylesheet' type='text/css' media='all' href='rw_common/plugins/stacks/stacks.css' />
+		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page0.css' />
+        <script type='text/javascript' charset='utf-8' src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'></script>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+		<link rel=“canonical” href=https://shngold.com.au/” />
+
+
+
+
+
+		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page0.js'></script>
+        <meta name="formatter" content="Stacks v4.1.4 (5385)" >
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryColumns" name="Columns" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryEqualize" name="Equalize" content="0.6.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryLinkedListItem" name="Item" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryHold" name="Hold" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryVisibility" name="Visibility" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryGroup" name="Group" content="1.3.2.1">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryBanner" name="Banner" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundry" name="Foundry" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryParagraph" name="Paragraph" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryButton" name="Button" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryFloat" name="Float" content="1.0.7">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryLazyLoad" name="Lazy Load Image" content="2.0.9">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.alloy" name="Alloy" content="3.0.4">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryDivider" name="Divider" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.TypefaceGoogleFont" name="Google Font" content="">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryPageHeader" name="Page Header" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryHeader" name="Header" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryContainer" name="Container" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryEqualizeItem" name="Equalize Item" content="2.0.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryLinkedList" name="Linked List" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryImage" name="Image" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryZoom" name="Zoom" content="2.0.9">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryTypeface" name="Typeface" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryNavigationBar" name="Nav. Bar" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryMargins" name="Margins" content="2.3.3.0">
+		<meta class="stacks4 stack version" id="com.elixir.stacks.foundryFooter" name="Footer" content="2.3.3.0">
+		
+
+
+</head>
+
+<body class="antialiased">
+  <div class="blur_wrapper">
+
+  	
+<!-- Stacks v4.1.4 (5385) --><div id='stacks_out_1' class='stacks_top'><div id='stacks_in_1' class=''><!-- Partial:SHN Base :: instanceID:C29CEE30-044D-49B1-A82E-673E238BFD5A --><div id='stacks_out_1083' class='stacks_out'><div id='stacks_in_1083' class='stacks_in '><!-- Node: Group       
+    Slice: com.elixir.stacks.foundryGroup  
+    uid:   6CF929F7-BEEE-49E5-BA3D-30F055B47B9A  
+    iid:   (null)  
+ --><div id='stacks_out_1083_2' class='stacks_out'><div id='stacks_in_1083_2' class='stacks_in com_elixir_stacks_foundryGroup_stack'>
+
+
+<div class="foundry-group">
+	<!-- Node: Foundry       
+    Slice: com.elixir.stacks.foundry  
+    uid:   FE6BE6DA-C212-49B2-B251-FBB8A78E49F4  
+    iid:   (null)  
+ --><div id='stacks_out_1083_4' class='stacks_out'><div id='stacks_in_1083_4' class='stacks_in com_elixir_stacks_foundry_stack'>
+
+
+
+
+<!-- Foundry -->
+
+
+</div></div><!-- Node: Foundry       
+    Slice: com.elixir.stacks.foundry  
+    uid:   FE6BE6DA-C212-49B2-B251-FBB8A78E49F4  
+    iid:   (null)  
+ --><!-- Node: Hold       
+    Slice: com.elixir.stacks.foundryHold  
+    uid:   2ADF44F3-D007-4631-8726-C9588BD76CE3  
+    iid:   (null)  
+ --><div id='stacks_out_1083_25' class='stacks_out'><div id='stacks_in_1083_25' class='stacks_in com_elixir_stacks_foundryHold_stack'></div></div><!-- Node: Hold       
+    Slice: com.elixir.stacks.foundryHold  
+    uid:   2ADF44F3-D007-4631-8726-C9588BD76CE3  
+    iid:   (null)  
+ --><!-- Node: Group       
+    Slice: com.elixir.stacks.foundryGroup  
+    uid:   EF9257A1-9B13-45B9-865A-32B35DECCBA2  
+    iid:   (null)  
+ --><div id='stacks_out_1083_6' class='stacks_out'><div id='stacks_in_1083_6' class='stacks_in com_elixir_stacks_foundryGroup_stack'>
+
+
+<div class="foundry-group">
+	<!-- Node: Typeface       
+    Slice: com.elixir.stacks.foundryTypeface  
+    uid:   0D424616-B99A-477E-994B-43FD6D16D35E  
+    iid:   (null)  
+ --><div id='stacks_out_1083_8' class='stacks_out'><div id='stacks_in_1083_8' class='stacks_in com_elixir_stacks_foundryTypeface_stack'>
+	
+
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Asap:400,700," rel="stylesheet">
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Work Sans:400,700," rel="stylesheet">
+
+
+
+</div></div><!-- Node: Typeface       
+    Slice: com.elixir.stacks.foundryTypeface  
+    uid:   0D424616-B99A-477E-994B-43FD6D16D35E  
+    iid:   (null)  
+ -->
+</div>
+
+
+</div></div><!-- Node: Group       
+    Slice: com.elixir.stacks.foundryGroup  
+    uid:   EF9257A1-9B13-45B9-865A-32B35DECCBA2  
+    iid:   (null)  
+ --><!-- Node: Container       
+    Slice: com.elixir.stacks.foundryContainer  
+    uid:   D8421976-9140-485E-937D-0FEC37B0FB96  
+    iid:   (null)  
+ --><div id='stacks_out_1083_20' class='stacks_out'><div id='stacks_in_1083_20' class='stacks_in com_elixir_stacks_foundryContainer_stack'>
+
+
+<div class="container">
+	
+		<!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   5A949324-E5CE-4695-84C8-75A0DC11A988  
+    iid:   (null)  
+ --><div id='stacks_out_1083_21' class='stacks_out'><div id='stacks_in_1083_21' class='stacks_in com_elixir_stacks_foundryMargins_stack'>
+
+<div class="margins">
+	<!-- Node: Image       
+    Slice: com.elixir.stacks.foundryImage  
+    uid:   EA51CC05-2AC5-4FB3-BDAD-D31EECC75A6B  
+    iid:   (null)  
+ --><div id='stacks_out_1083_23' class='stacks_out'><div id='stacks_in_1083_23' class='stacks_in com_elixir_stacks_foundryImage_stack'>
+
+		<div class=" text-xs-center text-md-left text-lg-left foundry-image-wrapper">
+			<a href="./" rel="" target="" onclick="" id="" class=""> 
+				
+				
+				<img src="files/image_stack_img-23-6DD.png" alt="shngold-logo" draggable="false" class="img-fluid " ></img>
+				
+
+				
+
+				
+
+				 </a>
+		</div>
+		
+		
+		
+		</div></div><!-- Node: Image       
+    Slice: com.elixir.stacks.foundryImage  
+    uid:   EA51CC05-2AC5-4FB3-BDAD-D31EECC75A6B  
+    iid:   (null)  
+ -->
+</div>
+</div></div><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   5A949324-E5CE-4695-84C8-75A0DC11A988  
+    iid:   (null)  
+ -->
+	
+</div>
+</div></div><!-- Node: Container       
+    Slice: com.elixir.stacks.foundryContainer  
+    uid:   D8421976-9140-485E-937D-0FEC37B0FB96  
+    iid:   (null)  
+ --><!-- Node: Nav. Bar       
+    Slice: com.elixir.stacks.foundryNavigationBar  
+    uid:   E92830A1-B608-4BE2-9C18-C4D06B7DCBEA  
+    iid:   (null)  
+ --><div id='stacks_out_1083_18' class='stacks_out'><div id='stacks_in_1083_18' class='stacks_in com_elixir_stacks_foundryNavigationBar_stack'>
+
+
+
+
+
+
+<div class="nav_bar_placeholder">
+
+	<nav class="navigation_bar clearfix foundry-typeface-one f-bg" role="navigation">
+		<div class="container navigation_container">
+
+			<div id="stacks_in_1083_18_mobile_navigation_toggle"><i class="fa fa-bars"></i></div>
+
+			<div class="branding_logo">
+				<a href="https://shngold.com.au/">
+					
+					
+					
+				</a>
+			</div>
+
+			
+
+			<div class="logo_float_clear"></div>  <!-- Clears float on mobile devices -->
+
+				<ul><li class="Selected"><a href="./" rel="" class="nav_item nav_active">Home</a></li><li><a href="about/" rel="" class="nav_item parent">About</a><ul><li><a href="about/management/" rel="" class="nav_item">Board & Management</a></li><li><a href="about/corporate-directory/" rel="" class="nav_item">Corporate Directory</a></li><li><a href="about/disclaimer/" rel="" class="nav_item">Disclaimer</a></li></ul></li><li><a href="projects/" rel="" class="nav_item parent">Projects</a><ul><li><a href="projects/triumph/" rel="" class="nav_item">Triumph</a></li><li><a href="projects/hodgkinson/" rel="" class="nav_item">Hodgkinson</a></li><li><a href="projects/investigator/" rel="" class="nav_item">Investigator</a></li></ul></li><li><a href="investors/" rel="" class="nav_item parent">Investor Centre</a><ul><li><a href="investors/asx-announcements/" rel="" class="nav_item">ASX Announcements</a></li><li><a href="investors/annual-reports/" rel="" class="nav_item">Annual Reports</a></li><li><a href="investors/reports/" rel="" class="nav_item">Reports</a></li><li><a href="investors/presentations/" rel="" class="nav_item">Presentations</a></li></ul></li><li><a href="contact/" rel="" class="nav_item">Contact</a></li></ul>
+
+		</div>
+	</nav>
+
+</div>
+<div style="clear: both;"></div>
+
+</div></div><!-- Node: Nav. Bar       
+    Slice: com.elixir.stacks.foundryNavigationBar  
+    uid:   E92830A1-B608-4BE2-9C18-C4D06B7DCBEA  
+    iid:   (null)  
+ -->
+</div>
+
+
+</div></div><!-- Node: Group       
+    Slice: com.elixir.stacks.foundryGroup  
+    uid:   6CF929F7-BEEE-49E5-BA3D-30F055B47B9A  
+    iid:   (null)  
+ --></div></div><!-- Partial:SHN Base :: instanceID:C29CEE30-044D-49B1-A82E-673E238BFD5A --><!-- Node: Banner       
+    Slice: com.elixir.stacks.foundryBanner  
+    uid:   B339CD68-223A-4F04-A6C0-A8854B7E4870  
+    iid:   (null)  
+ --><div id='stacks_out_729' class='stacks_out'><div id='stacks_in_729' class='stacks_in com_elixir_stacks_foundryBanner_stack'>
+
+
+<div class="nav_pairing">
+	<div class="banner" >
+			<div class="banner_inner">
+				<div class="banner_content">
+					<div class="container">
+						<div class='slice empty out'><div class='slice empty in'></div></div>
+					</div>
+				</div>
+			</div>
+
+			
+	</div>
+
+		
+</div>
+
+
+
+
+</div></div><!-- Node: Banner       
+    Slice: com.elixir.stacks.foundryBanner  
+    uid:   B339CD68-223A-4F04-A6C0-A8854B7E4870  
+    iid:   (null)  
+ --><!-- Node: Container       
+    Slice: com.elixir.stacks.foundryContainer  
+    uid:   0AB4C161-5F36-4BDD-886F-6A35DA6C5935  
+    iid:   (null)  
+ --><div id='stacks_out_792' class='stacks_out'><div id='stacks_in_792' class='stacks_in com_elixir_stacks_foundryContainer_stack'>
+
+
+<div class="container">
+	<div class="row">
+		<!-- Node: Equalize       
+    Slice: com.elixir.stacks.foundryEqualize  
+    uid:   96D7EE2F-3F2F-4AB3-9E2E-8D2710ABCA16  
+    iid:   (null)  
+ --><div id='stacks_out_1089' class='stacks_out'><div id='stacks_in_1089' class='stacks_in com_elixir_stacks_foundryEqualize_stack'>
+
+
+<div class='slice empty out'><div class='slice empty in'></div></div>
+</div></div><!-- Node: Equalize       
+    Slice: com.elixir.stacks.foundryEqualize  
+    uid:   96D7EE2F-3F2F-4AB3-9E2E-8D2710ABCA16  
+    iid:   (null)  
+ --><!-- Node: Columns       
+    Slice: com.elixir.stacks.foundryColumns  
+    uid:   89416907-446C-415F-9658-6980DD07749B  
+    iid:   (null)  
+ --><div id='stacks_out_794' class='stacks_out'><div id='stacks_in_794' class='stacks_in com_elixir_stacks_foundryColumns_stack'>
+
+
+
+<div class="row no-gutters  equal">
+
+
+	<!-- Column One -->
+	<div class="foundry_column foundry_column_one  col-xs-12 col-md-4 col-lg-4"><div class="inner_column_content"><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   952E43DE-EBE2-4BC8-A9DD-AE9D3AF75B12  
+    iid:   (null)  
+ --><div id='stacks_out_805' class='stacks_out'><div id='stacks_in_805' class='stacks_in com_elixir_stacks_foundryMargins_stack'>
+
+<div class="margins">
+	
+
+<div class="foundry-eq-group-One">
+
+    <div class="stacks_in_1095-eq-vert-center">
+        <!-- Node: Header       
+    Slice: com.elixir.stacks.foundryHeader  
+    uid:   2FCD77EA-D8DC-49CB-BF75-C97331607A6E  
+    iid:   (null)  
+ --><div id='stacks_out_885' class='stacks_out'><div id='stacks_in_885' class='stacks_in com_elixir_stacks_foundryHeader_stack'>
+
+<div class=" text-xs-center text-md-left text-lg-left">
+	
+	<h5 class="white  ">ASX Announcements</h5>
+	
+</div>
+</div></div><!-- Node: Header       
+    Slice: com.elixir.stacks.foundryHeader  
+    uid:   2FCD77EA-D8DC-49CB-BF75-C97331607A6E  
+    iid:   (null)  
+ --><!-- Node: Button       
+    Slice: com.elixir.stacks.foundryButton  
+    uid:   7A070151-BB6B-4D5F-B9AF-844E21E7CF4D  
+    iid:   (null)  
+ --><div id='stacks_out_887' class='stacks_out'><div id='stacks_in_887' class='stacks_in com_elixir_stacks_foundryButton_stack'>
+
+<div class="button-base-margin  text-xs-center text-md-right text-lg-right">
+<a role="button" href="investors/asx-announcements/" rel="" onclick="" target="" id="" class=" btn btn-md btn-secondary  " ><i class="fa fa-file-pdf-o fa-fw"></i> Read Now</a>
+</div></div></div><!-- Node: Button       
+    Slice: com.elixir.stacks.foundryButton  
+    uid:   7A070151-BB6B-4D5F-B9AF-844E21E7CF4D  
+    iid:   (null)  
+ -->
+    </div>
+
+</div>
+
+
+
+
+</div>
+</div></div><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   952E43DE-EBE2-4BC8-A9DD-AE9D3AF75B12  
+    iid:   (null)  
+ --></div></div>
+
+
+
+	<!-- Column Two -->
+	<div class="foundry_column foundry_column_two  col-xs-12 col-md-4 col-lg-4"><div class="inner_column_content"><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   63E3D7F7-0A30-43FA-8165-96E030B4385B  
+    iid:   (null)  
+ --><div id='stacks_out_914' class='stacks_out'><div id='stacks_in_914' class='stacks_in com_elixir_stacks_foundryMargins_stack'>
+
+<div class="margins">
+	
+
+<div class="foundry-eq-group-One">
+
+    <div class="stacks_in_1093-eq-vert-center">
+        <!-- Node: Header       
+    Slice: com.elixir.stacks.foundryHeader  
+    uid:   FE659F86-3FD2-46C4-8A37-97A4D73A1042  
+    iid:   (null)  
+ --><div id='stacks_out_915' class='stacks_out'><div id='stacks_in_915' class='stacks_in com_elixir_stacks_foundryHeader_stack'>
+
+<div class=" text-xs-center text-md-left text-lg-left">
+	
+	<h5 class="white  ">Corporate Directory</h5>
+	
+</div>
+</div></div><!-- Node: Header       
+    Slice: com.elixir.stacks.foundryHeader  
+    uid:   FE659F86-3FD2-46C4-8A37-97A4D73A1042  
+    iid:   (null)  
+ --><!-- Node: Button       
+    Slice: com.elixir.stacks.foundryButton  
+    uid:   8EA11F42-EA8C-497A-80C4-8FFECABDCC67  
+    iid:   (null)  
+ --><div id='stacks_out_918' class='stacks_out'><div id='stacks_in_918' class='stacks_in com_elixir_stacks_foundryButton_stack'>
+
+<div class="button-base-margin  text-xs-center text-md-right text-lg-right">
+<a role="button" href="about/corporate-directory/" rel="" onclick="" target="" id="" class=" btn btn-md btn-secondary  " ><i class="fa fa-file-o fa-fw"></i> Read Now</a>
+</div></div></div><!-- Node: Button       
+    Slice: com.elixir.stacks.foundryButton  
+    uid:   8EA11F42-EA8C-497A-80C4-8FFECABDCC67  
+    iid:   (null)  
+ -->
+    </div>
+
+</div>
+
+
+
+
+</div>
+</div></div><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   63E3D7F7-0A30-43FA-8165-96E030B4385B  
+    iid:   (null)  
+ --></div></div>
+
+
+
+
+	<!-- Column Three -->
+	<div class="foundry_column foundry_column_three  col-xs-12 col-md-4 col-lg-4"><div class="inner_column_content"><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   D344A1B1-1955-4AC0-BC03-745EC027EC1D  
+    iid:   (null)  
+ --><div id='stacks_out_1122' class='stacks_out'><div id='stacks_in_1122' class='stacks_in com_elixir_stacks_foundryMargins_stack'>
+
+<div class="margins">
+	
+
+<div class="foundry-eq-group-One">
+
+    <div class="stacks_in_1090-eq-vert-center">
+        <!-- Node: Header       
+    Slice: com.elixir.stacks.foundryHeader  
+    uid:   BD713DA3-46F4-4B8C-BC60-739D1B150BFE  
+    iid:   (null)  
+ --><div id='stacks_out_920' class='stacks_out'><div id='stacks_in_920' class='stacks_in com_elixir_stacks_foundryHeader_stack'>
+
+<div class=" text-xs-center text-md-left text-lg-left">
+	
+	<h5 class="white  ">Projects</h5>
+	
+</div>
+</div></div><!-- Node: Header       
+    Slice: com.elixir.stacks.foundryHeader  
+    uid:   BD713DA3-46F4-4B8C-BC60-739D1B150BFE  
+    iid:   (null)  
+ --><!-- Node: Button       
+    Slice: com.elixir.stacks.foundryButton  
+    uid:   15E6F7F3-279D-4B3D-9422-3574B630BF1B  
+    iid:   (null)  
+ --><div id='stacks_out_1121' class='stacks_out'><div id='stacks_in_1121' class='stacks_in com_elixir_stacks_foundryButton_stack'>
+
+<div class="button-base-margin  text-xs-center text-md-right text-lg-right">
+<a role="button" href="projects/" rel="" onclick="" target="" id="" class=" btn btn-md btn-secondary  " ><i class="fa fa-map-o fa-fw"></i> Visit Now</a>
+</div></div></div><!-- Node: Button       
+    Slice: com.elixir.stacks.foundryButton  
+    uid:   15E6F7F3-279D-4B3D-9422-3574B630BF1B  
+    iid:   (null)  
+ -->
+    </div>
+
+</div>
+
+
+
+
+</div>
+</div></div><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   D344A1B1-1955-4AC0-BC03-745EC027EC1D  
+    iid:   (null)  
+ --></div></div>
+
+
+
+
+
+</div>
+</div></div><!-- Node: Columns       
+    Slice: com.elixir.stacks.foundryColumns  
+    uid:   89416907-446C-415F-9658-6980DD07749B  
+    iid:   (null)  
+ -->
+	</div>
+</div>
+</div></div><!-- Node: Container       
+    Slice: com.elixir.stacks.foundryContainer  
+    uid:   0AB4C161-5F36-4BDD-886F-6A35DA6C5935  
+    iid:   (null)  
+ --><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   DA3786C2-D433-4537-B13A-A1157A6BE428  
+    iid:   (null)  
+ --><div id='stacks_out_814' class='stacks_out'><div id='stacks_in_814' class='stacks_in com_elixir_stacks_foundryMargins_stack'>
+
+<div class="margins">
+	<!-- Node: Container       
+    Slice: com.elixir.stacks.foundryContainer  
+    uid:   1A4DDD01-1090-4432-859E-7D27B07640D9  
+    iid:   (null)  
+ --><div id='stacks_out_816' class='stacks_out'><div id='stacks_in_816' class='stacks_in com_elixir_stacks_foundryContainer_stack'>
+
+
+<div class="container">
+	
+		<!-- Node: Float       
+    Slice: com.elixir.stacks.foundryFloat  
+    uid:   F0F597B8-4770-4992-A396-9A98C605C3FB  
+    iid:   (null)  
+ --><div id='stacks_out_1103' class='stacks_out'><div id='stacks_in_1103' class='stacks_in com_elixir_stacks_foundryFloat_stack'>
+
+<div class="float-stack" >
+	
+	<!-- Node: Lazy Load Image       
+    Slice: com.elixir.stacks.foundryLazyLoad  
+    uid:   1C83915D-CE35-4CAA-9BD2-995FBF61D7E1  
+    iid:   (null)  
+ --><div id='stacks_out_1109' class='stacks_out'><div id='stacks_in_1109' class='stacks_in com_elixir_stacks_foundryLazyLoad_stack'>
+
+
+<div class="text-xs-center">
+	
+		<img data-src="files/lazy_load_image-1109.png" class="lazyload img-fluid img-rounded"  alt="Image" draggable="false" ></img>
+	
+</div>
+
+
+
+
+
+</div></div><!-- Node: Lazy Load Image       
+    Slice: com.elixir.stacks.foundryLazyLoad  
+    uid:   1C83915D-CE35-4CAA-9BD2-995FBF61D7E1  
+    iid:   (null)  
+ --><!-- Node: Hold       
+    Slice: com.elixir.stacks.foundryHold  
+    uid:   D2B97DB3-4993-40D1-8377-812D4417360F  
+    iid:   (null)  
+ --><div id='stacks_out_1110' class='stacks_out'><div id='stacks_in_1110' class='stacks_in com_elixir_stacks_foundryHold_stack'></div></div><!-- Node: Hold       
+    Slice: com.elixir.stacks.foundryHold  
+    uid:   D2B97DB3-4993-40D1-8377-812D4417360F  
+    iid:   (null)  
+ -->
+</div>
+
+
+<!-- Node: Paragraph       
+    Slice: com.elixir.stacks.foundryParagraph  
+    uid:   858DC98A-738B-4AFD-86EB-DCE3EE9EC480  
+    iid:   (null)  
+ --><div id='stacks_out_1106' class='stacks_out'><div id='stacks_in_1106' class='stacks_in com_elixir_stacks_foundryParagraph_stack'>
+
+<p class='foundry-paragraph-override theme_style  theme_style  text-xs-left '>
+
+	<!-- Node: Text Content       
+    Slice: %text%  
+    uid:   DB429C08-C369-4EC9-88C9-75CE54E16A24  
+    iid:   (null)  
+ -->Sunshine Gold Limited is focused on developing high quality gold and copper projects in Queensland. The Company controls 618km<sup>2</sup> of highly prospective tenements across three main project areas: Triumph Gold Project (138km<sup>2</sup>, 2 EPMs), Hodgkinson Gold Project (365km<sup>2</sup>, 5 granted EPMs, 1 EPM in application) and the Investigator Copper Project (115km<sup>2</sup>, 2 EPMs). The Triumph and Hodgkinson projects contain a suite of prospects from advanced exploration stage through to early-stage targets. Investigator represents an early-stage exploration project with tremendous potential.  <br /><!-- Node: Text Content       
+    Slice: %text%  
+    uid:   DB429C08-C369-4EC9-88C9-75CE54E16A24  
+    iid:   (null)  
+ -->
+
+</p>
+
+
+</div></div><!-- Node: Paragraph       
+    Slice: com.elixir.stacks.foundryParagraph  
+    uid:   858DC98A-738B-4AFD-86EB-DCE3EE9EC480  
+    iid:   (null)  
+ -->
+
+<div class="clearer"></div>
+</div></div><!-- Node: Float       
+    Slice: com.elixir.stacks.foundryFloat  
+    uid:   F0F597B8-4770-4992-A396-9A98C605C3FB  
+    iid:   (null)  
+ -->
+	
+</div>
+</div></div><!-- Node: Container       
+    Slice: com.elixir.stacks.foundryContainer  
+    uid:   1A4DDD01-1090-4432-859E-7D27B07640D9  
+    iid:   (null)  
+ -->
+</div>
+</div></div><!-- Node: Margins       
+    Slice: com.elixir.stacks.foundryMargins  
+    uid:   DA3786C2-D433-4537-B13A-A1157A6BE428  
+    iid:   (null)  
+ --><!-- Partial:Footer 01 Copy :: instanceID:F8BD15DA-2596-4E1C-88E7-35F04E1FCA8C --><div id='stacks_out_878' class='stacks_out'><div id='stacks_in_878' class='stacks_in '><!-- Node: Group       
+    Slice: com.elixir.stacks.foundryGroup  
+    uid:   932CB2CD-4CF5-412A-A2C8-3D6D4B294ED3  
+    iid:   (null)  
+ --><div id='stacks_out_878_2' class='stacks_out'><div id='stacks_in_878_2' class='stacks_in com_elixir_stacks_foundryGroup_stack'>
+
+
+<div class="foundry-group">
+	<!-- Node: Container       
+    Slice: com.elixir.stacks.foundryContainer  
+    uid:   5A06EF3C-8246-482A-B785-385B6CDB5D10  
+    iid:   (null)  
+ --><div id='stacks_out_878_3' class='stacks_out'><div id='stacks_in_878_3' class='stacks_in com_elixir_stacks_foundryContainer_stack'>
+
+
+<div class="container">
+	
+		<!-- Node: Divider       
+    Slice: com.elixir.stacks.foundryDivider  
+    uid:   8F6CDD97-5097-42BB-A31D-8B6650A0B758  
+    iid:   (null)  
+ --><div id='stacks_out_878_5' class='stacks_out'><div id='stacks_in_878_5' class='stacks_in com_elixir_stacks_foundryDivider_stack'>
+
+
+	<hr class="m-y-md foundry-divider-simple">
+
+</div></div><!-- Node: Divider       
+    Slice: com.elixir.stacks.foundryDivider  
+    uid:   8F6CDD97-5097-42BB-A31D-8B6650A0B758  
+    iid:   (null)  
+ --><!-- Node: Columns       
+    Slice: com.elixir.stacks.foundryColumns  
+    uid:   43BDECED-9ED0-44AD-990C-C7D059DB2D84  
+    iid:   (null)  
+ --><div id='stacks_out_878_7' class='stacks_out'><div id='stacks_in_878_7' class='stacks_in com_elixir_stacks_foundryColumns_stack'>
+
+
+
+<div class="row   equal">
+
+
+	<!-- Column One -->
+	<div class="foundry_column foundry_column_one  col-xs-12 col-md-6 col-lg-6"><div class="inner_column_content"><!-- Node: Page Header       
+    Slice: com.elixir.stacks.foundryPageHeader  
+    uid:   BA47DE47-F529-4C72-A8D7-F8E4650BF19C  
+    iid:   (null)  
+ --><div id='stacks_out_878_21' class='stacks_out'><div id='stacks_in_878_21' class='stacks_in com_elixir_stacks_foundryPageHeader_stack'>
+
+
+	
+
+
+
+<div class="page-header  text-xs-center text-md-left text-lg-left">
+	
+		<h5 class="theme_style  foundry-typeface-one">
+
+	  	
+
+	  	
+		  		  Sunshine Gold Limited 
+	  	
+
+	  	
+
+	  	
+
+	  	
+
+	  </h5>
+	
+</div>
+</div></div><!-- Node: Page Header       
+    Slice: com.elixir.stacks.foundryPageHeader  
+    uid:   BA47DE47-F529-4C72-A8D7-F8E4650BF19C  
+    iid:   (null)  
+ --><!-- Node: Footer       
+    Slice: com.elixir.stacks.foundryFooter  
+    uid:   94609B25-1D26-466C-917A-A49526B2E72F  
+    iid:   (null)  
+ --><div id='stacks_out_878_20' class='stacks_out'><div id='stacks_in_878_20' class='stacks_in com_elixir_stacks_foundryFooter_stack'>
+
+<div class=" text-xs-center text-md-left text-lg-left foundry-typeface-fifteen">
+	
+	&copy; 2020 Sunshine Gold Limited | All Rights Reserved.
+</div>
+
+
+</div></div><!-- Node: Footer       
+    Slice: com.elixir.stacks.foundryFooter  
+    uid:   94609B25-1D26-466C-917A-A49526B2E72F  
+    iid:   (null)  
+ --></div></div>
+
+
+
+	<!-- Column Two -->
+	<div class="foundry_column foundry_column_two  col-xs-12 col-md-6 col-lg-6"><div class="inner_column_content"><!-- Node: Linked List       
+    Slice: com.elixir.stacks.foundryLinkedList  
+    uid:   D96397B3-75E3-4B3F-8C24-BD8A0C86B35E  
+    iid:   (null)  
+ --><div id='stacks_out_878_8' class='stacks_out'><div id='stacks_in_878_8' class='stacks_in com_elixir_stacks_foundryLinkedList_stack'>
+
+<ul class="nav nav-inline  text-xs-center text-md-right text-lg-right foundry-typeface-fifteen">
+	<li class="nav-item stacks_in_878_12_linked_list_item">
+  <a rel="" id="" target="" rel="" onclick="" class="nav-link  default " href="about/disclaimer/"> Disclaimer</a>
+  
+</li>
+<li class="nav-item stacks_in_878_10_linked_list_item">
+  <a rel="" id="" target="" rel="" onclick="" class="nav-link  default " href="about/management/"> About Us</a>
+  
+</li>
+<li class="nav-item stacks_in_878_13_linked_list_item">
+  <a rel="" id="" target="" rel="" onclick="" class="nav-link  default " href="privacy-policy/"> Privacy Policy</a>
+  
+</li>
+<li class="nav-item stacks_in_878_14_linked_list_item">
+  <a rel="" id="" target="" rel="" onclick="" class="nav-link  default " href="terms-of-service/"> Terms of Service</a>
+  
+</li>
+<li class="nav-item stacks_in_878_23_linked_list_item">
+  <a rel="" id="" target="" rel="" onclick="" class="nav-link  text-danger " href="admin/"> Admin</a>
+  
+</li>
+
+</ul>
+</div></div><!-- Node: Linked List       
+    Slice: com.elixir.stacks.foundryLinkedList  
+    uid:   D96397B3-75E3-4B3F-8C24-BD8A0C86B35E  
+    iid:   (null)  
+ --><!-- Node: Paragraph       
+    Slice: com.elixir.stacks.foundryParagraph  
+    uid:   2B2A6D76-80DF-4CA6-99DA-BCA2BE737A01  
+    iid:   (null)  
+ --><div id='stacks_out_878_15' class='stacks_out'><div id='stacks_in_878_15' class='stacks_in com_elixir_stacks_foundryParagraph_stack'>
+
+<p class='foundry-paragraph-override color_picker  color_picker   text-xs-center text-md-right text-lg-right foundry-typeface-fifteen'>
+
+	<!-- Node: Text Content       
+    Slice: %text%  
+    uid:   AB1D5039-99C5-4AAC-9A4A-8FBCB43A0E92  
+    iid:   (null)  
+ -->5 / 16 Nicholson Road, Subiaco WA 6008<!-- Node: Text Content       
+    Slice: %text%  
+    uid:   AB1D5039-99C5-4AAC-9A4A-8FBCB43A0E92  
+    iid:   (null)  
+ -->
+
+</p>
+
+
+</div></div><!-- Node: Paragraph       
+    Slice: com.elixir.stacks.foundryParagraph  
+    uid:   2B2A6D76-80DF-4CA6-99DA-BCA2BE737A01  
+    iid:   (null)  
+ --></div></div>
+
+
+
+
+
+
+
+</div>
+</div></div><!-- Node: Columns       
+    Slice: com.elixir.stacks.foundryColumns  
+    uid:   43BDECED-9ED0-44AD-990C-C7D059DB2D84  
+    iid:   (null)  
+ --><!-- Node: Visibility       
+    Slice: com.elixir.stacks.foundryVisibility  
+    uid:   A2E4EE9D-F49D-4AB7-9E28-DAD567AA99B3  
+    iid:   (null)  
+ --><div id='stacks_out_878_87' class='stacks_out'><div id='stacks_in_878_87' class='stacks_in com_elixir_stacks_foundryVisibility_stack'>
+
+
+<div class='foundry-visibility-wrapper hidden-sm  '>
+	<!-- Node: Columns       
+    Slice: com.elixir.stacks.foundryColumns  
+    uid:   1A946099-8BDE-40AA-9E85-B926032572F9  
+    iid:   (null)  
+ --><div id='stacks_out_878_82' class='stacks_out'><div id='stacks_in_878_82' class='stacks_in com_elixir_stacks_foundryColumns_stack'>
+
+
+
+<div class="row   equal">
+
+
+	<!-- Column One -->
+	<div class="foundry_column foundry_column_one  col-xs-12 col-md-6 col-lg-6"><div class="inner_column_content"><!-- Node: HTML       
+    Slice: html  
+    uid:   293D321D-1AE7-4B5A-9698-96EFFC720B7C  
+    iid:   (null)  
+ --><div id='stacks_out_878_64' class='stacks_out'><div id='stacks_in_878_64' class='stacks_in html_stack'><!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
+  {
+  "symbol": "ASX:SHN",
+  "width": 350,
+  "colorTheme": "light",
+  "isTransparent": false,
+  "locale": "en"
+}
+  </script>
+</div>
+<!-- TradingView Widget END --></div></div><!-- Node: HTML       
+    Slice: html  
+    uid:   293D321D-1AE7-4B5A-9698-96EFFC720B7C  
+    iid:   (null)  
+ --></div></div>
+
+
+
+	<!-- Column Two -->
+	<div class="foundry_column foundry_column_two  col-xs-12 col-md-6 col-lg-6"><div class="inner_column_content"><!-- Node: HTML       
+    Slice: html  
+    uid:   EC087034-160F-423D-8FDE-D36CAE425DF9  
+    iid:   (null)  
+ --><div id='stacks_out_878_62' class='stacks_out'><div id='stacks_in_878_62' class='stacks_in html_stack'><!-- Code for Email Alert iFrame -->
+
+<iframe src ="https://wcsecure.weblink.com.au/Clients/shngold/subscriptionform.aspx" width="100%" height="200px" frameborder="0" scrolling="no" ALLOWTRANSPARENCY="true" ></iframe></div></div><!-- Node: HTML       
+    Slice: html  
+    uid:   EC087034-160F-423D-8FDE-D36CAE425DF9  
+    iid:   (null)  
+ --></div></div>
+
+
+
+
+
+
+
+</div>
+</div></div><!-- Node: Columns       
+    Slice: com.elixir.stacks.foundryColumns  
+    uid:   1A946099-8BDE-40AA-9E85-B926032572F9  
+    iid:   (null)  
+ -->
+</div>
+
+
+</div></div><!-- Node: Visibility       
+    Slice: com.elixir.stacks.foundryVisibility  
+    uid:   A2E4EE9D-F49D-4AB7-9E28-DAD567AA99B3  
+    iid:   (null)  
+ --><!-- Node: Visibility       
+    Slice: com.elixir.stacks.foundryVisibility  
+    uid:   C35F8742-33D2-4E4B-9BA7-2E09AF19B406  
+    iid:   (null)  
+ --><div id='stacks_out_878_89' class='stacks_out'><div id='stacks_in_878_89' class='stacks_in com_elixir_stacks_foundryVisibility_stack'>
+
+
+<div class='foundry-visibility-wrapper  hidden-md hidden-lg'>
+	<!-- Node: HTML       
+    Slice: html  
+    uid:   78878AE3-820C-4BDF-8826-0E13E9E4B0DB  
+    iid:   (null)  
+ --><div id='stacks_out_878_91' class='stacks_out'><div id='stacks_in_878_91' class='stacks_in html_stack'><!-- Code for Email Alert iFrame -->
+
+<iframe src ="https://wcsecure.weblink.com.au/Clients/shngold/subscriptionform.aspx" width="100%" height="200px" frameborder="0" scrolling="no" ALLOWTRANSPARENCY="true" ></iframe></div></div><!-- Node: HTML       
+    Slice: html  
+    uid:   78878AE3-820C-4BDF-8826-0E13E9E4B0DB  
+    iid:   (null)  
+ -->
+</div>
+
+
+</div></div><!-- Node: Visibility       
+    Slice: com.elixir.stacks.foundryVisibility  
+    uid:   C35F8742-33D2-4E4B-9BA7-2E09AF19B406  
+    iid:   (null)  
+ -->
+	
+</div>
+</div></div><!-- Node: Container       
+    Slice: com.elixir.stacks.foundryContainer  
+    uid:   5A06EF3C-8246-482A-B785-385B6CDB5D10  
+    iid:   (null)  
+ -->
+</div>
+
+
+</div></div><!-- Node: Group       
+    Slice: com.elixir.stacks.foundryGroup  
+    uid:   932CB2CD-4CF5-412A-A2C8-3D6D4B294ED3  
+    iid:   (null)  
+ --></div></div><!-- Partial:Footer 01 Copy :: instanceID:F8BD15DA-2596-4E1C-88E7-35F04E1FCA8C --></div></div><!-- End of Stacks Content -->
+
+
+  </div>
+
+  <!-- Base RapidWeaver Javascript -->
+  <script src="rw_common/themes/Foundry/javascript.js"></script>
+
+  <!-- Load jQuery -->
+  <script src="rw_common/themes/Foundry/js/jquery.min.js"></script>
+
+  <!-- Tether.js || used for tooltips -->
+	<script src="rw_common/themes/Foundry/js/tether.min.js"></script>
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="rw_common/themes/Foundry/js/bootstrap.min.js"></script>
+
+	<!-- Style variations -->
+	<script src="rw_common/themes/Foundry/js/toggles/tooltips.js"></script>
+		
+
+	<!-- User defined javascript -->
+	
+
+  <!-- User defined styles -->
+	
+
+	<script>
+		// Initializes dropdowns
+		$('.dropdown-toggle').dropdown();
+
+		// Initializes popovers
+		$(function () {
+		  $('[data-toggle="popover"]').popover()
+		});
+	</script>
+
+  <!-- Foundry theme v1.0.1 -->
+
+</body>
+
+</html>

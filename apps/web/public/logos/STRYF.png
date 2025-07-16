@@ -1,0 +1,149 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<title>Storytel - Audiobooks on your iPhone or Android mobile. We have thousands of audiobook titles covering all genres.</title>
+<meta name="description" content="Audiobooks on your iPhone or Android mobile. We have thousands of audiobook titles covering all genres. Listen to a book when you're out jogging, cutting the grass or during the commute to work." />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="/img/storytel-favicon-sangria.ico" type="image/x-icon">
+<link rel="preload" href="/css/main.css?v=ccb80d451424e36c6079c4fe906ed83aa2dccff4" as="style">
+<link rel="stylesheet" href="/css/main.css?v=ccb80d451424e36c6079c4fe906ed83aa2dccff4">
+<link href="/css/countryPickerLandingPage.css?v=ba11ffb1ff922ee2993b5320af4c6bd7a55ecee3" rel="stylesheet" type="text/css" />
+<link rel="canonical" href="https://www.storytel.com/">
+<link rel="alternate" hreflang="fi-FI" href="https://www.storytel.com/fi/fi/" />
+<link rel="alternate" hreflang="en-IN" href="https://www.storytel.com/in/en/" />
+<link rel="alternate" hreflang="ar-AE" href="https://www.storytel.com/ae/ar/" />
+<link rel="alternate" hreflang="nl-BE" href="https://www.storytel.com/be/nl/" />
+<link rel="alternate" hreflang="x-default" href="https://www.storytel.com/" />
+<link rel="alternate" hreflang="is-IS" href="https://www.storytel.com/is/is/" />
+<link rel="alternate" hreflang="nl-NL" href="https://www.storytel.com/nl/nl/" />
+<link rel="alternate" hreflang="bg-BG" href="https://www.storytel.com/bg/bg/" />
+<link rel="alternate" hreflang="he-IL" href="https://www.storytel.com/il/he/" />
+<link rel="alternate" hreflang="ar-SA" href="https://www.storytel.com/sa/ar/" />
+<link rel="alternate" hreflang="de-DE" href="https://www.storytel.com/de/de/" />
+<link rel="alternate" hreflang="pt-BR" href="https://www.storytel.com/br/pt/" />
+<link rel="alternate" hreflang="ko-KR" href="https://www.storytel.com/kr/ko/" />
+<link rel="alternate" hreflang="es-ES" href="https://www.storytel.com/es/es/" />
+<link rel="alternate" hreflang="nn-NO" href="https://www.storytel.com/no/nn/" />
+<link rel="alternate" hreflang="es-MX" href="https://www.storytel.com/mx/es/" />
+<link rel="alternate" hreflang="es-CO" href="https://www.storytel.com/co/es/" />
+<link rel="alternate" hreflang="it-IT" href="https://www.storytel.com/it/it/" />
+<link rel="alternate" hreflang="pl-PL" href="https://www.storytel.com/pl/pl/" />
+<link rel="alternate" hreflang="ru-RU" href="https://www.storytel.com/ru/ru/" />
+<link rel="alternate" hreflang="ar-EG" href="https://www.storytel.com/eg/ar/" />
+<link rel="alternate" hreflang="sv-SE" href="https://www.storytel.com/se/sv/" />
+<link rel="alternate" hreflang="en-SG" href="https://www.storytel.com/sg/en/" />
+<link rel="alternate" hreflang="da-DK" href="https://mofibo.com/dk/da/" />
+<link rel="alternate" hreflang="tr-TR" href="https://www.storytel.com/tr/tr/" />
+<link rel="alternate" hreflang="th-TH" href="https://www.storytel.com/th/th/" />
+<meta name="naver-site-verification" content="d160add5c70c651e1e952deb361b3f75a49de50a" />
+<script id="Cookiebot" data-culture="EN" src="https://consent.cookiebot.com/uc.js" data-cbid="dd1b4424-fe3d-4ee0-a344-3316d8725565" type="text/javascript" async></script>
+</head>
+<body>
+<div id="header">
+<nav class="c-navigation__page-navigation c-navigation__page-navigation--primary c-navigation__page-navigation--white" aria-label="Page navigation" id="pageNavigationComponent">
+<div class="o-grid__specific__container--page-navigation u-size--full-height">
+<div class="o-grid__specific__container--logo u-grid__item--start--center">
+ <div class="u-display--none u-display--block@desktop-up">
+<svg class="c-image__page-navigation__logo--storytel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 46">
+<g fill="inherit" fill-rule="nonzero">
+<path fill="inherit" d="M1.104 37.799c.63.387 1.933.808 2.94.808 1.03 0 1.457-.338 1.457-.902 0-.584-.335-.853-1.591-1.278-2.29-.763-3.164-1.998-3.14-3.298 0-2.062 1.75-3.608 4.463-3.608 1.279 0 2.4.314 3.074.652l-.584 2.35a5.476 5.476 0 0 0-2.379-.627c-.829 0-1.3.336-1.3.875 0 .538.426.806 1.77 1.278 2.087.718 2.941 1.794 2.964 3.387 0 2.061-1.592 3.567-4.733 3.567-1.435 0-2.714-.337-3.544-.787l.603-2.417zM14.153 26.83v2.964h2.449v2.513h-2.449v3.966c0 1.324.337 1.933 1.346 1.933.338.012.677-.019 1.009-.09l.022 2.577c-.426.156-1.257.29-2.199.29-1.099 0-2.018-.38-2.577-.942-.629-.644-.942-1.703-.942-3.252v-9.034l3.341-.925zM29.294 35.152c0 4.014-2.85 5.854-5.788 5.854-3.207 0-5.67-2.11-5.67-5.653 0-3.566 2.332-5.832 5.878-5.832 3.336 0 5.58 2.31 5.58 5.631zm-7.94.112c0 1.884.785 3.298 2.243 3.298 1.345 0 2.176-1.324 2.176-3.321 0-1.615-.629-3.275-2.176-3.275-1.615 0-2.244 1.682-2.244 3.298zM31.403 33.402c0-1.615-.023-2.669-.09-3.608h2.918l.129 2.02h.088c.561-1.616 1.886-2.29 2.964-2.29.241-.002.481.02.717.069V32.8a5.076 5.076 0 0 0-.92-.09c-1.257 0-2.108.674-2.333 1.727a4.026 4.026 0 0 0-.067.764v5.562h-3.406v-7.36zM42.883 29.79l1.638 5.412c.18.628.403 1.458.538 2.042h.09c.13-.606.314-1.418.47-2.062l1.368-5.384h3.634l-2.557 7.224c-1.57 4.374-2.625 6.1-3.857 7.2a5.987 5.987 0 0 1-3.275 1.502l-.741-2.87a5.37 5.37 0 0 0 1.48-.585 3.909 3.909 0 0 0 1.418-1.367c.102-.146.164-.316.179-.493a1.379 1.379 0 0 0-.129-.561l-4.037-10.052 3.78-.006zM55.878 26.83v2.964h2.448v2.513h-2.448v3.966c0 1.324.335 1.933 1.345 1.933.339.012.678-.019 1.009-.09l.022 2.577c-.425.156-1.255.29-2.199.29-1.098 0-2.018-.38-2.577-.942-.627-.644-.94-1.703-.94-3.252v-9.034l3.34-.925zM62.81 36.363c.087 1.418 1.502 2.085 3.092 2.085a9.03 9.03 0 0 0 3.028-.47l.448 2.31c-1.122.471-2.489.695-3.97.695-3.724 0-5.854-2.152-5.854-5.585 0-2.782 1.727-5.854 5.541-5.854 3.544 0 4.897 2.759 4.897 5.473 0 .451-.038.901-.113 1.346h-7.07zm4.013-2.333c0-.83-.358-2.22-1.933-2.22-1.436 0-2.019 1.323-2.11 2.22h4.043zM72.028 40.76h3.41V25.358l-3.41.938z" />
+<path fill="#FF5C28" d="M49.088 12.204c.958-5.258-2.245-9.962-7.26-11.524C32.92-2.093 26.61 6.067 26.682 14.291c.06 6.646 1.482 11.065 1.483 11.066-.063-.197 1.683-1.117 1.884-1.22a14.777 14.777 0 0 1 2.137-.88c1.501-.5 3.055-.815 4.597-1.16 4.82-1.1 9.998-3.18 11.842-8.182.203-.556.358-1.129.462-1.711z" />
+</g>
+</svg>
+</div>
+<div class="u-display--none@desktop-up">
+<svg class="c-image__page-navigation__logo--storytel-landscape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 27">
+<g fill="inherit" fill-rule="evenodd">
+<g fill="inherit">
+<path d="M29.423 16.695c.815.496 2.506 1.051 3.818 1.051 1.339 0 1.891-.438 1.891-1.168 0-.758-.436-1.109-2.068-1.663-2.972-.992-4.106-2.598-4.077-4.29 0-2.685 2.273-4.697 5.795-4.697 1.66 0 3.118.41 3.991.846l-.757 3.065c-.64-.351-1.893-.817-3.088-.817-1.076 0-1.687.438-1.687 1.138s.552 1.051 2.298 1.663c2.709.934 3.818 2.334 3.847 4.406 0 2.685-2.068 4.638-6.145 4.638-1.865 0-3.525-.436-4.6-1.021l.782-3.15zM46.364 2.427v3.85h3.174v3.27h-3.174v5.162c0 1.721.436 2.51 1.746 2.51.611 0 .905-.03 1.31-.118l.029 3.357c-.553.203-1.633.378-2.855.378-1.428 0-2.621-.495-3.349-1.224-.815-.846-1.222-2.217-1.222-4.232V3.622l4.341-1.195zM66.025 13.252c0 5.223-3.7 7.615-7.516 7.615-4.164 0-7.367-2.743-7.367-7.352 0-4.638 3.028-7.587 7.632-7.587 4.338 0 7.25 3.004 7.25 7.324zm-10.312.145c0 2.45 1.021 4.29 2.913 4.29 1.746 0 2.826-1.72 2.826-4.32 0-2.1-.816-4.26-2.826-4.26-2.096.002-2.913 2.19-2.913 4.29zM68.763 10.975c0-2.1-.03-3.47-.117-4.696h3.789l.173 2.628h.115C73.45 6.805 75.17 5.93 76.57 5.93c.407 0 .611.029.93.087v4.172a6.577 6.577 0 0 0-1.193-.116c-1.632 0-2.738.875-3.028 2.246a5.255 5.255 0 0 0-.086.994v7.235h-4.429v-9.573h-.001zM83.675 6.277l2.127 7.034c.233.817.523 1.895.699 2.655h.116c.175-.788.407-1.838.611-2.684l1.775-7.003h4.72l-3.32 9.396c-2.04 5.69-3.408 7.935-5.008 9.366-1.516 1.342-3.147 1.839-4.254 1.956l-.963-3.736c.556-.115 1.253-.38 1.923-.758.67-.35 1.428-1.078 1.835-1.778.146-.234.233-.468.233-.642 0-.175-.029-.38-.173-.729L78.753 6.282h4.922v-.005zM100.54 2.427v3.85h3.175v3.27h-3.174v5.162c0 1.721.436 2.51 1.746 2.51.61 0 .903-.03 1.31-.118l.029 3.357c-.553.203-1.631.378-2.855.378-1.427 0-2.621-.495-3.35-1.224-.815-.846-1.222-2.217-1.222-4.232V3.622l4.342-1.195zM109.541 14.828c.115 1.838 1.952 2.713 4.019 2.713 1.514 0 2.738-.203 3.93-.612l.583 3.005c-1.458.612-3.233.904-5.154.904-4.835 0-7.603-2.8-7.603-7.264 0-3.618 2.242-7.617 7.193-7.617 4.6 0 6.35 3.59 6.35 7.12 0 .758-.088 1.43-.146 1.75h-9.172zm5.213-3.036c0-1.08-.465-2.887-2.504-2.887-1.866 0-2.623 1.72-2.738 2.887h5.242zM121.513 20.546h4.427V.51l-4.427 1.22z" />
+</g>
+<path fill="#FF5C28" fill-rule="nonzero" d="M22.982 12.497c.984-5.4-2.3-10.229-7.441-11.833C6.41-2.184-.06 6.194.015 14.642c.06 6.824 1.521 11.36 1.521 11.364-.065-.203 1.726-1.147 1.932-1.254a15.284 15.284 0 0 1 2.183-.903c1.54-.512 3.133-.835 4.712-1.197 4.94-1.131 10.25-3.264 12.14-8.402.213-.58.371-1.166.48-1.753z" />
+</g>
+</svg>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="imageHero"></div>
+<div class="countryPickerLandingPage">
+<div class="o-grid__specific__item__startpage-hero__text pageTitle">
+<h1 class="c-title__xl">Step into <span>stories.</span></h1>
+<div class="c-text__body">
+Thousands of stories for wherever, whenever.
+</div>
+</div>
+<div class="countryPickerContainer floaterContent countryPicker">
+<div class="c-title__large u-typography__text-align--center">
+<h6>Please choose your country</h6>
+</div>
+<div class="f32">
+<ul class="countryList clearfix">
+<li><a href="https://www.storytel.com/be/nl/"><span class="flag be"></span>Belgium</a></li>
+<li><a href="https://www.storytel.com/br/pt/"><span class="flag br"></span>Brazil</a></li>
+<li><a href="https://www.storytel.com/bg/bg/"><span class="flag bg"></span>Bulgaria</a></li>
+<li><a href="https://www.storytel.com/co/es/"><span class="flag co"></span>Colombia</a></li>
+<li><a href="https://www.storytel.com/dk/da/"><span class="flag dk"></span>Denmark</a></li>
+<li><a href="https://www.storytel.com/eg/ar/"><span class="flag eg"></span>Egypt</a></li>
+<li><a href="https://www.storytel.com/fi/fi/"><span class="flag fi"></span>Finland</a></li>
+<li><a href="https://www.storytel.com/de/de/"><span class="flag de"></span>Germany</a></li>
+<li><a href="https://www.storytel.com/il/he/"><span class="flag il"></span>Israel</a></li>
+<li><a href="https://www.storytel.com/in/en/"><span class="flag in"></span>India</a></li>
+<li><a href="https://www.storytel.com/is/is/"><span class="flag is"></span>Iceland</a></li>
+<li><a href="https://www.storytel.com/it/it/"><span class="flag it"></span>Italy</a></li>
+<li><a href="https://www.storytel.com/mx/es/"><span class="flag mx"></span>Mexico</a></li>
+<li><a href="https://www.storytel.com/nl/nl/"><span class="flag nl"></span>Netherlands</a></li>
+<li><a href="https://www.storytel.com/no/nn/"><span class="flag no"></span>Norway</a></li>
+<li><a href="https://www.storytel.com/pl/pl/"><span class="flag pl"></span>Poland</a></li>
+<li><a href="https://www.storytel.com/ru/ru/"><span class="flag ru"></span>Russia</a></li>
+<li><a href="https://www.storytel.com/sa/ar/"><span class="flag sa"></span>Saudi Arabia</a></li>
+<li><a href="https://www.storytel.com/sg/en/"><span class="flag sg"></span>Singapore</a></li>
+<li><a href="https://www.storytel.com/kr/ko/"><span class="flag kr"></span>South Korea</a></li>
+<li><a href="https://www.storytel.com/es/es/"><span class="flag es"></span>Spain</a></li>
+<li><a href="https://www.storytel.com/se/sv/"><span class="flag se"></span>Sweden</a></li>
+<li><a href="https://www.storytel.com/th/th/"><span class="flag th"></span>Thailand</a></li>
+<li><a href="https://www.storytel.com/tr/tr/"><span class="flag tr"></span>Turkey</a></li>
+<li><a href="https://www.storytel.com/ae/ar/"><span class="flag ae"></span>United Arab Emirates</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script src="/js/googleAnalytics/analyticsHelper.js"></script>
+<script type="text/javascript">
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            var filteredPageUrl = filterOutEmailParametersFromCurrentURL();
+
+            ga('create', 'UA-59131-1', 'auto');
+            // Sets the page & location value on the tracker.
+            ga('set', 'page', filteredPageUrl);
+            ga('set', 'location', filteredPageUrl);
+            ga('send', 'pageview');
+        </script>
+<script>var dataLayer = [];</script>
+<noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WKBT5RV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+<script>
+            (function(w,d,s,l,i){
+                w[l]=w[l]||[];
+                w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+                var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+                j.async=true;
+                j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;
+                f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-WKBT5RV');
+        </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6a8d377c985d1923","token":"f8ce37836953401cb61793ec3243a4a8","version":"2021.10.0","si":100}'></script>
+</body>
+</html>

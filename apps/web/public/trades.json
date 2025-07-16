@@ -1,0 +1,351 @@
+{
+  "positions": [
+    {
+      "symbol": "UEC",
+      "qty": 1777,
+      "avgPrice": 6.61,
+      "last": 6.61,
+      "priceOk": false
+    },
+    {
+      "symbol": "EL",
+      "qty": 277,
+      "avgPrice": 87.82,
+      "last": 87.82,
+      "priceOk": false
+    },
+    {
+      "symbol": "UNH",
+      "qty": 150,
+      "avgPrice": 306.15593333333334,
+      "last": 302.73,
+      "priceOk": false
+    },
+    {
+      "symbol": "GOOGL",
+      "qty": 550,
+      "avgPrice": 170.71,
+      "last": 170.71,
+      "priceOk": false
+    },
+    {
+      "symbol": "AAPL",
+      "qty": 500,
+      "avgPrice": 207.655,
+      "last": 207.655,
+      "priceOk": false
+    },
+    {
+      "symbol": "CNC",
+      "qty": 500,
+      "avgPrice": 33.0492,
+      "last": 33.0492,
+      "priceOk": false
+    }
+  ],
+  "trades": [
+    {
+      "date": "2025-07-04",
+      "symbol": "DJT",
+      "side": "BUY",
+      "qty": 377,
+      "price": 18.37,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-04",
+      "symbol": "UEC",
+      "side": "BUY",
+      "qty": 1777,
+      "price": 6.61,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-04",
+      "symbol": "GGLL",
+      "side": "BUY",
+      "qty": 555,
+      "price": 35.24,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-04",
+      "symbol": "EL",
+      "side": "BUY",
+      "qty": 277,
+      "price": 87.82,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-04",
+      "symbol": "UNH",
+      "side": "BUY",
+      "qty": 80,
+      "price": 311.2,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-04",
+      "symbol": "XOM",
+      "side": "BUY",
+      "qty": 300,
+      "price": 110,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-04",
+      "symbol": "GOOGL",
+      "side": "BUY",
+      "qty": 550,
+      "price": 170.71,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-04",
+      "symbol": "AAPL",
+      "side": "BUY",
+      "qty": 500,
+      "price": 200,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-07",
+      "symbol": "DJT",
+      "side": "SELL",
+      "qty": 377,
+      "price": 18.8309,
+      "pl": 173.75929999999954,
+      "closed": true
+    },
+    {
+      "date": "2025-07-07",
+      "symbol": "AAPL",
+      "side": "SELL",
+      "qty": 500,
+      "price": 209.4539,
+      "pl": 4726.950000000003,
+      "closed": true
+    },
+    {
+      "date": "2025-07-07",
+      "symbol": "CRCL",
+      "side": "BUY",
+      "qty": 258,
+      "price": 192.77,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-08",
+      "symbol": "GGLL",
+      "side": "BUY",
+      "qty": 100,
+      "price": 33.7899,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-08",
+      "symbol": "GGLL",
+      "side": "BUY",
+      "qty": 233,
+      "price": 33.789,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-08",
+      "symbol": "RTX",
+      "side": "SELL",
+      "qty": 200,
+      "price": 144.9,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-08",
+      "symbol": "RTX",
+      "side": "BUY",
+      "qty": 200,
+      "price": 144.7366,
+      "pl": 32.679999999999154,
+      "closed": true
+    },
+    {
+      "date": "2025-07-08",
+      "symbol": "TSLA",
+      "side": "SELL",
+      "qty": 150,
+      "price": 301.52,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-08",
+      "symbol": "TSLA",
+      "side": "BUY",
+      "qty": 150,
+      "price": 301.1929,
+      "pl": 49.06499999999596,
+      "closed": true
+    },
+    {
+      "date": "2025-07-08",
+      "symbol": "GGLL",
+      "side": "BUY",
+      "qty": 222,
+      "price": 33.6376,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "AAPL",
+      "side": "BUY",
+      "qty": 500,
+      "price": 207.655,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "CNC",
+      "side": "BUY",
+      "qty": 500,
+      "price": 33.0492,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "TSLA",
+      "side": "SELL",
+      "qty": 150,
+      "price": 295.9,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "TSLA",
+      "side": "BUY",
+      "qty": 150,
+      "price": 295.4558,
+      "pl": 66.629999999995,
+      "closed": true
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "UNH",
+      "side": "BUY",
+      "qty": 50,
+      "price": 299.4558,
+      "pl": 0,
+      "closed": false
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "GGLL",
+      "side": "SELL",
+      "qty": 1110,
+      "price": 35.2937,
+      "pl": 898.4327999999998,
+      "closed": true
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "CRCL",
+      "side": "SELL",
+      "qty": 258,
+      "price": 202.6774,
+      "pl": 2556.109199999999,
+      "closed": true
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "XOM",
+      "side": "SELL",
+      "qty": 300,
+      "price": 113.3513,
+      "pl": 1005.3899999999985,
+      "closed": true
+    },
+    {
+      "date": "2025-07-09",
+      "symbol": "UNH",
+      "side": "BUY",
+      "qty": 20,
+      "price": 302.73,
+      "pl": 0,
+      "closed": false
+    }
+  ],
+  "equityCurve": [
+    {
+      "date": "2025-07-06",
+      "value": 8883.586872289066,
+      "cumulative": 8883.586872289066,
+      "auto": true
+    },
+    {
+      "date": "2025-07-07",
+      "value": 0,
+      "cumulative": 8883.586872289066,
+      "auto": true
+    },
+    {
+      "date": "2025-07-06",
+      "delta": -142.75999999999178,
+      "cumulative": 8740.826872289075
+    },
+    {
+      "date": "2025-07-07",
+      "delta": -2263.3500000000154,
+      "cumulative": 6477.47687228906
+    },
+    {
+      "date": "2025-07-08",
+      "value": 6012.429999999994,
+      "cumulative": 12489.906872289055,
+      "auto": true
+    },
+    {
+      "date": "2025-07-07",
+      "delta": 1106.509999999997,
+      "cumulative": 13596.416872289052
+    },
+    {
+      "date": "2025-07-08",
+      "delta": -1629.7892000000024,
+      "cumulative": 11966.627672289049
+    },
+    {
+      "date": "2025-07-09",
+      "value": 3828.1407999999933,
+      "cumulative": 15794.768472289043,
+      "auto": true
+    },
+    {
+      "date": "2025-07-10",
+      "value": 0,
+      "real": 0,
+      "delta": -3828.1407999999933,
+      "cumulative": 11966.627672289049,
+      "auto": true
+    },
+    {
+      "date": "2025-07-09",
+      "delta": 3403.870000000003,
+      "cumulative": 15370.497672289051
+    }
+  ],
+  "generated": "2025-07-10T02:38:04.408Z"
+}

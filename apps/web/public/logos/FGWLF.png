@@ -1,0 +1,862 @@
+<!doctype html><html lang="de">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <base href="https://www.viennaairport.com/jart/prj3/va/">
+      <meta name="google-site-verification" content="kE_ux97KDps-sms_24QwM3VK8JREt4u-fD-1Vg8DUuQ">
+      <meta name="google-site-verification" content="gICq8szUHDXnn4VagMQ68ZgdtjljUzT7HlvWpiWHXfM">
+      <meta name="msvalidate.01" content="F0DB2613E6E56E716146408CA639DCD2">
+      <meta name="viewport" content="width=device-width">
+      <link href="favicon.ico" rel="shortcut icon">
+      <title>Flughafen Wien - Passagiere</title>
+      <meta property="og:title" content="Flughafen Wien - Passagiere">
+      <meta name="description" content="Willkommen auf der Flughafen Wien Homepage! Hier erfahren Sie alles über Ihre Reise, Business &amp; Partner sowie das Unternehmen.">
+      <meta property="og:description" content="Willkommen auf der Flughafen Wien Homepage! Hier erfahren Sie alles über Ihre Reise, Business &amp; Partner sowie das Unternehmen.">
+      <meta property="og:url" content="https://www.viennaairport.com">
+      <meta property="og:type" content="website">
+      <meta property="og:locale" content="de_AT">
+      <meta name="keywords" content="Flughafen Wien AG; Vienna Airport; Vienna International Airport; Passengers; Airport Vienna;">
+      <meta http-equiv="language" content="DE">
+      <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,300&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+      <link href="resources/_main/main.css" rel="styleSheet"><!--[if lt IE 9]>
+      	<style type="text/css">
+      		.fdabf-td1, .fdabf-th1 { width: 58px; }
+      		.fdabf-td2, .fdabf-th2 { width: 155px; }
+      		.fdabf-td3, .fdabf-th3 { width: 76px; }
+      		.fdabf-td4, .fdabf-th4 { width: 85px; }
+      		.fdabf-td5, .fdabf-th5 { width: 58px; }
+      		.fdabf-td6, .fdabf-th6 { width: 125px; }
+      		.fdabf-td7, .fdabf-th7 { width: 133px; }
+      		.fdabf-td8, .fdabf-th8 { width: 40px; }
+      		
+      		.fdabf-th3 { height: 36px; }
+      
+      		.fdank-td1, .fdank-th1 { width: 58px; }
+      		.fdank-td2, .fdank-th2 { width: 175px; }
+      		.fdank-td3, .fdank-th3 { width: 90px; }
+      		.fdank-td4, .fdank-th4 { width: 165px; }
+      		.fdank-td5, .fdank-th5 { width: 188px; }
+      		.fdank-td6, .fdank-th6 { width: 54px; }
+      		.codeshare { margin-left: 0; }
+      
+      		.searchbar .input.form-control { float: right; }
+      	</style>
+      <![endif]--><!--[if IE 9]>
+      	<link href="resources/_main/ie9.css" rel="stylesheet" type="text/css"></link>
+      <![endif]--><!--[if lt IE 9]>
+      	<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      	<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      	<script>document.getElementsByTagName('html')[0].className = 'ltie9';</script>
+      <![endif]--><script type="text/javascript">var rel = 'de';</script><script type="text/javascript">var dataLayer = [];</script><!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-NWKWQ7V');</script>
+      <!-- End Google Tag Manager --></head>
+   <body class="no-blobedit de active content-id-1249344074214 "><script type="text/javascript">var qsa = 'querySelectorAll',
+              meta =  qsa in document ? document[qsa]('meta[name=viewport]') : [];
+              if ((meta = meta[meta.length - 1])) {
+                meta.content=document.body.offsetWidth<=400 ? 'width=400' : !!navigator.userAgent.match(/iPad/i) ? 'width=1024': meta.content;
+              }</script><!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NWKWQ7V"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) --><div class="inner-body air  ext-wbg-on ext-wbg-mobile-on"><script type="text/javascript">var pids = '1249344074214,1235465595501'; var content_id = '1249344074214';var reserve_mode = 'active';</script><ul class="sr-only">
+            <li><a href="#menu">Menü</a></li>
+            <li><a href="#main" accesskey="c">Menü überspringen</a></li>
+         </ul>
+         <div class="visible-xs visible-sm ext-wbg-mobile ext-wbg-sm" id="banner_mobile">
+            <div class="loading-gif"><img src="resources/_images/al_circleball.gif" alt=""></div>
+         </div>
+         <div class="visible-md ext-wbg-mobile ext-wbg-md" id="banner_mobile">
+            <div class="loading-gif"><img src="resources/_images/al_circleball.gif" alt=""></div>
+         </div>
+         <div class="visible-lg ext-wbg" id="banner_desktop">
+            <div class="loading-gif"><img src="resources/_images/al_circleball.gif" alt=""></div>
+         </div>
+         <header role="banner" class="header clearfix">
+            <div class="container">
+               <div class="searchbar hidden-xs">
+                  <form method="POST" action="/jart/prj3/va/main.jart"><input type="hidden" name="reserve-mode" value="active"><input type="hidden" name="rel" value="de"><input type="hidden" name="content-id" value="1249948930017"><div class="form-group"><label for="search" class="sr-only">Suche</label><div class="input-group search-inner"><input type="text" id="search" placeholder="Suche" name="search" onchange="this.form.submit();" value="" class="form-control"><button type="button" class="input-group-addon icon-search pointer btn_search" onclick="this.form.submit();"></button></div>
+                     </div>
+                  </form>
+               </div><a class="logo pull-left" tabindex="-1" href="/"><img class="svg-img" alt="Flughafen Wien Logo" src="resources/_images/vielogo.svg"></a><nav role="navigation" class="page-nav"><button class="open-menu-btn pull-right visible-xs-inline-block icon-align-justify" tabindex="-1"><span class="sr-only">Toggle navigation</span></button><ul class="list-unstyled main-menu clearfix" role="menubar" aria-controls="content">
+                     <li class="main-menu-item" role="menuitem"><a href="/passagiere" class="top-menu-link active">Passagiere</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper page-menu-wrapper  ">
+                           <ul class="list-unstyled page-menu" role="menu">
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/passgiere/ankunft_abflug" class="menu-link icon-airplane">Ankunft / Abflug</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Flüge</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-arrive"><a href="/passagiere/ankunft__abflug/ankuenfte" class="sub-menu-link ">Aktuelle Ankünfte</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-depart"><a href="/passagiere/ankunft__abflug/abfluege" class="sub-menu-link ">Aktuelle Abflüge</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-transfer"><a href="/passagiere/ankunft__abflug/transfer" class="sub-menu-link ">Transfer</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-fluglinie"><a href="/passagiere/flughafen/fluglinien" class="sub-menu-link ">Fluglinien</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Rund um den Flug</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-baggage"><a href="/passagiere/flughafen/check-in" class="sub-menu-link ">Check-in</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-bags"><a href="/passagiere/flughafen/gepaeck" class="sub-menu-link ">Gepäck</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-search"><a href="/passagiere/flughafen/sicherheitskontrolle" class="sub-menu-link ">Sicherheitskontrolle</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-info-circle"><a href="/verboten" class="sub-menu-link ">Verbotene Gegenstände</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-stop"><a href="/passagiere/flughafen/zollkontrolle" class="sub-menu-link ">Zoll</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-family"><a href="/passagiere/ankunft__abflug/reisen_mit_kindern" class="sub-menu-link ">Reisen mit Kindern</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-info-circle"><a href="/passagiere/ankunft__abflug/reisen_mit_tieren" class="sub-menu-link ">Reisen mit Tieren</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-facts"><a href="/sicherreisen" class="sub-menu-link ">Sicher reisen</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Reisehelfer</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/services" class="sub-menu-link ">Airport Services</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/care">Covid Care Premium Services</a></li>
+                                                </ul>
+                                             </li>
+                                             <li role="menuitem" class="sub-menu-item icon-mobile"><a href="/apps" class="sub-menu-link ">Vienna Airport-App</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-map"><a href="/passagiere/flughafen/flughafenplan" class="sub-menu-link ">Flughafenplan</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-stamp"><a href="/passagiere/ankunft__abflug/notreisepass" class="sub-menu-link ">Notreisepass</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-telephone"><a href="/passagiere/flughafen/wichtige_telefonnummern" class="sub-menu-link ">Wichtige Telefonnummern</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Destinationen</strong><ul></ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/passagiere/flughafen" class="menu-link icon-airport">Flughafen</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Information</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-info"><a href="/passagiere/flughafen/airport-info" class="sub-menu-link ">Airport-Info</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-baggage"><a href="/gepaecknichtangekommen" class="sub-menu-link ">Gepäck nicht angekommen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-fundbuero"><a href="/fund" class="sub-menu-link ">Fundbüro</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-handicapped "><a href="/passagiere/flughafen/barrierefrei_reisen" class="sub-menu-link ">Barrierefrei reisen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-first-aid "><a href="/passagiere/flughafen/medizinische_versorgung" class="sub-menu-link ">Medizinische Versorgung</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/coronatest">Corona/COVID-19-Tests am Flughafen Wien</a></li>
+                                                </ul>
+                                             </li>
+                                             <li role="menuitem" class="sub-menu-item icon-ein-blick"><a href="/post" class="sub-menu-link ">Post Partner am Flughafen Wien</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Convenience</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-lounges"><a href="/lounges" class="sub-menu-link ">Lounges</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-conferencing"><a href="/passagiere/flughafen/hotel__konferenzen__bueros" class="sub-menu-link ">Hotel / Konferenzen / Büros</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/VIP" class="sub-menu-link ">VIP & Business Service</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/passagiere/flughafen/general_aviation_terminal" class="sub-menu-link ">General Aviation Terminal</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-wlan"><a href="/passagiere/flughafen/gratis_wlan__wifi" class="sub-menu-link ">WLAN</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-andachtsraum"><a href="/passagiere/flughafen/andachtsraum" class="sub-menu-link ">Andachtsraum</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Faszination Flughafen</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-camera "><a href="/besucherwelt" class="sub-menu-link ">Besucherwelt</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/besucherterrasse">Besucherterrasse</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/birdly">Birdly: Fliegen wie ein Vogel</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/birdlymieten">Birdly mieten</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/fliegershop">Flieger Shop</a></li>
+                                                </ul>
+                                             </li>
+                                             <li role="menuitem" class="sub-menu-item icon-werben"><a href="/flightcast" class="sub-menu-link ">Flightcast - Die Welt des Fliegens zum Reinhören</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-ein-blick"><a href="/vienewsletter" class="sub-menu-link ">Newsletter des Flughafen Wien</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/passagiere/anreise-parken" class="menu-link icon-taxi">Anreise & Parken</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>PKW Anreise & Parken</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-map"><a href="/passagiere/anreise__parken/mit_dem_pkw" class="sub-menu-link ">Anfahrt & Routenwahl</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-parking "><a href="/passagiere/anreise-parken/parkmoeglichkeiten" class="sub-menu-link ">Parkflächen & Preisübersicht</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-handicapped "><a href="/passagiere/anreise-parken/barrierefrei-parken" class="sub-menu-link ">Barrierefrei Parken</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/passagiere/anreise-parken/services-rund-ums-parken" class="sub-menu-link ">Services rund ums Parken</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Weitere Anreisewege</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-cat "><a href="/passagiere/anreise__parken/city_airport_train_cat" class="sub-menu-link ">City Airport Train/ CAT</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-train "><a href="/passagiere/anreise__parken/s-bahn" class="sub-menu-link ">Bahnverbindungen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-bus "><a href="/passagiere/anreise__parken/busverbindungen" class="sub-menu-link ">Busverbindungen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-taxi-spot"><a href="/passagiere/anreise__parken/taxis__limousinen" class="sub-menu-link ">Taxis & Limousinen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-car-keys"><a href="/passagiere/anreise__parken/autovermietung" class="sub-menu-link ">Autovermietung</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-car"><a href="/passagiere/anreise__parken/carsharing" class="sub-menu-link ">Carsharing</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Angebote</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-simulator"><a href="/onlineparken" class="sub-menu-link ">Parkplatz online buchen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/kingsize" class="sub-menu-link ">Kingsize Parken</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/easyparking" class="sub-menu-link ">Easy Parking</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/executive-card" class="sub-menu-link ">Vienna Airport Executive Card</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/shops-restaurants" class="menu-link icon-shops">Shops & Restaurants</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Shops & Restaurants</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-shop"><a href="/shops" class="sub-menu-link ">Shops</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-restaurants"><a href="/restaurants" class="sub-menu-link ">Restaurants</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Aktionen & Angebote</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-business-privat-jet"><a href="/allowed-on-board" class="sub-menu-link ">Allowed on Board</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-dutyfree"><a href="/heinemann-angebote-aktionen" class="sub-menu-link ">World of Heinemann Duty Free</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Services</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-stamp"><a href="/mwst-rueckerstattung" class="sub-menu-link ">MwSt-Rückerstattung</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-euro"><a href="/passagiere/shops__gastronomie/banken__geldwechsel" class="sub-menu-link ">Banken & Geldwechsel</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-bankomat"><a href="/passagiere/shops__restaurants/bankomaten" class="sub-menu-link ">Bankomaten</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                     </li>
+                     <li class="main-menu-item" role="menuitem"><a href="/business__partner" class="top-menu-link ">Business & Partner</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper page-menu-wrapper business special-nav">
+                           <ul class="list-unstyled page-menu" role="menu">
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/business__partner/aviation" class="menu-link icon-airplane">Aviation</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Aviation</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-vorteile-mitarbeiter"><a href="/business__partner/aviation/vorteile_vie" class="sub-menu-link ">Vorteile VIE</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-facts"><a href="/business__partner/aviation/facts_aviation" class="sub-menu-link ">Facts Aviation</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-baggage "><a href="/business__partner/aviation/passagierabfertigung" class="sub-menu-link ">Passagierabfertigung am Vienna Airport</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-uhr"><a href="/business__partner/aviation/was_der_flughafen_wien_seinen_kunden_bietet" class="sub-menu-link ">Was der Flughafen Wien seinen Kunden bietet</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-airplane"><a href="/fbo" class="sub-menu-link ">Fixed-base Operator (FBO</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Cargo</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-cargo"><a href="/business__partner/aviation/cargo" class="sub-menu-link ">Cargo</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-cargo-1"><a href="/business__partner/aviation/air_cargo_center" class="sub-menu-link ">Air Cargo Center</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Kontakt & Allgemeines</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-presse"><a href="/business__partner/aviation/ansprechpartner" class="sub-menu-link ">Ansprechpartner</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-flugabgabe"><a href="/business__partner/aviation/flugabgabe" class="sub-menu-link ">Flugabgabe</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-anmeldung-1"><a href="/business__partner/aviation/anmeldung_zum_aviation_newsletter" class="sub-menu-link ">Anmeldung zum Aviation Newsletter</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/business__partner/vienna_airport_ground_handling_services" class="menu-link icon-ghs">Ground Hand­ling</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Ground Handling Services</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-vorteile-mitarbeiter"><a href="/business__partner/vienna_airport_ground_handling_services/vorteile_handling_durch_fwag" class="sub-menu-link ">Vorteile Handling durch FWAG</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-baggage "><a href="/business__partner/vienna_airport_ground_handling_services/passagierabfertigung" class="sub-menu-link ">Passagierabfertigung</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-operations"><a href="/business__partner/vienna_airport_ground_handling_services/operations_and_load_control" class="sub-menu-link ">Operations and Load Control</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-facts"><a href="/business__partner/vienna_airport_ground_handling_services/centralizedloadcontrol" class="sub-menu-link ">Centralized Load Control durch VIE</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-ramphandling"><a href="/business__partner/vienna_airport_ground_handling_services/ramphandling" class="sub-menu-link ">Ramphandling</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-ghs"><a href="/business__partner/vienna_airport_ground_handling_services/cargo_handling" class="sub-menu-link ">Cargo Handling</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-aircraft "><a href="/business__partner/ground_handling_services/aircraft_de-icing" class="sub-menu-link ">Aircraft De-icing</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-aircraft "><a href="/pharmahandlingcenter" class="sub-menu-link ">Pharma Handling Center</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Training & Kontakt</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-training"><a href="/business__partner/vienna_airport_ground_handling_services/training" class="sub-menu-link ">Training</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-presse"><a href="/business__partner/vienna_airport_ground_handling_services/ansprechpartner" class="sub-menu-link ">Ansprechpartner</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/business__partner/immobilien" class="menu-link icon-immo">Immobilien</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Immobilien</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-immo"><a href="/business__partner/immobilien/immobilien_am_flughafen_wien" class="sub-menu-link ">Immobilien am Flughafen Wien</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-shops "><a href="/business__partner/immobilien/retail__gastronomie-flaechen" class="sub-menu-link ">Retail & Gastronomie-Flächen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-bus"><a href="/business__partner/immobilien/airport_shuttle" class="sub-menu-link ">Airport Shuttle</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/conferencing" class="menu-link icon-conferencing">Conferencing</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button></li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/business__partner/parken" class="menu-link icon-parking">Parken</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Parken</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-vielflieger"><a href="/business-partner/parken/parken-reisebuero-vielflieger" class="sub-menu-link ">Parken für Reisebüros und Vielflieger</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-bus-parken"><a href="/business__partner/parken/parken_fuer_busunternehmen" class="sub-menu-link ">Parken für Busunternehmen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-taxi-1"><a href="/business__partner/parken/parken_fuer_taxis_und_limousinen" class="sub-menu-link ">Parken für Taxis und Limousinen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-kongress"><a href="/business__partner/parken/parken_fuer_kongresse" class="sub-menu-link ">Parken für Kongresse</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/business__partner/werben_am_flughafen" class="menu-link icon-werben">Werbung</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Werben am Flughafen</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-preisrechner"><a href="http://www.airport-media.at/preisrechner" class="sub-menu-link " target="_blank">Preisrechner Digitale Werbung</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-standort"><a href="http://www.airport-media.at/zielgruppen" class="sub-menu-link " target="_blank">Zielgruppen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-airport"><a href="http://www.airport-media.at/erfolgsfaktoren" class="sub-menu-link " target="_blank">Erfolgsfaktoren</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-katalog"><a href="http://www.airport-media.at/katalog" class="sub-menu-link " target="_blank">Katalog</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-presse"><a href="http://www.airport-media.at/ueber-uns" class="sub-menu-link " target="_blank">Kontakt</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/business__partner/zentraler_einkauf" class="menu-link icon-ze">Zentraler Einkauf</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Zentraler Einkauf</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-ausschreibungen"><a href="/business__partner/zentraler_einkauf/aktuelle_ausschreibungen" class="sub-menu-link ">Aktuelle Ausschreibungen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-aktuelle-verkaeufe"><a href="/aktuelleverkaeufe" class="sub-menu-link ">Aktuelle Verkäufe</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-facts-figures"><a href="/business__partner/zentraler_einkauf/warengruppen" class="sub-menu-link ">Warengruppen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-corporate-governace"><a href="/business__partner/zentraler_einkauf/downloads__agbs" class="sub-menu-link ">Downloads & AGBs</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/aws" class="menu-link icon-anmeldung-lieferanten">Airport ID Card Office</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Ausweisstelle Flughafen Wien</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-ein-blick"><a href="/airport-id-card" class="sub-menu-link ">Airport ID Card</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-uhr"><a href="/business__partner/ausweisstelle/befristeter_flughafenausweis" class="sub-menu-link ">Befristeter Begleitausweis</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-pkw"><a href="/business__partner/ausweisstelle/ausstellung_von_zufahrtsberechtigungen" class="sub-menu-link ">Ausstellung von Zufahrtsberechtigungen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-facts"><a href="/fhaw" class="sub-menu-link ">Antrag auf Ausstellung einer Zugangsberechtigung</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                     </li>
+                     <li class="main-menu-item" role="menuitem"><a href="/unternehmen" class="top-menu-link ">Unternehmen & Jobs</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper page-menu-wrapper  special-nav">
+                           <ul class="list-unstyled page-menu" role="menu">
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/unternehmen/flughafen_wien_ag" class="menu-link icon-airport">Flughafen Wien AG</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Flughafen Wien AG</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-facts-figures"><a href="/unternehmen/flughafen_wien_ag/facts__figures_fwag_gruppe" class="sub-menu-link ">Facts & Figures FWAG (Gruppe)</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-airport"><a href="/unternehmen/flughafen_wien_ag/wirtschaftsfaktor_flughafen_wien" class="sub-menu-link ">Wirtschaftsfaktor Flughafen Wien</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/auszeichnungen" class="sub-menu-link ">Auszeichnungen des Flughafen Wien</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/niemalsvergessen" class="sub-menu-link ">Niemals vergessen - Skulptur zum Gedenken der Opfer des NS-Regimes</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Umwelt </strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-ag"><a href="/nachhaltigkeit" class="sub-menu-link ">Umwelt & Nachhaltigkeit</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen__jobs/flughafen_wien_ag/umwelt__nachhaltigkeit/nachhaltigkeitsbericht">Nachhaltigkeitsbericht</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen__jobs/flughafen_wien_ag/umwelt__nachhaltigkeit/umweltpolitik">Umweltpolitik</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen__jobs/flughafen_wien_ag/umwelt__nachhaltigkeit/umweltmanagementsystem_emas">Umweltmanagementsystem EMAS</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/flughafen_wien_ag/umwelt__nachhaltigkeit/umweltschutz">Umweltschutz</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/flughafen_wien_ag/umwelt__nachhaltigkeit/dialog_mit_dem_umland">Dialog mit dem Umland</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/flughafen_wien_ag/umwelt__nachhaltigkeit/laermmanagement">Lärmmanagement</a></li>
+                                                </ul>
+                                             </li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Ausbau</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-piste"><a href="/unternehmen/flughafen_wien_ag/3_piste" class="sub-menu-link ">3. Piste</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/flughafen_wien_ag/3_piste/uvp-verfahren">UVP-Verfahren</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/flughafen_wien_ag/3_piste/umweltvertraeglichkeits-_erklaerung">Umweltverträglichkeitserklärung</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/flughafen_wien_ag/3_piste/bauprojekt_3_piste">Bauprojekt 3. Piste</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/flughafen_wien_ag/3_piste/dialog_mit_umland">Mediationsverfahren</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/flughafen_wien_ag/3_piste/kontakt">Kontakt</a></li>
+                                                </ul>
+                                             </li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Service</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-broschueren"><a href="/unternehmen/flughafen_wien_ag/broschueren_ua_zum_download" class="sub-menu-link ">Broschüren u.a. zum Download</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/unternehmen/presse__news" class="menu-link icon-presse-news">Presse & News</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Presse & News</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-presse-news"><a href="/unternehmen/presse__news/presseaussendungen__news_2" class="sub-menu-link ">Presseaussendungen & News</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-verkehrsinfo-weiss"><a href="/aktuelles" class="sub-menu-link ">Aktuelles</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-presse"><a href="/unternehmen/presse__news/ansprechpartner" class="sub-menu-link ">Ansprechpartner</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Bilder & Videos</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-bilder"><a href="/unternehmen/presse__news/bilder" class="sub-menu-link ">Bilder</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/unternehmen/investor_relations" class="menu-link icon-aktie">Investor Relations</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Zum Nachlesen</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-ein-blick"><a href="/unternehmen/investor_relations/auf_einem_blick" class="sub-menu-link ">Auf einen Blick</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/unternehmen/investor_relations/news" class="sub-menu-link ">News</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/news/ad_hoc_meldung">Insider (Ad-Hoc) Information</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/news/ir_-_presseaussendungen">IR - News</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/news/verkehrsergebnisse">Verkehrsergebnisse</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/news/schwellenwertbekanntmachung">Schwellenwertbekanntmachung</a></li>
+                                                </ul>
+                                             </li>
+                                             <li role="menuitem" class="sub-menu-item icon-presse-news"><a href="/unternehmen/investor_relations/publikationen_und_berichte" class="sub-menu-link ">Publikationen und Berichte</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/publikationen_und_berichte/geschaeftsberichte">Geschäftsberichte</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/publikationen_und_berichte/quartalsberichte">Quartalsberichte</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/publikationen_und_berichte/jahresfinanzberichte">Jahresfinanzberichte</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/nachhaltigkeitsbericht">Nachhaltigkeitsbericht</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/publikationen_und_berichte/praesentationen">Präsentationen</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/publikationen_und_berichte/sonstige_publikationen">Sonstige Publikationen</a></li>
+                                                </ul>
+                                             </li>
+                                             <li role="menuitem" class="sub-menu-item icon-bestell-service-2"><a href="/unternehmen/investor_relations/publikationen_und_berichte/bestell-service" class="sub-menu-link ">Bestell-Service</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-social-responsibility"><a href="/unternehmen/investor_relations/corporate_social_responsibility" class="sub-menu-link ">Corporate Social Responsibility</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Über die Aktie</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-aktie"><a href="/unternehmen/investor_relations/flughafen_wien_ag_aktie" class="sub-menu-link ">Flughafen Wien AG Aktie</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen__jobs/investor_relations/flughafen_wien_ag_aktie/aktiensplit">Aktiensplit</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen__jobs/investor_relations/flughafen_wien_ag_aktie/erwerb_eigener_aktien">Erwerb eigener Aktien</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen__jobs/investor_relations/flughafen_wien_ag_aktie/aufstockung_-_ifm_2016">Aufstockung - IFM (2016)</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/uebernahmeangebot_-_ifm_1">Übernahmeangebot - IFM (2014)</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/flughafen_wien_ag_aktie/kennzahlen">Kennzahlen</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/flughafen_wien_ag_aktie/aktionaersstruktur">Aktionärsstruktur</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/flughafen_wien_ag_aktie/entwicklung_der_aktie">Entwicklung der Aktie</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/flughafen_wien_ag_aktie/chart_und_peergroup-vergleich">Chart und Peergroup-Vergleich</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/flughafen_wien_ag_aktie/dividende">Dividende</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/flughafen_wien_ag_aktie/kraftloserklaerung_effektiver_aktienurkunden">Kraftloserklärung effektiver Aktienurkunden</a></li>
+                                                </ul>
+                                             </li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Für den Aktionär</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-star"><a href="/privataktionaerstag" class="sub-menu-link ">Privataktionärstreffen</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-hauptsversammlung"><a href="/unternehmen/investor_relations/hauptversammlung" class="sub-menu-link ">Hauptversammlung</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/hauptversammlung/hauptversammlungen-archiv">Hauptversammlungen-Archiv</a></li>
+                                                </ul>
+                                             </li>
+                                             <li role="menuitem" class="sub-menu-item icon-corporate-governace"><a href="/unternehmen/investor_relations/corporate_governance" class="sub-menu-link ">Corporate Governance</a><ul>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/corporate_governance/satzung_der_flughafen_wien_ag">Satzung der Flughafen Wien AG</a></li>
+                                                   <li role="menuitem" class="sub-menu-item"><a class="sub-menu-link " href="/unternehmen/investor_relations/corporate_governance/geschaeftsordnung_aufsichtsrat">Geschäftsordnung Aufsichtsrat</a></li>
+                                                </ul>
+                                             </li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Useful Tools</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-calender "><a href="/finanzkalender" class="sub-menu-link ">Finanzkalender</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-bestell-service-2"><a href="/unternehmen/investor_relations/bestell-service" class="sub-menu-link ">Bestell-Service</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-presse "><a href="/unternehmen/investor_relations/ir_ansprechpartner" class="sub-menu-link ">IR Ansprechpartner</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="page-menu-item " role="menuitem" aria-haspopup="true"><a href="/unternehmen/jobs__karriere" class="menu-link icon-jobs-karierre">Jobs & Karriere</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper sub-menu-wrapper">
+                                    <ul role="menu" class="list-unstyled sub-menu" aria-hidden="true">
+                                       <li class="sub-menu-category"><strong>Flughafen Wien AG</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-suitcase "><a href="/unternehmen__jobs/jobs__karriere/aktuelle_jobs_der_fwag/karrieremoeglichkeiten_am_flughafen_wien" class="sub-menu-link ">Karrieremöglichkeiten am Flughafen Wien</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-ferialjob"><a href="/unternehmen/jobs__karriere/ferialjob__aushilfe__praktikum" class="sub-menu-link ">Ferialjob / Aushilfe / Praktikum</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-weiterbildung"><a href="/unternehmen/jobs__karriere/aus-_und_weiterbildung" class="sub-menu-link ">Aus- und Weiterbildung</a></li>
+                                             <li role="menuitem" class="sub-menu-item icon-jobs"><a href="/lehrlingsausbildung" class="sub-menu-link ">Lehrlinge</a></li>
+                                          </ul>
+                                       </li>
+                                       <li class="sub-menu-category"><strong>Am Standort</strong><ul>
+                                             <li role="menuitem" class="sub-menu-item icon-aktuelle-jobs"><a href="/unternehmen/jobs__karriere/aktuelle_jobs_am_standort" class="sub-menu-link ">Aktuelle Jobs am Standort</a></li>
+                                          </ul>
+                                       </li>
+                                    </ul>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                     </li>
+                     <li class="main-menu-item" role="menuitem"><a href="/kontakt" class="top-menu-link ">Kontakt</a><button class="open-menu-btn small visible-xs-inline-block" tabindex="-1">+<span class="sr-only">Toggle navigation</span></button><div class="menu-wrapper page-menu-wrapper  special-nav">
+                           <ul class="list-unstyled page-menu" role="menu"></ul>
+                        </div>
+                     </li>
+                  </ul>
+                  <div class="hidden-xs dark-bar menu-wrapper page-menu-wrapper">&nbsp;</div>
+               </nav>
+               <div class="options-menu pull-right">
+                  <ul class="list-unstyled sec-menu">
+                     <li class="options-menu-item rel-switcher"><a class="active-lang" href="/sprachen" hreflang="de"><i class="sprite sprite-de"></i></a><ul class="sec-sub-menu lang-menu" id="sprachenMenu">
+                           <li class="lang-ref visible-xs"><a href="/sprachen">alle Sprachen</a></li>
+                           <li><a href="/de"><i class="sprite sprite-de"></i>Deutsch</a></li>
+                           <li><a href="/en"><i class="sprite sprite-en"></i>English</a></li>
+                           <li><a href="/cz"><i class="sprite sprite-cz"></i>&#268;e&#154;tina</a></li>
+                           <li><a href="/sk"><i class="sprite sprite-sk"></i>Sloven&#269;ina</a></li>
+                           <li><a href="/hu"><i class="sprite sprite-hu"></i>Magyar</a></li>
+                           <li><a href="/ru"><i class="sprite sprite-ru"></i>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a></li>
+                           <li><a href="/zh"><i class="sprite sprite-zh"></i>&#20013;&#25991;</a></li>
+                           <li><a href="main.jart?reserve-mode=active&amp;content-id=1471864010386&amp;rel=en"><i class="sprite sprite-fr"></i>Français</a></li>
+                           <li><a href="main.jart?reserve-mode=active&amp;content-id=1471864010865&amp;rel=en"><i class="sprite sprite-es"></i>Español</a></li>
+                           <li><a href="main.jart?reserve-mode=active&amp;content-id=1471864011292&amp;rel=en"><i class="sprite sprite-it"></i>Italiano</a></li>
+                           <li><a href="main.jart?reserve-mode=active&amp;content-id=1471864011305&amp;rel=en"><i class="sprite sprite-tr"></i>Türkçe</a></li>
+                           <li><a href="/sprachen" class="text-center"></a></li>
+                        </ul>
+                     </li>
+                     <li class="options-menu-item "><a href="/gebaerdensprachen-sitemap" class="sec-menu-link pic pic-gebaerde">Gebärdensprachen-Sitemap</a></li>
+                  </ul>
+               </div>&nbsp;
+            </div>
+         </header>
+         <div class="container general-content startseite">
+            <div class="main clearfix" role="main" id="main">
+               <div class="hidden good-news-everyone bg-danger mb1em p05em "></div>
+               <div class="row">
+                  <main class="col-xs-12">
+                     <div id="warning" class="hidden-xs info-box" role="alert">
+                        <h2>Aktuelle Information zum Betrieb am Flughafen Wien </h2>
+                        <time class="alert-time">31.10.2021</time>
+                        <p>Der Check-in erfolgt derzeit im Terminal 1 und 3, im gesamten Terminalbereich gilt FFP2-Maskenpflicht für alle Passagiere
+                           und Beschäftigte. Nach Österreich aus Ländern mit geringem epidemiologischen Risiko (siehe <a href="https://www.viennaairport.com/aktuelles">https://www.viennaairport.com/aktuelles</a>)
+                           Einreisende müssen einen 3-G-Nachweis (geimpft, getestet, genesen) besitzen. Die Einreise aus Virusvariantengebieten ist grundsätzlich
+                           untersagt, ausgenommen davon sind unter anderem österr. Staatsbürger, EU- und EWR-Bürger. Hier muss bei der Einreise aus Risikoländern
+                           ein negatives Ergebnis eines Covid-Tests mitgeführt werden, eine Registrierung mit dem Pre-Travel-Clearance-Formular (<a href="https://entry.ptc.gv.at/">https://entry.ptc.gv.at/</a>)
+                           erfolgen und eine zehntägige Quarantäne angetreten werden. Diese Regelung gilt auch für die Einreise aus allen anderen Ländern
+                           nach Österreich. Reisende haben die Möglichkeit, direkt am Flughafen einen Covid-19-Test zu machen, alle Informationen dazu
+                           sind unter <a href="https://www.viennaairport.com/coronatest">https://www.viennaairport.com/coronatest</a> abrufbar. Reisenden
+                           wird empfohlen, sich vor dem Abflug über die Einreisebestimmungen des Ziellandes zu informieren. Informationen dazu finden
+                           Reisende auf der Website des Außenministeriums oder der Hotline +43 1 90115 4411. Aufgrund der COVID-19 Reisebestimmungen
+                           nehmen derzeit Check-in Vorgänge mehr Zeit in Anspruch als üblich, deshalb empfehlen wir Reisenden ausreichend Zeit für ihren
+                           Check-in einzuplanen. Alle Informationen zum aktuellen Flugbetrieb, Covid-19-Test am Airport und wichtige Kontaktdaten und
+                           Links gibt es unter <a href="https://www.viennaairport.com/aktuelles">https://www.viennaairport.com/aktuelles</a>.
+                        </p>
+                     </div>
+                     <div class="visible-xs-block clearfix">
+                        <div id="warning-mob" class="info-box" role="alert">
+                           <h2>Aktuelle Information zum Betrieb am Flughafen Wien </h2>
+                           <time class="alert-time">31.10.2021</time>
+                           <p>Der Check-in erfolgt derzeit im Terminal 1 und 3, im gesamten Terminalbereich gilt FFP2-Maskenpflicht für alle Passagiere
+                              und Beschäftigte. Nach Österreich aus Ländern mit geringem epidemiologischen Risiko (siehe <a href="https://www.viennaairport.com/aktuelles">https://www.viennaairport.com/aktuelles</a>)
+                              Einreisende müssen einen 3-G-Nachweis (geimpft, getestet, genesen) besitzen. Die Einreise aus Virusvariantengebieten ist grundsätzlich
+                              untersagt, ausgenommen davon sind unter anderem österr. Staatsbürger, EU- und EWR-Bürger. Hier muss bei der Einreise aus Risikoländern
+                              ein negatives Ergebnis eines Covid-Tests mitgeführt werden, eine Registrierung mit dem Pre-Travel-Clearance-Formular (<a href="https://entry.ptc.gv.at/">https://entry.ptc.gv.at/</a>)
+                              erfolgen und eine zehntägige Quarantäne angetreten werden. Diese Regelung gilt auch für die Einreise aus allen anderen Ländern
+                              nach Österreich. Reisende haben die Möglichkeit, direkt am Flughafen einen Covid-19-Test zu machen, alle Informationen dazu
+                              sind unter <a href="https://www.viennaairport.com/coronatest">https://www.viennaairport.com/coronatest</a> abrufbar. Reisenden
+                              wird empfohlen, sich vor dem Abflug über die Einreisebestimmungen des Ziellandes zu informieren. Informationen dazu finden
+                              Reisende auf der Website des Außenministeriums oder der Hotline +43 1 90115 4411. Aufgrund der COVID-19 Reisebestimmungen
+                              nehmen derzeit Check-in Vorgänge mehr Zeit in Anspruch als üblich, deshalb empfehlen wir Reisenden ausreichend Zeit für ihren
+                              Check-in einzuplanen. Alle Informationen zum aktuellen Flugbetrieb, Covid-19-Test am Airport und wichtige Kontaktdaten und
+                              Links gibt es unter <a href="https://www.viennaairport.com/aktuelles">https://www.viennaairport.com/aktuelles</a>.
+                           </p>
+                        </div>
+                        <form class="mob-form" id="mobSearch" action="/jart/prj3/va/main.jart" method="GET"><input type="hidden" name="reserve-mode" value="active"><input type="hidden" name="content-id" value="1249344074230"><input type="hidden" name="alt-content-id" value="1249344074229"><input type="hidden" name="rel" value="de"><div class="form-group"><label for="mobFlightSearch" class="sr-only">Flugsuche</label><div class="input-group"><input type="text" placeholder="OS 123 oder Paris" id="mobFlightSearch" class="form-control" value="" name="flight-search"><span class="input-group-addon icon-search pointer" onclick="$(this).closest('form').submit();"></span></div><input type="submit" value="" style="position: absolute; top: -10000px; left: -10000px"></div>
+                        </form><a href="/passagiere/ankunft__abflug/ankuenfte" class="tiled-button-50 icon-arrive">Ankunft</a><a href="/passagiere/ankunft__abflug/abfluege" class="tiled-button-50 icon-depart">Abflug</a></div>
+                     <h1 class="main-page-header no-icon-md ">Eingeschränkter Betrieb am Flughafen Wien</h1>
+                     <div class="row mt2em">
+                        <div class="col-sm-4  clearfix "><a href="/aktuelles"><img src="/jart/prj3/va/images/cache/97319a492fb643489ba978858b24daf9/0xA70BC96FDD3A7F0E3AE782AFC051F659.jpeg" alt="" class="content-img"></a></div>
+                        <div class="col-sm-8 bg_respform clearfix ">
+                           <p class="avtext-n">Die wichtigsten Änderungen und Infos haben wir nachfolgend für Sie zusammengefasst.</p>
+                           <h2 class="blue-uppercase-header ">Check In</h2>
+                           <p class="avtext-n" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;line-height:16.8pt"><span class="avtext-n" style="font-size:10.5pt;font-family:">Der Check-in erfolgt in den Terminals 1 und 3. Eine Liste mit den Check-in-Schaltern aller Airlines finden Sie   <a href="/passagiere/flughafen/fluglinien" class="avtext-n">hier</a>.</span></p>
+                           <h2 class="blue-uppercase-header ">Parken</h2>
+                           <p class="avtext-n">In den Sommermonaten parken Sie bei Onlinebuchung in den Parkhäusern 3 & 4 zum Parkplatz C Tarif.<br/>Aufgrund der begrenzten Kapazität, <span class="avtext-n" style="font-size: 0.95em;">speziell auf Parkplatz C, </span><span class="avtext-n" style="font-size: 15.2px;">empfehlen wir </span><span class="avtext-n" style="font-size: 0.95em;">eine Online-Vorabreservierung. Nur so können wir Ihnen Ihren Stellplatz garantieren.</span></p>
+                           <p class="avtext-n">Buchen Sie jetzt   <a target="_blank" href="https://www.viennaairport.com/onlineparken" class="avtext-n">hier ...</a></p>
+                           <h2 class="blue-uppercase-header ">ANREISE ZUM FLUGHAFEN WIEN</h2>
+                           <ul class="text-ul">
+                              <li class="avtext-n"><span class="avtext-n">City Airport Train pausiert derzeit temporär. Weitere Informationen finden Sie auf der</span>  <a target="_blank" href="https://www.cityairporttrain.com/de/home" class="avtext-n"><span class="avtext-n"> CAT Website</span></a><span class="avtext-n">.</span></li>
+                           </ul>
+                           <ul class="text-ul">
+                              <li class="avtext-n"><span class="avtext-n">Die Vienna Airport Lines stehen mit einem reduzierten Angebot weiter zur Verfügung Weitere Informationen finden Sie auf der </span>  <a target="_blank" href="https://www.viennaairportlines.at/" class="avtext-n"><span class="avtext-n">Vienna Airport Lines Website.</span></a></li>
+                           </ul>
+                           <ul class="text-ul">
+                              <li class="avtext-n"><span class="avtext-n">Informationen zu Schnellbahnverbindungen mit der S7 oder Railjet-Verbindungen von und nach Wien. Weitere Informationen finden
+                                    Sie auf der </span>  <a target="_blank" href="https://www.oebb.at/" class="avtext-n"><span class="avtext-n">Website der ÖBB</span></a></li>
+                           </ul>
+                           <h2 class="blue-uppercase-header ">Covid-19/Corona Test am Flughafen Wien</h2><span class="avtext-n">Es ist möglich, einen </span><strong class="avtext-n"><span class="avtext-n">PCR Test oder einen Antigen-Schnelltest</span></strong><span class="avtext-n"> auf Covid-19 am Flughafen Wien durchzuführen.</span><br/><span class="avtext-n">Nähere Informationen finden Sie </span>  <a href="/coronatest" class="avtext-n"><span class="avtext-n">hier</span></a><span class="avtext-n">.</span><h2 class="blue-uppercase-header ">Aktuelle Informationen zu Einreisebestimmungen</h2>
+                           <p class="avtext-n">Aktuelle Informationen zu temporären Einreisebestimmungen für Angehörige unterschiedlicher Staaten finden sich auf der Website
+                              des  <a target="_blank" href="https://www.bmk.gv.at/service/corona/einreisebestimmungen.html" class="avtext-n"> </a>  <a target="_blank" href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Haeufig-gestellte-Fragen/FAQ-Einreise-nach-Oesterreich.html" class="avtext-n">Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz</a><br/> 
+                           </p>
+                        </div>
+                     </div>
+                     <div class="row mt3em mb3em bgc-transparent">
+                        <div class="col-sm-4  clearfix "></div>
+                        <div class="col-sm-8  clearfix "><script type="text/javascript">var hlm = '';</script><div class="container_advert">
+                              <div class="advert advert-content" id="res-1630500245608" data-cid="1249344074214" data-rel="de" data-rmode="active" data-prj="va" data-idx="main" data-version="wbg-startseite_585x195" data-format="1475152236989" data-pids="1249344074214,1235465595501" data-myid="1630500245608"></div>
+                              <ol class="advert-points carousel-indicators" id="pt-1630500245608"></ol>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row mt2em mb2em">
+                        <div class="col-sm-12  clearfix "><script type="text/javascript">var server_date_time = '2021-11-03 23:22:49';
+var fdXslConf = {};
+if(!fdXslConf['ankunft-content-id']) fdXslConf['ankunft-content-id'] = '1249344074229';
+if(!fdXslConf['abflug-content-id']) fdXslConf['abflug-content-id'] = '1249344074230';
+if(!fdXslConf['flug-suche']) fdXslConf['flug-suche'] = 'Flugsuche';
+if(!fdXslConf['keine-daten']) fdXslConf['keine-daten'] = 'Zu Ihrer Suche konnte kein Suchergebnis erzielt werden.';
+if(!fdXslConf['lbl_abflug-nach']) fdXslConf['lbl_abflug-nach'] = 'Abflug nach';
+if(!fdXslConf['lbl_ankunft-von']) fdXslConf['lbl_ankunft-von'] = 'Ankunft von';
+if(!fdXslConf['plh_destination']) fdXslConf['plh_destination'] = 'Destination';
+if(!fdXslConf['plh_ursprungsland']) fdXslConf['plh_ursprungsland'] = 'Origin';
+if(!fdXslConf['lbl_fluglinie']) fdXslConf['lbl_fluglinie'] = 'Fluglinie';
+if(!fdXslConf['plh_fluglinie']) fdXslConf['plh_fluglinie'] = 'Fluglinie';
+if(!fdXslConf['plh_flugsuche']) fdXslConf['plh_flugsuche'] = 'Flugnummer oder Ort';
+if(!fdXslConf['btn_frueher']) fdXslConf['btn_frueher'] = 'früher';
+if(!fdXslConf['btn_spaeter']) fdXslConf['btn_spaeter'] = 'später';
+if(!fdXslConf['plh_wann']) fdXslConf['plh_wann'] = 'wann?';
+if(!fdXslConf['th_zeit']) fdXslConf['th_zeit'] = 'Zeit';
+if(!fdXslConf['th_nach']) fdXslConf['th_nach'] = 'Nach';
+if(!fdXslConf['th_flugnr']) fdXslConf['th_flugnr'] = 'Flug';
+if(!fdXslConf['th_terminal']) fdXslConf['th_terminal'] = 'Terminal';
+if(!fdXslConf['th_gate']) fdXslConf['th_gate'] = 'Gate';
+if(!fdXslConf['th_fluglinie']) fdXslConf['th_fluglinie'] = 'Fluglinie';
+if(!fdXslConf['th_status']) fdXslConf['th_status'] = 'Status';
+if(!fdXslConf['th_details']) fdXslConf['th_details'] = 'Details';
+if(!fdXslConf['th_von']) fdXslConf['th_von'] = 'Von';
+if(!fdXslConf['poc_codeshare']) fdXslConf['poc_codeshare'] = 'Ein Flugzeug kann mehrere Flugnummern haben. Die Codeshare-Abmachung ermöglicht nämlich mehreren Fluglinien einen Flug zu teilen.';
+if(!fdXslConf['pot_codeshare']) fdXslConf['pot_codeshare'] = 'Was ist Codeshare?';
+if(!fdXslConf['txt_terminal']) fdXslConf['txt_terminal'] = 'Terminal';
+if(!fdXslConf['txt_gate']) fdXslConf['txt_gate'] = 'Gate';
+if(!fdXslConf['txt_wien']) fdXslConf['txt_wien'] = 'Wien';
+if(!fdXslConf['txt_via']) fdXslConf['txt_via'] = 'via';
+if(!fdXslConf['hl_flugliniendetails']) fdXslConf['hl_flugliniendetails'] = 'Flugliniendetails';
+if(!fdXslConf['cap_fluglinie']) fdXslConf['cap_fluglinie'] = 'Fluglinie:';
+if(!fdXslConf['cap_kuerzel']) fdXslConf['cap_kuerzel'] = 'Kürzel:';
+if(!fdXslConf['cap_flugzeugtyp']) fdXslConf['cap_flugzeugtyp'] = 'Flugzeugtyp:';
+if(!fdXslConf['hl_flugroute']) fdXslConf['hl_flugroute'] = 'Flugroute';
+if(!fdXslConf['cap_von']) fdXslConf['cap_von'] = 'Von:';
+if(!fdXslConf['cap_via']) fdXslConf['cap_via'] = 'Via:';
+if(!fdXslConf['cap_nach']) fdXslConf['cap_nach'] = 'Nach:';
+if(!fdXslConf['hl_detailsurpsrung']) fdXslConf['hl_detailsurpsrung'] = 'Details zum Ursprung';
+if(!fdXslConf['cap_flughafen']) fdXslConf['cap_flughafen'] = 'Flughafen:';
+if(!fdXslConf['cap_stadtland']) fdXslConf['cap_stadtland'] = 'Stadt, Land:';
+if(!fdXslConf['btn_plan-ankunftshalle']) fdXslConf['btn_plan-ankunftshalle'] = 'Ankunftshalle auf Plan';
+if(!fdXslConf['btn_flug-hinzufuegen']) fdXslConf['btn_flug-hinzufuegen'] = 'Flug hinzufügen';
+if(!fdXslConf['master-update']) fdXslConf['master-update'] = 'Letztes Update:';
+if(!fdXslConf['cap_terminal']) fdXslConf['cap_terminal'] = 'Terminal:';
+if(!fdXslConf['cap_checkin']) fdXslConf['cap_checkin'] = 'Check-in:';
+if(!fdXslConf['cap_gate']) fdXslConf['cap_gate'] = 'Gate:';
+if(!fdXslConf['hl_detailsziel']) fdXslConf['hl_detailsziel'] = 'Details zum Ziel';
+if(!fdXslConf['btn_gateplan1']) fdXslConf['btn_gateplan1'] = 'Gate';
+if(!fdXslConf['btn_gateplan2']) fdXslConf['btn_gateplan2'] = 'auf Plan';
+if(!fdXslConf['tab_ankunft']) fdXslConf['tab_ankunft'] = 'Ankunft';
+if(!fdXslConf['tab_abflug']) fdXslConf['tab_abflug'] = 'Abflug';
+if(!fdXslConf['plh_ticker']) fdXslConf['plh_ticker'] = 'OS 123 oder Paris';
+if(!fdXslConf['txt_fluginfo']) fdXslConf['txt_fluginfo'] = 'Fluginfo';
+if(!fdXslConf['ds_title_ankunft']) fdXslConf['ds_title_ankunft'] = 'Aktuelle Ankünfte';
+if(!fdXslConf['ds_title_abflug']) fdXslConf['ds_title_abflug'] = 'Aktuelle Abflüge';
+if(!fdXslConf['conf_ticker_flights']) fdXslConf['conf_ticker_flights'] = '10';
+</script><div id="flugdaten-ticker"></div><script type="text/javascript">if(!window.initFunctions) window.initFunctions = [];
+window.initFunctions.push(function(){
+	$.flugdaten.init("ticker");
+});</script><script xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:java="jart.Extension" xmlns:jart="JArt-System" type="text/x-handlebars-template" id="vorlage"></script><script xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:java="jart.Extension" xmlns:jart="JArt-System" type="text/x-handlebars-template" id="fd_search"><div class="detail-table-wrapper fd_{{mode}}"><div class="detail-table-options"><div class="al-update w100 mb15em">{{conf.master-update}} {{getFldVal 'timestamp'}}</div><div class="table-options-row fd"><form class="clearfix" onsubmit="$.flugdaten.setFilter(); return false;"><div class="pull-left table-options-3"><div class="form-group"><label class="sr-only" for="flightSearch">{{conf.flug-suche}}</label><div class="input-group"><input class="form-control search-set-1" type="text" placeholder="{{conf.plh_flugsuche}}" id="flightSearch"><span class="input-group-addon icon-search" onclick="$(this).closest(&#34;form&#34;).submit();"></span></div>
+                                                <!--##annotate:#<input type="submit" style="display: none;"/>--><input type="submit" value="" style="position: absolute; top: -10000px; left: -10000px"></div></div><div class="pull-left table-options-3 visible-md-block visible-lg-block"><div class="form-group"><label for="dep-to" class="exp-label">{{#if abflug}}{{conf.lbl_abflug-nach}}{{else}}{{conf.lbl_ankunft-von}}{{/if}}</label><select id="dep-to" class="custom-select search-set-1" data-placeholder="{{#if abflug}}{{conf.plh_destination}}{{else}}{{conf.plh_ursprungsland}}{{/if}}"><option></option>{{#each cities}}<option value="{{this}}">{{this}}</option>{{/each}}</select></div></div><div class="pull-left table-options-3 visible-md-block visible-lg-block"><div class="form-group"><label for="airline" class="exp-label">{{conf.lbl_fluglinie}}</label><select id="airline" class="custom-select search-set-1" data-placeholder="{{conf.plh_fluglinie}}"><option></option>{{#each airlines}}<option value="{{this}}">{{this}}</option>{{/each}}</select></div></div></form></div><div class="table-options-row table-nav-row">
+                                       <!--##annotate:#<a href="#" class="table#-nav prev" onclick="$.flugdaten.setTimeShiftFilter(#-1); return false;">früher</a>--><button class="table-nav prev fdatabtn" onclick="$.flugdaten.setTimeShiftFilter(-1); return false;" id="fdbtn-fruher">{{conf.btn_frueher}}</button><select class="table-nav-select search-set-2 no_single_deselect disable_search " data-placeholder="{{conf.plh_wann}}" onchange="$.flugdaten.setTimeDropFilter(parseInt($(this).val())); return false;" id="time-drop-filter">{{#each hourdrop}}{{#if value}}<option value="{{value}}">{{caption}}</option>{{else}}<option value="{{value}}" selected="yes">{{caption}}</option>{{/if}}{{/each}}</select><button class="table-nav prev fdatabtn" onclick="$.flugdaten.setTimeShiftFilter(1); return false;" id="fdbtn-spater">{{conf.btn_spaeter}}</button></div></div><div class="detail-table">{{#if abflug}}<div class="detail-table__row"><div class="detail-table__header text-center fdabf-th1">{{conf.th_zeit}}</div><div class="detail-table__header fdabf-th2">{{conf.th_nach}}</div><div class="detail-table__header fdabf-th3">{{conf.th_flugnr}}</div><div class="detail-table__header text-center fdabf-th4">{{conf.th_terminal}}</div><div class="detail-table__header text-center fdabf-th5">{{conf.th_gate}}</div><div class="detail-table__header fdabf-th6">{{conf.th_fluglinie}}</div><div class="detail-table__header fdabf-th7">{{conf.th_status}}</div><div class="detail-table__header text-center fdabf-th8"><span class="sr-only">{{conf.th_details}}</span>&nbsp;</div></div>{{else}}<div class="detail-table__row"><div class="detail-table__header text-center fdank-th1">{{conf.th_zeit}}</div><div class="detail-table__header fdank-th2">{{conf.th_von}}</div><div class="detail-table__header fdank-th3">{{conf.th_flugnr}}</div><div class="detail-table__header fdank-th4">{{conf.th_fluglinie}}</div><div class="detail-table__header fdank-th5">{{conf.th_status}}</div><div class="detail-table__header text-center fdank-th6"><span class="sr-only">{{conf.th_details}}</span>&nbsp;</div></div>{{/if}}<div class="fd-detail-rows"></div>
+                                    <!--##annotate:#<xsl:call#-template xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="fd_theader"><xsl:with#-param name="type" select="$modus"/></xsl:call#-template>-->
+                                    <!--##annotate:#<xsl:call#-template xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="fd_tcontent"><xsl:with#-param name="type" select="$modus"/></xsl:call#-template>--></div></div></script><script xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:java="jart.Extension" xmlns:jart="JArt-System" type="text/x-handlebars-template" id="fd_result_ankunft">{{#if isempty}}<div class="detail-table__row isempty"><div class="detail-table__cell bg-danger w100">{{conf.keine-daten}}</div></div>{{/if}}{{#each lines}}{{#if newdate}}<div class="detail-table__row newdate"><div>{{newdate}}</div></div>{{/if}}<div class="detail-table__row {{#if codeshares}}has-codeshare{{/if}}"><div class="detail-table__cell text-center fdank-td1">{{getFldVal 'SCHEDULE' }}</div><div class="detail-table__cell text-uppercase fdank-td2"><span class="hidden-xs">{{getFldVal 'ORIGIN' }}</span><span class="visible-xs">{{getFldVal 'ORIGIN_10' }}</span></div><div class="detail-table__cell mob-fn fdank-td3">{{getFldVal 'MASTERAIRLINE' }} {{getFldVal 'MASTERFLIGHTNUMBER' }}{{#if codeshares}}<div class="codeshare">
+                                       <!--##annotate:#<span class="hidden#-xs hidden#-sm"><span data#-content="Ein Flugzeug kann mehrere Flugnummern haben. Die Codeshare#-Abmachung ermöglicht nämlich mehreren Fluglinien einen Flug zu teilen. &amp;lt;a href='more.html' class='more icon#-play'&amp;gt;Mehr dazu&amp;lt;/a&amp;gt;" data#-placement="top" data#-popover="" class="underline#-dashed" data#-original#-title="Was ist Codeshare?">Codeshare</span>:</span>--><ul class="list-inline hidden-xs" data-content="{{../../conf.poc_codeshare}}" data-original-title="{{../../conf.pot_codeshare}}" data-placement="left" data-popover="">{{#each codeshares}}<li><span class="underline-dashed">{{fn}}</span></li>{{/each}}</ul><ul class="list-inline visible-xs">{{#each codeshares}}<li><span class="underline-dashed">{{fn}}</span></li>{{/each}}</ul></div>{{/if}}<div class="visible-xs visible-sm mob-info">{{#if status}}<span class="semibold">{{getFldVal 'FLIGHTSTATUS'}}</span>{{/if}}</div></div><div class="detail-table__cell fdank-td4">{{getFldVal 'AIRLINE_DESCR'}}</div><div class="detail-table__cell fdank-td5">{{getFldVal 'FLIGHTSTATUS'}}</div><div class="detail-table__cell text-center fdank-td6"><a href="" class="icon-down-circle table-icon-link toggle-details"></a></div><div class="details" aria-hidden="true"><div class="details__header text-uppercase detail-con">{{getFldVal 'ORIGIN' }}{{#each origins}}{{#if @index}} - {{getFldVal 'ORIGIN' }}{{/if}}{{/each}} - {{../conf.txt_wien}}</div><div class="details__body text-center"><div class="col-md-6"><div class="details__info"><div class="text-uppercase detail-con">{{../conf.hl_flugliniendetails}}</div><div><span>{{../conf.cap_fluglinie}}</span><span>{{#if airline.webSite}}<a href="{{getFldVal 'website'}}" target="_blank">{{getFldVal 'AIRLINE_DESCR'}}</a>{{else}}{{getFldVal 'AIRLINE_DESCR'}}{{/if}}</span></div><div><span>{{../conf.cap_kuerzel}}</span><span>{{getFldVal 'AIRLINEShort'}}</span></div><div><span>{{../conf.cap_flugzeugtyp}}</span><span>{{getFldVal 'ACTYPE_DESCR'}}</span></div></div><div class="details__info"><div class="text-uppercase detail-con">{{../conf.hl_flugroute}}</div>{{#each origins}}<div><span>{{#if @index}}{{../../../conf.cap_via}}{{else}}{{../../../conf.cap_von}}{{/if}}</span><span>{{getFldVal 'ORIGIN'}}</span></div>{{/each}}
+                                             <!--##annotate:#{{#if ROUTING1}}-->
+                                             <!--##annotate:#<div><span>{{../conf.cap_via}}</span><span>{{getFldVal 'ROUTING1CITY'}}</span></div>-->
+                                             <!--##annotate:#{{/if}}{{#if ROUTING2}}-->
+                                             <!--##annotate:#<div><span>{{../conf.cap_via}}</span><span>{{getFldVal 'ROUTING2CITY'}}</span></div>-->
+                                             <!--##annotate:#{{/if}}--><div><span>{{../conf.cap_nach}}</span><span>{{../conf.txt_wien}}</span></div></div></div><div class="col-md-6"><div class="details__info"><div class="text-uppercase detail-con">{{../conf.hl_detailsurpsrung}}</div><div><span>{{../conf.cap_flughafen}}</span><span>{{#if (getFldVal 'airport_arrival_url')}}<a href="{{getFldVal 'airport_arrival_url'}}" target="_blank">{{getFldVal 'airport_name'}}</a>{{else}}{{getFldVal 'airport_name'}}{{/if}}</span></div><div><span>{{../conf.cap_stadtland}}</span><span>{{getFldVal 'city'}}, {{getFldVal 'country'}}</span></div></div><button class="btn btn-detail icon-marker" onclick="document.location.href = '{{getFldVal 'TERMINALMAP'}}';">{{../conf.btn_plan-ankunftshalle}}</button>
+                                          <!--##annotate:#<button class="btn btn#-detail icon#-plus"/>--></div></div></div></div>{{/each}}</script><script xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:java="jart.Extension" xmlns:jart="JArt-System" type="text/x-handlebars-template" id="fd_result_abflug">{{#if isempty}}<div class="detail-table__row isempty"><div class="detail-table__cell bg-danger w100">{{conf.keine-daten}}</div></div>{{/if}}{{#each lines}}{{#if newdate}}<div class="detail-table__row newdate"><div>{{newdate}}</div></div>{{/if}}<div class="detail-table__row {{#if codeshares}}has-codeshare{{/if}} {{#if ../isonlyone}}expanded{{/if}}"><div class="detail-table__cell text-center fdabf-td1">{{getFldVal 'SCHEDULE' }}</div><div class="detail-table__cell text-uppercase fdabf-td2"><span class="hidden-xs">{{getFldVal 'DESTINATION' }}</span><span class="visible-xs">{{getFldVal 'DESTINATION_10' }}</span></div><div class="detail-table__cell mob-fn fdabf-td3">{{getFldVal 'MASTERAIRLINE' }} {{getFldVal 'MASTERFLIGHTNUMBER' }}{{#if codeshares}}<div class="codeshare">
+                                       <!--##annotate:#<span class="hidden#-xs hidden#-sm cs#-head"><span data#-content="Ein Flugzeug kann mehrere Flugnummern haben. Die Codeshare#-Abmachung ermöglicht nämlich mehreren Fluglinien einen Flug zu teilen. &amp;lt;a href='more.html' class='more icon#-play'&amp;gt;Mehr dazu&amp;lt;/a&amp;gt;" data#-placement="top" data#-popover="" class="underline#-dashed" data#-original#-title="Was ist Codeshare?">Codeshare</span>:</span>-->
+                                       <!--##annotate:#<ul class="list#-inline">{{#each cs}}<li>{{this}}</li>{{/each}}</ul>--><ul class="list-inline hidden-xs" data-content="{{../../conf.poc_codeshare}}" data-original-title="{{../../conf.pot_codeshare}}" data-placement="left" data-popover="">{{#each codeshares}}<li><span class="underline-dashed">{{fn}}</span></li>{{/each}}</ul><ul class="list-inline visible-xs">{{#each codeshares}}<li><span class="underline-dashed">{{fn}}</span></li>{{/each}}</ul></div>{{/if}}<div class="visible-xs visible-sm mob-info">{{#if checkin.terminal}}<span><a href="{{getFldVal 'TERMINALMAP'}}">{{../../conf.txt_terminal}} {{getFldVal 'TERMINAL'}}</a></span>{{/if}}{{#if gate}}<span><a href="{{getFldVal 'fld_gate_map_id'}}">{{../conf.txt_gate}} {{getFldVal 'GATE'}}</a></span>{{/if}}{{#if status}}<span class="semibold">{{getFldVal 'FLIGHTSTATUS'}}</span>{{/if}}</div></div><div class="detail-table__cell text-center fdabf-td4"><a href="{{getFldVal 'TERMINALMAP'}}">{{getFldVal 'TERMINAL'}}</a></div><div class="detail-table__cell text-center fdabf-td5">{{#if gate}}<a href="{{getFldVal 'fld_gate_map_id'}}">{{getFldVal 'GATE'}}</a>{{else}}{{getFldVal 'GATEAREA'}}{{/if}}</div><div class="detail-table__cell fdabf-td6">{{getFldVal 'AIRLINE_DESCR'}}</div><div class="detail-table__cell fdabf-td7">{{getFldVal 'FLIGHTSTATUS'}}</div><div class="detail-table__cell text-center fdabf-td8"><a href="" class="icon-down-circle table-icon-link toggle-details"></a></div><div class="details" aria-hidden="true"><div class="details__header text-uppercase detail-con">{{../conf.txt_wien}}{{#each destinations}}{{#if @index}} - {{getFldVal 'DESTINATION' }}{{/if}}{{/each}} - {{getFldVal 'DESTINATION' }}</div><div class="details__body text-center"><div class="col-md-6"><div class="details__info"><div class="text-uppercase detail-con">{{../conf.hl_flugliniendetails}}</div><div><span>{{../conf.cap_fluglinie}}</span><span>{{#if airline.webSite}}<a href="{{getFldVal 'website'}}" target="_blank">{{getFldVal 'AIRLINE_DESCR'}}</a>{{else}}{{getFldVal 'AIRLINE_DESCR'}}{{/if}}</span></div><div><span>{{../conf.cap_kuerzel}}</span><span>{{getFldVal 'AIRLINEShort'}}</span></div><div><span>{{../conf.cap_flugzeugtyp}}</span><span>{{getFldVal 'ACTYPE_DESCR'}}</span></div><div><span>{{../conf.cap_terminal}}</span><span><a href="{{getFldVal 'TERMINALMAP'}}">{{getFldVal 'TERMINAL'}}</a></span></div><div><span>{{../conf.cap_checkin}}</span><span>{{getFldVal 'CHECKINFROM'}} - {{getFldVal 'CHECKINTO'}}</span></div><div><span>{{../conf.cap_gate}}</span><span>{{#if gate}}<a href="{{getFldVal 'fld_gate_map_id'}}">{{getFldVal 'GATE'}}</a>{{else}}{{getFldVal 'GATEAREA'}}{{/if}}</span></div></div></div><div class="col-md-6"><div class="details__info"><div class="text-uppercase detail-con">{{../conf.hl_flugroute}}</div><div><span>{{../conf.cap_von}}</span><span>{{../conf.txt_wien}}</span></div>{{#each destinations}}{{#if @index}}<div><span>{{../../../conf.cap_via}}</span><span>{{getFldVal 'DESTINATION'}}</span></div>{{/if}}{{/each}}<div><span>{{../conf.cap_nach}}</span><span>{{getFldVal 'DESTINATION'}}</span></div></div><div class="details__info"><div class="text-uppercase detail-con">{{../conf.hl_detailsziel}}</div><div><span>{{../conf.cap_flughafen}}</span><span>{{#if (getFldVal 'airport_arrival_url')}}<a href="{{getFldVal 'airport_arrival_url'}}" target="_blank">{{getFldVal 'airport_name'}}</a>{{else}}{{getFldVal 'airport_name'}}{{/if}}</span></div><div><span>{{../conf.cap_stadtland}}</span><span>{{getFldVal 'city'}}, {{getFldVal 'country'}}</span></div></div>
+                                          <!--##annotate:#<div class="detail#-checkin text#-uppercase text#-center"><strong>Check#-in Schalter: </strong><a href="#">{{getFldVal 'CHECKINFROM'}} #- {{getFldVal 'CHECKINTO'}}</a></div>-->{{#if gate}}<button class="btn btn-detail icon-marker" onclick="document.location.href = '{{getFldVal 'fld_gate_map_id'}}';">
+                                             <!--##annotate:#Gate im Plan anzeigen-->{{../../conf.btn_gateplan1}} {{getFldVal 'GATE'}} {{../../conf.btn_gateplan2}}</button>{{/if}}
+                                          <!--##annotate:#<button class="btn btn#-detail icon#-plus"/>--></div></div></div></div>{{/each}}</script><script xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:java="jart.Extension" xmlns:jart="JArt-System" type="text/x-handlebars-template" id="fd_ticker"><div class="hidden-xs"><ul class="nav nav-tabs"><li class="w-1-3"><a class="icon-arrive" href="main.jart?rel={{rel}}&amp;reserve-mode={{reserve_mode}}&amp;content-id={{conf.ankunft-content-id}}">
+                                          <!--##annotate:#<xsl:attribute xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="href"><xsl:apply#-templates select="@arrival#-page" mode="link"/></xsl:attribute>--><span>{{conf.tab_ankunft}}</span></a></li><li class="w-1-3 active"><a class="icon-depart" href="main.jart?rel={{rel}}&amp;reserve-mode={{reserve_mode}}&amp;content-id={{conf.abflug-content-id}}">
+                                          <!--##annotate:#<xsl:attribute xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="href"><xsl:apply#-templates select="@departure#-page" mode="link"/></xsl:attribute>--><span>{{conf.tab_abflug}}</span></a></li><li class="w-1-3"><button class="search-toggle icon-search hidden-lg" data-expand="form-tab"></button><form action="main.jart" method="get" class="form-tab"><input type="hidden" name="rel" value="{{rel}}"><input type="hidden" name="reserve-mode" value="{{reserve_mode}}"><input type="hidden" name="content-id" value="{{conf.abflug-content-id}}"><input type="hidden" name="alt-content-id" value="{{conf.ankunft-content-id}}"><div class="form-group"><label class="sr-only" for="FlightSearch">{{conf.flug-suche}}</label><div class="input-group"><input type="text" placeholder="{{conf.plh_ticker}}" id="FlightSearch" class="form-control" name="flight-search" value=""><span class="input-group-addon icon-search pointer" onclick="$(this).closest(&#34;form&#34;).submit();"></span></div><input type="submit" value="" style="position: absolute; top: -10000px; left: -10000px"></div></form></li></ul><div class="tab-content"><div class="tab-pane active" id="arriving" role="tabpanel"><a class="tr-link" href="main.jart?rel={{rel}}&amp;reserve-mode={{reserve_mode}}&amp;content-id={{conf.abflug-content-id}}">
+                                          <!--##annotate:#<xsl:attribute xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="href"><xsl:apply#-templates select="@departure#-page" mode="link"/>&amp;prev=yes</xsl:attribute>-->{{conf.btn_frueher}}</a><div class="ftable table-striped table-hover fd-detail-append"><div class="table-row"><div class="table-header text-center">{{conf.th_zeit}}</div><div class="table-header">{{conf.th_nach}}</div><div class="table-header">{{conf.th_flugnr}}</div><div class="table-header text-center">{{conf.th_terminal}}</div><div class="table-header text-center">{{conf.th_gate}}</div><div class="table-header">{{conf.th_status}}</div><div class="table-header"><span class="sr-only">{{conf.th_details}}</span></div></div>
+                                          <!--##annotate:#<div class="table#-row"><div class="table#-cell">17:25</div><div class="table#-cell text#-uppercase">Moskau</div><div class="table#-cell text#-center">OS 114</div><div class="table#-cell text#-center">3</div><div class="table#-cell text#-center"><span class="terminal#-b">B03</span></div><div class="table#-cell text#-uppercase">boarding</div><div class="table#-cell text#-center"><a href="" class="icon#-info table#-icon#-link"/></div></div>--></div><a class="tr-link down" href="main.jart?rel={{rel}}&amp;reserve-mode={{reserve_mode}}&amp;content-id={{conf.abflug-content-id}}">
+                                          <!--##annotate:#<xsl:attribute xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="href"><xsl:apply#-templates select="@departure#-page" mode="link"/>&amp;next=yes</xsl:attribute>-->{{conf.btn_spaeter}}</a></div></div></div></script><script xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:java="jart.Extension" xmlns:jart="JArt-System" type="text/x-handlebars-template" id="fd_result_ticker">{{#each lines}}<div class="table-row pointer" onclick="document.location.href = &#34;main.jart?rel={{../rel}}&amp;reserve-mode={{../reserve_mode}}&amp;content-id={{../conf.abflug-content-id}}&amp;flight-search={{getFldVal 'MASTERFLIGHTNUMBER' }}&amp;schedule={{SCHEDULE_D}}&#34;"><div class="table-cell text-center">{{getFldVal 'SCHEDULE' }}</div><div class="table-cell text-uppercase">{{getFldVal 'DESTINATION' }}</div><div class="table-cell">{{getFldVal 'MASTERAIRLINE' }} {{getFldVal 'MASTERFLIGHTNUMBER' }}</div><div class="table-cell text-center">{{getFldVal 'TERMINAL'}}</div><div class="table-cell text-center">{{getFldVal 'GATE'}}</div><div class="table-cell">{{getFldVal 'FLIGHTSTATUS'}}</div><div class="table-cell text-center">
+                                    <!--##annotate:#<a class="icon#-info table#-icon#-link"><!#-#-##annotate:#<xsl:attribute xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="href"><xsl:apply##-templates select="@departure##-page" mode="link"/>&amp;flug_id=</xsl:attribute>#-#-><span class="sr#-only">{{../conf.txt_fluginfo}}</span></a>--><a class="icon-down-circle table-icon-link" href="main.jart?rel={{../rel}}&amp;reserve-mode={{../reserve_mode}}&amp;content-id={{../conf.abflug-content-id}}&amp;flight-search={{getFldVal 'MASTERFLIGHTNUMBER' }}&amp;schedule={{SCHEDULE_D}}">
+                                       <!--##annotate:#<xsl:attribute xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="href"><xsl:apply#-templates select="@departure#-page" mode="link"/>&amp;flug_id=</xsl:attribute>--><span class="sr-only">{{../conf.txt_fluginfo}}</span></a></div></div>{{/each}}</script><div class="row">
+                              <div class="col-sm-12  clearfix  visible-xs  visible-sm ">
+                                 <div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw  text-bold " href="/passagiere/ankunft__abflug/ankuenfte"><span class="txt">Alle Ankünfte</span></a></div>
+                              </div>
+                              <div class="col-sm-12  clearfix  mt2em visible-xs  visible-sm ">
+                                 <div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw  text-bold " href="/passagiere/ankunft__abflug/abfluege"><span class="txt">Alle Abflüge</span></a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row mt3em mb3em">
+                        <div class="col-sm-4  clearfix "><a href="/aktuelles"><img src="/jart/prj3/va/images/cache/581864fe2b4fa9f8083436656f72afd1/0x3510BA0BE7F32C6A236F1AE8ECE52D57.jpeg" alt="" class="content-img"></a></div>
+                        <div class="col-sm-8  clearfix ">
+                           <h2 class="blue-uppercase-header no-margin-top">Nahversorgung am Flughafen Wien</h2>
+                           <p class="avtext-n">Die Nahversorgung am Flughafen Wien bleibt auch weiterhin aufrecht.<br/>Folgende Lebensmittelgeschäfte und andere Shops zur Versorgung der Grundbedürfnisse haben geöffnet:</p>
+                           <div class="row mt2em mb2em">
+                              <div class="col-sm-4  clearfix  mb2em">
+                                 <div class="bg-primaer text-center "><a class="btn btn-default btn-md btn-fw   " href="/shops"><span class="txt">Alle geöffneten Shops</span></a></div>
+                              </div>
+                              <div class="col-sm-4  clearfix  mb2em">
+                                 <div class="bg-primaer text-center "><a class="btn btn-default btn-md btn-fw   " href="/restaurants"><span class="txt">Alle geöffneten Restaurants</span></a></div>
+                              </div>
+                              <div class="col-sm-4  clearfix  mb2em">
+                                 <div class="bg-primaer text-center "><a class="btn btn-default btn-md btn-fw   " href="/passagiere/shops__restaurants/bankomaten"><span class="txt">Bankomaten</span></a></div>
+                              </div>
+                           </div>
+                           <p class="avtext-n">Die SKY Lounge (Schengen und Non-Schengen) im Terminal 3, Ebene 2, ist geöffnet und auch zugänglich für Abflüge, die im Terminal
+                              1 abgefertigt werden.
+                           </p>
+                           <p class="avtext-n">Die Öffnungszeiten sind täglich von 05:00 - 21:30 Uhr. JET Lounge und AIR Lounge sind geschlossen.</p>
+                           <p class="avtext-n">Alle nicht als offen angeführten Shops und Gastronomiebetriebe am Flughafen haben entsprechend der derzeit gültigen Bestimmungen
+                              geschlossen.
+                           </p>
+                        </div>
+                     </div>
+                     <div class="row mt3em mb3em">
+                        <div class="col-sm-12  clearfix ">
+                           <h2 class="blue-uppercase-header no-margin-top">Wichtige Links</h2><span class="avtext-n">Hier haben wir die aktuell wichtigsten Links für Sie gesammelt.</span></div>
+                     </div>
+                     <div class="row mt3em mb3em">
+                        <div class="col-sm-4  clearfix "><a href="/aktuelles"><img src="/jart/prj3/va/images/cache/534e1ebd3b8f36f340a7600424a6811b/0x6815728726DC1DB98A54F63F13AE9A40.jpeg" alt="" class="content-img"></a></div>
+                        <div class="col-sm-8  clearfix ">
+                           <h2 class="blue-uppercase-header no-margin-top">General Aviation Center</h2>
+                           <p class="avtext-n">Das General Aviation Center steht nach wie vor für Flüge zur Verfügung. Mittels Private Jet Charters haben Sie trotz des reduzierten
+                              Fluglinien-Angebots die Möglichkeit, Privatflüge zu buchen und an ihr Reiseziel zu kommen. Da wir einen Überblick über das
+                              gesamte Angebot haben, ist es uns möglich auf alle Anbieter zurückzugreifen. Fragen Sie einfach an,  unsere Mitarbeiter <span class="avtext-n" style="font-size: 15.2px;">erstellen ein </span><span class="avtext-n" style="font-size: 15.2px;">maßgeschneidertes Angebote </span><span class="avtext-n" style="font-size: 15.2px;">für Sie </span><span class="avtext-n" style="font-size: 15.2px;">und </span><span class="avtext-n" style="font-size: 0.95em;">beraten Sie gerne. </span></p>
+                        </div>
+                        <div class="col-sm-8  clearfix  mb2em">
+                           <div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw  text-bold " target="_blank" href="https://www.vah.at/general_aviation"><span class="icon btn-icon icon-globe"></span><span class="txt">Zur Website des General Aviation Center</span></a></div>
+                        </div>
+                     </div>
+                     <div class="row mb2em">
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/ad0bd02e8bb05710b085771d7805062f/0x91BEA972DDCB19AEE1B5D593AE5F9F79.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/passagiere/flughafen/fluglinien"><span class="txt">Liste aller Airlines mit Kontakten</span></a></div>
+                        </div>
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/8dcee29ff67ce5305dd2110c25126b4a/0x637C2DA6A6D5E67B3B5D661146CE1A8D.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/fund"><span class="txt">Liste Lost & Found</span></a></div>
+                        </div>
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/f568007efaf6a96c6c507223682eccd1/0x9F5C3F569C568A4FA2994CDA0170BB52.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/passagiere/flughafen/wichtige_telefonnummern"><span class="txt">Wichtige Telefonnummern am Flughafen (Auskunft, Polizei ...)</span></a></div>
+                        </div>
+                     </div>
+                     <div class="row mb2em">
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/1d119e07e23323bc96553d07645d853a/0xAADEB388B5FF8771711F3A08973598C2.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/onlineparken"><span class="txt">Parken am Flughafen und Anreise</span></a></div>
+                        </div>
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/cc7c90b1c235f9fca31f996e438af378/0xB0B81E1A288D2A486E5119ECC1F82EC8.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/passagiere/flughafen/gepaeck"><span class="txt">Informationen zum Gepäck</span></a></div>
+                        </div>
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/da4f7f00a06dde2bc7b1e8deddce1a2f/0xC2746A05924A93EC769E4DF846EA17D1.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/passagiere/flughafen/sicherheitskontrolle"><span class="txt">Informationen zur Sicherheitskontrolle</span></a></div>
+                        </div>
+                     </div>
+                     <div class="row mb2em">
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/68d189a78226478dc93cca3f861bf81c/0xFD013E9880B64BF8CD5923CC6E9739F2.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/verboten"><span class="txt">Verbotene Gegenstände</span></a></div>
+                        </div>
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/e98dc9fe39c9a1cbac19308d397a3589/0x391B080977F0564AF06F785714D84615.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/passagiere/flughafen/zollkontrolle"><span class="txt">Informationen zur Zollkontrolle</span></a></div>
+                        </div>
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/10953b1efc7233c28686bce5ade0e0d9/0xF9B6872DC3F1BEC59A321E450EC13095.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/passagiere/flughafen/flughafenplan"><span class="txt">Flughafen Wien Plan</span></a></div>
+                        </div>
+                     </div>
+                     <div class="row mb2em">
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/f666a46c975a4224748aabe2fc6e5391/0xB4C1AC08B23B7581A8F9F4502CC7B117.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/besucherwelt"><span class="txt">Besucherwelt Flughafen Wien</span></a></div>
+                        </div>
+                        <div class="col-sm-4  clearfix  mb2em"><img src="/jart/prj3/va/images/cache/abfbbbcb486ca19c0d72714288eaf145/0xA1E28DA75A268DFC6AFE5925C6EC81D9.jpeg" alt="" class="content-img"><div class="bg-primaer text-center "><a class="btn btn-default btn-lg btn-fw   " href="/sicherreisen"><span class="txt">Sicher reisen</span></a></div>
+                        </div>
+                     </div>
+                     <div class="row mt3em mb3em">
+                        <div class="col-sm-4  clearfix "><a href="/aktuelles"><img src="/jart/prj3/va/images/cache/487489ce424a7f001334944177f34346/0x99D310B2B775C3C176766764D1240D33.jpeg" alt="" class="content-img"></a></div>
+                        <div class="col-sm-8  clearfix ">
+                           <div class="news" id="news">
+                              <h2 class="med-head mob-toggle" data-expand="post"><span class="text-uppercase">Presseaussendungen des Flughafen Wien</span></h2>
+                              <div class="row">
+                                 <div class="col-xs-12">
+                                    <article role="article" class="post toggle-hidden-xs" id="news1">
+                                       <header>
+                                          <time class="post-date" datetime="2021-10-29">29.10.2021</time>
+                                          <h3 class="post-header">Winterflugplan 2021: Neue Destinationen und Frequenzaufstockungen am Flughafen Wien – Destinationsangebot steigt auf fast
+                                             90% im Vergleich zum Vorkrisenniveau 2019<a href="/unternehmen/presse__news/presseaussendungen__news_2?news_beitrag_id=1635354056075">mehr dazu</a></h3>
+                                       </header>
+                                    </article>
+                                    <article role="article" class="post toggle-hidden-xs" id="news1">
+                                       <header>
+                                          <time class="post-date" datetime="2021-10-28">28.10.2021</time>
+                                          <h3 class="post-header">Nachhaltiges Gesellschaftswachstum: Flughafen Wien startet Veranstaltungsreihe „Growth Society“ mit hochkarätigen Experten
+                                             im AirportCity Space<a href="/unternehmen/presse__news/presseaussendungen__news_2?news_beitrag_id=1635353836557">mehr dazu</a></h3>
+                                       </header>
+                                    </article>
+                                    <article role="article" class="post toggle-hidden-xs" id="news1">
+                                       <header>
+                                          <time class="post-date" datetime="2021-10-27">27.10.2021</time>
+                                          <h3 class="post-header">Flughafen Wien: Aktuelle Eurocontrol-Studie widerspricht Greenpeace-Aussagen zu Kurzstrecken-Flügen diametral und entlarvt
+                                             sie als plumpe Propaganda – Verbote sind abzulehnen und würden keinen Klimaschutz, aber jede Menge Umgehungsverkehr bringen
+                                             – Laut Eurocontrol-Studie bewirken europäische Kurzstreckenflüge nur 3,8% des CO2-Ausstoßes des Flugverkehrs, in Österreich
+                                             sind es überhaupt nur 0,16%.<a href="/unternehmen/presse__news/presseaussendungen__news_2?news_beitrag_id=1635231237898">mehr dazu</a></h3>
+                                       </header>
+                                    </article>
+                                 </div>
+                              </div><a class="posts-all hidden-xs" href="/unternehmen/presse__news/presseaussendungen__news_2">Alle News anzeigen</a></div><style>
+                           .news h3 {
+                           text-transform: none!important;
+                           }
+                           </style>
+                        </div>
+                     </div>
+                  </main>
+               </div>
+            </div>
+         </div>
+         <div class="hidden " id="gne-ph">
+            <p class="avtext-n">Sehr geehrter User </p><p class="avtext-n">Seitens Microsoft wird Ihre Version des Internetbrowsers nicht mehr unterstützt
+               und nicht mehr mit Sicherheitsupdates versorgt. Dadurch ist es auch nicht möglich moderne Webtechnologien einzusetzen, die
+               für die aufgerufene Flughafen Wien-Internetseite benötigt werden. </p><p class="avtext-n">Wenn Sie diese Seite korrekt angezeigt
+               und mit vollem Funktionsumfang nutzen möchten, bitten wir Sie auf eine aktuelle Version Ihres Internetbrowsers zu wechseln.
+               </p><p class="avtext-n">Falls Sie Internet Explorer 10 oder höher verwenden und diese Nachricht erhalten, deaktivieren Sie
+               bitte den Kompatibilitätsmodus für unsere Seite. </p><p class="avtext-n">Mit freundlichen Grüßen, </p><p class="avtext-n">Ihr
+               Flughafen Wien Team</p><p class="avtext-n">
+            </p>
+         </div><style>
+         
+         @media (max-device-width: 540px) {
+         	#ebot7-open {
+         		width: 60px!important;
+         		background-color: #3c8dbc;
+         		border-radius: 100%;
+         		left: auto;
+         		
+         		border: 1px solid #ffffff;
+         		
+         		box-shadow: rgb(74 117 146 / 50%) 0px 0px 20px 4px!important;
+         	}
+         	#ebot7-open::before {
+         		content: '';
+         		position: static;
+         		display: inline;
+         		
+         	}
+         	.eb7-snippet--button.chat-open {
+         		bottom: 125px!important
+         	}	
+         	
+         
+         }
+         
+         @media (max-device-width: 1299px) {
+         	.eb7-snippet--button {
+         		bottom: 125px !important;
+         		right: 25px !important;
+         	}
+         	.eb7-snippet--wrapper {
+         		bottom: 195px!important;
+         	}
+         }
+         
+         @media (min-device-width: 1300px) {
+         	.eb7-snippet--button {
+         		right: 25px;
+         	}
+         }
+         
+         </style>
+         
+         <script>
+         window.eb7Init = function() {
+         ebot7.init({
+         botId: '5fd8d80e0fcc8223925772fa',
+         visitorLanguage: 'de'
+         });
+         };
+         
+         (function (d, s, id) {
+         var fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) return;
+         var js = d.createElement(s); js.id = id;
+         js.src = 'https://main-botconsole.production.e-bot7.de/embed.js?visitorLanguage=de';
+         fjs.parentNode.insertBefore(js, fjs);
+         })(document, 'script', 'eb7-script');
+         </script>
+         <footer class="footer" role="contentinfo">
+            <div class="inner-footer">
+               <div class="container"></div>
+               <div class="full-bar-dark">
+                  <div class="container"><span class="copy">© 2021 Vienna Airport </span><ul class="footer-nav">
+                        <li><a href="/sitemap">Sitemap</a></li>
+                        <li><a href="/impressum">Impressum</a></li>
+                        <li><a href="/datenschutz">Datenschutzerklärung</a></li>
+                        <li><a href="/vertragsbestimmungen">Vertragsbestimmungen</a></li>
+                        <li><a href="/zivilflugplatz-benuetzungsbedingungen">Zivilflugplatz-Benützungsbedingungen</a></li>
+                        <li><a href="/brandschutzleistungen">Brandschutzleistungen</a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </footer>
+      </div><script type="text/javascript" src="resources/_main/main.js"></script><script type="text/javascript">$.datepicker.setDefaults($.datepicker.regional['de']);</script><script type="text/javascript" src="resources/_scripts/jvalidation/jvalidation-messages-de.js"></script></body>
+</html>
