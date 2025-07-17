@@ -412,18 +412,21 @@ export function calcMetrics(
     }
   }, 0);
 
-  // M4: 当日已实现盈亏
-  const todayRealizedPnl = trades
-    .filter(t => t.date.startsWith(todayStr))
-    .reduce((acc, t) => acc + (t.realizedPnl || 0), 0);
-
-  // M5: 日内交易
+  // M5: 日内交易（先计算，后续 M4 需要用到 pnlFifo）
   const pnlTrade = calcTodayTradePnL(trades, todayStr);
   const pnlFifo = calcTodayFifoPnL(trades, todayStr);
 
-  // M6: 当日浮动盈亏
-  // 注意：这里应该只计算当日的浮动盈亏，不包括已实现盈亏
-  const todayFloatPnl = floatPnl;
+  // M4: 今天持仓平仓盈利（仅历史仓位，不含日内交易）
+  const todayRealizedPnlAll = trades
+    .filter(t => t.date.startsWith(todayStr))
+    .reduce((acc, t) => acc + (t.realizedPnl || 0), 0);
+
+  // 日内交易的 FIFO 盈亏已包含在 pnlFifo，需要剔除
+  const todayHistoricalRealizedPnl = todayRealizedPnlAll - pnlFifo;
+
+  // M6: 今日总盈利变化 = 当日浮动盈亏 + 今天历史仓位平仓盈亏
+  const todayFloatPnl = floatPnl; // 当日浮动盈亏（持仓浮盈）
+  const todayTotalPnlChange = todayFloatPnl + todayHistoricalRealizedPnl;
 
   // M7: 当日交易次数
   const todayTrades = trades.filter(t => t.date.startsWith(todayStr));
@@ -463,12 +466,12 @@ export function calcMetrics(
     M1: totalCost,
     M2: currentValue,
     M3: floatPnl,
-    M4: todayRealizedPnl,
+    M4: todayHistoricalRealizedPnl,
     M5: {
       trade: pnlTrade,
       fifo: pnlFifo
     },
-    M6: todayFloatPnl,
+    M6: todayTotalPnlChange,
     M7: {
       B: todayTradesByType.B,
       S: todayTradesByType.S,
