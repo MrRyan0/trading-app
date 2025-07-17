@@ -1,45 +1,116 @@
 import { getPrice, putPrice, CachedPrice } from './dataService';
 
+/**
+ * API 基础 URL 常量
+ */
 const FINNHUB_BASE_URL = 'https://finnhub.io/api/v1';
+const ALPHA_VANTAGE_BASE_URL = 'https://www.alphavantage.co/query';
+
+/**
+ * 环境变量中的 API 令牌
+ */
 const finnhubToken = process.env.NEXT_PUBLIC_FINNHUB_TOKEN;
-// 新增: 运行时从 /KEY.txt 解析 token 的回退逻辑
-let _runtimeKeys: { finnhub?: string; alpha?: string } | null = null;
-async function loadKeysFromTxt() {
+const alphaVantageToken = process.env.NEXT_PUBLIC_ALPHA_VANTAGE_TOKEN;
+
+/**
+ * 从文件加载的 API 令牌缓存
+ */
+interface ApiKeys {
+  finnhub?: string;
+  alpha?: string;
+}
+
+let _runtimeKeys: ApiKeys | null = null;
+
+/**
+ * 从 KEY.txt 文件加载 API 令牌
+ * @returns 包含 API 令牌的对象
+ */
+async function loadKeysFromTxt(): Promise<ApiKeys> {
   if (_runtimeKeys) return _runtimeKeys;
+
   try {
     const txt = await fetch('/KEY.txt').then(r => r.text());
     const fh = txt.match(/Finnhub\s+key：([A-Za-z0-9]+)/i);
     const av = txt.match(/Alpha\s+key：([A-Za-z0-9]+)/i);
+
     _runtimeKeys = {
       finnhub: fh ? (fh[1] as string).trim() : undefined,
       alpha: av ? (av[1] as string).trim() : undefined,
     };
   } catch (e) {
-    console.warn('[priceService] loadKeysFromTxt failed', e);
+    console.warn('[priceService] 无法从 KEY.txt 加载 API 密钥', e);
     _runtimeKeys = {};
   }
+
   return _runtimeKeys;
 }
-async function getFinnhubToken() {
+
+/**
+ * 获取 Finnhub API 令牌
+ * @returns Finnhub API 令牌
+ */
+async function getFinnhubToken(): Promise<string | undefined> {
   return finnhubToken || (await loadKeysFromTxt()).finnhub;
 }
-async function getAlphaToken() {
+
+/**
+ * 获取 Alpha Vantage API 令牌
+ * @returns Alpha Vantage API 令牌
+ */
+async function getAlphaToken(): Promise<string | undefined> {
   return alphaVantageToken || (await loadKeysFromTxt()).alpha;
 }
 
-const ALPHA_VANTAGE_BASE_URL = 'https://www.alphavantage.co/query';
-const alphaVantageToken = process.env.NEXT_PUBLIC_ALPHA_VANTAGE_TOKEN;
+/**
+ * Finnhub 每日收盘价响应类型
+ */
+interface FinnhubCandleResponse {
+  c?: number[];
+  s?: string;
+  error?: string;
+}
 
 /**
- * Fetches daily close price from Finnhub API.
- * @param symbol The stock symbol.
- * @param date The date in YYYY-MM-DD format.
- * @returns The close price or null if not found.
+ * Alpha Vantage 每日收盘价响应类型
+ */
+interface AlphaVantageDailyResponse {
+  'Time Series (Daily)'?: Record<string, {
+    '4. close': string;
+  }>;
+  'Note'?: string;
+  'Error Message'?: string;
+}
+
+/**
+ * Finnhub 实时报价响应类型
+ */
+interface FinnhubQuoteResponse {
+  c?: number;
+  error?: string;
+}
+
+/**
+ * Alpha Vantage 实时报价响应类型
+ */
+interface AlphaVantageQuoteResponse {
+  'Global Quote'?: {
+    '05. price'?: string;
+  };
+  'Note'?: string;
+  'Error Message'?: string;
+}
+
+/**
+ * 从 Finnhub API 获取每日收盘价
+ * @param symbol 股票代码
+ * @param date 日期，格式为 YYYY-MM-DD
+ * @returns 收盘价，如果未找到则返回 null
  */
 async function fetchFinnhubDailyClose(symbol: string, date: string): Promise<number | null> {
   const token = await getFinnhubToken();
   if (!token) {
-    console.warn('Finnhub token is not set.');
+    console.warn('未设置 Finnhub 令牌');
     return null;
   }
 
@@ -50,33 +121,41 @@ async function fetchFinnhubDailyClose(symbol: string, date: string): Promise<num
   try {
     const response = await fetch(url);
     if (!response.ok) {
-      console.warn(`Finnhub API error for ${symbol}: ${response.statusText}`);
+      console.warn(`Finnhub API 错误 (${symbol}): ${response.statusText}`);
       return null;
     }
-    const json = await response.json();
+
+    const json = await response.json() as FinnhubCandleResponse;
+
+    if (json.error) {
+      console.warn(`Finnhub API 错误 (${symbol}): ${json.error}`);
+      return null;
+    }
 
     if (json && json.c && json.c.length > 0) {
       const close = json.c[0];
-      await putPrice({ symbol, date, close, source: 'finnhub' });
-      return close;
+      if (typeof close === 'number') {
+        await putPrice({ symbol, date, close, source: 'finnhub' });
+        return close;
+      }
     }
   } catch (error) {
-    console.warn(`Failed to fetch from Finnhub for ${symbol}`, error);
+    console.warn(`从 Finnhub 获取数据失败 (${symbol})`, error);
   }
 
   return null;
 }
 
 /**
- * Fetches daily close price from Alpha Vantage API as a fallback.
- * @param symbol The stock symbol.
- * @param date The date in YYYY-MM-DD format.
- * @returns The close price or null if not found.
+ * 从 Alpha Vantage API 获取每日收盘价（作为备用）
+ * @param symbol 股票代码
+ * @param date 日期，格式为 YYYY-MM-DD
+ * @returns 收盘价，如果未找到则返回 null
  */
 async function fetchAlphaVantageDailyClose(symbol: string, date: string): Promise<number | null> {
   const token = await getAlphaToken();
   if (!token) {
-    console.warn('Alpha Vantage token is not set.');
+    console.warn('未设置 Alpha Vantage 令牌');
     return null;
   }
 
@@ -85,14 +164,19 @@ async function fetchAlphaVantageDailyClose(symbol: string, date: string): Promis
   try {
     const response = await fetch(url);
     if (!response.ok) {
-      console.warn(`Alpha Vantage API error for ${symbol}: ${response.statusText}`);
+      console.warn(`Alpha Vantage API 错误 (${symbol}): ${response.statusText}`);
       return null;
     }
-    const json = await response.json();
 
-    // Note: Check for API limit message
+    const json = await response.json() as AlphaVantageDailyResponse;
+
+    if (json['Error Message']) {
+      console.warn(`Alpha Vantage API 错误 (${symbol}): ${json['Error Message']}`);
+      return null;
+    }
+
     if (json['Note']) {
-      console.warn(`Alpha Vantage API limit reached for ${symbol}: ${json['Note']}`);
+      console.warn(`Alpha Vantage API 请求限制已达到 (${symbol}): ${json['Note']}`);
       return null;
     }
 
@@ -103,149 +187,168 @@ async function fetchAlphaVantageDailyClose(symbol: string, date: string): Promis
       return close;
     }
   } catch (error) {
-    console.warn(`Failed to fetch from Alpha Vantage for ${symbol}`, error);
+    console.warn(`从 Alpha Vantage 获取数据失败 (${symbol})`, error);
   }
 
   return null;
 }
 
+/**
+ * 从 Finnhub API 获取实时报价
+ * @param symbol 股票代码
+ * @returns 实时价格，如果未找到则返回 null
+ */
 async function fetchFinnhubRealtimeQuote(symbol: string): Promise<number | null> {
   const token = await getFinnhubToken();
   if (!token) {
-    console.warn('Finnhub token is not set.');
+    console.warn('未设置 Finnhub 令牌');
     return null;
   }
-  const url = `${FINNHUB_BASE_URL}/quote?symbol=${encodeURIComponent(symbol)}&token=${token}`;
 
-  console.log(`[DEBUG] 尝试从Finnhub获取${symbol}的价格，URL: ${url}`);
+  const url = `${FINNHUB_BASE_URL}/quote?symbol=${encodeURIComponent(symbol)}&token=${token}`;
 
   try {
     const response = await fetch(url);
     if (!response.ok) {
-      console.warn(`Finnhub quote API error for ${symbol}: ${response.statusText}`);
+      console.warn(`Finnhub 报价 API 错误 (${symbol}): ${response.statusText}`);
       return null;
     }
-    const json = await response.json();
 
-    console.log(`[DEBUG] Finnhub返回的数据:`, json);
+    const json = await response.json() as FinnhubQuoteResponse;
+
+    if (json.error) {
+      console.warn(`Finnhub 报价 API 错误 (${symbol}): ${json.error}`);
+      return null;
+    }
 
     // 'c' is current price in Finnhub's quote response
     if (json && typeof json.c === 'number' && json.c > 0) {
-      console.log(`[DEBUG] 成功从Finnhub获取${symbol}的价格: ${json.c}`);
       return json.c;
     }
   } catch (error) {
-    console.warn(`Failed to fetch quote from Finnhub for ${symbol}`, error);
+    console.warn(`从 Finnhub 获取报价失败 (${symbol})`, error);
   }
 
-  console.log(`[DEBUG] 从Finnhub获取${symbol}的价格失败`);
   return null;
 }
 
+/**
+ * 从 Alpha Vantage API 获取实时报价
+ * @param symbol 股票代码
+ * @returns 实时价格，如果未找到则返回 null
+ */
 async function fetchAlphaVantageRealtimeQuote(symbol: string): Promise<number | null> {
   const token = await getAlphaToken();
   if (!token) {
-    console.warn('Alpha Vantage token is not set.');
+    console.warn('未设置 Alpha Vantage 令牌');
     return null;
   }
 
   const url = `${ALPHA_VANTAGE_BASE_URL}?function=GLOBAL_QUOTE&symbol=${encodeURIComponent(symbol)}&apikey=${token}`;
 
-  console.log(`[DEBUG] 尝试从Alpha Vantage获取${symbol}的价格，URL: ${url}`);
-
   try {
     const response = await fetch(url);
     if (!response.ok) {
-      console.warn(`Alpha Vantage quote API error for ${symbol}: ${response.statusText}`);
+      console.warn(`Alpha Vantage 报价 API 错误 (${symbol}): ${response.statusText}`);
       return null;
     }
-    const json = await response.json();
 
-    console.log(`[DEBUG] Alpha Vantage返回的数据:`, json);
+    const json = await response.json() as AlphaVantageQuoteResponse;
+
+    if (json['Error Message']) {
+      console.warn(`Alpha Vantage API 错误 (${symbol}): ${json['Error Message']}`);
+      return null;
+    }
 
     if (json['Note']) {
-      console.warn(`Alpha Vantage API limit reached for ${symbol}: ${json['Note']}`);
+      console.warn(`Alpha Vantage API 请求限制已达到 (${symbol}): ${json['Note']}`);
       return null;
     }
 
     const quote = json['Global Quote'];
     if (quote && quote['05. price']) {
       const price = parseFloat(quote['05. price']);
-      console.log(`[DEBUG] 成功从Alpha Vantage获取${symbol}的价格: ${price}`);
       return price;
     }
   } catch (error) {
-    console.warn(`Failed to fetch quote from Alpha Vantage for ${symbol}`, error);
+    console.warn(`从 Alpha Vantage 获取报价失败 (${symbol})`, error);
   }
 
-  console.log(`[DEBUG] 从Alpha Vantage获取${symbol}的价格失败`);
   return null;
 }
 
 /**
- * Fetches the daily close price for a symbol, using a cache-first strategy.
- * Tries cache -> Finnhub -> Alpha Vantage.
- * @param symbol The stock symbol.
- * @param date The date in YYYY-MM-DD format.
- * @returns The close price.
- * @throws An error if the price cannot be fetched from any source.
+ * 获取股票的每日收盘价，使用缓存优先策略
+ * 尝试顺序：缓存 -> Finnhub -> Alpha Vantage
+ * @param symbol 股票代码
+ * @param date 日期，格式为 YYYY-MM-DD
+ * @returns 收盘价
+ * @throws 如果无法从任何来源获取价格，则抛出错误
  */
 export async function fetchDailyClose(symbol: string, date: string): Promise<number> {
-  const cachedPrice = await getPrice(symbol, date);
-  if (cachedPrice) {
-    return cachedPrice.close;
-  }
-
-  const finnhubPrice = await fetchFinnhubDailyClose(symbol, date);
-  if (finnhubPrice !== null) {
-    return finnhubPrice;
-  }
-
-  console.log(`Finnhub failed for ${symbol}, trying Alpha Vantage...`);
-  const alphaVantagePrice = await fetchAlphaVantageDailyClose(symbol, date);
-  if (alphaVantagePrice !== null) {
-    return alphaVantagePrice;
-  }
-
-  throw new Error(`Unable to fetch close price for ${symbol} on ${date}`);
-}
-
-/**
- * Fetches the real-time quote for a symbol.
- * Tries Alpha Vantage first, then Finnhub.
- * @param symbol The stock symbol.
- * @returns The real-time price.
- */
-export async function fetchRealtimeQuote(symbol: string): Promise<number> {
   try {
-    console.log(`[DEBUG] 开始获取${symbol}的实时价格 - 强制先尝试Alpha Vantage`);
-
-    // 强制先尝试Alpha Vantage
-    const alphaVantagePrice = await fetchAlphaVantageRealtimeQuote(symbol);
-    if (alphaVantagePrice !== null) {
-      console.log(`[DEBUG] 使用Alpha Vantage价格: ${alphaVantagePrice}`);
-      return alphaVantagePrice;
+    // 首先尝试从缓存获取
+    const cachedPrice = await getPrice(symbol, date);
+    if (cachedPrice) {
+      return cachedPrice.close;
     }
 
-    console.log(`[DEBUG] Alpha Vantage获取${symbol}价格失败，尝试Finnhub...`);
-
-    // 如果Alpha Vantage失败，再尝试Finnhub
-    const finnhubPrice = await fetchFinnhubRealtimeQuote(symbol);
+    // 然后尝试从 Finnhub 获取
+    const finnhubPrice = await fetchFinnhubDailyClose(symbol, date);
     if (finnhubPrice !== null) {
-      console.log(`[DEBUG] 使用Finnhub价格: ${finnhubPrice}`);
       return finnhubPrice;
     }
 
-    console.error(`[DEBUG] 无法获取${symbol}的实时价格，两个API都失败了，使用保底价格1`);
-    // 保底价格：返回1而不是抛出异常，避免UI计算中断
+    // 最后尝试从 Alpha Vantage 获取
+    console.log(`Finnhub 获取 ${symbol} 价格失败，尝试 Alpha Vantage...`);
+    const alphaVantagePrice = await fetchAlphaVantageDailyClose(symbol, date);
+    if (alphaVantagePrice !== null) {
+      return alphaVantagePrice;
+    }
+
+    // 如果所有来源都失败，返回默认值 1 而不是抛出错误
+    console.warn(`无法获取 ${symbol} 在 ${date} 的收盘价，使用默认值 1`);
     return 1;
   } catch (error) {
-    console.error(`[DEBUG] 获取${symbol}价格时发生错误:`, error);
-    return 1; // 错误情况下也使用保底价格
+    console.error(`获取 ${symbol} 在 ${date} 的每日收盘价时出错:`, error);
+    return 1; // 错误情况下使用默认值
   }
 }
 
-// 兼容旧版 API：导出同名函数 fetchRealtimePrice
+/**
+ * 获取股票的实时报价
+ * 尝试顺序：Alpha Vantage -> Finnhub
+ * @param symbol 股票代码
+ * @returns 实时价格
+ */
+export async function fetchRealtimeQuote(symbol: string): Promise<number> {
+  try {
+    // 首先尝试从 Alpha Vantage 获取
+    const alphaVantagePrice = await fetchAlphaVantageRealtimeQuote(symbol);
+    if (alphaVantagePrice !== null) {
+      return alphaVantagePrice;
+    }
+
+    // 然后尝试从 Finnhub 获取
+    const finnhubPrice = await fetchFinnhubRealtimeQuote(symbol);
+    if (finnhubPrice !== null) {
+      return finnhubPrice;
+    }
+
+    // 如果所有来源都失败，返回默认值 1
+    console.warn(`无法获取 ${symbol} 的实时价格，使用默认值 1`);
+    return 1;
+  } catch (error) {
+    console.error(`获取 ${symbol} 的实时报价时出错:`, error);
+    return 1; // 错误情况下使用默认值
+  }
+}
+
+/**
+ * 兼容旧版 API：获取股票的实时价格
+ * @param symbol 股票代码
+ * @returns 实时价格
+ */
 export async function fetchRealtimePrice(symbol: string): Promise<number> {
   return fetchRealtimeQuote(symbol);
 } 

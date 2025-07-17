@@ -1,55 +1,130 @@
 import type { EnrichedTrade } from "@/lib/fifo";
 import type { Position } from '@/lib/services/dataService';
 
+/**
+ * 交易系统指标接口
+ * 定义了所有需要计算和展示的指标
+ */
 export interface Metrics {
-  M1: number; // 账户总成本
-  M2: number; // 当前市值
-  M3: number; // 当前浮动盈亏
-  M4: number; // 当日已实现盈亏
-  M5: {      // 日内交易
-    trade: number; // M5.1 交易视角
-    fifo: number;  // M5.2 FIFO视角
+  /** M1: 账户总成本 - 所有持仓的成本总和 */
+  M1: number;
+
+  /** M2: 当前市值 - 所有持仓的当前市场价值总和 */
+  M2: number;
+
+  /** M3: 当前浮动盈亏 - 所有持仓的未实现盈亏总和 */
+  M3: number;
+
+  /** M4: 当日已实现盈亏 - 今日所有已平仓交易的盈亏总和 */
+  M4: number;
+
+  /** 
+   * M5: 日内交易盈亏 - 同一天内开仓并平仓的交易盈亏
+   * trade: 交易视角，按交易匹配计算
+   * fifo: FIFO视角，按先进先出原则计算
+   */
+  M5: {
+    trade: number;
+    fifo: number;
   };
-  M6: number; // 当日浮动盈亏
-  M7: {      // 当日交易次数
-    B: number; // 买入次数
-    S: number; // 卖出次数
-    P: number; // 做空次数
-    C: number; // 回补次数
-    total: number; // 总次数
+
+  /** M6: 当日浮动盈亏 - 当日持仓的未实现盈亏 */
+  M6: number;
+
+  /** 
+   * M7: 当日交易次数 - 今日各类型交易的次数统计
+   * B: 买入次数
+   * S: 卖出次数
+   * P: 做空次数
+   * C: 回补次数
+   * total: 总交易次数
+   */
+  M7: {
+    B: number;
+    S: number;
+    P: number;
+    C: number;
+    total: number;
   };
-  M8: {      // 累计交易次数
-    B: number; // 买入次数
-    S: number; // 卖出次数
-    P: number; // 做空次数
-    C: number; // 回补次数
-    total: number; // 总次数
+
+  /** 
+   * M8: 累计交易次数 - 历史各类型交易的次数统计
+   * B: 买入次数
+   * S: 卖出次数
+   * P: 做空次数
+   * C: 回补次数
+   * total: 总交易次数
+   */
+  M8: {
+    B: number;
+    S: number;
+    P: number;
+    C: number;
+    total: number;
   };
-  M9: number; // 历史已实现盈亏（不含今日）
-  M10: {     // 胜率
-    W: number; // 盈利交易次数
-    L: number; // 亏损交易次数
-    rate: number; // 胜率百分比
+
+  /** M9: 历史已实现盈亏 - 不含今日的所有已平仓交易盈亏总和 */
+  M9: number;
+
+  /** 
+   * M10: 胜率统计
+   * W: 盈利交易次数
+   * L: 亏损交易次数
+   * rate: 胜率百分比
+   */
+  M10: {
+    W: number;
+    L: number;
+    rate: number;
   };
-  M11: number; // WTD
-  M12: number; // MTD
-  M13: number; // YTD
+
+  /** M11: WTD (Week-To-Date) - 本周至今的盈亏总和 */
+  M11: number;
+
+  /** M12: MTD (Month-To-Date) - 本月至今的盈亏总和 */
+  M12: number;
+
+  /** M13: YTD (Year-To-Date) - 本年至今的盈亏总和 */
+  M13: number;
 }
 
+/**
+ * 每日交易结果接口
+ */
 interface DailyResult {
+  /** 日期，格式为 YYYY-MM-DD */
   date: string;
+
+  /** 已实现盈亏 */
   realized: number;
+
+  /** 浮动盈亏 */
   float: number;
+
+  /** 总盈亏 (realized + float) */
   pnl: number;
 }
 
+/** 价格映射类型，格式为 { 日期: { 股票代码: 价格 } } */
 export type PriceMap = Record<string, Record<string, number>>;
 
+/**
+ * 计算数组总和的辅助函数
+ * @param arr 数字数组
+ * @returns 数组元素之和
+ */
 function sum(arr: number[]): number {
   return arr.reduce((a, b) => a + b, 0);
 }
 
-// 计算日内交易：交易视角 (M5.1)
+/**
+ * 计算日内交易盈亏（交易视角）
+ * 按照交易匹配的方式，计算同一天内开仓并平仓的交易盈亏
+ * 
+ * @param enrichedTrades 交易记录数组
+ * @param todayStr 今日日期字符串，格式为 YYYY-MM-DD
+ * @returns 日内交易盈亏
+ */
 function calcTodayTradePnL(enrichedTrades: EnrichedTrade[], todayStr: string): number {
   // 为多头和空头分别维护栈
   const longMap: Record<string, { qty: number; price: number }[]> = {};
@@ -114,7 +189,14 @@ function calcTodayTradePnL(enrichedTrades: EnrichedTrade[], todayStr: string): n
   return pnl;
 }
 
-// 计算今日 FIFO 盈亏 (M5.2)
+/**
+ * 计算日内交易盈亏（FIFO视角）
+ * 按照先进先出原则，计算同一天内开仓并平仓的交易盈亏
+ * 
+ * @param enrichedTrades 交易记录数组
+ * @param todayStr 今日日期字符串，格式为 YYYY-MM-DD
+ * @returns 日内交易盈亏
+ */
 function calcTodayFifoPnL(enrichedTrades: EnrichedTrade[], todayStr: string): number {
   // 构建今日之前的 FIFO 栈
   const fifo: Record<string, { qty: number; price: number }[]> = {};
@@ -250,12 +332,29 @@ function calcTodayFifoPnL(enrichedTrades: EnrichedTrade[], todayStr: string): nu
   return pnl;
 }
 
-// 计算日期相关的周期性指标
+/**
+ * 计算周期性指标（WTD、MTD、YTD）
+ * 
+ * @param dailyResults 每日交易结果数组
+ * @param todayStr 今日日期字符串，格式为 YYYY-MM-DD
+ * @returns 包含 wtd、mtd、ytd 的对象
+ */
 function calcPeriodMetrics(dailyResults: DailyResult[], todayStr: string): { wtd: number, mtd: number, ytd: number } {
+  /**
+   * 计算从指定日期开始的盈亏总和
+   * @param list 每日交易结果数组
+   * @param since 开始日期，格式为 YYYY-MM-DD
+   * @returns 盈亏总和
+   */
   function sumSince(list: DailyResult[], since: string) {
     return list.filter(r => r.date >= since).reduce((acc, r) => acc + r.pnl, 0);
   }
 
+  /**
+   * 计算本周至今的盈亏总和
+   * @param list 每日交易结果数组
+   * @returns 本周至今的盈亏总和
+   */
   function calcWTD(list: DailyResult[]) {
     if (!list.length) return 0;
     const lastDate = new Date(list[list.length - 1]!.date);
@@ -273,6 +372,14 @@ function calcPeriodMetrics(dailyResults: DailyResult[], todayStr: string): { wtd
   return { wtd: wtdTotal, mtd: mtdTotal, ytd: ytdTotal };
 }
 
+/**
+ * 计算所有交易指标
+ * 
+ * @param trades 交易记录数组
+ * @param positions 持仓数组
+ * @param dailyResults 每日交易结果数组
+ * @returns 所有指标的计算结果
+ */
 export function calcMetrics(
   trades: EnrichedTrade[],
   positions: Position[],
@@ -285,8 +392,6 @@ export function calcMetrics(
   const totalCost = sum(positions.map(p => p.avgPrice * Math.abs(p.qty)));
 
   // M2: 当前市值
-  // 注意：此处使用position.last值计算，但UI组件会使用实时API数据，因此可能与PositionsTable显示的总计不一致
-  // 为保证UI一致性，PositionsTable组件会重新计算总计值
   console.log('计算M2(当前市值)，持仓数据:', positions);
   const currentValue = sum(positions.map(p => {
     const isShort = p.qty < 0;
@@ -297,9 +402,6 @@ export function calcMetrics(
   console.log('M2(当前市值)计算结果:', currentValue);
 
   // M3: 当前浮动盈亏
-  // 由于空头持仓的市值是负数，直接相减会导致浮盈计算错误
-  // 对于多头：市值 - 成本
-  // 对于空头：成本 - 市值（因为市值为负，成本为正）
   const floatPnl = positions.reduce((acc, pos) => {
     if (pos.qty >= 0) {
       // 多头: 市值 - 成本
@@ -320,7 +422,8 @@ export function calcMetrics(
   const pnlFifo = calcTodayFifoPnL(trades, todayStr);
 
   // M6: 当日浮动盈亏
-  const todayFloatPnl = floatPnl + todayRealizedPnl;
+  // 注意：这里应该只计算当日的浮动盈亏，不包括已实现盈亏
+  const todayFloatPnl = floatPnl;
 
   // M7: 当日交易次数
   const todayTrades = trades.filter(t => t.date.startsWith(todayStr));
@@ -392,17 +495,26 @@ export function calcMetrics(
   };
 }
 
-// 格式化数字为货币格式
+/**
+ * 格式化数字为货币格式
+ * @param value 要格式化的数值
+ * @returns 格式化后的字符串，包含美元符号 ($)
+ */
 export function formatCurrency(value: number): string {
   return new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: "USD",
     minimumFractionDigits: 2,
     maximumFractionDigits: 2
-  }).format(value).replace('$', '');
+  }).format(value);
 }
 
-// 格式化数字为通用格式
+/**
+ * 格式化数字为通用格式
+ * @param value 要格式化的数值
+ * @param decimals 小数位数，默认为2
+ * @returns 格式化后的字符串
+ */
 export function formatNumber(value: number, decimals: number = 2): string {
   if (isNaN(value)) return 'N/A';
   return value.toFixed(decimals);
