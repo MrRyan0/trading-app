@@ -46,9 +46,17 @@ export default function DashboardPage() {
             symbol: t.symbol,
             qty: t.quantityAfter,
             avgPrice: t.averageCost,
-            last: 0,
+            last: t.averageCost, // 使用平均价格作为初始last值，而不是0
             priceOk: true,
           }));
+
+        console.log('加载的持仓数据:', posList);
+        console.log('持仓数据中的qty类型:', posList.map(p => ({
+          symbol: p.symbol,
+          qty: p.qty,
+          qtyType: typeof p.qty,
+          isNumber: !isNaN(Number(p.qty))
+        })));
 
         // 获取每日结果数据用于计算周期性指标
         const dailyResultsResponse = await fetch('/dailyResult.json');
@@ -97,7 +105,7 @@ export default function DashboardPage() {
           symbol: t.symbol,
           qty: t.quantityAfter,
           avgPrice: t.averageCost,
-          last: 0,
+          last: t.averageCost, // 使用平均价格作为初始last值
           priceOk: true,
         }));
 
